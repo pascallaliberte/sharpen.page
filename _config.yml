@@ -9,20 +9,17 @@ description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#c0ffee'
-twitter_username: sandochee
-github_username:  sandoche
-author: Sandoche Adittane
+twitter_username: pascallaliberte
+github_username:  pascallaliberte
+author: Pascal Laliberté
 logo: assets/images/large-logo.png
 twitter:
-  username: sandochee
+  username: pascallaliberte
 social:
-  name: Sandoche Adittane
+  name: Pascal Laliberté
   links:
-    - https://twitter.com/sandochee
-    - https://www.facebook.com/sandoche
-    - https://www.linkedin.com/in/sandoche
-    - https://plus.google.com/+SandocheADITTANE
-    - https://github.com/sandoche
+    - https://twitter.com/pascallaliberte
+    - https://github.com/pascallaliberte
 
 languages: ["en"]
 ampdir: amp
