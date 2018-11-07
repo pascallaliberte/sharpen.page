@@ -46,11 +46,19 @@ main {
 a {
   color: $link-color;
   text-decoration: none;
-  font-size: $font-sm;
 
   &:hover {
     color: $color-primary;
   }
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+.intro {
+  font-family: $tertiary-font-family;
+  font-size: 30px;
 }
 
 // Shared
@@ -71,6 +79,10 @@ a {
   color: $color-primary;
 }
 
+mark {
+  background-color: #fcffb9;
+}
+
 // Components & pages
 
 .main-content {
@@ -78,7 +90,7 @@ a {
   
   font-size: 22px;
   line-height: (27/22);
-  letter-spacing: -0.024em;
+  letter-spacing: 0.024em;
   
   @media (min-width: 768px) {
     margin-left: 60px;
