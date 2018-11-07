@@ -13,13 +13,13 @@ Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I offer this ser
 
 ## Your situation:
 
-* **You've got an idea for a service or product** you could offer, to package your skills in a way to help more people;
-* You find yourself not sure if you're **packaging it right**;
-* When asking for feedback, **people suggest you stay more generic**, more universal;
+* **You've got an idea for a product or a service** you could offer, to package your skills in a way to help more people;
+* You find yourself not sure if you're **packaging it right or pricing it right**;
+* When asking for feedback, **people suggest you stay more generic**, appealing to a broader audience;
 * When **considering going specific and sharp**, you curiously feel a sense of trepidation and that's for you a sign that you're on the right track;
 * You read a lot about tactics like filling up some lean canvases, or writing copy that converts, and **all those other tactics look suspicious to you**;
-* **You've heard about the Jobs-To-Be-Done Theory** and you'd like to connect with someone else who's into it;
-* You want your product or service page to be **standing out, not blending in**. You don't want it to be dull, you want it to be sharp!
+* **Maybe you've heard about the Jobs-To-Be-Done Theory** and you'd like to connect with someone else who's into it;
+* You want your product or service page to be **standing out, not blending in**, at the edge, not in the middle. You don't want it to be dull, you want it to be sharp!
 
 ---
 
@@ -81,7 +81,7 @@ More about: <mark>Being helpful to those who want progress in situations you und
 Fluency in the Jobs-To-Be-Done theory, the forces of progress, addressing your internal resistance, visualizing the end of key interactions. Those tools (and more like them) are applicable in more than just creating service or product offering pages, they help with many other creative endeavours. What are the forces of progress for this client who is hesitating about making the step? What am I so convinced of right now, when feeling such internal pushback for this idea I have?
 
 Less about: Tactics that are trendy  
-More about: <mark>Tools that universally-applicable</mark>
+More about: <mark>Approaches that go a step deeper</mark>
 
 ### You'll leave with ideas about the visuals of your site
 
