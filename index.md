@@ -4,3 +4,16 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+# About
+
+Pascal Laliberté
+
+## Yo, but yeah!
+
+Is the dope
+
+
+* Bullet
+* Mullet
+* Skillet

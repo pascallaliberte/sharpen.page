@@ -3,9 +3,11 @@
 $container-width: 100%;
 $container-padding: 15px;
 
-$primary-color: #C4614E;
+$color-primary: #C4614E;
+$color-secondary: #310051;
+$color-grey: #5b5b5b;
 $text-color: #333;
-$link-color: #C4614E;
+$link-color: $color-primary;
 
 $font-xl: 58px;
 $font-md: 22px;
@@ -47,10 +49,9 @@ a {
   font-size: $font-sm;
 
   &:hover {
-    color: $primary-color;
+    color: $color-primary;
   }
 }
-
 
 // Shared
 
@@ -67,24 +68,58 @@ a {
 }
 
 .accent {
-  color: $primary-color;
+  color: $color-primary;
 }
 
-
 // Components & pages
+
+.main-content {
+  margin-top: 95px;
+  
+  font-size: 22px;
+  line-height: (27/22);
+  letter-spacing: -0.024em;
+  
+  @media (min-width: 768px) {
+    margin-left: 60px;
+    max-width: 490px;
+    margin-right: 60px;
+  }
+  
+  @media (min-width: 1024px) {
+    margin-left: 280px;
+    max-width: 780px;
+    margin-right: 60px;
+  }
+  
+  h1 {
+    font-size: 35px;
+    line-height: (25/30);
+    letter-spacing: -0.033;
+    color: $color-secondary;
+    font-weight: bold;
+  }
+  
+  h2 {
+    color: $text-color;
+    font-size: 28px;
+    margin-top: 45px;
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+
+}
 
 .home {
 
   @include container($container-padding);
-
-  height: 65vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-
-
-  &__headline-container {
-    padding: 0 $container-padding * 3;
+  
+  header h1 {
+    font-size: 18px;
+    letter-spacing: -0.02em;
+    font-family: $secondary-font-family;
+    color: $color-primary;
+    text-transform: uppercase;
   }
 
   &__headline {
