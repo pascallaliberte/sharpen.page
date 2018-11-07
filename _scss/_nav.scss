@@ -51,7 +51,7 @@
     display: block;
     font-family: $tertiary-font-family;
     font-size: 68px;
-    font-weight: 100;
+    font-weight: 50;
     line-height: (57/68);
     letter-spacing: -0.0113em;
     text-transform: uppercase;
@@ -61,7 +61,7 @@
       display: inline-block;
       background-color: #fcffb9;
       padding: 8px 20px 13px 16px;
-      margin: -8px -6px -13px -6px;
+      margin: -7px -6px -13px -6px;
     }
     &__first-line-desktop {
       mark {
