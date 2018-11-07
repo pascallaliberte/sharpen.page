@@ -45,7 +45,7 @@ main {
 
 a {
   color: $link-color;
-  text-decoration: underline;
+  text-decoration: none;
   transition: color 0.4s ease;
 
   &:hover {
@@ -98,6 +98,28 @@ mark {
   font-size: 22px;
   line-height: (27/22);
   letter-spacing: 0.024em;
+  
+  a {
+    position: relative;
+    
+    &::before {
+      content: '';
+      position: absolute;
+      bottom: 3px;
+      height: 5px;
+      background-color: lighten($color-primary, 40%);
+      left: 0;
+      right: 0;
+      z-index: -10;
+      transition: background-color 0.4s ease, bottom 0.4s ease, height 0.4s ease;
+    }
+    
+    &:hover::before {
+      background-color: lighten($color-primary, 5%);
+      bottom: 2px;
+      height: 2px;
+    }
+  }
   
   @media (min-width: 768px) {
     margin-left: 60px;
