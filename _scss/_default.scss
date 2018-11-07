@@ -58,7 +58,13 @@ li {
 
 .intro {
   font-family: $tertiary-font-family;
-  font-size: 30px;
+  font-size: 40px;
+}
+
+hr {
+  color: $color-grey;
+  max-width: 10em;
+  margin: 50px 0 30px;
 }
 
 // Shared
@@ -102,6 +108,7 @@ mark {
     margin-left: 280px;
     max-width: 780px;
     margin-right: 60px;
+    margin-top: 20px;
   }
   
   h1 {
@@ -118,6 +125,10 @@ mark {
     margin-top: 45px;
     margin-bottom: 15px;
     font-weight: bold;
+  }
+  
+  h3 {
+    font-size: 22px;
   }
 
 }
