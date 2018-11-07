@@ -45,10 +45,11 @@ main {
 
 a {
   color: $link-color;
-  text-decoration: none;
+  text-decoration: underline;
+  transition: color 0.4s ease;
 
   &:hover {
-    color: $color-primary;
+    color: lighten($color-primary, 5%);
   }
 }
 
