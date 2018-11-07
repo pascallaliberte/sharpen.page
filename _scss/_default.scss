@@ -157,12 +157,17 @@ mark {
   }
   
   .instead-of-list {
-    margin: 10px 20px;
-    margin-left: 100px;
     color: $color-grey;
+    padding-left: 0;
+    
+    @media (min-width: 500px) {
+      margin: 10px 20px;
+      margin-left: 100px;
+    }
     
     > li {
       margin-bottom: 2em;
+      margin-top: 2em;
     }
     
     li {
@@ -181,11 +186,15 @@ mark {
         font-style: normal;
         font-weight: bold;
         text-transform: uppercase;
-        position: absolute;
         display: block;
-        width: 10em;
-        text-align: right;
-        right: 103%;
+        position: relative;
+        
+        @media (min-width: 500px) {
+          position: absolute;
+          right: 103%;
+          width: 10em;
+          text-align: right;
+        }
       }
     }
     
@@ -194,13 +203,20 @@ mark {
         &::before {
           content: '';
           z-index: -10;
-          bottom: -0.1em;
-          right: 42%;
           position: absolute;
-          width: (215*.3) + 0px;
-          height: (232*.3) + 0px;
-          background: url(../_images/big-arrow-swoosh.svg) no-repeat top left;
+          // background: url(../_images/big-arrow-swoosh.svg) no-repeat top left;
           background-size: cover;
+          left: -2em;
+          top: -1em;
+          
+          @media (min-width: 500px) {
+            left: auto;
+            top: auto;
+            bottom: -0.1em;
+            right: 42%;
+            width: (215*.3) + 0px;
+            height: (232*.3) + 0px;
+          }
         }  
       }
     }
