@@ -38,15 +38,15 @@ That's why the Jobs-To-Be-Done (JTBD) theory is so refreshingly stable and usefu
 How looking at your service through a JTBD lens differs from other ways of looking at your service.
 
 * *Instead of*{: .instead-of-prefix } Thinking about target markets and typical roles.
-  * *Dig for*{: .instead-of-prefix } Situations people are in.
+  * *Dig for*{: .instead-of-prefix } Determining the situations people are in <mark>right <em>before</em> the purchase</mark>.
 {: .instead-of-list }
 
 * *Instead of*{: .instead-of-prefix } Stopping when you find a correlation (this person has that overall need)
-  * *Dig for*{: .instead-of-prefix } Causation (e.g. when the person is stuck in this way, they look out for something like this)
+  * *Dig for*{: .instead-of-prefix } Finding <mark>what <em>caused</em> someone to advance toward purchasing</mark> the product or service at each step of the process.
 {: .instead-of-list }
 
-* *Instead of*{: .instead-of-prefix } Using the business model canvas or a lean canvas or any other canvas
-  * *Dig for*{: .instead-of-prefix } Understanding the Job-To-Be-Done of every point of interaction between you and the world. What job people hire your newsletter for, why your suppliers would want to work with you, etc.
+* *Instead of*{: .instead-of-prefix } Relying on the business model canvas or a lean canvas or any other canvas
+  * *Dig for*{: .instead-of-prefix } Understanding the Job-To-Be-Done of <mark markdown="1">every point of interaction</mark> between you and the world. What job people hire your newsletter for, why your suppliers would want to work with you, etc.
 {: .instead-of-list }
 
 Want to learn more? There are excellent books and resources:
