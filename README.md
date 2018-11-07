@@ -130,7 +130,7 @@ You can see above the basic structure of the boilerplate and the main difference
 
 ### Assets
 * SCSS partials should be located in `_scss` for better reading
-* Put all your images in `_images` the content of this folder will be moved to the `_site/assets/images` so you can access them with this path `/assets/images/**` in your templates, check the examples
+* Put all your images in `_images` the content of this folder will be moved to the `public/assets/images` so you can access them with this path `/assets/images/**` in your templates, check the examples
 * Put all your Javascript files inside `_src` and import them from `index.js` or you can also add them as a new entry point in your webpack configuration file
 
 ### Internationalization
@@ -150,7 +150,7 @@ npm run build
 # or if you want the critical css
 npm run build:optim
 ```
-The built website will be in `_site` folder.
+The built website will be in `public` folder.
 
 You can also run a local server to test it with this command
 ```
@@ -159,7 +159,7 @@ npm run serve:dist
 
 ### PWA
 If you want to build a PWA (including the manifest.json and the service worker) run the following. Please ensure to have configured this file `config/webpack.pwa.js`
-The built website will be in `_site` folder.
+The built website will be in `public` folder.
 ```
 npm run build:pwa
 
@@ -167,7 +167,7 @@ npm run build:pwa
 npm run build:pwa:optim
 ```
 
-### Clean assets & \_site folders
+### Clean assets & \public folders
 This will remove the generated folders
 ```
 npm run clean:project

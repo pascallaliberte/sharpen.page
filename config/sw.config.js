@@ -1,15 +1,15 @@
 module.exports = {
   staticFileGlobs: [
-    '_site/assets/**.css',
-    '_site/**.html',
-	'_site/**/**.html',
-    '_site/assets/images/**.*',
-    '_site/assets/**.js',
+    'public/assets/**.css',
+    'public/**.html',
+	'public/**/**.html',
+    'public/assets/images/**.*',
+    'public/assets/**.js',
   ],
-  stripPrefix: '_site/',
+  stripPrefix: 'public/',
   runtimeCaching: [{
     urlPattern: '/',
     handler: 'networkFirst',
   }],
-  root: '_site',
+  root: 'public',
 };
