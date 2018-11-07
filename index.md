@@ -42,11 +42,11 @@ How looking at your service through a JTBD lens differs from other ways of looki
 {: .instead-of-list }
 
 * *Instead of*{: .instead-of-prefix } Stopping when you find a correlation (this person has that overall need)
-  * *Dig for*{: .instead-of-prefix } Causation (when the person is stuck in this way, they look out for something like this)
+  * *Dig for*{: .instead-of-prefix } Causation (e.g. when the person is stuck in this way, they look out for something like this)
 {: .instead-of-list }
 
 * *Instead of*{: .instead-of-prefix } Using the business model canvas or a lean canvas or any other canvas
-  * *Dig for*{: .instead-of-prefix } the job-to-be-done of every thing you publish or make available, be it your channels, your newsletter, why your suppliers would want to work with you, etc.
+  * *Dig for*{: .instead-of-prefix } Understanding the Job-To-Be-Done of every point of interaction between you and the world. What job people hire your newsletter for, why your suppliers would want to work with you, etc.
 {: .instead-of-list }
 
 Want to learn more? There are excellent books and resources:
