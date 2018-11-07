@@ -16,7 +16,7 @@ Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I offer this ser
 * **You've got an idea for a service or product** you could offer, to package your skills in a way to help more people;
 * You find yourself not sure if you're **packaging it right**;
 * When asking for feedback, **people suggest you stay more generic**, more universal;
-* When considering going specific and sharp, you curiously feel a sense of trepidation and **that's for you a sign that you're on the right track**;
+* When **considering going specific and sharp**, you curiously feel a sense of trepidation and that's for you a sign that you're on the right track;
 * You read a lot about tactics like filling up some lean canvases, or writing copy that converts, and **all those other tactics look suspicious to you**;
 * **You've heard about the Jobs-To-Be-Done Theory** and you'd like to connect with someone else who's into it;
 * You want your product or service page to be **standing out, not blending in**. You don't want it to be dull, you want it to be sharp!
@@ -27,7 +27,7 @@ Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I offer this ser
 
 Much like you, I despise gimmicky, swindle-y, sales-y wording that aims to convert or influence or reign someone in. But thankfully, those are officially bad ideas anyway.
 
-At the core: a service or a product page is there to help someone make progress. Progress on what? Progress on a sticky point, a fuming disappointment, an upsetting bind, a gradual slide, an uncomfortable truth, a grand scheme, an impasse, a point of no return. Yes, your product or service solves not just a pain _point_, it solves _situations_, precise situations.
+At the core: a service or a product page is there to help someone make progress. Progress on what? Progress on a sticky point, a fuming disappointment, an upsetting bind, a gradual slide, an uncomfortable truth, a grand scheme, an impasse, a point of no return. Yes, your product or service solves not just a pain _point_, **it solves _situations_, <mark>precise situations</mark>**. And that...
 
 ### ... is the Jobs-To-Be-Done Theory
 

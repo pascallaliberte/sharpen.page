@@ -63,7 +63,9 @@ li {
 }
 
 hr {
-  color: $color-grey;
+  background-color: lighten($color-grey, 50%);
+  border: none;
+  height: 0.3em;
   max-width: 10em;
   margin: 50px 0 30px;
 }
