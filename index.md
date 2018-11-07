@@ -17,7 +17,7 @@ Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I offer this ser
 * You find yourself not sure if you're **packaging it right or pricing it right**;
 * When asking for feedback, **people suggest you stay more generic**, appealing to a broader audience;
 * When **considering going specific and sharp**, you curiously feel a sense of trepidation and that's for you a sign that you're on the right track;
-* You read a lot about tactics like filling up some lean canvases, or writing copy that converts, and **all those other tactics look suspicious to you**;
+* You read a lot about tactics like filling up some lean canvases, or writing copy that converts, and **all those other tactics feel like they're missing something fundamental**;
 * **Maybe you've heard about the Jobs-To-Be-Done Theory** and you'd like to connect with someone else who's into it;
 * You want your product or service page to be **standing out, not blending in**, at the edge, not in the middle. You don't want it to be dull, you want it to be sharp!
 
