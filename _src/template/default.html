@@ -7,9 +7,11 @@
 
   <body>
 
-    <main>
+    <main id="#top">
     {% include navigation.html %}
-    {{ content }}
+      <div class="main-content">
+        {{ content }}
+      </div>
     </main>
 
     {% include footer.html %}

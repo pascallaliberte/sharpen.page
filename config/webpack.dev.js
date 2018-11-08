@@ -17,11 +17,12 @@ module.exports = Merge(CommonConfig, {
       {
         host: 'localhost',
         port: 3000,
-        proxy: 'http://localhost:4000',
+        proxy: 'http://localhost:9000',
         files: ['public', '_src'],
       },
       {
         reload: false,
+        injectCss: true,
       },
     ),
     new webpack.HotModuleReplacementPlugin(),
@@ -41,5 +42,6 @@ module.exports = Merge(CommonConfig, {
       path.resolve('public'),
     ],
     hot: true,
+    port: 9000,
   },
 });
