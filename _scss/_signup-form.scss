@@ -1,4 +1,9 @@
 body #mc_embed_signup {
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    margin-right: -200px;
+  }
+  
   &, & .button, & input.email, & #mc-embedded-subscribe-form div.mce_inline_error {
     font: inherit;
   }
