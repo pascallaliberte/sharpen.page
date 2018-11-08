@@ -5,7 +5,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: flex-start;
+  align-items: center;
   
   @media (max-width: 767px) {
     align-items: flex-end;
@@ -80,10 +80,12 @@
     padding-right: 20px;
     position: relative;
     
-    .btn {
-      position: absolute;
-      bottom: 0;
-      right: 0;
+    @media (max-width: 767px) {
+      .btn {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+      }  
     }
   }
   
