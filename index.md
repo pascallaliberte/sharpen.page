@@ -27,8 +27,21 @@ Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I'm preparing a 
 * **Maybe you've heard about the Jobs-To-Be-Done Theory** and you'd like to connect with someone else who's into it;
 * You want your product or service page to be **standing out, not blending in**, at the edge, not in the middle. You don't want it to be dull, you want it to be sharp!
 
-## I can help
+## I can also help <mark>when...</mark>
 
-My service is based on the Jobs-To-Be-Done toolkit popularized by Clayton Christensen. I'll offer 1-on-1 calls, buyer interviews, research help and copywriting help.
+* You are **putting together a product** and you'd like more confidence on how to price it;
+* You have **started to map out the Forces of Progress Diagrams of your offering(s)** and would like some feedback about your choices;
+* You have **made a big sale of a service or customized product to a B2B client** and would like to find out the core reason (the job-to-be-done) of the purchase so you can tweak how you approach new clients;
+* You have **made a number of sales of a product** and would like to find out the core reason (the job-to-be-done) of the purchase so you can tweak how you market your product and how you package it;
+* You are **about to add some features** but you don't know if they'll contribute to buyer anxieties about your product;
+* You are **getting more than 10,000 visits to your site** and would like to test out different marketing copy so you can see if you can increase your revenue.
+
+---
+
+## I'll achieve this via these engagements:
+
+* **1-on-1 calls** to review your product approach (pricing, features, messaging)
+* **Buyer Interviews and Buyer Research** to uncover the job for which they hired your product, what they switched away from, and the emotional back-and-forth in their decision-making
+* **Copywriting reviews and tweaks** with split-testing (A/B testing)
 
 {% include email-sign-up-form.html %}
