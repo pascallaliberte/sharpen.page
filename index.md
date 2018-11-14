@@ -44,4 +44,6 @@ Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I'm preparing a 
 * **Buyer Interviews and Buyer Research** to uncover the job for which they hired your product, what they switched away from, and the emotional back-and-forth in their decision-making
 * **Copywriting reviews and tweaks** with split-testing (A/B testing)
 
+More details coming soon...
+
 {% include email-sign-up-form.html %}
