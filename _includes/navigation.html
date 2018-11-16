@@ -22,10 +22,17 @@
 <nav class="navigation" role="navigation">
   <div class="navigation__branding">
     <a class="" href="{{ "/" | relative_url }}">
-      <span class="navigation__logo"><img src="{{ "/assets/images/logo.svg" | relative_url }}" class="navigation__logo-img" alt="Logo for {{ site.title | escape }}"></span>
+      <span class="navigation__logo">
+        {% include logo.svg.html class="navigation__logo-img" alt="Logo for sharpen.page" %}
+      </span>
     </a>
     <div class="navigation__tagline">
-      <img src="{{ "/assets/images/tagline.svg" | relative_url }}" class="navigation__tagline-img">
+      <div class="navigation__tagline-bg">
+        {% include tagline-bg.svg.html %}
+      </div>
+      <div class="navigation__tagline-text">
+        A Product Sharpening Service
+      </div>
     </div>
   </div>
   <div class="nav-links">

@@ -52,21 +52,19 @@
     display: block;
     font-family: $tertiary-font-family;
     font-size: 68px;
-    font-weight: 50;
+    font-weight: 200;
+    color: white;
     line-height: (57/68);
     letter-spacing: -0.0113em;
     text-transform: uppercase;
     margin-left: -15px;
     margin-top: 10px;
-    mark {
-      display: inline-block;
-      padding: 8px 20px 13px 16px;
-      margin: -7px -6px -13px -6px;
-    }
-    &__first-line-desktop {
-      mark {
-        margin-right: -25px;
-      }
+    position: relative;
+    &-text {
+      width: 1em;
+      position: absolute;
+      left: 15px;
+      top: 5px;
     }
   }
   
