@@ -44,6 +44,10 @@ body {
   flex-direction: column;
 }
 
+::selection {
+  background-color: transparentize(mix($color-primary, navy), 0.8);
+}
+
 main {
   flex: 1;
   width: 100%;
