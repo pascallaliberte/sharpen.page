@@ -84,10 +84,17 @@ body #mc_embed_signup {
   }
   
   padding: 1em;
-  background: transparentize(lighten($color-highlight, 10%), 0.2);
+  background: transparentize(lighten($color-highlight, 10%), 0.1);
   border-radius: 0.3em;
-  margin: 1em 0 2em;
+  margin: 2em -15px 0;
   box-sizing: border-box;
+  border-top: 10px solid white;
+  @media (min-width: 480px) {
+    border: 10px solid white;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 2em;
+  }
 }
 
 #mc_embed_signup #mc-embedded-subscribe-form .mc-field-group input.mce_inline_error {
