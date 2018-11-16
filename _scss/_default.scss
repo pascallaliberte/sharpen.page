@@ -4,7 +4,7 @@ $container-width: 100%;
 $container-padding: 15px;
 
 $color-primary: #605aa4;
-$color-secondary: #310051;
+$color-secondary: #393561;
 $color-grey: #5b5b5b;
 $text-color: $color-primary;
 $link-color: #c16cab;
@@ -153,12 +153,12 @@ mark {
     font-size: 35px;
     line-height: (25/30);
     letter-spacing: -0.033;
-    color: $color-primary;
+    color: $color-secondary;
     font-weight: bold;
   }
   
   h2 {
-    color: $text-color;
+    color: $color-secondary;
     font-size: 28px;
     margin-top: 45px;
     margin-bottom: 15px;
@@ -167,6 +167,11 @@ mark {
   
   h3 {
     font-size: 22px;
+    color: $color-secondary;
+  }
+  
+  strong {
+    color: mix($color-primary, $color-secondary);
   }
   
   .instead-of-list {
