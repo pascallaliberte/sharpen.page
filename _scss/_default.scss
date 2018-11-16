@@ -3,12 +3,16 @@
 $container-width: 100%;
 $container-padding: 15px;
 
-$color-primary: #C4614E;
+$color-primary: #605aa4;
 $color-secondary: #310051;
 $color-grey: #5b5b5b;
-$text-color: #333;
-$link-color: $color-primary;
-$color-highlight: #fcffb9;
+$text-color: $color-primary;
+$link-color: #c16cab;
+$link-underline-color: transparentize(#c16cab, 0.7);
+$color-highlight: transparentize(#d2dc00, 0.4);
+
+$color-body-background: #ddd;
+$color-main-background: #e8e8e8;
 
 $font-xl: 58px;
 $font-md: 22px;
@@ -34,6 +38,7 @@ $tertiary-font-family: mr-eaves-xl-sans,$system-font-family;
 body {
   font-family: $primary-font-family;
   color: $text-color;
+  background-color: $color-body-background;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
@@ -42,10 +47,11 @@ body {
 main {
   flex: 1;
   width: 100%;
+  background-color: $color-main-background;
 }
 
 a {
-  color: $link-color;
+  color: $color-primary;
   text-decoration: none;
   transition: color 0.4s ease;
 
@@ -90,7 +96,7 @@ hr {
 }
 
 mark {
-  background-color: #fcffb9;
+  background-color: $color-highlight;
 }
 
 .img-max-20em {
@@ -147,7 +153,7 @@ mark {
     font-size: 35px;
     line-height: (25/30);
     letter-spacing: -0.033;
-    color: $color-secondary;
+    color: $color-primary;
     font-weight: bold;
   }
   
@@ -187,7 +193,7 @@ mark {
       li {
         margin-top: 1em;
         margin-left: 0;
-        color: $color-secondary;
+        color: $color-primary;
         font-size: 1.2em;
       }
       
