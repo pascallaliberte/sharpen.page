@@ -9,10 +9,6 @@ layout: home
 A service to help you sharpen how you talk about your product, based on the Jobs-To-Be-Done theory of buyer psychology.
 </div>
 
-![Sharpener truck](/assets/images/sharpen-truck.jpg){: .img-max-20em }
-
-In my suburb, we don't get ice cream trucks going on our street that much, but we do get a sharpening truck go by once or twice a year. You hear the bell, everybody rushes to the window, and instead of an ice-cream truck, there's this fellow going around with a sharpening truck. The driver stops for anyone who wants to sharpen all sorts of dull house tools like sheers, knives and axes. Remarkable right?
-
 ---
 
 Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I'm preparing a service to help you sharpen that product or service you've got. I'll help you make it more tuned to <mark>help your customer progress on what they're trying to get progress on</mark>, more distinctive, more incisive, and, well, <mark>more sharp</mark>.

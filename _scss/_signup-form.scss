@@ -1,5 +1,11 @@
 body #mc_embed_signup {
   
+  color: $color-secondary;
+  
+  strong {
+    color: $color-secondary;
+  }
+  
   @media (min-width: 768px) and (max-width: 1024px) {
     margin-right: -200px;
   }
@@ -78,7 +84,7 @@ body #mc_embed_signup {
   }
   
   padding: 1em;
-  background: transparentize($color-highlight, 0.7);
+  background: transparentize(lighten($color-highlight, 10%), 0.2);
   border-radius: 0.3em;
   margin: 1em 0 2em;
   box-sizing: border-box;
