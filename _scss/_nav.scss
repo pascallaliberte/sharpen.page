@@ -3,13 +3,9 @@
   @include container($container-padding);
 
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-  
-  @media (max-width: 767px) {
-    align-items: flex-end;
-  }
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
 
   // margin-top: 10px;
 
@@ -79,12 +75,14 @@
     align-items: flex-start;
     padding-right: 20px;
     position: relative;
+    margin-top: 1em;
+    width: 100%;
     
     @media (max-width: 767px) {
       .btn {
         position: absolute;
-        bottom: 0;
-        right: 0;
+        bottom: 15px;
+        right: 15px;
       }  
     }
   }
