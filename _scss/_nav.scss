@@ -34,7 +34,12 @@
   }
 
   &__logo {
-    margin-top: rem(10px);
+    margin-top: 0;
+    display: inline-block;
+    
+    @media (min-width: $reference-width-md-until) {
+      margin-left: rem(-170px);
+    }
   }
 
   &__logo-img {
@@ -45,10 +50,6 @@
     
     @media (max-width: $reference-width-xs-until) {
       width: rem(259px);
-    }
-    
-    @media (min-width: $reference-width-md-until) {
-      margin-left: rem(-170px);
     }
   }
 
@@ -123,6 +124,13 @@
     border-radius: rem(4px);
     &:hover {
       background-color: darken($color-primary, 10%);
+    }
+  }
+  
+  .btn-be-notified {
+    display: none;
+    .home & {
+      display: inline;
     }
   }
 
