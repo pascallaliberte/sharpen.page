@@ -12,7 +12,7 @@
   padding-bottom: rem(10px);
   padding-right: rem(20px);
   
-  @media (min-width: $reference-width-sm-until) {
+  @media (min-width: $reference-width-md-until) {
     padding-left: rem(40px);
   }
 
@@ -38,7 +38,7 @@
     width: rem(326px);
     margin-bottom: rem(26px);
     
-    @media (min-width: $reference-width-sm-until) {
+    @media (min-width: $reference-width-md-until) {
       margin-left: rem(-170px);
     }
   }
@@ -67,7 +67,7 @@
     letter-spacing: -0.0113em;
     text-transform: uppercase;
     margin-left: rem(-15px);
-    @media (min-width: $reference-width-sm-until) {
+    @media (min-width: $reference-width-md-until) {
       margin-left: 0;
     }
     margin-top: rem(10px);
@@ -92,7 +92,7 @@
     margin-top: 1em;
     width: 100%;
     
-    @media (max-width: $reference-width-sm-until) {
+    @media (max-width: $reference-width-md-until) {
       .btn {
         position: absolute;
         bottom: rem(15px);
