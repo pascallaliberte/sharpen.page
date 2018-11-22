@@ -1,7 +1,5 @@
 .navigation {
 
-  @include container($container-padding);
-
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -10,7 +8,14 @@
   // margin-top: 10px;
 
   padding-bottom: rem(10px);
-  padding-right: rem(20px);
+  
+  @media (max-width: $reference-width-xs-until) {
+    margin-right: rem(-15px);
+  }
+  
+  @media (min-width: $reference-width-xs-until) {
+    padding-right: rem(20px);
+  }
   
   @media (min-width: $reference-width-md-until) {
     padding-left: rem(40px);
@@ -34,9 +39,13 @@
 
   &__logo-img {
     margin-top: rem(-12px);
-    height: rem(85px);
+    height: auto;
     width: rem(326px);
     margin-bottom: rem(26px);
+    
+    @media (max-width: $reference-width-xs-until) {
+      width: rem(259px);
+    }
     
     @media (min-width: $reference-width-md-until) {
       margin-left: rem(-170px);
