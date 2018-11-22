@@ -129,6 +129,11 @@
     color: $color-primary;
     position: relative;
     
+    @media (min-width: $reference-width-md-until) {
+      font-size: rem(40px);
+      line-height: (48/40);
+    }
+    
     span {
       background-color: #D8D8D8;
       display: inline;
@@ -140,7 +145,7 @@
     
     &::before {
       position: absolute;
-      bottom: rem(7px);
+      bottom: rem(9px);
       z-index: 0;
       content: '';
       border-bottom: rem(3px) dashed lighten($color-grey, 40%);
