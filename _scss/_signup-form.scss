@@ -7,7 +7,7 @@ body #mc_embed_signup {
   }
   
   @media (min-width: 768px) and (max-width: 1024px) {
-    margin-right: -200px;
+    margin-right: rem(-200px);
   }
   
   &, & .button, & input.email, & #mc-embedded-subscribe-form div.mce_inline_error {
@@ -20,7 +20,7 @@ body #mc_embed_signup {
     padding: 0.3em 0.7em;
     background-color: $color-primary;
     -webkit-appearance: none;
-    border-radius: 4px;
+    border-radius: rem(4px);
     &:hover {
       background-color: darken($color-primary, 10%);
     }
@@ -42,7 +42,7 @@ body #mc_embed_signup {
       font-weight: 500;
       color: lighten(black, 40%);
       margin-bottom: -2.4em;
-      margin-left: 23px;
+      margin-left: rem(23px);
       .quiet {
         text-transform: none;
         color: lighten(black, 60%);
@@ -53,15 +53,15 @@ body #mc_embed_signup {
       box-sizing: border-box;
       font-family: inherit;
       font-size: inherit;
-      padding: 1.4em 20px 0.7em;
+      padding: rem(1.4em 20px 0.7em);
       text-indent: 0px;
-      border: 2px solid lighten($text-color, 50%);
+      border: rem(2px) solid lighten($text-color, 50%);
       margin-bottom: 1em;
     }
     
     input.email {
-      padding: 1.4em 20px 0.7em;
-      border: 2px solid lighten($text-color, 50%);
+      padding: rem(1.4em 20px 0.7em);
+      border: rem(2px) solid lighten($text-color, 50%);
     }
     
     @media (min-width: 480px) {
@@ -86,11 +86,11 @@ body #mc_embed_signup {
   padding: 1em;
   background: transparentize(lighten($color-highlight, 10%), 0.1);
   border-radius: 0.3em;
-  margin: 2em -15px 0;
+  margin: rem(2em -15px 0);
   box-sizing: border-box;
   border-top: 10px solid white;
   @media (min-width: 480px) {
-    border: 10px solid white;
+    border: rem(10px) solid white;
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 2em;
