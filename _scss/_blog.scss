@@ -2,7 +2,6 @@
   @include container($container-padding);
   margin-top: 60px;
 
-
   &__post {
 
     padding: 0 $container-padding;
@@ -57,8 +56,24 @@
 .post {
 
   @include container($container-padding);
-  margin-top: rem(80px);
   
+  @media (min-width: $reference-width-md-until) {
+    main {
+      display: flex;
+      flex-direction: row;
+    }
+    
+    .navigation {
+      width: rem(500px);
+    }
+    
+    .main-content {
+      margin-top: rem(120px);
+      margin-left: 0;
+      margin-right: 0;
+    }  
+  }
+
   color: $color-secondary;
 
   .job {
