@@ -22,6 +22,9 @@ social:
     - https://github.com/pascallaliberte
 
 languages: ["en"]
+
+permalink: /:categories/:title/
+
 ampdir: amp
 destination: public
 
