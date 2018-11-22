@@ -26,7 +26,7 @@
   }
 
   &__date {
-    padding-top: 15px;
+    padding-top: rem(15px);
     width: 30%;
     color: $link-color;
   }
@@ -57,17 +57,38 @@
 .post {
 
   @include container($container-padding);
-  margin-top: 80px;
+  margin-top: rem(80px);
+  
+  color: $color-secondary;
 
+  .job {
+    font-weight: normal;
+    font-style: italic;
+    position: relative;
+    margin-top: 3em;
+    padding-left: rem(20px);
+    border-left: rem(4px) dashed lighten($color-grey, 50%);
+    
+    mark {
+      font-weight: bold;
+      font-style: normal;
+      position: absolute;
+      display: inline-block;
+      top: -1.7em;
+      left: rem(-15px);
+      padding: rem(2px 15px);
+    }
+  }
 
   &__container {
     padding: 0 $container-padding;
   }
 
   &__meta {
-    padding-bottom: 40px;
-    margin-bottom: 40px;
-    border-bottom: 1px solid lighten($link-color, 40%);
+    margin-top: rem(40px);
+    margin-bottom: rem(40px);
+    font-size: 0.8em;
+    color: lighten($color-primary, 10%);
   }
 
 }
