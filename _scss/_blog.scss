@@ -55,8 +55,6 @@
 
 .post {
 
-  @include container($container-padding);
-  
   @media (min-width: $reference-width-md-until) {
     main {
       display: flex;
