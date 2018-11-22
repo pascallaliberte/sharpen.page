@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Four Jobs Cryptocurrencies are Hired to do
-categories: jtbd
+title: What Cryptocurrencies Are Hired To Do
+categories: JTBD
+author: Pascal Laliberté
 ---
 
 <div class="primer" markdown="1">

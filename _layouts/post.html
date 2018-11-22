@@ -5,7 +5,10 @@ class: post
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <div class="post__container">
     <header class="post__header">
-      <h1 class="post__title" itemprop="name headline">{{ page.title | escape }}</h1>
+      {% for category in page.categories %}
+        <span class="post__category">{{ category }}</span>
+      {% endfor %}
+      <h1 class="post__title" itemprop="name headline"><span>{{ page.title | escape }}</span></h1>
     </header>
 
     <div class="post__content" itemprop="articleBody">
@@ -18,7 +21,7 @@ class: post
         Published on {{ page.date | date: date_format }}
       </time>
       {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+        by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}
     </p>
   </div>
