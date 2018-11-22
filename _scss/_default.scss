@@ -177,13 +177,13 @@ mark {
     }
   }
   
-  @media (min-width: 768px) {
+  @media (min-width: $reference-width-xs-until) {
     margin-left: rem(60px);
     max-width: rem(490px);
     margin-right: rem(60px);
   }
   
-  @media (min-width: 1024px) {
+  @media (min-width: $reference-width-sm-until) {
     margin-left: rem(280px);
     max-width: rem(780px);
     margin-right: rem(60px);
