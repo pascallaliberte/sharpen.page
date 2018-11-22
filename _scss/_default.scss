@@ -24,6 +24,44 @@ $primary-font-family: jubilat,$system-font-family;
 $secondary-font-family: clarendon-wide-stencil,$system-font-family;
 $tertiary-font-family: mr-eaves-xl-sans,$system-font-family;
 
+$reference-width-xs:    375px;
+$reference-width-xs-until: 450px;
+$reference-width-sm:    768px;
+$reference-width-sm-until: 850px;
+$reference-width-xl: 1440px;
+
+@media only screen and (max-width: $reference-width-xs-until) {
+  html {
+    font-size: root-vw-font-size($reference-width-xs);
+  }
+    
+  main {
+    max-width: 100%;
+  }
+}
+
+@media only screen and (min-width: ($reference-width-xs-until + 1px)) and (max-width: $reference-width-sm-until) {
+  html {
+    font-size: root-vw-font-size($reference-width-sm);
+  }
+    
+  main {
+    max-width: rem(700px);
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (min-width: ($reference-width-sm-until + 1px)) {
+  html {
+    font-size: root-vw-font-size($reference-width-xl);
+  }
+    
+  main {
+    max-width: rem(1125px);
+    margin: 0 auto;
+  }
+}
+
 // Mixin
 
 @mixin container($padding) {
