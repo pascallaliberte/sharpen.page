@@ -94,6 +94,24 @@
       padding: rem(2px 15px);
     }
   }
+  
+  .primer {
+    margin: rem(1em -15px);
+    padding: rem(15px);
+    padding-bottom: rem(5px);
+    background-color: transparentize(white, 0.5);
+    color: #777;
+    h2 {
+      margin-top: 0;
+      color: #555;
+    }
+    
+    @media (min-width: $reference-width-xs-until) {
+      margin: rem(2em -40px);
+      padding: rem(40px);
+      transform: rotateZ(-1deg) perspective(80rem) rotateX(0.5deg);
+    }
+  }
 
   &__container {
     padding: 0 $container-padding;
@@ -103,7 +121,7 @@
     margin-top: rem(40px);
     margin-bottom: rem(40px);
     font-size: 0.8em;
-    color: lighten($color-primary, 10%);
+    color: lighten($color-secondary, 30%);
   }
 
 }

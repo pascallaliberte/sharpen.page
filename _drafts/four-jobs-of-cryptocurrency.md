@@ -4,6 +4,7 @@ title: Four Jobs Cryptocurrencies are Hired to do
 categories: jtbd
 ---
 
+<div class="primer" markdown="1">
 ## Quick primer on the Jobs-To-Be-Done Theory:
 
 A product (or service or idea or concept) isn't so much purchased as it is _hired_. You can hire a product, you can hire a concept, you can hire an idea.
@@ -11,6 +12,7 @@ A product (or service or idea or concept) isn't so much purchased as it is _hire
 The _hiring_ event is a moment in time where the purchaser or the person choosing that product/service/idea/concept decides to take the plunge, thereby committing to the purchase and, at the same time, saying no to something else. When someone hires a product, something else is _fired_.
 
 There was a job to get done, the usual stuff no longer did that job, a new thing comes in and promises to do that job really well, and the old thing gets fired. "So long, I'm going with this new thing from this point on".
+</div>
 
 ---
 
