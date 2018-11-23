@@ -69,13 +69,6 @@
   
   &__tagline {
     display: block;
-    font-family: $tertiary-font-family;
-    font-size: rem(68px);
-    font-weight: 200;
-    color: white;
-    line-height: (57/68);
-    letter-spacing: -0.0113em;
-    text-transform: uppercase;
     margin-left: rem(-15px);
     @media (min-width: $reference-width-md-until) {
       margin-left: 0;
@@ -84,13 +77,32 @@
     position: relative;
     &-bg > svg {
       width: rem(353px);
-      height: rem(256px);
+      height: auto;
     }
     &-text {
+      font-size: rem(68px);
+      font-family: $tertiary-font-family;
+      font-weight: 200;
+      color: white;
+      line-height: (57/68);
+      letter-spacing: -0.0113em;
+      text-transform: uppercase;
+      
       width: 1em;
       position: absolute;
       left: rem(15px);
       top: rem(5px);
+    }
+    
+    .post & {
+      &-bg > svg {
+        width: rem(300px);
+      }
+      
+      &-text {
+        font-size: rem(57px);
+        top: rem(6px);
+      }
     }
   }
   
