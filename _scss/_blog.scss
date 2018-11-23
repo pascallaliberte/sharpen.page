@@ -184,5 +184,13 @@
     margin-bottom: rem(40px);
     color: lighten($color-secondary, 30%);
   }
+  
+  #be-notified {
+    @media (min-width: $reference-width-md-until) {
+      margin-right: 0;
+      position: relative;
+      left: rem(-220px);
+    }
+  }
 
 }

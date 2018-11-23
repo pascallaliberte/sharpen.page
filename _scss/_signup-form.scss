@@ -85,12 +85,12 @@ body #mc_embed_signup {
   
   padding: 1em;
   background: transparentize(lighten($color-highlight, 10%), 0.1);
-  border-radius: 0.3em;
   margin: rem(2em -15px 0);
   box-sizing: border-box;
   border-top: 10px solid white;
-  @media (min-width: 480px) {
+  @media (min-width: $reference-width-xs-until) {
     border: rem(10px) solid white;
+    border-radius: 0.3em;
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 2em;
@@ -102,4 +102,10 @@ body #mc_embed_signup {
 }
 #mc_embed_signup #mc-embedded-subscribe-form .mc-field-group div.mce_inline_error {
   color: $color-primary;
+}
+
+#be-notified {
+  @media (min-width: $reference-width-xs-until) and (max-width: ($reference-width-md-until - 1px)) {
+    margin-right: rem(-100px);
+  }
 }
