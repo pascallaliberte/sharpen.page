@@ -111,6 +111,12 @@
       display: none;
     }
     
+    .desktop-only {
+      @media (max-width: $reference-width-md-until) {
+        display: none;  
+      }
+    }
+    
     font-size: rem(32px);
     line-height: 1;
     letter-spacing: -0.036em;
