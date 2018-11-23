@@ -3,6 +3,7 @@ layout: post
 title: What Cryptocurrencies Are Hired To Do
 categories: JTBD
 author: Pascal Laliberté
+image: 2018-11-23-jobs-of-cryptocurrencies.jpg
 ---
 
 Let's glean from the news the jobs which cryptocurrencies are hired to perform, and what's getting fired in the process. I've never bought cryptocurrencies, but let's give it a shot anyway.
