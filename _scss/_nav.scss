@@ -4,6 +4,7 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
+  position: relative;
 
   // margin-top: 10px;
 
@@ -34,7 +35,12 @@
   }
 
   &__logo {
-    margin-top: rem(10px);
+    margin-top: 0;
+    display: inline-block;
+    
+    @media (min-width: $reference-width-md-until) {
+      margin-left: rem(-175px);
+    }
   }
 
   &__logo-img {
@@ -46,21 +52,10 @@
     @media (max-width: $reference-width-xs-until) {
       width: rem(259px);
     }
-    
-    @media (min-width: $reference-width-md-until) {
-      margin-left: rem(-170px);
-    }
-  }
-
-  &__links {
-    display: flex;
-    flex-direction: row;
   }
 
   &__link {
-    margin-left: rem(30px);
-    font-size: $font-xs;
-
+    
     &--active {
       color: $color-primary;
     }
@@ -68,13 +63,6 @@
   
   &__tagline {
     display: block;
-    font-family: $tertiary-font-family;
-    font-size: rem(68px);
-    font-weight: 200;
-    color: white;
-    line-height: (57/68);
-    letter-spacing: -0.0113em;
-    text-transform: uppercase;
     margin-left: rem(-15px);
     @media (min-width: $reference-width-md-until) {
       margin-left: 0;
@@ -83,23 +71,78 @@
     position: relative;
     &-bg > svg {
       width: rem(353px);
-      height: rem(256px);
+      height: auto;
     }
     &-text {
+      font-size: rem(68px);
+      font-family: $tertiary-font-family;
+      font-weight: 200;
+      color: white;
+      line-height: (57/68);
+      letter-spacing: -0.0113em;
+      text-transform: uppercase;
+      
       width: 1em;
       position: absolute;
       left: rem(15px);
       top: rem(5px);
     }
+    
+    .post & {
+      &-bg > svg {
+        width: rem(300px);
+      }
+      
+      &-text {
+        font-size: rem(57px);
+        top: rem(6px);
+      }
+    }
   }
   
-  .nav-links {
+  &__summary {
+    .home & {
+      display: none;
+    }
+    
+    .desktop-only {
+      @media (max-width: $reference-width-md-until) {
+        display: none;  
+      }
+    }
+    
+    font-size: rem(32px);
+    line-height: 1;
+    letter-spacing: -0.036em;
+    font-family: $tertiary-font-family;
+    font-style: italic;
+    max-width: rem(269px);
+    color: $color-primary;
+    margin-top: rem(32px);
+    
+    &-byline {
+      display: block;
+      margin-top: rem(8px);
+      font-size: rem(22px);
+      letter-spacing: -0.024em;
+      color: #333;
+      opacity: 0.6;
+      a {
+        color: inherit;
+      }
+    }
+  }
+  
+  &__links {
+    display: flex;
+    flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
     padding-right: rem(20px);
     position: relative;
     margin-top: 1em;
     width: 100%;
+    font-size: rem(22px);
     
     @media (max-width: $reference-width-md-until) {
       .btn {
@@ -110,19 +153,66 @@
     }
   }
   
+  &__latest-article {
+    
+    font-size: rem(22px);
+    margin-top: rem(20px);
+    max-width: rem(250px);
+    
+    .home & {
+      position: absolute;
+      right: rem(30px);
+      text-align: right;
+      top: 0;
+      
+      @media (max-width: ($reference-width-md-until - 1px)) {
+        top: rem(50px);
+      }
+      
+      @media (max-width: ($reference-width-xs-until - 1px)) {
+        right: rem(15px);
+        .navigation__link-latest-article-title {
+          display: none;
+        }
+      }
+    }
+    
+    @media (max-width: ($reference-width-md-until - 1px)) {
+      position: absolute;
+      right: rem(30px);
+      text-align: right;
+      top: rem(50px);
+    }
+    
+    
+    @media (max-width: ($reference-width-xs-until - 1px)) {
+      right: rem(15px);
+      .navigation__link-latest-article-title {
+        display: none;
+      }
+    }
+  }
+  
   .btn {
     font-size: rem(20px);
     display: inline-block;
     height: auto;
     white-space: nowrap;
     line-height: 1.2;
-    padding: 0.3em 0.7em;
+    padding: 0.3em rem(15px);
     background-color: $color-primary;
     color: white;
     -webkit-appearance: none;
     border-radius: rem(4px);
     &:hover {
       background-color: darken($color-primary, 10%);
+    }
+  }
+  
+  .btn-be-notified {
+    display: none;
+    .home & {
+      display: inline;
     }
   }
 

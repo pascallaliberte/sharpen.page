@@ -1,28 +1,7 @@
-<!-- <nav class="navigation" role="navigation">
-  {% assign default_paths = site.pages | map: "path" %}
-  {% assign page_paths = site.navigation_pages | default: default_paths %}
-  <a class="navigation__branding" href="{{ "/" | relative_url }}">
-    <span class="navigation__logo"><img src="{{ "/assets/images/icon.png" | relative_url }}" class="navigation__logo-img" alt=""></span>
-    <span class="navigation__title">{{ site.title | escape }}</span>
-  </a>
-  <div class="navigation__links">
-    {% if page_paths %}
-      {% for path in page_paths %}
-        {% assign my_page = site.pages | where: "path", path | first %}
-        {% if my_page.title %}
-          {% unless my_page.url contains site.ampdir %}
-            <a class="navigation__link{% if my_page.url == page.url %} navigation__link--active{% endif %}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-          {% endunless %}
-        {% endif %}
-      {% endfor %}
-    {% endif %}
-  </div>
-</nav> -->
-
 <nav class="navigation" role="navigation">
   <div class="navigation__branding">
-    <a class="" href="{{ "/" | relative_url }}">
-      <span class="navigation__logo">
+    <a class="navigation__logo" href="{{ "/" | relative_url }}">
+      <span class="">
         {% include logo.svg.html class="navigation__logo-img" alt="Logo for sharpen.page" %}
       </span>
     </a>
@@ -34,9 +13,18 @@
         A Product Sharpening Service
       </div>
     </div>
+    <div class="navigation__summary">
+      <span class="desktop-only">Sharpened using the Jobs-To-Be-Done Theory</span>
+      <span class="navigation__summary-byline desktop-only"><span class="desktop-only">A service</span> by <a href="https://pascallaliberte.me/" class="text-link">Pascal Laliberté</a></span>
+    </div>
   </div>
-  <div class="nav-links">
+  <div class="navigation__links">
     <a class="btn btn-be-notified" href="#be-notified">Be notified&hellip;</a>
   </div>
+  {% for post in site.posts limit:1 %}
+    <div class="navigation__latest-article">
+      <a class="navigation__link navigation__link-latest-article text-link" href="{{ post.url }}"><strong>Latest Article</strong><span class="navigation__link-latest-article-title"><br>{{ post.title }}</span></a>
+    </div>
+  {% endfor %}
   
 </nav>
