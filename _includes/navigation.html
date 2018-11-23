@@ -39,8 +39,13 @@
       <span class="navigation__summary-byline desktop-only"><span class="desktop-only">A service</span> by <a href="https://pascallaliberte.me/" class="text-link">Pascal Laliberté</a></span>
     </div>
   </div>
-  <div class="nav-links">
+  <div class="navigation__links">
     <a class="btn btn-be-notified" href="#be-notified">Be notified&hellip;</a>
   </div>
+  {% for post in site.posts limit:1 %}
+    <div class="navigation__latest-article">
+      <a class="navigation__link navigation__link-latest-article text-link" href="{{ post.url }}"><strong>Latest Article</strong><span class="navigation__link-latest-article-title"><br>{{ post.title }}</span></a>
+    </div>
+  {% endfor %}
   
 </nav>

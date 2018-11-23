@@ -14,10 +14,10 @@ $color-highlight: transparentize(#d2dc00, 0.4);
 $color-body-background: #ddd;
 $color-main-background: #e8e8e8;
 
-$font-xl: 58px;
-$font-md: 22px;
-$font-sm: 18px;
-$font-xs: 16px;
+$font-xl: rem(58px);
+$font-md: rem(22px);
+$font-sm: rem(18px);
+$font-xs: rem(16px);
 
 $system-font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 $primary-font-family: jubilat,$system-font-family;

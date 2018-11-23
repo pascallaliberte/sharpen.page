@@ -4,6 +4,7 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
+  position: relative;
 
   // margin-top: 10px;
 
@@ -53,15 +54,8 @@
     }
   }
 
-  &__links {
-    display: flex;
-    flex-direction: row;
-  }
-
   &__link {
-    margin-left: rem(30px);
-    font-size: $font-xs;
-
+    
     &--active {
       color: $color-primary;
     }
@@ -139,13 +133,16 @@
     }
   }
   
-  .nav-links {
+  &__links {
+    display: flex;
+    flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
     padding-right: rem(20px);
     position: relative;
     margin-top: 1em;
     width: 100%;
+    font-size: rem(22px);
     
     @media (max-width: $reference-width-md-until) {
       .btn {
@@ -156,13 +153,53 @@
     }
   }
   
+  &__latest-article {
+    
+    font-size: rem(22px);
+    margin-top: rem(20px);
+    max-width: rem(250px);
+    
+    .home & {
+      position: absolute;
+      right: rem(30px);
+      text-align: right;
+      top: 0;
+      
+      @media (max-width: ($reference-width-md-until - 1px)) {
+        top: rem(50px);
+      }
+      
+      @media (max-width: ($reference-width-xs-until - 1px)) {
+        right: rem(15px);
+        .navigation__link-latest-article-title {
+          display: none;
+        }
+      }
+    }
+    
+    @media (max-width: ($reference-width-md-until - 1px)) {
+      position: absolute;
+      right: rem(30px);
+      text-align: right;
+      top: rem(50px);
+    }
+    
+    
+    @media (max-width: ($reference-width-xs-until - 1px)) {
+      right: rem(15px);
+      .navigation__link-latest-article-title {
+        display: none;
+      }
+    }
+  }
+  
   .btn {
     font-size: rem(20px);
     display: inline-block;
     height: auto;
     white-space: nowrap;
     line-height: 1.2;
-    padding: 0.3em 0.7em;
+    padding: 0.3em rem(15px);
     background-color: $color-primary;
     color: white;
     -webkit-appearance: none;
