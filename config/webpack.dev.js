@@ -19,6 +19,14 @@ module.exports = Merge(CommonConfig, {
         port: 3000,
         proxy: 'http://localhost:9000',
         files: ['public', '_src'],
+        snippetOptions: {
+          rule: {
+            match: /<\/head>/i,
+            fn: function (snippet, match) {
+              return snippet + match;
+            }
+          }
+        },
       },
       {
         reload: false,

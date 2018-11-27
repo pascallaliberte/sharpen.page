@@ -69,6 +69,11 @@
     }
     margin-top: rem(10px);
     position: relative;
+    
+    transform: scale(1);
+    transition: transform 0.2s $easeOutBack, margin-bottom 0.2s $easeOutBack;
+    transform-origin: top left;
+    
     &-bg > svg {
       width: rem(353px);
       height: auto;
@@ -88,15 +93,9 @@
       top: rem(5px);
     }
     
-    .post & {
-      &-bg > svg {
-        width: rem(300px);
-      }
-      
-      &-text {
-        font-size: rem(57px);
-        top: rem(6px);
-      }
+    &.on-post {
+      transform: scale(0.84985835694051);
+      margin-bottom: rem(-50px);
     }
   }
   

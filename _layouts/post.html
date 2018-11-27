@@ -8,7 +8,11 @@ class: post
       {% for category in page.categories %}
         <span class="post__category">{{ category }}</span>
       {% endfor %}
-      <h1 class="post__title" itemprop="name headline"><span>{{ page.title | escape }}</span></h1>
+      <h1 class="post__title" itemprop="name headline">
+        <span class="animation-wrapper" data-behavior="animate-on-load" data-animation-class="animate">
+          <span class="post__title__decoration">{{ page.title | escape }}</span>
+        </span>
+      </h1>
     </header>
 
     <div class="post__content" itemprop="articleBody">
