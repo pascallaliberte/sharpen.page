@@ -30,13 +30,37 @@ function resumeClassTransitionForElement(selector) {
   }, 200)
 }
 
+function cleanUpAnimationClasses(newBody) {
+  const animatedEls = newBody.querySelectorAll('[data-behavior="animate-on-load"]')
+
+  animatedEls.forEach((el) => {
+    if (!el.hasAttribute('data-animation-class')) {
+      return
+    }
+    el.className = el.className.replace(el.getAttribute('data-animation-class'), '')
+  })
+}
+
+function animateElementsWithAnimateOnLoad() {
+  const animatedEls = document.querySelectorAll('[data-behavior="animate-on-load"]')
+
+  animatedEls.forEach((el) => {
+    if (!el.hasAttribute('data-animation-class')) {
+      return
+    }
+    el.className = `${el.className} ${el.getAttribute('data-animation-class')}`
+  })
+}
+
 document.addEventListener('turbolinks:before-render', (event) => {
   const { newBody } = event.data
   const currentBody = document.querySelector('body')
 
   pauseClassTransitionForElement('[data-behavior="navigation__tagline"]', newBody, currentBody)
+  cleanUpAnimationClasses(newBody)
 })
 
 document.addEventListener('turbolinks:load', () => {
   resumeClassTransitionForElement('[data-behavior="navigation__tagline"]')
+  animateElementsWithAnimateOnLoad()
 })
