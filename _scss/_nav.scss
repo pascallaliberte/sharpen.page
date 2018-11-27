@@ -96,6 +96,10 @@
     &.on-post {
       transform: scale(0.84985835694051);
       margin-bottom: rem(-50px);
+      @media (max-width: $reference-width-xs-until) {
+        transform: scale(0.70);
+        margin-bottom: rem(-120px);
+      }
     }
   }
   
