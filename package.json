@@ -54,6 +54,7 @@
     "webpack-pwa-manifest": "^3.1.6"
   },
   "dependencies": {
+    "awesome-sass-easing": "^1.1.2",
     "normalize.css": "^7.0.0"
   }
 }
