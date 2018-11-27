@@ -71,3 +71,5 @@ Much of the news revolves around cryptocurrency's claim to be a holder of value 
 It seems, as these examples above illustrate, that cryptocurrencies seem to be hired for other jobs that are more transactional (#2 and #3) or more strategic (#1 and #4) than a pure holder of value.
 
 Those are some solid jobs. If we can sustain the technical systems and ecological costs of cryptocurrencies, and no central banking systems is able to squash them completely, it looks like cryptocurrency will be here to stay. That is, unless something else gets hired to do those jobs better, in which case, cryptocurrency will be fired. A potential candidate would be a centralized digital credit systems like the one found in China (for jobs #1, #3 and #4).
+
+Stay sharp.
