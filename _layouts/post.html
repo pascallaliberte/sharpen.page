@@ -29,6 +29,26 @@ class: post
       </time>
     </p>
     
+    <div class="blog-nav-container">
+      <nav class="blog-nav">
+        {% if page.previous.url %} 
+        <a class="blog-nav-link text-link blog-nav-link-previous"
+           href="{{ page.previous.url }}">
+          <strong>Previous Article</strong>
+          <span class="blog-nav-link-title"><br>{{ page.previous.title }}</span>
+        </a>
+        {% endif %} 
+        {% if page.next.url %} 
+        <a class="blog-nav-link text-link blog-nav-link-next"
+           href="{{ page.next.url }}">
+          <strong>Next Article</strong>
+          <span class="blog-nav-link-title"><br>{{ page.next.title }}</span>
+        </a>
+        {% endif %}
+      </nav>
+    </div>
+    
+    
   </div>
 </article>
 
