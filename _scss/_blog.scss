@@ -135,6 +135,22 @@
     }
   }
   
+  .examples {
+    background-color: transparentize($color-grey, 0.9);
+    margin: rem(1em -15px);
+    padding: rem(30px);
+    padding-left: rem(60px);
+    padding-bottom: rem(20px);
+    li {
+      padding: rem(10px 0 20px);
+      border-bottom: rem(1px) solid $color-grey;
+      &:last-of-type {
+        padding-bottom: 0;
+        border-bottom: none;
+      }
+    }
+  }
+  
   &__category {
     display: inline-block;
     background-color: #686868;
