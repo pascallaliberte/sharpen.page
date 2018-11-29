@@ -217,7 +217,37 @@
       left: rem(-220px);
     }
   }
-
+  
+  .blog-nav-link-next-wrapper {
+    text-align: right;
+    margin-top: rem(20px);
+  }
+  
+  @media (min-width: $reference-width-xs-until) and (max-width: $reference-width-md-until) {
+    .blog-nav-link-next-wrapper {
+      position: relative;
+      right: rem(-100px);
+    }
+  }
+  
+  @media (min-width: $reference-width-md-until) {
+    .blog-nav-container {
+      position: relative;
+    }
+    
+    .blog-nav {
+      position: absolute;
+      max-width: rem(250px);
+      bottom: rem(50px);
+      left: rem(-410px);
+    }
+    
+    .blog-nav-link-next-wrapper {
+      text-align: right;
+      position: relative;
+      right: rem(-100px);
+    }
+  }
 }
 
 @keyframes eyepop {
