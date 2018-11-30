@@ -1,4 +1,5 @@
 import Turbolinks from 'turbolinks';
+import './mailchimp-form';
 
 // CSS and SASS files
 import './index.scss';
