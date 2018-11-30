@@ -50,7 +50,7 @@ Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I'm preparing a 
 
 ... if you value understanding things deeply, if you're interested in serving your customers in what they're trying to get some progress on, if you're interested in starting small and doing things right, if you're into honest communication and being straight with people.
 
-I'll take the time to understand your business deeply, I'll be thoughtful about serving the progress you're trying to make, I'll start small and do things rights, I'll communicate honestly and I'll be straight with you too.
+I'll take the time to understand your business deeply, I'll be thoughtful about serving the progress you're trying to make, I'll start small and do things right, I'll communicate honestly and I'll be straight with you too.
 
 ## Interested in starting the conversation? 
 
