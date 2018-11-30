@@ -6,30 +6,35 @@ layout: home
 ---
 
 <div class="intro" markdown="1">
-A service to help you sharpen how you talk about your product, based on the Jobs-To-Be-Done theory of buyer psychology.
+A service to help fix your moments of hesitation about your product, based on the Jobs-To-Be-Done theory of buyer behaviour.
 </div>
 
 ---
 
 Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I'm preparing a service to help you sharpen that product or service you've got. I'll help you make it more tuned to <mark>help your customer progress on what they're trying to get progress on</mark>, more distinctive, more incisive, and, well, <mark>more sharp</mark>.
 
+As a side effect, you'll be more confident about the decisions you make about your product.
+
 ## I can help <mark>the next time...</mark>
 
 * You are **putting together a product** and you'd like more confidence on how to price it;
-* You have **started to map out the Forces of Progress Diagrams of your offering(s)** and would like some feedback about your choices;
-* You have **made a big sale of a service or customized product to a B2B client** and would like to find out the core reason (the job-to-be-done) of the purchase so you can tweak how you approach new clients;
+* You have **made a big sale of a service or customized product to a B2B client** and would like to find out the core reason (the job-to-be-done) of the purchase so you can tweak how you approach new B2B clients;
 * You have **made a number of sales of a product** and would like to find out the core reason (the job-to-be-done) of the purchase so you can tweak how you market your product and how you package it;
 * You are **about to add some features** but you don't know if they'll contribute to buyer anxieties about your product;
+* You have **started to map out the Forces of Progress Diagrams of your offering(s)** and would like some feedback about your choices;
 * You are **getting more than 10,000 visits to your site** and would like to test out different marketing copy so you can see if you can increase your revenue.
 {: .home-jobs }
+
+In short, <mark>I help fix your hesitations about your product</mark>.
+{: .intro }
 
 ---
 
 ## I'll achieve this via these engagements:
 
-* **1-on-1 calls** to review your product approach (pricing, features, messaging)
-* **Buyer Interviews and Buyer Research** to uncover the job for which they hired your product, what they switched away from, and the emotional back-and-forth in their decision-making
-* **Copywriting reviews and tweaks** with split-testing (A/B testing)
+* **1-on-1 calls** to review your product approach (pricing, features, messaging);
+* **Buyer Interviews and Buyer Research** to uncover the job for which they hired your product, what they switched away from, and the emotional back-and-forth in their decision-making;
+* **Copywriting reviews and tweaks** with split-testing (A/B testing).
 
 ---
 
@@ -52,7 +57,7 @@ Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I'm preparing a 
 
 I'll take the time to understand your business deeply, I'll be thoughtful about serving the progress you're trying to make, I'll start small and do things right, I'll communicate honestly and I'll be straight with you too.
 
-## Interested in starting the conversation? 
+## Interested in talking to me about your thing?
 
 [Send me a note](mailto:pascal@pascallaliberte.me) or sign up below to be notified for what's to come.
 
