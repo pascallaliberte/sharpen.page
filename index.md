@@ -22,6 +22,7 @@ Here's how to [send me an email](mailto:pascal@pascallaliberte.me) and I'll be g
 
 * You have **made a big sale of a service or customized product to a B2B client** and would like to find out the core reason (the job-to-be-done) of that one big purchase so you can tweak how you approach new B2B clients;
 * You have **made a number of sales of a SaaS or physical product** and would like to find out if there's a commonality to the buyers so you can tweak how you speak about your product and how you package it;
+* You see **some bizarre patterns in who buys your product** and you're tempted to change your marketing, but you want to understand these new buyers so you can avoid wasting your time and money, but the interviews you've placed haven't surfaced any insights;
 * You have **subscribers cancelling their subscription** and you'd like to know what caused them to switch away from your product;
 * You have been **building the wrong features** and you're looking to better understand what your buyers need so you can give the right direction to your product team;
 * You are **putting together a product** and you'd like more confidence on how to price it;
