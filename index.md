@@ -15,18 +15,26 @@ Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I'm preparing a 
 
 As a side effect, you'll be more confident about the decisions you make about your product.
 
-## I can help <mark>the next time...</mark>
+Here's how to [send me an email](mailto:pascal@pascallaliberte.me) and I'll be glad to help you sharpen your product.
+{: .cta }
 
+## <mark>I can help if...</mark>
+
+* You have **made a big sale of a service or customized product to a B2B client** and would like to find out the core reason (the job-to-be-done) of that one big purchase so you can tweak how you approach new B2B clients;
+* You have **made a number of sales of a SaaS or physical product** and would like to find out if there's a commonality to the buyers so you can tweak how you speak about your product and how you package it;
+* You have **subscribers cancelling their subscription** and you'd like to know what caused them to switch away from your product;
+* You have been **building the wrong features** and you're looking to better understand what your buyers need so you can give the right direction to your product team;
 * You are **putting together a product** and you'd like more confidence on how to price it;
-* You have **made a big sale of a service or customized product to a B2B client** and would like to find out the core reason (the job-to-be-done) of the purchase so you can tweak how you approach new B2B clients;
-* You have **made a number of sales of a product** and would like to find out the core reason (the job-to-be-done) of the purchase so you can tweak how you market your product and how you package it;
-* You are **about to add some features** but you don't know if they'll contribute to buyer anxieties about your product;
-* You have **started to map out the Forces of Progress Diagrams of your offering(s)** and would like some feedback about your choices;
-* You are **getting more than 10,000 visits to your site** and would like to test out different marketing copy so you can see if you can increase your revenue.
+* You are **getting more than 10,000 visits to your site** and would like to test out different marketing copy so you can see if you can increase your revenue;
+* You have **started using the Jobs-To-Be-Done tools** and aren't sure if you're missing something, and would like to get feedback so you can good at using them for managing your product's development.
 {: .home-jobs }
 
-In short, <mark>I help fix your hesitations about your product</mark>.
+In short:  
+<mark>I help fix your hesitations about your product</mark>.
 {: .intro }
+
+See your situation listed? [Send me an email](mailto:pascal@pascallaliberte.me) to tell me what you're up against,
+{: .cta }
 
 ---
 
@@ -60,5 +68,6 @@ I'll take the time to understand your business deeply, I'll be thoughtful about 
 ## Interested in talking to me about your thing?
 
 [Send me a note](mailto:pascal@pascallaliberte.me) or sign up below to be notified for what's to come.
+{: .cta }
 
 {% include email-sign-up-form.html %}
