@@ -40,7 +40,7 @@ When trying to understand the reason behind a purchase, there's a temptation to 
 
 Doing so tempts us to conclude that each person is unique, and that we should shrug off any possible similarities between buyers.
 
-But according to the Theory, there are bound to be common causes behind the motivations of your buyers. Those causes, the theory has a name for them. It calls them _jobs_. A buyer has a job to get done, an outcome she desires that is driven by a mix of reason and emotions, and it's the urgency of the job that causes someone to go from _not this one_ or _not now_ to _yes, this one, now_. She _hires_ that product for a _job_.
+But according to the theory, there are bound to be common causes behind the motivations of your buyers. Those causes, the theory has a name for them. It calls them _jobs_. A buyer has a job to get done, an outcome she desires that is driven by a mix of reason and emotions, and it's the urgency of the job that causes someone to go from _not this one_ or _not now_ to _yes, this one, now_. She _hires_ that product for a _job_.
 
 1. She hired that scarf for the job of being noticed by the guy she has a crush on at work.
 2. He hired those two ebooks for the job of making sure he'll know more than his peers on the subject ahead of the seminar in October.
@@ -68,6 +68,6 @@ When you get a sense of the job for which people hire your product, you realize 
 
 So how do you find out the Job-To-Be-Done of your product? There's an interview technique that aims to trace back the story of the purchase. After talking with five to ten buyers, you get a pretty clear picture of the types of jobs your product was hired to do. [Reach out](mailto:pascal@pascallaliberte.me?subject=JTBD%20Interviews) if you'd like to learn more about that interview technique.
 
-Be on the lookout for articles in the next weeks for a deeper look at the Jobs-To-Be-Done Theory. We'll look at the **one universal competitor** for all of your products, the **forces at play in the mind** of your buyer, and what your buyer is **firing** when they're hiring your product.
+Be on the lookout for articles in the next weeks for a deeper look at the Jobs-To-Be-Done theory. We'll look at the **one universal competitor** for all of your products, the **forces at play in the mind** of your buyer, and what your buyer is **firing** when they're hiring your product.
 
 Stay sharp!

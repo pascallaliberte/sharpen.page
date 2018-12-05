@@ -33,7 +33,7 @@ In short:
 <mark>I help fix your hesitations about your product</mark>.
 {: .intro }
 
-See your situation listed? [Send me an email](mailto:pascal@pascallaliberte.me) to tell me what you're up against,
+See your situation listed? [Send me an email](mailto:pascal@pascallaliberte.me) to tell me what you're up against.
 {: .cta }
 
 ---
