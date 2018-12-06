@@ -15,7 +15,7 @@ Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I'm preparing a 
 
 As a side effect, you'll be more confident about the decisions you make about your product.
 
-Here's how to [send me an email](mailto:pascal@pascallaliberte.me) and I'll be glad to help you sharpen your product.
+Here's how to [contact me via email](mailto:pascal@pascallaliberte.me) and I'll be glad to help you sharpen your product.
 {: .cta }
 
 ## <mark>I can help if...</mark>
@@ -24,6 +24,11 @@ Here's how to [send me an email](mailto:pascal@pascallaliberte.me) and I'll be g
 * You have **made a number of sales of a SaaS or physical product** and would like to find out if there's a commonality to the buyers so you can tweak how you speak about your product and how you package it;
 * You see **some bizarre patterns in who buys your product** and you're tempted to change your marketing, but you want to understand these new buyers so you can avoid wasting your time and money, but the interviews you've placed haven't surfaced any insights;
 * You have **subscribers cancelling their subscription** and you'd like to know what caused them to switch away from your product;
+{: .home-jobs }
+
+See your situation listed? [Shoot me an email](mailto:pascal@pascallaliberte.me) to tell me what you're up against.
+{: .cta-interstitial }
+
 * You have been **building the wrong features** and you're looking to better understand what your buyers need so you can give the right direction to your product team;
 * You are **putting together a product** and you'd like more confidence on how to price it;
 * You are **getting more than 10,000 visits to your site** and would like to test out different marketing copy so you can see if you can increase your revenue;
@@ -33,9 +38,6 @@ Here's how to [send me an email](mailto:pascal@pascallaliberte.me) and I'll be g
 In short:  
 <mark>I help fix your hesitations about your product</mark>.
 {: .intro }
-
-See your situation listed? [Send me an email](mailto:pascal@pascallaliberte.me) to tell me what you're up against.
-{: .cta }
 
 ---
 
@@ -68,7 +70,7 @@ I'll take the time to understand your business deeply, I'll be thoughtful about 
 
 ## Interested in talking to me about your thing?
 
-[Send me a note](mailto:pascal@pascallaliberte.me) or sign up below to be notified for what's to come.
+[Contact me](mailto:pascal@pascallaliberte.me) or sign up below to be notified for what's to come.
 {: .cta }
 
 {% include email-sign-up-form.html %}
