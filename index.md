@@ -43,9 +43,12 @@ In short:
 
 ## I'll achieve this via these engagements:
 
-* **1-on-1 calls** to review your product approach (pricing, features, messaging);
-* **Buyer Interviews and Buyer Research** to uncover the job for which they hired your product, what they switched away from, and the emotional back-and-forth in their decision-making;
-* **Copywriting reviews and tweaks** with split-testing (A/B testing).
+* **Buyer Interviews and Buyer Research** to uncover the job for which they hired your product, what they switched away from, and the emotional back-and-forth in their decision-making. 5-10 buyer interviews will suffice for most products. Even a single interview is useful for uncovering what happened to land a big B2B contract;
+* **Copywriting reviews and tweaks** with split-testing (A/B testing);
+* **1-on-1 calls** to review your product approach (pricing, features, messaging).
+
+[Contact me](mailto:pascal@pascallaliberte.me) to move forward with one of these engagements. Tell me about your situation and I'll provide a proposal.
+{: .cta }
 
 ---
 
