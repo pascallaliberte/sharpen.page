@@ -59,9 +59,9 @@
     }
   }
   @media (min-width: $reference-width-xs-until) {
-    margin: rem(50px) 0;
-    padding-top: rem(20px);
-    padding-bottom: rem(20px);
+    margin: rem(20px) 0;
+    padding-top: rem(40px);
+    padding-bottom: rem(40px);
     margin-left: rem(50px);
     margin-right: rem(-50px);
     border-left: rem(4px) dashed transparentize($color-grey, 0.5);
