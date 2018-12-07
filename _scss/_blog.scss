@@ -68,6 +68,11 @@
       width: 100%;
       height: auto;
     }
+    
+    .job-statement {
+      font-family: $tertiary-font-family;
+      font-size: rem(30px);
+    }
   }
 
   @media (min-width: $reference-width-md-until) {

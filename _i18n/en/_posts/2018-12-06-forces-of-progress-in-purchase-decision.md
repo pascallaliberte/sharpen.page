@@ -5,7 +5,7 @@ categories: JTBD
 author: Pascal Laliberté
 ---
 
-Ever wonder what happens in the mind of a person the minute before they make the decision to buy something?
+Ever wonder what happens in the mind of a person right before they decide to buy something?
 
 Yesterday, when I sold two of my [monthly planners](https://breatherplanner.com) to a friend I was having lunch with, I saw a glimpse of what went through his mind.
 
@@ -17,16 +17,17 @@ Yesterday, when I sold two of my [monthly planners](https://breatherplanner.com)
 
 Two? What just happened there?
 
-The Jobs-To-Be-Done theory states that people don't buy products, they _hire_ a product for a _job_.
+**Quick primer:**  
+The [Jobs-To-Be-Done theory]({% post_url 2018-11-23-jobs-of-cryptocurrencies %}) states that people don't buy products, they _hire_ a product for a _job_.
 {: .primer }
 
-I had created the monthly planner for this job: _When I have a lot going on and I'm tired of typing, on a phone, I look for a no-fluff way to see the full month so I can freely just write and see what's coming_.
+I had created the monthly planner for the following job: _When I have a lot going on and I'm tired of typing on a phone, I look for a no-fluff way to see the full month so I can freely just write and see what's coming._
 
 But it was for a different job that he hired those two planners.
 
 "One for my girlfriend, and one for my mom".
 
-At that point I understood that he had probably hired those planners for the _job of crossing off Christmas shopping off his list_.
+At that point I understood that he had probably hired those planners for the job of _crossing off Christmas shopping off his list_.
 
 But there was still a hesitation, a pause, a moment of reflection right before the purchase. What went on in his mind? What made him go for it?
 
@@ -40,7 +41,7 @@ The top two forces bring the buyer toward the purchase, toward saying _yes, this
 
 The two bottom forces bring the buyer away from the purchase, putting a break on the purchasing momentum, toward the purchaser saying either _not this_ or _not now_.
 
-### In the top right: Attraction to the Solution
+### In the Top Right: Attraction to the Solution
 
 The product has appealing properties, and its fit to the job is apparent. It's attracting the buyer toward purchase.
 
@@ -55,7 +56,7 @@ The Attraction force pulls the buyer toward the purchase, toward hiring the prod
 
 But there's a force that started the whole purchasing process, and that one is:
 
-### In the top left: Struggle of the Moment
+### In the Top Left: Struggle of the Moment
 
 * I'm running out of time for my Christmas shopping
 * I don't have any ideas for my girlfriend of my wife yet
@@ -64,7 +65,7 @@ The force that starts the purchasing engine is the first one: the Struggle. It p
 
 If there were only these two forces, most purchases would be pretty automatic. But there are two other forces which put the breaks on the purchase momentum.
 
-### In the bottom right: Anxieties About The Solution
+### In the Bottom Right: Anxieties About The Solution
 
 * My girlfriend might not use it
 * How is this planner going to wear over the year?
@@ -78,13 +79,13 @@ Price is usually a point of anxiety about a product. Since there are usually oth
 
 Anxieties aren't the biggest drag on the purchase momentum. This last force is:
 
-### In the bottom left: Habits of the present.
+### In the Bottom Left: Habits of the present.
 
 Habits are strong things to change in a person. A buyer will prefer not doing anything over doing something. He will prefer his inefficient cobbled-together process over buying some software to smooth out the process and make it more efficient. He just won't be upgrading his drill to a new model if the old one does the job, even if the new model has many attractive features.
 
 "I will just...": these are the words that end up pulling back the buyer into not buying the product, into ultimately saying _not this_ or _not now_.
 
-The force of the Habits of the Present are essentially the buyer's fallback position. The place of highest entropy. It's where the real purchase friction comes from.
+The force of the _Habits of the Present_ are essentially the buyer's fallback position. The place of highest entropy. It's where the real purchase friction comes from.
 
 In the case of my friend and his Christmas shopping, there might have been these elements to his fallback position:
 
@@ -107,6 +108,6 @@ These forces are at play not only when selling a product, but when selling just 
 
 Even if your product is free, there are still forces at play, pushing and pulling in the mind of the person making that decision to go ahead with what you're offering.
 
-If you you'd like to uncover the forces that were at play in the purchase of your own product or service. [Reach out](mailto:pascal@pascallaliberte.me?subject=JTBD%20Interviews). I've got a special interview technique to use when talking to your recent buyers.
+If you'd like to uncover the forces that were at play in the purchase of your own product or service. [Reach out](mailto:pascal@pascallaliberte.me?subject=JTBD%20Interviews). I've got a special interview technique to use when talking to your recent buyers.
 
 Stay sharp.
