@@ -1,39 +1,44 @@
 ---
 layout: post
 title: "Purchase Decisions: The Four Forces at Play"
-author: Pascal Laliberté
 categories: JTBD
+author: Pascal Laliberté
 ---
 
-Ever wonder what happens in the mind of a person the minute before they make that decision to buy something?
+Ever wonder what happens in the mind of a person the minute before they make the decision to buy something?
 
 Yesterday, when I sold two of my [monthly planners](https://breatherplanner.com) to a friend I was having lunch with, I saw a glimpse of what went through his mind.
 
-> This is some nice quality paper. There's plenty of space for extra notes. I still haven't found a gift for my girlfriend and my mom.
+* This is some nice quality paper.
+* There's plenty of space for extra notes.
+* I'm not sure if this is a good idea...
 
 "I'll buy two".
 
-What just happened there? I hadn't planned on selling him these planners over lunch. I was just telling the story of this product I had built, following up on a question he had and showing him a copy.
-
-He didn't seem the type to want to use paper for his schedule -- like most people, the phone does the job just fine -- and we were just having a conversation about the product. He didn't seem to have the need for a paper-based monthly planner.
-
-But he hired those two planners for a different job.
+Two? What just happened there?
 
 The Jobs-To-Be-Done theory states that people don't buy products, they _hire_ a product for a _job_.
+{: .primer }
 
-My friend, I presume, had hired those planners for the _job of crossing off Christmas shopping off his list_.
+I had created the monthly planner for this job: _When I have a lot going on and I'm tired of typing, on a phone, I look for a no-fluff way to see the full month so I can freely just write and see what's coming_.
 
-But there was a hesitation, a pause, a moment of reflection right before the purchase.
+But it was for a different job that he hired those two planners.
+
+"One for my girlfriend, and one for my mom".
+
+At that point I understood that he had probably hired those planners for the _job of crossing off Christmas shopping off his list_.
+
+But there was still a hesitation, a pause, a moment of reflection right before the purchase. What went on in his mind? What made him go for it?
 
 ## The Four Forces of Progress
 
-[Diagram of the four forces, empty, unmarked]
-
 The Re-Wired group came up with the Forces of Progress tool. It's a diagram of four forces that are at play in the mind of the buyer.
+
+![Forces Diagram](/assets/images/posts/2018-12-06-forces-of-progress-diagram-01.svg)
 
 The top two forces bring the buyer toward the purchase, toward saying _yes, this, now_. 
 
-The bottom two forces bring the buyer away from the purchase, putting a break on the purchasing momentum, toward the purchaser saying either _not this_ or _not now_.
+The two bottom forces bring the buyer away from the purchase, putting a break on the purchasing momentum, toward the purchaser saying either _not this_ or _not now_.
 
 ### In the top right: Attraction to the Solution
 
@@ -91,6 +96,8 @@ In the case of my friend and his Christmas shopping, there might have been these
 Habits are the most influential force in the mind of the buyer, the thing that most pulls back from the purchase.
 
 All the other forces have to compensate for the pull of that gravity well.
+
+## All Together, The Four Forces at Play in the Decision
 
 If all the forces check out, you've got a sale. If the top forces are stronger than the bottom forces, you've got a sale. If the bottom forces are stronger than the top forces, you don't have a sale.
 
