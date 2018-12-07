@@ -3,6 +3,7 @@ layout: post
 title: "Purchase Decisions: The Four Forces at Play"
 categories: JTBD
 author: Pascal Laliberté
+image: 2018-12-06-forces-of-progress-in-purchase-decision.jpg
 ---
 
 Ever wonder what happens in the mind of a person right before they decide to buy something?
