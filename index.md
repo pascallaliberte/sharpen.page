@@ -11,7 +11,7 @@ A service to help fix your moments of hesitation about your product, based on th
 
 ---
 
-Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I'm preparing a service to help you sharpen that product or service you've got. I'll help you make it more tuned to <mark>help your customer progress on what they're trying to get progress on</mark>, more distinctive, more incisive, and, well, <mark>more sharp</mark>.
+Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I can help you sharpen that product or service offering. I'll help you make it more tuned to <mark>help your customer progress on what they're trying to get progress on</mark>, more distinctive, more incisive, and, well, <mark>more sharp</mark>.
 
 As a side effect, you'll be more confident about the decisions you make about your product.
 
