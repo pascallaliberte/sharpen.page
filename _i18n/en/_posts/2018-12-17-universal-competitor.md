@@ -27,7 +27,7 @@ Let's say you sell plants, the kind of plants that people buy to make a nice gar
 
 According to the [Jobs-To-Be-Done lens][jtbd], people don't just buy your plants, they _hire_ your plants for a few specific _jobs_. The job of making a flowerbed. The job of giving a house-warming gift.
 
-In the mind of the purchaser, there are [four _forces_][fourforces] at play, pushing or pulling, tugging toward making a purchase or putting a break on the purchase.
+In the mind of the purchaser, there are [four forces][fourforces] at play, pushing or pulling, tugging toward making a purchase or putting a break on the purchase.
 
 ![Forces Diagram](/assets/images/posts/2018-12-06-forces-of-progress-diagram-01.svg)
 
@@ -48,23 +48,23 @@ It's also commonly called by this other term:
 
 ## Non-consumption
 
-What happens when a buyer decides not to go with a sale? They decide to not consume.
+What happens when a buyer decides not to go with a sale? **They decide not to consume**.
 
-More than any of your other similarly-packaged competing product, the non-consumption decision accounts for the vast amount of the purchase decisions.
+More than any of the other similarly-packaged competing products in your category, the non-consumption decision accounts for the vast amount of purchase decisions.
 
-What's more, many people don't really want to analyze competing offerings. It causes stress to having too many competing alternatives to compare. Your product might be fine, but if it's amongst other similar alternatives on the same shelf, **the other competitors will cause the buyer to say "too bad, I'm not buying any of them."**
+What's more, many people don't really want to analyze competing offerings. It causes stress to compare too many competing alternatives. Your product might be fine, but if it's amongst other similar alternatives on the same shelf, **the other competitors will cause the buyer to say "too bad, I'm not buying any of them."**
 
 Non-consumption is what you're competing against. 
 
-## Two plans
+## Two plans:
 
-### Plan A for beating non-consumption
+### Plan A for beating non-consumption:
 
 1. Find a job that no product or service serves well, where there's a lot of non-consumption;
 2. Create the product or service that will serve it just well enough for people to blast through the top two forces, produces few anxieties and is way better than what people would "just do" instead of buying;
 3. You have a product that will sell.
 
-### Plan B for beating non-consumption
+### Plan B for beating non-consumption:
 
 1. Take your existing product;
 2. Figure out what job people hire your product to do ([reach out if you need help with this][email]);
