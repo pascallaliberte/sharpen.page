@@ -9,15 +9,15 @@ image: 2018-12-06-forces-of-progress-in-purchase-decision.jpg
 There's a universal competitor that every product is competing with. Every service competes against this competitor too.
 
 * Your big enterprise software **has this competitor**;
-* Your small subscription software has this competitor;
-* Your personal care product has this competitor;
-* Your book has this competitor;
-* Your productivity product has this competitor;
-* Your drill, your phone accessory, your utensil, your commoditized low-price product has this competitor;
-* Your custom design service has this competitor, and your productized service offering has this competitor.
-* You develop web sites? You make a living doing something that has no competition? Your product ticks every box in the Blue Ocean Strategy? You're in a "market of one"? You got this competitor too.
+* Your small subscription software **has this competitor**;
+* Your personal care product **has this competitor**;
+* Your book **has this competitor**;
+* Your productivity product **has this competitor**;
+* Your drill, your phone accessory, your utensil, your commoditized low-price product **has this competitor**;
+* Your custom design service has this competitor, and your productized service offering **has this competitor**.
+* You develop web sites? You make a living doing something that has no competition? Your product ticks every box in the Blue Ocean Strategy? You're in a "market of one"? **You've got this competitor too**.
 
-That competitor is universal, every product has it, every service offering has it.
+This competitor is universal, every product has it, every service offering has it.
 
 Nobody talks about it.
 
