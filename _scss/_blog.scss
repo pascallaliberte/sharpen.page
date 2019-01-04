@@ -73,6 +73,8 @@
       font-family: $tertiary-font-family;
       font-size: rem(30px);
     }
+    
+    position: relative;
   }
 
   @media (min-width: $reference-width-md-until) {
@@ -142,6 +144,28 @@
       margin: rem(2em -40px);
       padding: rem(40px);
       transform: rotateZ(-1deg) perspective(80rem) rotateX(0.5deg);
+    }
+  }
+  
+  aside {
+    position: relative;
+    
+    .force {
+      opacity: 0.7;
+      
+      @media (max-width: $reference-width-md-until) {
+        border-left: rem(2px) dashed transparentize($text-color, 0.2);
+        padding-left: rem(15px);
+      }
+      
+      @media (min-width: ($reference-width-md-until + 1px)) {
+        position: absolute;
+        width: rem(250px);
+        right: calc(100% + 6rem);
+        bottom: 0;
+        border-right: rem(2px) dashed transparentize($text-color, 0.2);
+        padding-right: rem(10px);
+      }
     }
   }
   
