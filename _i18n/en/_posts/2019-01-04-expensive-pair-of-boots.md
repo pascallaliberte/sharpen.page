@@ -6,7 +6,7 @@ author: Pascal Laliberté
 image: 2019-01-04-expensive-pair-of-boots.jpg
 ---
 
-Let's say you make expensive winter boots. You're wondering what you'll focus on for the next two years. Should we diversify our product line? Should we change our marketing? Should we create a low-price entry-level boot? What we have right now, it it working?
+Let's say you make expensive winter boots. You're wondering what you'll focus on for the next two years. Should we diversify our product line? Should we change our marketing? Should we create a low-price entry-level boot? What we have right now, is it working?
 
 I [interviewed][purchase-interview] a friend who bought a $450 pair of winter boots. I wanted to find out the [_job_][jtbd-intro] for which he had _hired_ those boots, and I wanted to find out the [forces that were at play in his mind][four-forces] as he made his decision. Surely, there was something to this purchase. Who pays $450 for a pair of winter boots?
 
@@ -51,7 +51,7 @@ In Toronto, he was living and working downtown, and the winters weren't so tough
 But in Ottawa, he had to walk to get to work in different kinds of weather. Ottawa was going to be a different kind of winter.
 
 <aside markdown="1" title="Force of Progress">
-⚬→ **Struggle of the moment:** Ottawa was going to be a different kind of winter.
+⚬→ **Struggle of the moment:** Ottawa is going to be a different kind of winter.
 {: .force }
 </aside>
 
@@ -64,7 +64,7 @@ It was November, on a Sunday, when the first thought occurred that he should fin
 It was manufactured in the States, in a small factory ("not too automated") with leather sourced from Mexico. It was a low-maintenance boot ("I hate polishing") and was stylish enough to wear a dress shirt with it.
 
 <aside markdown="1" title="Force of Progress">
-→⚬ **Attraction to the solution:** Can wear a dress shirt with it, low maintenance, not made in an automated factory.
+→⚬ **Attraction to the solution:** I can wear a dress shirt with it, low maintenance, not made in an automated factory.
 {: .force }
 </aside>
 
@@ -105,7 +105,7 @@ Although there was another boot he was considering buying, there was always anot
 For my friend, these boots were competing with him thinking about winter, **becoming an expert in winter**. He wanted to spend this winter thinking about his career, not thinking about the logistics of winter. In the morning, what boot should he wear? That one? Is it raining? Is sleet coming down from the sky? Who cares! With these new boots, he's thinking about work, not about winter.
 
 <aside markdown="1" title="Force of Progress">
-⚬→ **Struggle of the moment:** I don't want to think each day, about what kind of winter it's going to be that day
+⚬→ **Struggle of the moment:** I don't want to think, each day, about what kind of winter it's going to be that day
 {: .force }
 </aside>
 
