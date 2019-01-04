@@ -30,7 +30,7 @@ He hired that specific pair of boots for a specific job.
 
 ## The Interview Digs Up the Story
 
-The interview technique comes from Bob Moesta and Chris Spiek from the Re-Wired group. Instead of focusing on the product. It focuses the attention on the _story_ of the purchase.
+The interview technique comes from Bob Moesta and Chris Spiek from the Re-Wired group. Instead of focusing on the product, it focuses the attention on the _story_ of the purchase.
 
 Instead of asking the buyer the reasons of his purchase, the interview focuses on questions about the _context_ of the purchase. What preceded the purchase? When did the purchase occur? What happened right before that? When was the first time the buyer thought about the problem?
 
@@ -70,7 +70,7 @@ It was manufactured in the States, in a small factory ("not too automated") with
 
 "The stitches are unfastened. You can see straggling thread sometimes."
 
-He had starting actively looking for boots the Monday after that cold Sunday (searched for [top 10 winter boots] in Google). A week in, he had settled on two boots. He watched videos he found about how the boot was made by these two different companies, how they took care of making the boots and sweating the details. Watching the videos tipped the scales in favour of one boot.
+He had actively started looking for boots the Monday after that cold Sunday (searched for [top 10 winter boots] in Google). A week in, he had settled on two boots. He watched videos he found about how the boot was made by these two different companies, how they took care of making the boots and sweating the details. Watching the videos tipped the scales in favour of one boot.
 
 <aside markdown="1" title="Force of Progress">
 →⚬ **Attraction to the solution:** This boot maker sweats the details.
