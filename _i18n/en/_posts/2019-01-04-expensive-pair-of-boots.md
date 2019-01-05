@@ -50,10 +50,7 @@ In Toronto, he was living and working downtown, and the winters weren't so tough
 
 But in Ottawa, he had to walk to get to work in different kinds of weather. Ottawa was going to be a different kind of winter.
 
-<aside markdown="1" title="Force of Progress">
-⚬→ **Struggle of the moment:** Ottawa is going to be a different kind of winter.
-{: .force }
-</aside>
+{% include components/aside-struggle.html text="Ottawa is going to be a different kind of winter." %}
 
 ## Researching the Boot
 
@@ -63,19 +60,13 @@ It was November, on a Sunday, when the first thought occurred that he should fin
 
 It was manufactured in the States, in a small factory ("not too automated") with leather sourced from Mexico. It was a low-maintenance boot ("I hate polishing") and was stylish enough to wear a dress shirt with it.
 
-<aside markdown="1" title="Force of Progress">
-→⚬ **Attraction to the solution:** I can wear a dress shirt with it, low maintenance, not made in an automated factory.
-{: .force }
-</aside>
+{% include components/aside-attraction.html text="I can wear a dress shirt with it, low maintenance, not made in an automated factory." %}
 
 "The stitches are unfastened. You can see straggling thread sometimes."
 
 He had actively started looking for boots the Monday after that cold Sunday (searched for [top 10 winter boots] in Google). A week in, he had settled on two boots. He watched videos he found about how the boot was made by these two different companies, how they took care of making the boots and sweating the details. Watching the videos tipped the scales in favour of one boot.
 
-<aside markdown="1" title="Force of Progress">
-→⚬ **Attraction to the solution:** This boot maker sweats the details.
-{: .force }
-</aside>
+{% include components/aside-attraction.html text="This boot maker sweats the details." %}
 
 Obviously, my friend cared about the details of how a boot was made. The level of craftsmanship mattered. But he was shopping for a boot without having tried it first (but the online reviews were good). He was researching for a boot like he was researching for a car. 
 
@@ -91,10 +82,7 @@ It turns out that his research wanted to spot some details about the boot that w
 
 **He hired these specific boots for the job of not having to become an expert about winter**. This boot maker had convinced him that they knew all of the variables about winter so he didn't have to learn them all. Through those videos and through the online reviews, this company proved to him they thought more about winter than anyone else did.
 
-<aside markdown="1" title="Force of Progress">
-→⚬ **Attraction to the solution:** This boot maker thought about winter more than anyone else, so I don't have to.
-{: .force }
-</aside>
+{% include components/aside-attraction.html text="This boot maker thought about winter more than anyone else, so I don't have to." %}
 
 Which begs the question: what was the real competitor for these boots?
 
@@ -104,19 +92,13 @@ Although there was another boot he was considering buying, there was always anot
 
 For my friend, these boots were competing with him thinking about winter, **becoming an expert in winter**. He wanted to spend this winter thinking about his career, not thinking about the logistics of winter. In the morning, what boot should he wear? That one? Is it raining? Is sleet coming down from the sky? Who cares! With these new boots, he's thinking about work, not about winter.
 
-<aside markdown="1" title="Force of Progress">
-⚬→ **Struggle of the moment:** I don't want to think, each day, about what kind of winter it's going to be that day
-{: .force }
-</aside>
+{% include components/aside-struggle.html text="I don't want to think, each day, about what kind of winter it's going to be that day" %}
 
 **These boots were competing with being an expert at his career.**
 
 **He rewarded** (with a hefty amount of money) **the company** that made it their career to think about winter so that he could make it _his_ career to think about _his_ own work.
 
-<aside markdown="1" title="Force of Progress">
-⚬← **Habits of the present:** I'll just adapt to winter each day (actually, no way!)
-{: .force }
-</aside>
+{% include components/aside-habits.html text="I'll just adapt to winter each day (actually, no way!)" %}
 
 ## Being the Manufacturer
 

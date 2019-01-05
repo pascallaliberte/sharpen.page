@@ -166,6 +166,62 @@
         border-right: rem(2px) dashed transparentize($text-color, 0.2);
         padding-right: rem(10px);
       }
+      
+      .force-icon {
+        font-style: normal;
+        
+        span {
+          @include sr-only();
+          position: absolute;
+        }
+        
+        display: inline-block;
+        height: 1em;
+        width: 2.2em;
+        position: relative;
+        
+        top: rem(3px);
+        left: rem(-2px);
+        margin-right: rem(-5px);
+        
+        &::after {
+          position: absolute;
+          content: '';
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: contain;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+        }
+        
+        @media (min-width: ($reference-width-md-until + 1px)) {
+          display: block;
+          margin-top: -1.3em;
+          margin-bottom: 0.3em;
+        }
+      }
+      
+      .force-icon-struggle::after {
+        background-image: url(/assets/images/icons/icon-struggle.svg);
+      }
+      .force-icon-attraction::after {
+        background-image: url(/assets/images/icons/icon-attraction.svg);
+      }
+      .force-icon-anxieties::after {
+        background-image: url(/assets/images/icons/icon-anxieties.svg);
+      }
+      .force-icon-habits::after {
+        background-image: url(/assets/images/icons/icon-habits.svg);
+      }
+      
+      p {
+        margin: 0;
+        @media (min-width: ($reference-width-md-until + 1px)) {
+          display: inline;
+        }
+      }
     }
   }
   
