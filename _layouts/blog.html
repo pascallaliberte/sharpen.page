@@ -6,7 +6,7 @@ class: blog
   
   <h1>{{ page.title }}</h1>
   
-  <ol>
+  <ol reversed>
   {% for post in site.posts %}
     <li>
       <a class="blog__link" href="{{ post.url | relative_url }}">
