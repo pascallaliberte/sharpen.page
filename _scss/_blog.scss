@@ -1,7 +1,4 @@
 .blog {
-  @include container($container-padding);
-  margin-top: 60px;
-
   &__post {
 
     padding: 0 $container-padding;
@@ -52,31 +49,7 @@
   }
 }
 
-
-.post {
-  
-  .main-content {
-    p {
-      font-size: rem(18px)
-    }
-    
-    h2 {
-      font-size: rem(22px);
-    }
-    
-    img {
-      width: 100%;
-      height: auto;
-    }
-    
-    .job-statement {
-      font-family: $tertiary-font-family;
-      font-size: rem(30px);
-    }
-    
-    position: relative;
-  }
-
+.post, .blog {
   @media (min-width: $reference-width-md-until) {
     main {
       display: flex;
@@ -106,6 +79,32 @@
         font-size: rem(28px);
       }
     }  
+  }
+}
+
+
+.post {
+  
+  .main-content {
+    p {
+      font-size: rem(18px)
+    }
+    
+    h2 {
+      font-size: rem(22px);
+    }
+    
+    img {
+      width: 100%;
+      height: auto;
+    }
+    
+    .job-statement {
+      font-family: $tertiary-font-family;
+      font-size: rem(30px);
+    }
+    
+    position: relative;
   }
 
   color: $color-secondary;

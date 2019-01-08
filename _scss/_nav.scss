@@ -93,7 +93,7 @@
       top: rem(5px);
     }
     
-    &.on-post {
+    &.on-post, &.on-blog {
       transform: scale(0.84985835694051);
       margin-bottom: rem(-50px);
       @media (max-width: $reference-width-xs-until) {
