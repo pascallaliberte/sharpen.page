@@ -60,7 +60,7 @@ But there's a force that started the whole purchasing process, and that one is:
 ### In the Top Left: Struggle of the Moment
 
 * I'm running out of time for my Christmas shopping
-* I don't have any ideas for my girlfriend of my wife yet
+* I don't have any ideas for my girlfriend or my wife yet
 
 The force that starts the purchasing engine is the first one: the Struggle. It propels the buyer into action, into getting off her chair and doing something. There's an element of urgency that develops. There's an itch that just keeps scratching.
 
