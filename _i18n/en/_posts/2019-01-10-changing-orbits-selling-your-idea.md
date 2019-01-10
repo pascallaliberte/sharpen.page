@@ -33,10 +33,11 @@ In the process of discerning a purchase, there are four forces at play in the mi
 
 ![Forces Diagram](/assets/images/posts/2018-12-06-forces-of-progress-diagram-01.svg)
 
-* **The Struggle of the Moment** pushes you off your chair toward action.
-* **The Attraction to the Solution** pulls you toward the product or solution or idea.
-* **The Anxieties of the Solution** push you away from the product or solution or idea.
-* **The Habits of the Present** pull you back to your current current situation, back to your gravity well.
+* **{% include components/icon-struggle.html %} The Struggle of the Moment** pushes you off your chair toward action.
+* **{% include components/icon-attraction.html %} The Attraction to the Solution** pulls you toward the product or solution or idea.
+* **{% include components/icon-anxieties.html %} The Anxieties of the Solution** push you away from the product or solution or idea.
+* **{% include components/icon-habits.html %} The Habits of the Present** pull you back to your current current situation, back to your gravity well.
+{: .forces }
 
 If the first two forces are greater than the last two forces, you've got a sale. If not, the user goes back to their gravity well. No sale. No change. No changing orbits.
 
@@ -48,16 +49,17 @@ When your client is set in their ways and they won't take your advice, that's be
 
 Your teenage kid is asserting her independence and not taking your ideas? It's not yet the right moment.
 
-But the time will eventually come. One day, there will be a struggle that will push the person forward, give them momentum. That's when your idea might become attractive, create fewer anxieties, and truly be better than not changing anything at all.
+But the time will eventually come. One day, there will be a struggle that will push the person forward {% include components/icon-struggle.html %}, give them momentum. That's when your idea might become attractive {% include components/icon-attraction.html %}, create fewer anxieties {% include components/icon-anxieties.html %}, and truly be better than not changing anything at all.
 
 ## Mapping Out the Forces
 
 While you're waiting for that person to be ready, map out the forces:
 
-* **Struggle of the moment:** Right now, what is the person struggling with?
-* **Attraction to the solution:** What's attractive about what you're proposing? 
-* **Anxieties about the solution:** What is causing some form of anxiety or hesitation about what you're proposing?
-* **Habits of the present:** What will the person revert back to instead of going with what you're proposing?
+* **{% include components/icon-struggle.html %} Struggle of the moment:**<br>Right now, what is the person struggling with?
+* **{% include components/icon-attraction.html %} Attraction to the solution:**<br>What's attractive about what you're proposing? 
+* **{% include components/icon-anxieties.html %} Anxieties about the solution:**<br>What is causing some form of anxiety or hesitation about what you're proposing?
+* **{% include components/icon-habits.html %} Habits of the present:**<br>What will the person revert back to instead of going with what you're proposing?
+{: .forces }
 
 Continue doing that exercise until you get a clear sense of what's happening. At some point, the forces are going to check out, and it'll be time to make a strong proposal. 
 
