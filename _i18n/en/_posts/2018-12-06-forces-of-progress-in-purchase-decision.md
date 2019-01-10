@@ -46,12 +46,13 @@ The two bottom forces bring the buyer away from the purchase, putting a break on
 
 The product has appealing properties, and its fit to the job is apparent. It's attracting the buyer toward purchase.
 
-* Nice paper!
-* There's extra space for notes
-* My girlfriend and my mom will love this
-* It's unique, you can't buy it in stores
-* I'll be able to cross off these gifts from my Christmas list
-* The price is fair
+* {% include components/icon-attraction.html %} Nice paper!
+* {% include components/icon-attraction.html %} There's extra space for notes
+* {% include components/icon-attraction.html %} My girlfriend and my mom will love this
+* {% include components/icon-attraction.html %} It's unique, you can't buy it in stores
+* {% include components/icon-attraction.html %} I'll be able to cross off these gifts from my Christmas list
+* {% include components/icon-attraction.html %} The price is fair
+{: .forces }
 
 The Attraction force pulls the buyer toward the purchase, toward hiring the product.
 
@@ -59,8 +60,9 @@ But there's a force that started the whole purchasing process, and that one is:
 
 ### In the Top Left: Struggle of the Moment
 
-* I'm running out of time for my Christmas shopping
-* I don't have any ideas for my girlfriend or my wife yet
+* {% include components/icon-struggle.html %} I'm running out of time for my Christmas shopping
+* {% include components/icon-struggle.html %} I don't have any ideas for my girlfriend or my wife yet
+{: .forces }
 
 The force that starts the purchasing engine is the first one: the Struggle. It propels the buyer into action, into getting off her chair and doing something. There's an element of urgency that develops. There's an itch that just keeps scratching.
 
@@ -68,9 +70,10 @@ If there were only these two forces, most purchases would be pretty automatic. B
 
 ### In the Bottom Right: Anxieties About The Solution
 
-* My girlfriend might not use it
-* How is this planner going to wear over the year?
-* Are my girlfriend and my mom going to be okay with the colour?
+* {% include components/icon-anxieties.html %} My girlfriend might not use it
+* {% include components/icon-anxieties.html %} How is this planner going to wear over the year?
+* {% include components/icon-anxieties.html %} Are my girlfriend and my mom going to be okay with the colour?
+{: .forces }
 
 In the case of the sale of these two monthly planners, there didn't seem to be too many objections, or too many things that made my friend anxious about the solution. The struggle was felt, the product did the job well and its features supported that job. Easy sale.
 
@@ -90,10 +93,11 @@ The force of the _Habits of the Present_ are essentially the buyer's fallback po
 
 In the case of my friend and his Christmas shopping, there might have been these elements to his fallback position:
 
-* I'll just continue shopping, I'll find something else
-* I had other ideas on my list
-* I'll figure something out
-* I still got time
+* {% include components/icon-habits.html %} I'll just continue shopping, I'll find something else
+* {% include components/icon-habits.html %} I had other ideas on my list
+* {% include components/icon-habits.html %} I'll figure something out
+* {% include components/icon-habits.html %} I still got time
+{: .forces }
 
 Habits are the most influential force in the mind of the buyer, the thing that most pulls back from the purchase.
 

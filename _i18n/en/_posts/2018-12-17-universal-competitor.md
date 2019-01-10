@@ -31,16 +31,17 @@ In the mind of the purchaser, there are [four forces][fourforces] at play, pushi
 
 ![Forces Diagram](/assets/images/posts/2018-12-06-forces-of-progress-diagram-01.svg)
 
-1. The _Struggle of the moment_ propels the person to start getting organized to get a job done. **"It's almost the end of the summer, and this year I'd like to try picking out bulbs to plant so they come out in the spring and stay every year, and I'll up my flowerbed game"**. So the person starts the process and falls on a product or two that have attractive aspects to them. The second force picks up...
-2. The _Attraction of the solution_ force is caused by the properties of a particular product (solution) that catches the initial momentum, and seduces the buyer into finishing up and making the purchase. **"These plants would look great in the spring."** The problem is that there's a doubt that creeps in. The third force comes in and puts the break on the momentum.
-3. The _Anxieties of the solution_ force is caused by the properties of the product that seem off, not quite appropriate, causing pause. **"It says here that I need full sun for these. How high will these grow? Any specific kind of soil for these ones?"**. These could include the price of the item, but in this example, the price didn't create the anxiety. It was all these other aspects. So much momentum was lost that the fall comes and goes and the final force kicked in.
-4. The _Habits of the present_ force is the one that pulls the buyer way back into familiar territory. "It's too complicated. I can't figure this stuff out. I can't spend a ton of time. I don't want to hire a florist." Those were the thoughts that came up after the anxieties surfaced. And then the habits come up in their mind: **"I won't go with perennial flowers for next year. I'll just continue with annuals."**
+1. The _Struggle of the moment_ propels the person to start getting organized to get a job done. **{% include components/icon-struggle.html %} "It's almost the end of the summer, and this year I'd like to try picking out bulbs to plant so they come out in the spring and stay every year, and I'll up my flowerbed game"**. So the person starts the process and falls on a product or two that have attractive aspects to them. The second force picks up...
+2. The _Attraction of the solution_ force is caused by the properties of a particular product (solution) that catches the initial momentum, and seduces the buyer into finishing up and making the purchase. **{% include components/icon-attraction.html %} "These plants would look great in the spring."** The problem is that there's a doubt that creeps in. The third force comes in and puts the break on the momentum.
+3. The _Anxieties of the solution_ force is caused by the properties of the product that seem off, not quite appropriate, causing pause. **{% include components/icon-anxieties.html %} "It says here that I need full sun for these. How high will these grow? Any specific kind of soil for these ones?"**. These could include the price of the item, but in this example, the price didn't create the anxiety. It was all these other aspects. So much momentum was lost that the fall comes and goes and the final force kicked in.
+4. The _Habits of the present_ force is the one that pulls the buyer way back into familiar territory. "It's too complicated. I can't figure this stuff out. I can't spend a ton of time. I don't want to hire a florist." Those were the thoughts that came up after the anxieties surfaced. And then the habits come up in their mind: **{% include components/icon-habits.html %} "I won't go with perennial flowers for next year. I'll just continue with annuals."**
 
 "I'll just". The usual habits of the person are the super-massive black hole of the sale, the gravity well you need to fight against in order to get lift-off and change orbit.
 
-* "I'll just continue doing stuff by hand"
-* "I'll just borrow a drill from my neighbour"
-* "I'll just figure it out by myself"
+* {% include components/icon-habits.html %} "I'll just continue doing stuff by hand"
+* {% include components/icon-habits.html %} "I'll just borrow a drill from my neighbour"
+* {% include components/icon-habits.html %} "I'll just figure it out by myself"
+{: .forces }
 
 **"I'll just" is your product's biggest competitor.** It's the force with the strongest pull out of the four forces.
 
