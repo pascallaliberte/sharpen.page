@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="572" height="372" viewBox="0 0 572 372">
+  <defs>
+    <rect id="2019-01-10-changing-orbits-selling-your-idea-01-a" width="572" height="372" rx="3"/>
+    <rect id="2019-01-10-changing-orbits-selling-your-idea-01-c" width="572" height="372" rx="3"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="2019-01-10-changing-orbits-selling-your-idea-01-b" fill="#fff">
+      <use xlink:href="#2019-01-10-changing-orbits-selling-your-idea-01-a"/>
+    </mask>
+    <rect width="567" height="367" x="2.5" y="2.5" stroke="#979797" stroke-width="5" rx="3"/>
+    <path stroke="#979797" stroke-dasharray="12" stroke-width="3" d="M200.5,342 C285.275709,342 354,273.275709 354,188.5 C354,103.724291 285.275709,35 200.5,35 C115.724291,35 47,103.724291 47,188.5 C47,273.275709 115.724291,342 200.5,342 Z" mask="url(#2019-01-10-changing-orbits-selling-your-idea-01-b)" opacity=".366"/>
+    <path stroke="#605AA4" stroke-dasharray="15" stroke-width="5" d="M200.5,396 C315.099086,396 408,303.099086 408,188.5 C408,73.9009144 315.099086,-19 200.5,-19 C85.9009144,-19 -7,73.9009144 -7,188.5 C-7,303.099086 85.9009144,396 200.5,396 Z" mask="url(#2019-01-10-changing-orbits-selling-your-idea-01-b)" opacity=".366"/>
+    <circle cx="201" cy="189" r="63" fill="#F4FF10" fill-opacity=".5" stroke="#FFF" stroke-width="8" mask="url(#2019-01-10-changing-orbits-selling-your-idea-01-b)"/>
+    <circle cx="321.5" cy="96.5" r="10.5" fill="#C7C6D8" mask="url(#2019-01-10-changing-orbits-selling-your-idea-01-b)"/>
+    <mask id="2019-01-10-changing-orbits-selling-your-idea-01-d" fill="#fff">
+      <use xlink:href="#2019-01-10-changing-orbits-selling-your-idea-01-c"/>
+    </mask>
+    <rect width="567" height="367" x="2.5" y="2.5" stroke="#979797" stroke-width="5" rx="3"/>
+    <path fill="#938FC2" d="M361.04858,91 L358,87.8791739 L361.789372,84 L374,96.5 L361.789372,109 L358,105.120826 L362.02543,101 L337,101 L337,91 L361.04858,91 Z M366,96.0687608 L366,96.9312392 L366.421256,96.5 L366,96.0687608 Z" mask="url(#2019-01-10-changing-orbits-selling-your-idea-01-d)"/>
+  </g>
+</svg>

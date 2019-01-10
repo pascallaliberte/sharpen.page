@@ -3,6 +3,7 @@ layout: post
 title: "Changing Orbit: Selling Your Idea"
 categories: jtbd
 author: Pascal Laliberté
+image: 2019-01-10-changing-orbits-selling-your-idea.jpg
 ---
 
 Clients, Customers, Patrons and Followers.  
@@ -10,6 +11,8 @@ Business Partners, Colleagues, Execs and Bosses.
 Your Parents, Your Spouse, and especially your Kids.
 
 All the people you interact with, each one is orbiting a set of ideas: their own.
+
+![Changing Orbits](/assets/images/posts/2019-01-10-changing-orbits-selling-your-idea-01.svg)
 
 That set of ideas? That's their home base, their comfort zone, their star system. It has a strong attraction, a strong pull. It's a gravity well that makes sure they stay within reach. It's what they know, it's what they've known, and it's what they'll continue to know.
 
