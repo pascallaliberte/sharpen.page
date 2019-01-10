@@ -3,7 +3,7 @@ layout: post
 title: "Changing Orbit: Selling Your Idea"
 categories: jtbd
 author: Pascal Laliberté
-image: 2019-01-10-changing-orbits-selling-your-idea.jpg
+image: 2019-01-10-changing-orbit-selling-your-idea.jpg
 ---
 
 Clients, Customers, Patrons and Followers.  
