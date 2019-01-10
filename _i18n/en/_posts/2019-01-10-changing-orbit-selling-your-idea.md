@@ -46,7 +46,7 @@ If the first two forces are greater than the last two forces, you've got a sale.
 
 ## Eventually, the Forces Will Check Out
 
-So when you're thinking that someone you work with is missing out by not being open to your idea. Don't sweat, it's not time yet.
+When you're thinking that someone you work with is missing out by not being open to your idea, don't sweat, it's not time yet.
 
 When your client is set in their ways and they won't take your advice, that's because it's not time yet for them to change orbit.
 
