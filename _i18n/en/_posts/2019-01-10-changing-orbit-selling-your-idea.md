@@ -68,4 +68,6 @@ Continue doing that exercise until you get a clear sense of what's happening. At
 
 You'll be ready to sell your idea. They'll be ready to change orbit. Lift off! 🚀
 
+Unless your idea ain't that good.
+
 Stay Sharp!
