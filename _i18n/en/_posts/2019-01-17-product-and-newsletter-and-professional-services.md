@@ -3,6 +3,7 @@ layout: post
 title: "The Product, The Newsletter and The Professional Services"
 categories: jtbd
 author: Pascal Laliberté
+image: 2019-01-17-product-and-newsletter-and-professional-services.jpg
 ---
 
 "I just built a product and there's no traction. The word doesn't spread, people aren't signing up."
