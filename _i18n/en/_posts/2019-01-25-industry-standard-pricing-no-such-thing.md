@@ -8,7 +8,7 @@ image: 2019-01-25-industry-standard-pricing-no-such-thing.jpg
 
 There's no such thing as a price that the industry has standardized.
 
-Sure, the electrician who's part of a union is obliged to charge a certain price.
+Sure, the electrician who's part of a union is obligated to charge a certain price.
 
 Of course, the agency who hands out a rate card is going to make sure its prices land somewhere close to the other agency they're competing with.
 
