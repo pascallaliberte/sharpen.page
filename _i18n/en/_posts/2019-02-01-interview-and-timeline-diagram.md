@@ -58,3 +58,5 @@ Once you know what pushed and pulled on the person to make her decisions at key 
 It helps to know more about the elements of the back story, so in an upcoming article, we'll go deeper into the parts of the timeline diagram.
 
 Stay sharp!
+
+_P.S. Curious how an interview plays out? It's roughly a 50-minute conversation, and if you've got a recent buyer of your product who's up for it, or if you yourself have purchased something recently and want to be interviewed, [send me an email](mailto:pascal@pascallaliberte.me) and we'll setup the call._
