@@ -32,7 +32,7 @@ See your situation listed? [Shoot me an email](mailto:pascal@pascallaliberte.me)
 * You have been **building the wrong features** and you're looking to better understand what your buyers need so you can give the right direction to your product team;
 * You are **putting together a product** and you'd like more confidence on how to price it;
 * You are **getting more than 10,000 visits to your site** and would like to test out different marketing copy so you can see if you can increase your revenue;
-* You have **started using the Jobs-To-Be-Done tools** and aren't sure if you're missing something, and would like to get feedback so you can good at using them for managing your product's development.
+* You have **started using the Jobs-To-Be-Done tools** and aren't sure if you're missing something, and would like to get feedback so you can get good at using them for managing your product's development.
 {: .home-jobs }
 
 In short:  
