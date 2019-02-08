@@ -61,3 +61,5 @@ After a few interviews, some patterns will emerge through the stories. You'll be
 All that will help solidify, add confidence to, and clarify, your understanding of what your product is hired to do. That will make it easier for you to write the product messaging, determine which features to invest in building for the next iteration, deciding whether to make an offshoot product or to double-down on your main idea.
 
 Stay Sharp!
+
+_Pssst. Curious how an interview plays out? It's roughly a 50-minute conversation, and if you've got a recent buyer of your product who's up for it, or if you yourself have purchased something recently and want to be interviewed, [send me an email](mailto:pascal@pascallaliberte.me) and we'll setup the call._
