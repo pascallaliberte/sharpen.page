@@ -17,18 +17,18 @@ Here's how to [contact me via email](mailto:pascal@pascallaliberte.me) and I'll 
 
 ## <mark>I can help if...</mark>
 
-* You have **made a big sale of a service or customized product to a B2B client** and would like to find out the core reason (the job-to-be-done) of that one big purchase so you can tweak how you approach new B2B clients;
 * You have **made a number of sales of a SaaS or physical product** and would like to find out if there's a commonality to the buyers so you can tweak how you speak about your product and how you package it;
 * You see **some bizarre patterns in who buys your product** and you're tempted to change your marketing, but you want to understand these new buyers so you can avoid wasting your time and money, but the interviews you've placed haven't surfaced any insights;
 * You have **subscribers cancelling their subscription** and you'd like to know what caused them to switch away from your product;
+* You have **made a big sale of a service or customized product to a B2B client** and would like to find out the core reason (the job-to-be-done) of that one big purchase so you can tweak how you approach new B2B clients;
 {: .home-jobs }
 
 See your situation listed? [Shoot me an email](mailto:pascal@pascallaliberte.me) to tell me what you're up against.
 {: .cta-interstitial }
 
+* You are **getting more than 10,000 visits to your site** and would like to test out different marketing copy so you can see if you can increase your revenue;
 * You have been **building the wrong features** and you're looking to better understand what your buyers need so you can give the right direction to your product team;
 * You are **putting together a product** and you'd like more confidence on how to price it;
-* You are **getting more than 10,000 visits to your site** and would like to test out different marketing copy so you can see if you can increase your revenue;
 * You have **started using the Jobs-To-Be-Done tools** and aren't sure if you're missing something, and would like to get feedback so you can get good at using them for managing your product's development.
 {: .home-jobs }
 
@@ -40,9 +40,12 @@ In short:
 
 ## I'll achieve this via these engagements:
 
-* **Buyer Interviews and Buyer Research** to uncover the job for which they hired your product, what they switched away from, and the emotional back-and-forth in their decision-making. 5-10 buyer interviews will suffice for most products. Even a single interview is useful for uncovering what happened to land a big B2B contract;
+* **Buyer Interviews and Buyer Research** to uncover the [job for which they hired your product][jtbd], what they switched away from, and the [emotional back-and-forth in their decision-making][fourforces]. 5-10 buyer interviews will suffice for most products. Even a single interview is useful for uncovering what happened to land a big B2B contract;
 * **Copywriting reviews and tweaks** with split-testing (A/B testing);
 * **1-on-1 calls** to review your product approach (pricing, features, messaging).
+
+[jtbd]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
+[fourforces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
 
 [Contact me](mailto:pascal@pascallaliberte.me) to move forward with one of these engagements. Tell me about your situation and I'll provide a proposal.
 {: .cta }
