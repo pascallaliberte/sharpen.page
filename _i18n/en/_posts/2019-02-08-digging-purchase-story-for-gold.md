@@ -56,7 +56,9 @@ In a previous article documenting the [Purchase Interview I made of a friend who
 
 Cataloguing the motivations at different times throughout the story, finding those key events: finding these details helped replay the important in-the-moment micro-decisions, and understand the core cause of the purchase.
 
-After a few interviews, some patterns will emerge through the stories. You'll be able to formulate some job statements (when I ... I look to ... so I can ... <= check for an article on those coming out soon).
+After a few interviews, some patterns will emerge through the stories. You'll be able to formulate some job statements ([when I ... I look to ... so I can ...][try-when]).
+
+[try-when]: {% post_url 2019-02-21-try-when %}
 
 All that will help solidify, add confidence to, and clarify, your understanding of what your product is hired to do. That will make it easier for you to write the product messaging, determine which features to invest in building for the next iteration, deciding whether to make an offshoot product or to double-down on your main idea.
 
