@@ -24,7 +24,7 @@ It was the end of June, and the school year had just ended. As one of the people
 
 "When did you first think about buying these books?" He had heard of these books a while back, around February.
 
-"What happened in February". It turned out not much, he had just heard of the books from a colleague posting about them on Twitter.
+"What happened in February?" It turned out not much, he had just heard of the books from a colleague posting about them on Twitter.
 
 ## Some Context Becomes Apparent
 
@@ -32,9 +32,9 @@ In May, however, there was a conference call, where some changes were announced 
 
 So we now know there's some context around the purchase. Some causality is becoming apparent. There's a role change, there's some career advancement.
 
-We still don't know why he bought those two ebooks (why not books about coaching?), and why he bought them at the beginning of the summer. And why did he buy ebooks in the first place? Why not physical books?
+We still don't know _why_ he bought those two ebooks (why not books about coaching?), and why he bought them at the beginning of the summer. And why did he buy ebooks in the first place? Why not physical books?
 
-At this point, there were no concrete plans about his new role, just a vague direction. He knew there would be a training session on coaching at some point, but nothing concrete. He wasn't even in the business of buying books either at this point. No rush.
+At this point, there were no concrete plans about his new role, just a vague direction. He knew there would be a training session on coaching at some point, but nothing concrete. He wasn't even in the business of buying books at this point either. No rush.
 
 But at the end of June, those plans became concrete: in October, there's going to be a training session on coaching. There's now a sense of urgency. The next Saturday, he buys those ebooks. The job-to-be-done for these books is getting clearer: career advancement.
 
@@ -44,7 +44,7 @@ But at the end of June, those plans became concrete: in October, there's going t
 
 Curious! Ebooks? Expensive? Ebooks are generally much cheaper than physical books. "Oh, one of them was $19.72, and the other one was $16.54." Still! For the price of 6 coffees, you're debating whether these books are worth the price for your career advancement? I had to dig deeper, because clearly there was something missing.
 
-"Okay so tell me about that Saturday morning, walk me through the scene... you get up, was it sunny outside?". I ask those questions to rev up his memory recall, to bring him back in the moment to get more granular details.
+"Okay so tell me about that Saturday morning, walk me through the scene... you get up, then what? Was it sunny outside?". I ask those questions to rev up his memory recall, to bring him back in the moment to get more granular details.
 
 He took out his iPad, and opened up his Kindle app and there was listed all the book samples he had downloaded. "See, that's what I do. When I hear about an interesting book, I go out and immediately download the book sample, but I end up having so many downloaded".
 
@@ -56,7 +56,7 @@ Although he was telling me the price was his main anxiety about the purchase, th
 
 What were these books competing with anyway?
 
-"Do you read a lot of eBooks?" He told me that he collects all these books samples, but he doesn't read most of them. That's because he's got so many interests, so many ideas about his work, and so many topics on he's interested in as a father. His work keeps him super busy, and he knows he should spend more time with his family. Just now, he's in bed, at the start of the summer months, on a Saturday, thinking about work while his kids are fixing breakfast and planning their day.
+"Do you read a lot of eBooks?" He told me that he collects all these books samples, but he doesn't read most of them. That's because he's got so many interests, so many ideas about his work, so many topics he's interested in as a father. His work keeps him super busy, and he knows he should spend more time with his family. Just now, he's in bed, at the start of the summer months, on a Saturday, thinking about work while his kids are fixing breakfast and planning their day.
 
 Voilà! All of these book samples, they're all competing with time with his family. Books take time to read! That's the main anxiety about books for him. Not the price!
 
