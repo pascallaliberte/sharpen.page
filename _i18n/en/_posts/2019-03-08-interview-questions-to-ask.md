@@ -36,7 +36,7 @@ So let's inventory some questions you can ask during an interview, separated int
 * Tell me about the first time you thought about that problem you had that the product helped solve.
 * Can you run me through the purchase day?
 * I don't understand, can you help me get a better picture of that time you decided to start searching for the product?
-* What is on a weekend or during the week?
+* Was it on a weekend or during the week?
 * Was it sunny outside or was it raining, do you remember?
 * Help me get a picture of your setup at that moment, so you were in your office... was the door closed?
 * What did you type in Google when you had that thought about your problem on that Sunday morning?
@@ -68,7 +68,7 @@ What sets the second group of questions apart? It contains questions exclusively
 
 This strategy, to have the buyer recall the purchase story in detail, has one critical goal: **find out what motivated the buyer to move _forward_, to make _progress_**. What _made_ them exert effort to solve their problem? What was the problem in the first place?
 
-As options and alternatives were discovered, what was they buyer's [reactions to those options][fourforces]? How did those reactions refine the problem to be solved, the [job-to-be-done][jtbd-intro]? What about your product messaging, if anything, made a difference in convincing them that your product would help them solve their problem?
+As options and alternatives were discovered, what were the buyer's [reactions to those options][fourforces]? How did those reactions refine the problem to be solved, the [job-to-be-done][jtbd-intro]? What about your product messaging, if anything, made a difference in convincing them that your product would help them solve their problem?
 
 [fourforces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
 [jtbd-intro]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
