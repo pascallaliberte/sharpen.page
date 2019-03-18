@@ -32,8 +32,7 @@ See your situation listed? [Shoot me an email](mailto:pascal@pascallaliberte.me)
 * You have **started using the Jobs-To-Be-Done tools** and aren't sure if you're missing something, and would like to get feedback so you can get good at using them for managing your product's development.
 {: .home-jobs }
 
-In short:  
-<mark>I help fix your hesitations about your product</mark>.
+<mark>I help fix your hesitations about your product</mark> by helping you more deeply understand your buyers and their purchasing behavior in their own context.
 {: .intro }
 
 ---
