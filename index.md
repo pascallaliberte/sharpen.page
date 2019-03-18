@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div class="intro" markdown="1">
-A service to help fix your moments of hesitation about your product, based on the Jobs-To-Be-Done theory of buyer behaviour.
+A service to **help product owners increase their sales** by sharpening how their product is communicated through research into **buyers' purchase stories**.
 </div>
 
 ---
