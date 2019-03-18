@@ -309,14 +309,6 @@
     color: lighten($color-secondary, 30%);
   }
   
-  #be-notified {
-    @media (min-width: $reference-width-md-until) {
-      margin-right: 0;
-      position: relative;
-      left: rem(-220px);
-    }
-  }
-  
   .blog-nav-link-next-wrapper {
     text-align: right;
     margin-top: rem(20px);
@@ -358,4 +350,14 @@
   80%  { transform: scale(1.2); }
   95%  { transform: scale(0.95); }
   100% { transform: scale(1); }
+}
+
+.blog, .post {
+  #be-notified {
+    @media (min-width: $reference-width-md-until) {
+      margin-right: 0;
+      position: relative;
+      left: rem(-220px);
+    }
+  }
 }
