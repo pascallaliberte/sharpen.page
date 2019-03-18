@@ -5,14 +5,14 @@
         {% include logo.svg.html class="navigation__logo-img" alt="Logo for sharpen.page" %}
       </span>
     </a>
-    <div class="navigation__tagline on-{{ page.layout }}" data-behavior="navigation__tagline">
+    <a href="{{ "/" | relative_url }}" class="navigation__tagline on-{{ page.layout }}" data-behavior="navigation__tagline">
       <div class="navigation__tagline-bg">
         {% include tagline-bg.svg.html %}
       </div>
       <div class="navigation__tagline-text">
         A Product Sharpening Service
       </div>
-    </div>
+    </a>
     <div class="navigation__summary">
       <span class="desktop-only">Sharpened using the Jobs-To-Be-Done Theory</span>
       <span class="navigation__summary-byline desktop-only"><span class="desktop-only">A service</span> by <a href="https://pascallaliberte.me/" class="text-link">Pascal Laliberté</a></span>
