@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Record Buyer Interviews"
-categories: jtbd gear
+categories: jtbd gear from-the-web
 author: Pascal Laliberté
 image: 2019-03-14-how-to-record-buyer-interviews.jpg
 ---
