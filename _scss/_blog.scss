@@ -65,8 +65,12 @@
 .post {
   
   .main-content {
-    p {
+    p, ul, ol {
       font-size: rem(18px)
+    }
+    
+    ul, ol {
+      padding-left: rem(35px);
     }
     
     h2 {
