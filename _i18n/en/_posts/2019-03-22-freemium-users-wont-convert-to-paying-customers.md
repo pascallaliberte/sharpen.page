@@ -46,7 +46,7 @@ Exactly! Then Courtland adds:
 
 ## Who Are My Customers, Anyway?
 
-Courtland recommends figuring out the target customer of Amr's app. At this point, for a general purpose, lifestyle app like [Life Cal][lifecal], a target customer will be hard to pin down. People of different kinds will pull in the app into their life for different reasons. For different [_jobs_][jtbd-intro] they've got to have done.
+Courtland recommends figuring out the target customer of Amr's app. At this point, for a general purpose, lifestyle app like [Life Calendar][lifecal], a target customer will be hard to pin down. People of different kinds will pull in the app into their life for different reasons. For different [_jobs_][jtbd-intro] they've got to have done.
 
 [jtbd-intro]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
 
