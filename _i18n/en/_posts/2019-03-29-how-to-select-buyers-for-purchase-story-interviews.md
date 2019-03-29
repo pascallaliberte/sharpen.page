@@ -67,4 +67,4 @@ Stay Sharp!
 
 ---
 
-_Once you got a few interviews in, please [reach out to let me know how they went](pascal@pascallaliberte.me). I'd love to know! I could also run the whole interview process for you, if that's helpful, or just sit in on a call to give you feedback._
+_Once you got a few interviews in, please [reach out to let me know how they went](mailto:pascal@pascallaliberte.me). I'd love to know! I could also run the whole interview process for you, if that's helpful, or just sit in on a call to give you feedback._
