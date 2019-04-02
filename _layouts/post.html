@@ -35,8 +35,8 @@ class: post
         <div class="blog-nav-link-previous-wrapper">
           <a class="blog-nav-link text-link blog-nav-link-previous"
              href="{{ page.previous.url }}">
-            <strong>Previous Article</strong>
-            <span class="blog-nav-link-title"><br>{{ page.previous.title }}</span>
+            <strong>Previous Article</strong><br>
+            <span class="blog-nav-link-title">{{ page.previous.title }}</span>
           </a>
         </div>
         {% endif %} 
@@ -44,8 +44,8 @@ class: post
         <div class="blog-nav-link-next-wrapper">
           <a class="blog-nav-link text-link blog-nav-link-next"
              href="{{ page.next.url }}">
-            <strong>Next Article</strong>
-            <span class="blog-nav-link-title"><br>{{ page.next.title }}</span>
+            <strong>Next Article</strong><br>
+            <span class="blog-nav-link-title">{{ page.next.title }}</span>
           </a>
         </div>
         {% endif %}
