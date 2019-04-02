@@ -1,4 +1,17 @@
 .blog {
+  
+  ol {
+    li {
+      margin-bottom: 1em;
+      line-height: 1.1;
+    }
+    a {
+      background: none;
+      font-weight: bold;
+      font-size: 1.2em;
+    }
+  }
+  
   &__post {
 
     padding: 0 $container-padding;
@@ -58,6 +71,81 @@
         font-size: rem(28px);
       }
     }  
+  }
+  
+  .main-content .post__title {
+    font-size: rem(32px);
+    line-height: (38/32);
+    color: $color-primary;
+    position: relative;
+    
+    @media (min-width: $reference-width-md-until) {
+      font-size: rem(40px);
+      line-height: (48/40);
+    }
+    
+    .animation-wrapper {
+      display: block;
+      &.animate {
+        animation: eyepop 0.85s ease;
+        animation-delay: 1s;
+        transform-origin: top left;
+      }
+    }
+    
+    .post__title__decoration {
+      display: inline;
+      padding: 0 rem(10px);
+      margin: 0 rem(-10px);
+      position: relative;
+      z-index: 10;
+      
+      &, &::before {
+        background-color: #D8D8D8;
+      }
+      
+      &::before {
+        position: absolute;
+        content: '';
+        left: 0;
+        width: rem(10px);
+        top: 0;
+        bottom: 0;
+        z-index: -1;
+      }
+    }
+    
+    &::before {
+      position: absolute;
+      bottom: rem(9px);
+      z-index: 0;
+      content: '';
+      border-bottom: rem(3px) dashed lighten($color-grey, 40%);
+      width: calc(100% - 8rem);
+    }
+  }
+}
+
+.blog .main-content .post__title {
+  display: block;
+  margin-left: rem(10px);
+  
+  font-size: rem(18px);
+  
+  @media (min-width: $reference-width-md-until) {
+    font-size: rem(24px);
+  }
+  
+  .blog__link {
+    display: inline-block;
+    transition: transform 0.05s ease;
+    transform-origin: top left;
+    
+    &:hover, &:active {
+      background: none;
+      transform: scale(1.06);
+      color: $color-primary;
+    }
   }
 }
 
@@ -295,58 +383,6 @@
     padding: rem(2px 10px);
   }
   
-  .main-content .post__title {
-    font-size: rem(32px);
-    line-height: (38/32);
-    color: $color-primary;
-    position: relative;
-    
-    @media (min-width: $reference-width-md-until) {
-      font-size: rem(40px);
-      line-height: (48/40);
-    }
-    
-    .animation-wrapper {
-      display: block;
-      &.animate {
-        animation: eyepop 0.85s ease;
-        animation-delay: 1s;
-        transform-origin: top left;
-      }
-    }
-    
-    .post__title__decoration {
-      display: inline;
-      padding: 0 rem(10px);
-      margin: 0 rem(-10px);
-      position: relative;
-      z-index: 10;
-      
-      &, &::before {
-        background-color: #D8D8D8;
-      }
-      
-      &::before {
-        position: absolute;
-        content: '';
-        left: 0;
-        width: rem(10px);
-        top: 0;
-        bottom: 0;
-        z-index: -1;
-      }
-    }
-    
-    &::before {
-      position: absolute;
-      bottom: rem(9px);
-      z-index: 0;
-      content: '';
-      border-bottom: rem(3px) dashed lighten($color-grey, 40%);
-      width: calc(100% - 8rem);
-    }
-  }
-
   &__container {
     padding: 0 $container-padding;
   }

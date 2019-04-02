@@ -9,9 +9,11 @@ class: blog
   <ol reversed>
   {% for post in site.posts %}
     <li>
-      <a class="blog__link" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
+      <div class="post__title">
+        <a class="blog__link" href="{{ post.url | relative_url }}">
+          <span class="post__title__decoration">{{ post.title | escape }}</span>
+        </a>
+      </div>
     </li>
   {% endfor %}
   </ol>
