@@ -64,13 +64,13 @@ So why buy these ebooks? And why buy two of them and not just one? Well he quick
 
 ## The Full Picture
 
-In the end, he hired these two ebooks for a very specific job. "I need to get ready for this coaching training in October. I want to know my stuff before the training session." He hired those two ebooks so that he could _make sure_ we would take the time to be an expert on those two topics ahead of the training session. YouTube videos and articles on the subject couldn't keep him accountable. Buying books, though, were a way of him committing to the task. Having those two fully-downloaded books on his Kindle app home screen would spur his motivation to get ready.
+In the end, he hired these two ebooks for a very specific job. "I need to get ready for this coaching training in October. I want to know my stuff before the training session." He hired those two ebooks so that he could _make sure_ he would take the time to be an expert on those two topics ahead of the training session. YouTube videos and articles on the subject couldn't keep him accountable. Buying books, though, were a way of him committing to the task. Having those two fully-downloaded books on his Kindle app home screen would spur his motivation to get ready.
 
 I have no clue whether he read those books in the end. But we know the job for which he hired those ebooks now. We know because of the context of the purchase, and we know because of the Saturday morning pressure and we know because of his other book samples on his iPad that were all competing for his attention.
 
 He hired those two books for extra accountability on his journey through this new career change.
 
-For those of us who are in the business of writing books, what can we learn from this story? The price isn't in the main anxiety for a book. Its length is. Want to make a book that sells? Make it serve a specific job, and make it a quick read.
+For those of us who are in the business of writing books, what can we learn from this story? The price isn't even the main anxiety for a book. Its length is. Want to make a book that sells? Make it serve a specific job, and make it a quick read.
 
 Is your book competing with other books? It's probably competing with other subjects more than with other books on the same subject. It's probably competing with time with kids, with YouTube videos and articles on the web from the same author.
 
