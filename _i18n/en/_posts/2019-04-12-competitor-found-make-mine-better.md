@@ -45,7 +45,7 @@ And the person from the second thread concluded:
 Making your own product better seems like a no-brainer, but let's look closely at those options:
 
 1. **Making it more affordable** (lower the price). As we've seen before, a lower price doesn't always make your product more attractive, [a lower price also creates anxiety][price-anxiety] ("will this product stay around?"). Plus it means it will cut in your profitability. You'll need it to be a bigger hit to make it profitable.
-2. **Addressing critiques.** Yes, and be careful. It will be tempting to take each critique and address each one. That might be a mistake, especially if that will result in you choosing to...
+2. **Addressing critiques.** Yes, and be careful. It will be tempting to take each critique and address each one. That might be a mistake, especially if that will result in you...
 3. **Adding features.** What else adds anxieties? [Having too many features could also bring anxiety to the buyer][feature-anxiety] ("do I really need to figure out all these features?")
 4. **Improving the marketing and the design.** It would be easy to go all out on this one and it not having any impact at all. It's also super tempting to [fall into perfectionism][perfectionism] for this one, so watch out.
 
@@ -57,7 +57,7 @@ So what should we do instead of all those options?
 
 ## "Underdo your competition"
 
-First popularized by the book [_Getting Real_][gettingreal] by the folks at Basecamp, "Underdo your competition" remains good advice. Don't one-up what others are doing, underdo what they do.
+First popularized by the book [_Getting Real_][gettingreal] by the folks at Basecamp, "Underdo your competition" remains good advice. Don't one-up what others are doing, underdo what they do so that what's left is remarkable useful.
 
 Reduce the number of features. Make your product do less. Resist the temptation to add.
 
