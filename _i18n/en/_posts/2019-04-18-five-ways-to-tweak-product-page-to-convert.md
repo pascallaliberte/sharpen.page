@@ -3,7 +3,7 @@ layout: post
 title: "Five Ways to Rejig a Product Page When It Doesn't Lead To Enough Sales"
 categories: jtbd
 author: Pascal Laliberté
-image: 2019-04-18-four-ways-to-tweak-product-page-to-convert.jpg
+image: 2019-04-18-five-ways-to-tweak-product-page-to-convert.jpg
 ---
 
 You've decided that you're back in experimentation mode with your product page.
