@@ -58,7 +58,9 @@ You'd be writing an email that's more like this:
 >
 > Are you currently having to lower the priority of making accessibility tweaks to your site? Maybe it's because you're focused on sales, feeding your social media presence, or working on adding new products to your store.
 >
-> Would it be helpful if I sent you a guide listing some accessibility gotchas that e-commerce sites like yours can quickly dig up and fix, plus ways to automate their prevention? Just reply "yes" and I'll send you the guide. Otherwise, just reply with "no" and that will be the end of it for me.
+> Would it be helpful if I sent you a guide listing some accessibility gotchas that e-commerce sites like yours can quickly dig up and fix, plus ways to automate their prevention?
+> 
+> Just reply "yes" and I'll send you the guide. Otherwise, just reply with "no" and that will be the end of it for me.
 >
 > Hope that helps,
 >
