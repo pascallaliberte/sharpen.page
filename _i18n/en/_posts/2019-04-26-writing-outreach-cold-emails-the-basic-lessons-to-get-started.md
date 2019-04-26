@@ -24,7 +24,7 @@ If you're like me, you're probably running into these two problems while writing
 
 ## Problem 1: Aren't Outreach Emails Like Spam?
 
-In this popular post, Justin McGill over on LeadFuze writes that [good outreach emails differs from spam][not-spam] because of a few reasons.
+In this popular post, Justin McGill over on LeadFuze writes that [good outreach emails differ from spam][not-spam] in a few key ways.
 
 In short, outreach emails are **personal, helpful, don't misrepresent who you are and show that you're honourable to your word**. 
 
