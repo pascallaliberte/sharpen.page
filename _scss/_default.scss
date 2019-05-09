@@ -128,6 +128,9 @@ li {
 .intro {
   font-family: $tertiary-font-family;
   font-size: rem(40px);
+  @media only screen and (max-width: $reference-width-xs-until) {
+    line-height: 1.05;
+  }
 }
 
 hr {
