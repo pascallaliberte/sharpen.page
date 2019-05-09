@@ -192,6 +192,30 @@ a {
       transition-timing-function: $easeOutQuint;
     }  
   }
+  
+  .main-content &.cta-btn {
+    display: inline-block;
+    background: $color-primary;
+    color: white;
+    padding: 0 0.5em 0 0.5em;
+    border-radius: rem(2px);
+    
+    .i {
+      width: auto;
+      height: 1em;
+      stroke-width: rem(3px);
+      transform: translateY(rem(4px));
+      margin-left: 0.1em;
+      
+      @media only screen and (max-width: $reference-width-xs-until) {
+        stroke-width: rem(2px);
+      }
+    }
+    
+    &:hover, &:focus {
+      background-color: darken($color-primary, 10%);
+    }
+  }
 }
 
 .main-content {

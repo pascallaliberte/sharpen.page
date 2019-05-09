@@ -207,7 +207,7 @@
     color: white;
     -webkit-appearance: none;
     border-radius: rem(4px);
-    &:hover {
+    &:hover, &:focus {
       background-color: darken($color-primary, 10%);
     }
   }

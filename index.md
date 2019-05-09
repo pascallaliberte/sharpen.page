@@ -12,7 +12,7 @@ Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I can help you s
 
 As a side effect, you'll be more confident about the decisions you make about your product.
 
-Here's how to [contact me via email](mailto:pascal@pascallaliberte.me) and I'll be glad to help you sharpen your product.
+[Contact me via email {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } and I'll be glad to help you sharpen your product.
 {: .cta }
 
 ## <mark>I can help if...</mark>
@@ -23,7 +23,7 @@ Here's how to [contact me via email](mailto:pascal@pascallaliberte.me) and I'll 
 * You have **made a big sale of a service or customized product to a B2B client** and would like to find out the core reason (the job-to-be-done) of that one big purchase so you can tweak how you approach new B2B clients;
 {: .home-jobs }
 
-See your situation listed? [Shoot me an email](mailto:pascal@pascallaliberte.me) to tell me what you're up against.
+See your situation listed? [Shoot me an email {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } to tell me what you're up against.
 {: .cta-interstitial }
 
 * You are **getting more than 10,000 visits to your site** and would like to test out different marketing copy so you can see if you can increase your revenue;
@@ -46,7 +46,7 @@ See your situation listed? [Shoot me an email](mailto:pascal@pascallaliberte.me)
 [jtbd]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
 [fourforces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
 
-[Contact me](mailto:pascal@pascallaliberte.me) to move forward with one of these engagements. Tell me about your situation and I'll provide a proposal.
+[Contact me {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } to move forward with one of these engagements. Tell me about your situation and I'll provide a proposal.
 {: .cta }
 
 ---
