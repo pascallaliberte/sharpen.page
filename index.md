@@ -12,7 +12,7 @@ Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I can help you s
 
 As a side effect, you'll be more confident about the decisions you make about your product.
 
-[Contact me via email {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } and I'll be glad to help you sharpen your product.
+[Contact me via email {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } and I'll be glad to help you sharpen your product. Or read on to learn if I can help with your situation.
 {: .cta }
 
 ## <mark>Maybe you're going through one of these situations...</mark>
@@ -23,7 +23,7 @@ As a side effect, you'll be more confident about the decisions you make about yo
 
 > "**People are cancelling our service**, and I'd like to stop the spigot if I could! I know what people are switching to, but I don't want to match the competitor, **I just want to know what makes us unique**."
 
-See your situation listed? [Shoot me an email {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } to tell me what you're up against.
+See your situation listed? [Shoot me an email {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } to tell me what you're up against. Would love to hear the specifics. Or [maybe there's an article I wrote](/articles) that can help out.
 {: .cta-interstitial }
 
 > "I'm been finally getting enough traffic to do some A/B testing, but **I'm out of my element when trying some A/B testing alterations**. I realize I have to research my recent buyer's to get better insights, **but that seems time-consuming to me**. I'd like to get someone who's good at research to propose some copywriting changes we can implement and test out."
@@ -111,7 +111,7 @@ I help you sharpen your product, and your understanding of your buyers, by doing
 
 ## Interested in talking to me about your thing?
 
-[Contact me {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } to move forward with one of these engagements. Tell me about your situation and I'll provide a proposal.
+[Contact me {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } to move forward with one of these engagements. Tell me about your situation and I'll reply with more questions to learn a little more or with some small tips that help you right away. If I think I can help with one of these engagements, you'll get a proposal with some options to go forward.
 {: .cta }
 
 ---
