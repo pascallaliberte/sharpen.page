@@ -51,7 +51,9 @@ You've had a good run, but now that run is done.
 
 ## Your customers just want to make progress
 
-Your product gets _hired_ into the lives of your customers for a reason. When they're saying _yes_ to your product, they're saying _no_ to something else. Saying _no_ to that other thing was a key moment for them. It took time before they finally pulled the plug.
+[Your product gets _hired_ into the lives of your customers for a reason][jtbd-intro]. When they're saying _yes_ to your product, they're saying _no_ to something else. Saying _no_ to that other thing was a key moment for them. It took time before they finally pulled the plug.
+
+[jtbd-intro]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
 
 So what caused that switch from "not this, now now" to "yes, this, now"?
 
