@@ -27,6 +27,11 @@ See your situation listed? [Shoot me an email {% include svg/mail.svg.html %}](m
 * A slowdown in sales
 * A surprising success you didn't see coming
 
+## "I admit, I just don't understand some key things about my customers"
+
+You were sure, but now you're no longer so sure...  
+You knew, but now you no longer do...  
+
 <mark>I help fix your hesitations about your product</mark> by helping you more deeply understand your buyers and their purchasing behavior in their own context.
 {: .intro }
 
@@ -42,12 +47,6 @@ As a side effect, you'll be more confident about the decisions you make about yo
 {: .cta }
 
 </aside>
-
-## "I admit, I just don't understand some key things about my customers"
-
-You were sure, but now you're no longer so sure...  
-You knew, but now you no longer do...  
-You've had a good run, but now that run is done...
 
 ## Your customers just want to make <mark>progress</mark>
 
