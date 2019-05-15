@@ -45,11 +45,11 @@ As a side effect, you'll be more confident about the decisions you make about yo
 
 ## "I admit, I just don't understand some key things about my customers"
 
-You were sure, but now you're no longer so sure.  
-You knew, but now you no longer do.  
-You've had a good run, but now that run is done.
+You were sure, but now you're no longer so sure...  
+You knew, but now you no longer do...  
+You've had a good run, but now that run is done...
 
-## Your customers just want to make progress
+## Your customers just want to make <mark>progress</mark>
 
 [Your product gets _hired_ into the lives of your customers for a reason][jtbd-intro]. When they're saying _yes_ to your product, they're saying _no_ to something else. Saying _no_ to that other thing was a key moment for them. It took time before they finally pulled the plug.
 
