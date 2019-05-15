@@ -2,20 +2,7 @@
 layout: home
 ---
 
-<div class="intro" markdown="1">
-A service to **help product owners increase their sales** by sharpening how their product is communicated through research into **buyers' purchase stories**.
-</div>
-
----
-
-Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I can help you sharpen that product or service offering. I'll help you make it more tuned to <mark>help your customer progress on what they're trying to get progress on</mark>, more distinctive, more incisive, and, well, <mark>more sharp</mark>.
-
-As a side effect, you'll be more confident about the decisions you make about your product.
-
-[Contact me via email {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } and I'll be glad to help you sharpen your product. Or read on to learn if I can help with your situation.
-{: .cta }
-
-## <mark>Maybe you're going through one of these situations...</mark>
+## Maybe you're going through one of these situations...
 
 <div class="home-situation-quotes" markdown="1">
 
@@ -42,6 +29,19 @@ See your situation listed? [Shoot me an email {% include svg/mail.svg.html %}](m
 
 <mark>I help fix your hesitations about your product</mark> by helping you more deeply understand your buyers and their purchasing behavior in their own context.
 {: .intro }
+
+<aside class="home-personal-intro" markdown="1">
+
+<h2>About me {% include avatar.html %}</h2>
+
+Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I can help you sharpen that product or service offering. I'll help you make it more tuned to <mark>help your customer progress on what they're trying to get progress on</mark>, more distinctive, more incisive, and, well, <mark>more sharp</mark>.
+
+As a side effect, you'll be more confident about the decisions you make about your product.
+
+[Contact me via email {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } and I'll be glad to help you sharpen your product. Or read on to learn if I can help with your situation.
+{: .cta }
+
+</aside>
 
 ## "I admit, I just don't understand some key things about my customers"
 

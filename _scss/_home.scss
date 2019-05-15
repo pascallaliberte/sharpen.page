@@ -1,3 +1,9 @@
+.home {
+  h2 {
+    margin-top: 3em;
+  }
+}
+
 .home-jobs {
   margin: 0 rem(10px);
   padding-left: 0;
@@ -102,5 +108,36 @@
   @media (min-width: $reference-width-md-until) {
     margin-left: rem(50px);
     margin-right: rem(50px);
+  }
+}
+
+.home-personal-intro {
+  margin: rem(1em -15px);
+  padding: rem(15px);
+  padding-bottom: rem(5px);
+  background-color: transparentize(white, 0.5);
+  position: relative;
+  
+  h2 {
+    margin-top: 0.5em;
+  }
+  
+  @media (min-width: $reference-width-xs-until) {
+    margin: rem(1em -100px);
+    padding: rem(30px 100px);
+    padding-left: rem(50px);
+    margin-left: rem(-15px);
+    transform: rotateZ(-1deg) perspective(80rem) rotateX(0.5deg);
+    
+    p {
+      font-size: rem(26px);
+    }
+  }
+  
+  @media (min-width: $reference-width-md-until) {
+    margin: rem(1em -100px);
+    padding: rem(30px 100px);
+    padding-left: rem(50px);
+    margin-left: rem(-55px);
   }
 }
