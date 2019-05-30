@@ -88,6 +88,10 @@
       text-transform: uppercase;
       
       width: 1em;
+      
+      [contenteditable] & {
+        width: 5em;
+      }
       position: absolute;
       left: rem(15px);
       top: rem(5px);
