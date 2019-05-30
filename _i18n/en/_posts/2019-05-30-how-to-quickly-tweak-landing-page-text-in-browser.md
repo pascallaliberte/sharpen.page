@@ -22,6 +22,7 @@ Well there's a way to test that tweak right on the page, directly in the browser
 And then visit a page and edit like this:
 
 ![Clicking the bookmark makes the page editable](/assets/images/posts/2019-05-30-how-to-quickly-tweak-landing-page-text-in-browser-01.gif)
+{: .img-zoom }
 
 _**Note: this will only temporarily change the text.** Hit Refresh, and the changes are gone. Copy/paste your new marvel somewhere else, take a screenshot, email it with <key>Command-I</key> or print it out before you hit Refresh!_
 

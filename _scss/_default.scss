@@ -419,4 +419,8 @@ a.drag-to-bookmarks-link {
     background: darken(#ccc, 10%);
     color: #111;
   }
+  
+  @media (max-width: $reference-width-xs-until) {
+    margin-bottom: 1em;
+  }
 }
