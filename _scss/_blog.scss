@@ -445,3 +445,13 @@
     }
   }
 }
+
+.post {
+  pre.highlight {
+    background: transparentize(white, 0.5);
+    color: #777;
+    font-size: rem(20px);
+    padding: 0.5em 0.5em 0.5em 1em;
+    border-left: 12px solid transparentize($color-secondary, 0.5);
+  }
+}
