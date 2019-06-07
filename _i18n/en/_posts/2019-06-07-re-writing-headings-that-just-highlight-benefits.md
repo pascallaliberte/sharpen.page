@@ -108,7 +108,7 @@ With this insight, we could make these other changes to the marketing page too:
 
 [make-newsletter]: {% post_url 2019-01-17-product-and-newsletter-and-professional-services %}
 
-So in the end, I'd consider running this heading for a while and see how that feels:
+So in the end, I'd consider running this heading for a while and see how that feels, until I can interview some new users:
 
 ![Final Heading: "Should I Wait or is it cheap to do my laundry right now?"](/assets/images/posts/2019-06-07-re-writing-headings-that-just-highlight-benefits-09.jpg)
 
