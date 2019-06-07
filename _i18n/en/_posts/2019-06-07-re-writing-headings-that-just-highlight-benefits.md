@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Re-Writing Headings That Just Highlight The Benefits"
+title: "Re-writing Headings That Just Highlight The Benefits"
 categories: jtbd copywriting
 author: Pascal Laliberté
 image: 2019-06-07-re-writing-headings-that-just-highlight-benefits.jpg
