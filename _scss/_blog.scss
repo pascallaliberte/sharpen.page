@@ -13,14 +13,14 @@
   }
   
   &__post {
-
+    
     padding: 0 $container-padding;
     display: flex;
     flex-direction: row;
     padding-top: 50px;
     padding-bottom: 50px;
     border-bottom: 1px solid lighten($link-color, 40%);
-
+    
     @media (max-width: 900px) {
       flex-direction: column;
     }
@@ -157,6 +157,10 @@
       font-size: rem(18px)
     }
     
+    p, h2, h3 {
+      hanging-punctuation: first;
+    }
+
     ul, ol {
       padding-left: rem(35px);
     }
