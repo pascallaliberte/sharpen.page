@@ -391,6 +391,27 @@
     }
   }
   
+  ol.site-cutup {
+    img {
+      display: block;
+      margin-top: 0.5em;
+    }
+    
+    @media (min-width: ($reference-width-xs-until + 1px)) {
+      li {
+        @include clearfix;
+        padding-right: rem(220px);
+      }
+      
+      img {
+        float: right;
+        max-width: rem(200px);
+        height: auto;
+        margin-right: rem(-200px);
+      }
+    }
+  }
+  
   &__category {
     display: inline-block;
     background-color: #686868;

@@ -41,3 +41,11 @@
 .sr-only-focusable {
   @include sr-only-focusable();
 }
+
+@mixin clearfix() {
+  &::after {
+    display: block;
+    content: "";
+    clear: both;
+  }
+}
