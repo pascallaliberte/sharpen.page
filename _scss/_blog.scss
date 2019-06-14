@@ -179,6 +179,20 @@
       font-size: rem(30px);
     }
     
+    .question {
+      font-weight: normal;
+      font-family: $tertiary-font-family;
+      
+      background: transparentize(white, 0.4);
+      padding: 1em;
+      margin: 1em -1em;
+      
+      strong {
+        font-family: $primary-font-family;
+        display: block;
+      }
+    }
+    
     blockquote {
       margin: rem(1em -30px);
       padding: rem(15px);
