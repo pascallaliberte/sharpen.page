@@ -44,7 +44,7 @@ Help someone who wants to **make progress on a next step.**
 
 If the purpose of a landing page is to help, what are the properties of a good landing page?
 
-### 1. A good page shows your understand the pain
+### 1. A good page shows you understand the pain
 
 Having a problem isn't quite enough to cause a person to seek a solution. The person must be experiencing some kind of _pain_. The [push of the pain has to be strong enough][changing-orbit] for them to get off their seat and do something about it.
 
