@@ -160,6 +160,12 @@
     p, h2, h3 {
       hanging-punctuation: first;
     }
+    
+    h3 {
+      font-weight: normal;
+      margin-top: 2em;
+      color: mix($color-primary, $color-main-background, 80%);
+    }
 
     ul, ol {
       padding-left: rem(35px);
