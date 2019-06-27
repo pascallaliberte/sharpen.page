@@ -27,9 +27,9 @@ There aren't just two options, really. These days, you see sites with:
 - **A plain link** to send an email
 - **A visible email address**
 
-[questionnaire]: https://julianebone.design/needabrand
+[questionnaire]: https://www.paydirt.studio/surface-contract
 
-If you want to increase **the likelihood of the right person contacting you**, consider what goes in the mind of the visitor if the few moments right before they see that link, button, or form.
+If you want to increase **the likelihood of the right person contacting you**, consider what goes in the mind of the visitor in the few moments right before they see that link, button, or form.
 
 ## In The Mind Of The Visitor
 
