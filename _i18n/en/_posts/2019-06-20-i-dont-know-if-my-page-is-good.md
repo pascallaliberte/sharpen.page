@@ -54,7 +54,7 @@ To show that you understand your visitor's pain, **start by describing a painful
 
 Something like this:
   
-[![Screenshots from the pain described at the top of clean-ruby.com](/assets/images/posts/2019-06-20-i-dont-know-if-my-page-is-good-01.jpg)](https://www.clean-ruby.com)
+[![Screenshots from the pain described at the top of clean-ruby.com](/assets/images/posts/2019-06-20-i-dont-know-if-my-page-is-good-01.jpg)](http://www.clean-ruby.com)
 {: .img-zoom }
 
 ### 2. A good page catches the visitors in what they were doing right before
