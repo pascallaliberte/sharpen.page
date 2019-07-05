@@ -22,14 +22,16 @@ Optimizely, a popular A/B Testing tool, comes up with these numbers in their [on
 
 **You'll need 26,000 visits**, or 13,000 for each version, if you're currently converting 3% of your visitors and you think you can increase that **by 20%**. [See the calculation on Optimizely with a 20% increase](https://www.optimizely.com/sample-size-calculator/?conversion=3&effect=20&significance=95).
 
-**But you'll only need 10,600 visits**, or 5,300 for each version, if you're currently converting 3% of your visitors and you think you can increase that **by 30%** instead.  [See the calculation on Optimizely with a 30% increase](https://www.optimizely.com/sample-size-calculator/?conversion=3&effect=30&significance=95)
+**But you'll only need 10,600 visits**, or 5,300 for each version, if you're currently converting 3% of your visitors and you think you can increase that **by 30%** instead.  [See the calculation on Optimizely with a 30% increase](https://www.optimizely.com/sample-size-calculator/?conversion=3&effect=30&significance=95).
 
 [![Screenshot of the Optimizely Sample Size Calculator](/assets/images/posts/2019-07-05-how-much-traffic-needed-to-start-ab-testing-01.jpg)](https://www.optimizely.com/sample-size-calculator/?conversion=3&effect=30&significance=95)
 {: .img-zoom }
 
 That difference comes from the fact that a bigger difference between two versions will take a smaller sample size to measure.
 
-**You might also ask:** "how can I reach a 30% conversion rate (or more) without trying all the nasty tricks that people pull on visitors for them to convert".
+**You might ask:**
+
+> How can I reach a 30% conversion rate (or more) without trying all the nasty tricks that people pull on visitors for them to convert.
 
 Well, it requires that you think deeply about **helping the visitor make some progress**.
 
