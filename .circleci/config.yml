@@ -4,11 +4,11 @@
 #
 version: 2
 jobs:
-deploy:
-  docker:
-    - image: circleci/node:latest
-  steps:
-    - run: curl -X POST -d {} https://api.netlify.com/build_hooks/5d208deccd227c03800674be
+  deploy:
+    docker:
+      - image: circleci/node:latest
+    steps:
+      - run: curl -X POST -d {} https://api.netlify.com/build_hooks/5d208deccd227c03800674be
 workflows:
   version: 2
   autopublish:
