@@ -13,7 +13,9 @@ layout: home
 See your situation listed? [Shoot me an email {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } to tell me what you're up against. Would love to hear the specifics. Or [maybe there's an article I wrote](/articles) that can help out.
 {: .cta-interstitial }
 
-> "I've been finally getting enough traffic to do some A/B testing, but **I'm out of my element when trying some A/B testing alterations**. I realize I have to research my recent buyer's to get better insights, **but that seems time-consuming to me**. I'd like to get someone who's good at research to propose some copywriting changes we can implement and test out."
+> "I've been finally getting [enough traffic to do some A/B testing][how-much-traffic], but **I'm out of my element when trying some A/B testing alterations**. I realize I have to research my recent buyer's to get better insights, **but that seems time-consuming to me**. I'd like to get someone who's good at research to propose some copywriting changes we can implement and test out."
+
+[how-much-traffic]: {% post_url 2019-07-05-how-much-traffic-needed-to-start-ab-testing %}
 
 > "It's been a month and a half since we shipped a feature we've spent 5 sprints building. And despite us educating our users about the feature, **the new feature is barely getting used!** Yet, we've heard from our users that this feature was needed. **Something's wrong with the way we're finding features to build**, and we're sure it's because we're jumping to conclusions about what the user wants. Help!"
 
@@ -32,7 +34,7 @@ See your situation listed? [Shoot me an email {% include svg/mail.svg.html %}](m
 You were sure, but now you're no longer so sure...  
 You knew, but now you no longer do...  
 
-<mark>I help fix your hesitations about your product</mark> by helping you more deeply understand your buyers and their purchasing behavior in their own context.
+<mark>I help fix your hesitations about your product</mark> by helping you more deeply understand your buyers and their purchasing behavior in their own context. I do <mark>product sharpening through understanding sharpening</mark>, if that makes sense.
 {: .intro }
 
 <aside class="home-personal-intro" markdown="1">
