@@ -13,7 +13,7 @@ layout: home
 See your situation listed? [Shoot me an email {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } to tell me what you're up against. Would love to hear the specifics. Or [maybe there's an article I wrote](/articles) that can help out.
 {: .cta-interstitial }
 
-> "I'm been finally getting enough traffic to do some A/B testing, but **I'm out of my element when trying some A/B testing alterations**. I realize I have to research my recent buyer's to get better insights, **but that seems time-consuming to me**. I'd like to get someone who's good at research to propose some copywriting changes we can implement and test out."
+> "I've been finally getting enough traffic to do some A/B testing, but **I'm out of my element when trying some A/B testing alterations**. I realize I have to research my recent buyer's to get better insights, **but that seems time-consuming to me**. I'd like to get someone who's good at research to propose some copywriting changes we can implement and test out."
 
 > "It's been a month and a half since we shipped a feature we've spent 5 sprints building. And despite us educating our users about the feature, **the new feature is barely getting used!** Yet, we've heard from our users that this feature was needed. **Something's wrong with the way we're finding features to build**, and we're sure it's because we're jumping to conclusions about what the user wants. Help!"
 
