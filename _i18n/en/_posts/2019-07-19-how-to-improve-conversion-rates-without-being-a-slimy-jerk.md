@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Do I Increase Conversion Rates Without Being a Slimy Jerk?"
-categories: jtbd
+categories: jtbd optimize
 author: Pascal Laliberté
 image: 2019-07-19-how-to-improve-conversion-rates-without-being-a-slimy-jerk.jpg
 ---
