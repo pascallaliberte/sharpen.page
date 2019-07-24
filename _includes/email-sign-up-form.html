@@ -1,3 +1,11 @@
+{% capture up_next %}
+**Coming in the next few weeks**, for example, we'll be covering about how to increase the effective of X on your page (one concrete example per week), _but without being slimy about it_.
+{% endcapture %}
+
+{% capture bonus %}
+<p class="small" style="margin-top: 1em;">Plus, receive a link to a <strong>video of a presentation I gave explaining the Jobs-To-Be-Done theory</strong></p>
+{% endcapture %}
+
 <div id="be-notified">
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
@@ -6,21 +14,58 @@
     <div style="float: right; margin-left: 4rem;">
       <a href="#top">To top</a>
     </div>
-    <h2 style="text-transform: uppercase">Sign Up For Some <mark>Sharp Emails</mark> and Get:</h2>
+    
+    {% if include.context == "post" %}
+    
+    <h2 style="text-transform: uppercase">
+      Get articles like this one, delivered on Friday.
+    </h2>
+    
+    <p>To learn to <mark>sharpen your own stuff</mark>.</p>
+    
+    {{ up_next | markdownify }}
+    
+    {{ bonus }}
+    
+    {% elsif include.context == "articles-list" %}
+    
+    <h2 style="text-transform: uppercase">
+      Be Notified for More Articles Like These...
+    </h2>
+    
+    <p>To learn to <mark>sharpen your own stuff</mark>.</p>
+    
+    <p><strong>Every Friday, be the first to know</strong> by getting a sharp email about the week's article.</p>
+    
+    {{ up_next | markdownify }}
+    
+    {{ bonus }}
+    
+    {% else %}
+    
+    <h2 style="text-transform: uppercase">
+      A Newsletter for Learning to <mark>Sharpen Your Own Stuff</mark>
+    </h2>
+    
+    <p><strong>Get notified every Friday</strong> when my latest <a href="/articles">articles</a> come out, going deep on:</p>
+    
     <ul>
-      <li>examples of buyer interview findings;</li>
-      <li>ideas on how to tweak your copywriting, and;</li>
-      <li>ways on applying the Jobs-To-Be-Done theory to improve your product.</li>
+      <li>Ways on applying the Jobs-To-Be-Done theory to improve your own product or service;</li>
+      <li>Ideas on how to tweak your copywriting, and;</li>
+      <li>Findings from buyer purchase interviews.</li>
     </ul>
     
-    <p><strong>Receive new articles every Friday</strong>. While my <a href="https://twitter.com/@pascallaliberte">Twitter</a> feed gets articles from a few weeks ago, this email list gets you the <strong>newest articles as they come out.</strong></p>
+    {{ bonus }}
     
-    <p>Plus, receive a link to a <strong>video of a presentation I gave explaining the Jobs-To-Be-Done theory</strong></p>
+    {% endif %}
     
     <div class="mc-field-group">
     	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>
     	<input type="email" value="" name="EMAIL" id="mce-EMAIL" title="The domain portion of the email address is invalid (the portion after the @)." pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$" required>
     </div>
+    
+    <p class="small">Another option: on <a href="https://twitter.com/pascallaliberte">Twitter (@pascallaliberte)</a>, you'll get notified of new articles just the same, just a few days later.<br/> With the email list, you get it first.</p>
+    
     <div class="mc-field-group">
     	<label for="mce-FNAME">First Name </label>
     	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
@@ -32,7 +77,7 @@
     
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3782ecad016861895a5f38695_097776b904" tabindex="-1" value=""></div>
     <div class="mc-status"></div>
-    <div><input type="submit" value="Sign up" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div><input type="submit" value="Sign me up" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
   </form>
 </div>
 
