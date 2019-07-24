@@ -135,7 +135,7 @@ Pascal Laliberté
 [pascal@pascallaliberte.me](mailto:pascal@pascallaliberte.me)  
 Ottawa, Ontario, Canada
 
-Find me on [Twitter][twitter], [LinkedIn][linkedin], or sign-up to be notified of new [articles](/articles):
+Find me on [Twitter][twitter], [LinkedIn][linkedin], or sign-up to be notified of new articles:
 
 [twitter]: https://twitter.com/pascallaliberte
 [linkedin]: https://www.linkedin.com/in/pascallaliberte/ 

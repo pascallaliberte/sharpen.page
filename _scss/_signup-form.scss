@@ -304,6 +304,11 @@ body #mc_embed_signup {
       text-indent: 0px;
       border: rem(2px) solid lighten($text-color, 50%);
       margin-bottom: 1em;
+      opacity: 0.4;
+      
+      &:focus {
+        opacity: 1;
+      }
     }
     
     input.email {
@@ -328,6 +333,13 @@ body #mc_embed_signup {
   .mc-field-group-email {
     margin-top: 1em;
     width: 100%;
+  }
+  
+  .small {
+    margin-bottom: 2em;
+    font-size: 0.8em;
+    opacity: 0.8;
+    margin-top: rem(-30px);
   }
   
   padding: 1em;
