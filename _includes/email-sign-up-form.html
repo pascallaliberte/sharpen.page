@@ -1,5 +1,9 @@
 {% capture up_next %}
-Coming in the next few weeks, for example, we'll be covering about how to increase the effective of X on your page (one concrete example per week), _but without being slimy about it_.
+**Coming in the next few weeks**, for example, we'll be covering about how to increase the effective of X on your page (one concrete example per week), _but without being slimy about it_.
+{% endcapture %}
+
+{% capture bonus %}
+<p class="small" style="margin-top: 1em;">Plus, receive a link to a <strong>video of a presentation I gave explaining the Jobs-To-Be-Done theory</strong></p>
 {% endcapture %}
 
 <div id="be-notified">
@@ -13,35 +17,45 @@ Coming in the next few weeks, for example, we'll be covering about how to increa
     
     {% if include.context == "post" %}
     
-    <h2 style="text-transform: uppercase">Get articles like this one, delivered on Friday.</h2>
+    <h2 style="text-transform: uppercase">
+      Get articles like this one, delivered on Friday.
+    </h2>
+    
+    <p>To learn to <mark>sharpen your own stuff</mark>.</p>
     
     {{ up_next | markdownify }}
     
-    <p>Plus, receive a link to a <strong>video of a presentation I gave explaining the Jobs-To-Be-Done theory</strong></p>
+    {{ bonus }}
     
     {% elsif include.context == "articles-list" %}
     
-    <h2 style="text-transform: uppercase">Be notified for more articles like these</h2>
+    <h2 style="text-transform: uppercase">
+      Be Notified for More Articles Like These...
+    </h2>
+    
+    <p>To learn to <mark>sharpen your own stuff</mark>.</p>
     
     <p><strong>Every Friday, be the first to know</strong> by getting a sharp email about the week's article.</p>
     
     {{ up_next | markdownify }}
     
-    <p>Plus, receive a link to a <strong>video of a presentation I gave explaining the Jobs-To-Be-Done theory</strong></p>
+    {{ bonus }}
     
     {% else %}
     
-    <h2 style="text-transform: uppercase">Sign Up For Some <mark>Sharp Emails</mark></h2>
+    <h2 style="text-transform: uppercase">
+      A Newsletter for Learning to <mark>Sharpen Your Own Stuff</mark>
+    </h2>
     
-    <p><strong>Get notified every Friday</strong> when new <a href="/articles">articles</a> come out, with:</p>
+    <p><strong>Get notified every Friday</strong> when my latest <a href="/articles">articles</a> come out, going deep on:</p>
     
     <ul>
-      <li>examples of buyer interview findings;</li>
-      <li>ideas on how to tweak your copywriting, and;</li>
-      <li>ways on applying the Jobs-To-Be-Done theory to improve your product.</li>
+      <li>Ways on applying the Jobs-To-Be-Done theory to improve your own product or service;</li>
+      <li>Ideas on how to tweak your copywriting, and;</li>
+      <li>Findings from buyer purchase interviews.</li>
     </ul>
     
-    <p>Plus, receive a link to a <strong>video of a presentation I gave explaining the Jobs-To-Be-Done theory</strong></p>
+    {{ bonus }}
     
     {% endif %}
     
