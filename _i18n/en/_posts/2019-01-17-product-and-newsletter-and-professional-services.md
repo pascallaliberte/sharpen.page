@@ -13,7 +13,7 @@ image: 2019-01-17-product-and-newsletter-and-professional-services.jpg
 -- Bought ads?  
 -- Yes and I ran out of money buying those ads.
 
-In that exchange, we're seeing a disappointed person struggling to find buyer for her product.
+In that exchange, we're seeing a disappointed person struggling to find a buyer for her product.
 
 Of course, we could stop to ask if the product was made to cater to a specific job. According to the one who put the product together: "of course". She herself had the struggle, understood the [forces of progress][fourforces], understood the [habits that she was competing against][non-consumption], and that selling this product would be about [changing the buyer's orbit][changing-orbit], so a progress could be made in their life. She understood the product's Job-To-Be-Done.
 
