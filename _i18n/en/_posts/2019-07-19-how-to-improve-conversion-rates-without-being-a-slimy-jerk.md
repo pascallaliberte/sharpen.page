@@ -79,7 +79,7 @@ If you've got [recent buyers][select-buyers] and you've got a good handle on the
 [interview-questions]: {% post_url 2019-03-08-interview-questions-to-ask %}
 [purchase-story]: {% post_url 2019-02-08-digging-purchase-story-for-gold %}
 
-_That combination_ of research and theory will give you the best shot at increasing your conversions without resorting to slimey tactics, interruptions and pushyness.
+_That combination_ of research and theory will give you the best shot at increasing your conversions without resorting to slimey tactics, interruptions and pushiness.
 
 It'll help you communicate your product with more confidence, and your visitors will be glad to _finally have found just the thing they needed_ to make the progress they wanted to make.
 
