@@ -59,7 +59,7 @@ What makes your newsletter appealing to a visitor, for any of those struggles li
 * {% include components/icon-attraction.html %} I think I can safely unsubscribe(?).
 {: .forces }
 
-### Anxiety About the Solution:
+### Anxieties About the Solution:
 
 What makes your potential subscriber pause and hesitate about your newsletter? These are actually quite strong.
 
@@ -86,7 +86,7 @@ Although you might be tending to the struggle, the attraction and the anxieties,
 
 "I'll do it myself" is what pulls back the visitor to choose "not this, not now".
 
-### Habits of the Present
+### Habits of the Present:
 
 * {% include components/icon-habits.html %} I'll just learn it from other sources;
 * {% include components/icon-habits.html %} I'll just come back another time on my own;
