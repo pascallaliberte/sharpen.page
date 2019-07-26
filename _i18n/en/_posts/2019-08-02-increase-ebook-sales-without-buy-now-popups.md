@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Increase Ebook Sales without ‘Buy Now’ Pop-ups"
+title: "How to Increase Ebook Sales without ‘Buy Now’ Pop-ups?"
 categories: jtbd optimize
 author: Pascal Laliberté
 image: 2019-08-02-increase-ebook-sales-without-buy-now-popups.jpg
