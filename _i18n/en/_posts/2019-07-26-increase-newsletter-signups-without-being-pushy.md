@@ -55,8 +55,8 @@ What makes your newsletter appealing to a visitor, for any of those struggles li
 * {% include components/icon-attraction.html %} I will be able to learn to do it myself;
 * {% include components/icon-attraction.html %} I will be able to be in the loop, learn about what matters;
 * {% include components/icon-attraction.html %} This person will continue to publish on stuff in the future;
-* {% include components/icon-attraction.html %} This person has proof of knowing their stuff.
-* {% include components/icon-attraction.html %} I think I can safely unsubscribe(?);
+* {% include components/icon-attraction.html %} This person has proof of knowing their stuff;
+* {% include components/icon-attraction.html %} I think I can safely unsubscribe(?).
 {: .forces }
 
 ### Anxiety About the Solution:
