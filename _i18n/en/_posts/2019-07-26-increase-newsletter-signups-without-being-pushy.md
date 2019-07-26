@@ -24,7 +24,7 @@ What kind of struggle would they be experiencing? **What would be annoying enoug
 
 Let's chart a list to see some of the big themes around newsletters.
 
-### Struggle of the Moment
+### Struggle of the Moment:
 
 * {% include components/icon-struggle.html %} The industry is vast, and **I can't keep up with all of what's being talked about**. It's too much. Maybe this person will boil it down for me.
 * {% include components/icon-struggle.html %} I'm just starting out on this topic and **I'm feeling way too much of a newb to be making informed decisions**, so I just want to start getting a sense of the important variables.
