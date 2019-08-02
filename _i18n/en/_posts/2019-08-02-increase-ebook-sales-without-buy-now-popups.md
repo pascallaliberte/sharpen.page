@@ -16,7 +16,7 @@ Book sales are driven by launches. Sales go up, and then sales peter out.
 
 But people will experience their problem at, you know, a time that _might not coincide_ with your launch. If you do it right, your ebook will continue selling long after your launch, **and the _presence_ of your ebook will help sell other things you have to sell**.
 
-## You Publish an Ebook.. so the Reader Can Make Progress
+## You Publish an Ebook... so the Reader Can Make Progress
 
 Whether it's an ebook, an online multi-page guide, or an email sequence, you've got a long-ish chunk of teachings and findings to share.
 
