@@ -44,7 +44,7 @@ What's also susprising is what goes on in the head of your potential reader, the
 <div class="primer" markdown="1">
 ### Recap
 
-You'll recall that there are [Four Forces of Progress that are at play][four-forces] in the mind of the buyer, while considering the decision to go forward. The Struggle (above), The Attraction, The Anxiety (the two next ones heres), The Habits (talked about below).
+You'll recall that there are [Four Forces of Progress that are at play][four-forces] in the mind of the buyer, while considering the decision to go forward. The Struggle (above), The Attraction, The Anxiety (the two next ones here), The Habits (talked about below).
 
 [four-forces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
 </div>
