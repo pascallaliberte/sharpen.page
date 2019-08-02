@@ -81,7 +81,7 @@ You'll recall that we featured a [purchase interview from someone who had purcha
 [purchase-interview]: {% post_url 2019-03-01-two-ebooks-purchased-together %}
 </div>
 
-Make the ebook short, make it serve the job-to-be-done very precisely, [make a landing page about it describing in vivid details what problem it solves][ebook-landing-page], and it'll be read before the other book the person had committed to read.
+Make the ebook short, make it serve the job-to-be-done very precisely, [make a landing page about it describing in vivid details what problem it solves][ebook-landing-page], and it'll be read before the other books the person had committed to read.
 
 [ebook-landing-page]: {% post_url 2019-06-28-an-example-unconventional-landing-page %}
 
@@ -106,7 +106,7 @@ As we saw in the [previous article][previous], you can help your newsletter serv
 
 And it goes both ways. Your newsletter will be appealing in comparison with the length of your ebook, for instance.
 
-So make your newsletter be an alternative to reading your ebook. Place an invitation to your read your newsletter directly on your ebook's landing page, and so people hesitating to "buy" your ebook will instead think:
+So make your newsletter be an alternative to reading your ebook. Place an invitation to read your newsletter directly on your ebook's landing page, and so people hesitating to "buy" your ebook will instead think:
 
 * {% include components/icon-habits.html %} **I'll just subscribe to the person's informative newsletter instead.**
 {: .forces }
