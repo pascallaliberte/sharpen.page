@@ -16,7 +16,7 @@ Book sales are driven by launches. Sales go up, and then sales peter out.
 
 But people will experience their problem at, you know, a time that _might not coincide_ with your launch. If you do it right, your ebook will continue selling long after your launch, **and the _presence_ of your ebook will help sell other things you have to sell**.
 
-## You Publish an Ebook.. so the Reader Can Make Progress
+## You Publish an Ebook... so the Reader Can Make Progress
 
 Whether it's an ebook, an online multi-page guide, or an email sequence, you've got a long-ish chunk of teachings and findings to share.
 
@@ -44,7 +44,7 @@ What's also susprising is what goes on in the head of your potential reader, the
 <div class="primer" markdown="1">
 ### Recap
 
-You'll recall that there are [Four Forces of Progress that are at play][four-forces] in the mind of the buyer, while considering the decision to go forward. The Struggle (above), The Attraction, The Anxiety (the two next ones heres), The Habits (talked about below).
+You'll recall that there are [Four Forces of Progress that are at play][four-forces] in the mind of the buyer, while considering the decision to go forward. The Struggle (above), The Attraction, The Anxiety (the two next ones here), The Habits (talked about below).
 
 [four-forces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
 </div>
@@ -81,7 +81,7 @@ You'll recall that we featured a [purchase interview from someone who had purcha
 [purchase-interview]: {% post_url 2019-03-01-two-ebooks-purchased-together %}
 </div>
 
-Make the ebook short, make it serve the job-to-be-done very precisely, [make a landing page about it describing in vivid details what problem it solves][ebook-landing-page], and it'll be read before the other book the person had committed to read.
+Make the ebook short, make it serve the job-to-be-done very precisely, [make a landing page about it describing in vivid details what problem it solves][ebook-landing-page], and it'll be read before the other books the person had committed to read.
 
 [ebook-landing-page]: {% post_url 2019-06-28-an-example-unconventional-landing-page %}
 
@@ -106,7 +106,7 @@ As we saw in the [previous article][previous], you can help your newsletter serv
 
 And it goes both ways. Your newsletter will be appealing in comparison with the length of your ebook, for instance.
 
-So make your newsletter be an alternative to reading your ebook. Place an invitation to your read your newsletter directly on your ebook's landing page, and so people hesitating to "buy" your ebook will instead think:
+So make your newsletter be an alternative to reading your ebook. Place an invitation to read your newsletter directly on your ebook's landing page, and so people hesitating to "buy" your ebook will instead think:
 
 * {% include components/icon-habits.html %} **I'll just subscribe to the person's informative newsletter instead.**
 {: .forces }
