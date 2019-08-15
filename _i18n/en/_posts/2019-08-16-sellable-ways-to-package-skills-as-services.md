@@ -41,31 +41,31 @@ And of course, some of these are products themselves.
 
 [non-consumption]: {% post_url 2018-12-17-universal-competitor %}
 
-* Sell an **exploratory phone call**;
-* Sell a **critique call** for a design your client made themselves;
-* Sell a redesign of **a single web page**;
-* Sell a **monthly group coaching** call;
-* Sell access to a chat community, to **get access to you and others like you**;
-* Sell access to a **reading group on a book** covering a new aspect of your practice;
-* Sell **your "about" page as a PDF** (surprisingly, the [_Make Money Online_ podcast](https://makemoneyonline.exposed/) by [Nick Disabato](https://twitter.com/nickd) and [Kai Davis](https://twitter.com/kaisdavis) had that running a while back);
-* Sell a **one-time report**;
-* Sell a weekly recurring **system clean-up service**;
-* Sell a website **loading speed increase**;
-* Sell the **re-write of a document**, max 2000 words;
-* Sell the **editing of a 5-minute video clip**;
-* Sell the editing of the **first 30 minutes of a podcase episode**;
-* Sell access to a popular system **plus your support of that system** and your training on that system for a recurring retainer fee;
-* Sell **writing snarky tweets** for the past 10 articles your client wrote;
-* Sell re-writing **a headline three different ways** for $10;
-* Sell **a screencast explaining how to solve** a specific problem in WordPress for $30;
-* Sell a **4-hour block of your focused attention for a week** for $500 and $70 off if booked two weeks in advance;
-* Sell **an email course** condensing and summarizing your best articles or your best ideas so people could catch up;
-* Sell a list of links to **30 different visual styles to inspire** your client for a unique design;
-* Sell **three on-site sessions** to train your client's team on a new approach;
-* Sell a **facilitation session to help your client get unstuck**, imagine possibilities and commit to next steps (include accountability follow-up calls);
-* Sell an **[ebook or a short guide][ebook]**;
-* Sell something that is **quick for you to do** and responds to your client's emergency but **is cheaper if they wait a month and book it now**;
-* Sell something that takes you **less than one month to complete** and that your client will be happy to wait for that month when you become available.
+1. Sell an **exploratory phone call**;
+1. Sell a **critique call** for a design your client made themselves;
+1. Sell a redesign of **a single web page**;
+1. Sell a **monthly group coaching** call;
+1. Sell access to a chat community, to **get access to you and others like you**;
+1. Sell access to a **reading group on a book** covering a new aspect of your practice;
+1. Sell **your "about" page as a PDF** (surprisingly, the [_Make Money Online_ podcast](https://makemoneyonline.exposed/) by [Nick Disabato](https://twitter.com/nickd) and [Kai Davis](https://twitter.com/kaisdavis) had that running a while back);
+1. Sell a **one-time report**;
+1. Sell a weekly recurring **system clean-up service**;
+1. Sell a website **loading speed increase**;
+1. Sell the **re-write of a document**, max 2000 words;
+1. Sell the **editing of a 5-minute video clip**;
+1. Sell the editing of the **first 30 minutes of a podcast episode**;
+1. Sell access to a popular system **plus your support of that system** and your training on that system for a recurring retainer fee;
+1. Sell **writing snarky tweets** for the past 10 articles your client wrote;
+1. Sell re-writing **a headline three different ways** for $10;
+1. Sell **a screencast explaining how to solve** a specific problem in WordPress for $30;
+1. Sell a **4-hour block of your focused attention for a week** for $500 and $70 off if booked two weeks in advance;
+1. Sell **an email course** condensing and summarizing your best articles or your best ideas so people could catch up;
+1. Sell a list of links to **30 different visual styles to inspire** your client for a unique design;
+1. Sell **three on-site sessions** to train your client's team on a new approach;
+1. Sell a **facilitation session to help your client get unstuck**, imagine possibilities and commit to next steps (include accountability follow-up calls);
+1. Sell an **[ebook or a short guide][ebook]**;
+1. Sell something that is **quick for you to do** and responds to your client's emergency but **is cheaper if they wait a month and book it now**;
+1. Sell something that takes you **less than one month to complete** and that your client will be happy to wait for that month when you become available.
 
 [ebook]: {% post_url 2019-08-02-increase-ebook-sales-without-buy-now-popups %}
 
