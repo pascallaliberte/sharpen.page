@@ -47,7 +47,7 @@ And of course, some of these are products themselves.
 1. Sell a **monthly group coaching** call;
 1. Sell access to a chat community, to **get access to you and others like you**;
 1. Sell access to a **reading group on a book** covering a new aspect of your practice;
-1. Sell **your "about" page as a PDF** (surprising, but the [_Make Money Online_ podcast](https://makemoneyonline.exposed/) by [Nick Disabato](https://twitter.com/nickd) and [Kai Davis](https://twitter.com/kaisdavis) had that running. "Had that running", so maybe this idea isn't very [Lindy](https://en.wikipedia.org/wiki/Lindy_effect), therefore not so great, but it was remarkable!);
+1. Sell **your "about" page as a PDF** (surprising, but the [_Make Money Online_ podcast](https://makemoneyonline.exposed/) by [Nick Disabato](https://twitter.com/nickd) and [Kai Davis](https://twitter.com/kaisdavis) had that running. "Had that running", so maybe this idea isn't very [Lindy](https://en.wikipedia.org/wiki/Lindy_effect#Taleb_(2012)), therefore not so great, but it was remarkable!);
 1. Sell a **one-time report**;
 1. Sell a weekly recurring **system clean-up service**;
 1. Sell a website **loading speed increase**;
