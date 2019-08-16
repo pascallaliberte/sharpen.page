@@ -26,6 +26,11 @@ function resumeClassTransitionForElement(selector) {
   }
 
   setTimeout(() => {
+    if (!el.hasAttribute('data-incoming-class') || el.getAttribute('data-incoming-class') == null) {
+      console.log(el)
+      return
+    }
+    
     el.className = el.getAttribute('data-incoming-class')
     el.removeAttribute('data-incoming-class')
   }, 200)
