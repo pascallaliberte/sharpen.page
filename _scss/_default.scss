@@ -249,6 +249,18 @@ a {
     margin-top: rem(-70px);
   }
   
+  .service & {
+    margin-top: rem(30px);
+    
+    @media (min-width: $reference-width-xs-until) {
+      margin-left: rem(70px);
+    }
+    
+    @media (min-width: $reference-width-md-until) {
+      margin-left: rem(70px);
+    }
+  }
+  
   h1 {
     font-size: rem(35px);
     line-height: (25/30);

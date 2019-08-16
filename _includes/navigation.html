@@ -23,7 +23,11 @@
   </div>
   <div class="navigation__latest-article">
     <div style="margin-bottom: 1em;">
-      <a class="navigation__link navigation__link-latest-article text-link" href="/articles/"><strong>Articles</strong></a>
+      <a class="navigation__link navigation__link-services text-link" href="/services/"><strong>Services</strong></a>
+    </div>
+    
+    <div style="margin-bottom: 1em;">
+      <a class="navigation__link navigation__link-articles text-link" href="/articles/"><strong>Articles</strong></a>
     </div>
   {% for post in site.posts limit:1 %}
     <a class="navigation__link navigation__link-latest-article text-link" href="{{ post.url }}"><strong>Latest</strong><span class="navigation__link-latest-article-title"><br>{{ post.title }}</span></a>

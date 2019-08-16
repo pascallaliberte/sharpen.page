@@ -105,10 +105,14 @@
         margin-bottom: rem(-120px);
       }
     }
+    
+    .service & {
+      display: none;
+    }
   }
   
   &__summary {
-    .home & {
+    .home &, .service & {
       display: none;
     }
     
@@ -166,7 +170,7 @@
     margin-top: rem(20px);
     max-width: rem(250px);
     
-    .home & {
+    .home &, .service & {
       position: absolute;
       right: rem(30px);
       text-align: right;
@@ -181,6 +185,12 @@
         .navigation__link-latest-article-title {
           display: none;
         }
+      }
+    }
+    
+    .service & {
+      .navigation__link-latest-article {
+        display: none;
       }
     }
     
