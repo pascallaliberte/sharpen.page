@@ -23,10 +23,7 @@
       <span class="navigation__summary-byline desktop-only"><span class="desktop-only">A service</span> by <a href="https://pascallaliberte.me/" class="text-link">Pascal Laliberté</a></span>
     </div>
   </div>
-  <div class="navigation__links">
-    <a class="btn btn-be-notified" href="#be-notified">Be notified&hellip;</a>
-  </div>
-  <div class="navigation__latest-article">
+  <div class="navigation__main">
     <div style="margin-bottom: 1em;">
       <a class="navigation__link navigation__link-services text-link" href="/services/"><strong>Services</strong></a>
     </div>
@@ -34,9 +31,17 @@
     <div style="margin-bottom: 1em;">
       <a class="navigation__link navigation__link-articles text-link" href="/articles/"><strong>Articles</strong></a>
     </div>
-  {% for post in site.posts limit:1 %}
-    <a class="navigation__link navigation__link-latest-article text-link" href="{{ post.url }}"><strong>Latest</strong><span class="navigation__link-latest-article-title"><br>{{ post.title }}</span></a>
-  {% endfor %}
+    {% if page.layout == "home" or page.layout == "blog" or page.layout =="post" %}
+      {% for post in site.posts limit:1 %}
+        <a class="navigation__link navigation__link-latest-article text-link" href="{{ post.url }}"><strong>Latest</strong><span class="navigation__link-latest-article-title"><br>{{ post.title }}</span></a>
+      {% endfor %}
+    {% endif %}
   </div>
+  {% if page.layout == "home" or page.layout == "blog" or page.layout =="post" %}
+  <div class="navigation__links">
+    <a class="btn btn-be-notified" href="#be-notified">Be notified&hellip;</a>
+  </div>
+  {% endif %}
+  
   
 </nav>

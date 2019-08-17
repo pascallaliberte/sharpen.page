@@ -202,7 +202,7 @@
     }
   }
   
-  &__latest-article {
+  &__main {
     
     font-size: rem(22px);
     margin-top: rem(20px);
@@ -227,6 +227,11 @@
     }
     
     .service & {
+      
+      @media (min-width: ($reference-width-md-until + 1px)) {
+        top: rem(20px);
+      }
+      
       .navigation__link-latest-article {
         display: none;
       }
@@ -261,13 +266,6 @@
     border-radius: rem(4px);
     &:hover, &:focus {
       background-color: darken($color-primary, 10%);
-    }
-  }
-  
-  .btn-be-notified {
-    display: none;
-    .home & {
-      display: inline;
     }
   }
 

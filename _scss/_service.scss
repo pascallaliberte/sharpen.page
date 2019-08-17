@@ -1,7 +1,10 @@
 .service {
-  
+  .main-content {
+    @media (max-width: $reference-width-md-until) {
+      margin-top: rem(70px);
+    }
+  }
 }
-
 
 .services {
   @media (min-width: $reference-width-md-until) {
