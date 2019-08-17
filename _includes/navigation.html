@@ -5,6 +5,11 @@
         {% include logo.svg.html class="navigation__logo-img" alt="Logo for sharpen.page" %}
       </span>
     </a>
+    {% if page.layout == "service" %}
+    <div class="navigation__service-slug">
+      {{ page.permalink | replace: "/", "" }}
+    </div>
+    {% endif %}
     <a href="{{ "/" | relative_url }}" class="navigation__tagline on-{{ page.layout }}" data-behavior="navigation__tagline">
       <div class="navigation__tagline-bg">
         {% include tagline-bg.svg.html %}

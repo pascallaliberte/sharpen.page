@@ -36,7 +36,16 @@
 
   &__logo {
     margin-top: 0;
-    display: inline-block;
+    display: block;
+    margin-bottom: rem(26px);
+    
+    width: rem(326px);
+    height: rem(70px);
+    
+    @media (max-width: $reference-width-xs-until) {
+      width: rem(259px);
+      height: rem(53px);
+    }
     
     @media (min-width: $reference-width-md-until) {
       margin-left: rem(-175px);
@@ -47,10 +56,39 @@
     margin-top: rem(-12px);
     height: auto;
     width: rem(326px);
-    margin-bottom: rem(26px);
     
     @media (max-width: $reference-width-xs-until) {
       width: rem(259px);
+    }
+  }
+  
+  &__service-slug {
+    position: absolute;
+    color: $color-tertiary;
+    font-family: $tertiary-font-family;
+    font-size: rem(42px);
+    top: rem(25px);
+    left: rem(235px);
+    
+    &::before {
+      position: absolute;
+      content: '/';
+      left: -0.5em;
+      top: 0;
+    }
+    
+    @media (max-width: $reference-width-xs-until) {
+      font-size: rem(22px);
+      max-width: rem(200px);
+      top: rem(60px);
+      left: rem(25px);
+    }
+    
+    @media only screen and (min-width: ($reference-width-xs-until + 1px)) and (max-width: $reference-width-md-until) {
+      font-size: rem(32px);
+      max-width: rem(480px);
+      top: rem(80px);
+      left: rem(69px);
     }
   }
 
