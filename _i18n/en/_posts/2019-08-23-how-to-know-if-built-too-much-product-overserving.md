@@ -26,7 +26,7 @@ It's a situation that creeps in, unexpected:
 
 **Or maybe you grow your agency's team**, you take on bigger clients, you add more services under your belt. You add those services on your website. But then you get signs you might have overserved.
 
-## The Two Signs You Might Have Overserved
+## The Three Signs You Might Have Overserved
 
 ### Sign #1: People Are Hesitant to Buy
 
@@ -63,8 +63,18 @@ If they're cancelling and switching to a small, more modest product, that likely
 
 [cancellation-insights]: https://baremetrics.com/features/cancellation-insights
 
+### Sign #3: People Aren't Using Your Features
+
+People hire your product for a job. **But people hire your _features_ for sub-jobs.**
+
+You might have heard (from your customers) that a feature idea would be great to have. You might have thought that the feature would attract more sales (and maybe it did).
+
+But if your features aren't answering a struggle your customers were having, your features might causing _them_ a struggle. A clear sign of overserving.
+
+**What to do?** Hold off on new features for a while. Set a direction for your team that is about honing the features to the customers core jobs rather than addressing customer feedback. Conduct [purchase story interviews][purchase-story] to remind you why people hired your product. Interview your users the same way, but for when they chose to use that new feature, so you can understand what caused them to hire that feature, for what job they needed to get done. 
+
 ---
 
-So keep a close eye on not adding too many features, guard against straying away from serving [the job for which people hired your product][jtbd-intro], and you'll stay clear of overserving.
+So keep a close eye on not adding too many features, guard against straying away from serving [the job for which people hired your product][jtbd-intro], be clear on what sub-jobs your customers are hiring your features for, and you'll stay clear of overserving.
 
 Stay Sharp!
