@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## Maybe you're going through one of these situations...
+## Helping modest online businesses in situations like these…
 
 <div class="home-situation-quotes" markdown="1">
 
