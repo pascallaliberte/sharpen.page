@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## Helping modest online businesses in situations like these…
+## I help modest online products and service businesses like yours in situations like these…
 
 <div class="home-situation-quotes" markdown="1">
 
