@@ -28,7 +28,7 @@ This piece of information gives you an idea about **the buyer's momentum**, thei
 
 The harder their <mark>struggle</mark> before they knocked on your door, the more likely you are to have something solid to sell to.
 
-{% include components/aside-note.html text="If you sold product and there was little to no struggle being felt, you might be selling a commodity, or you might be selling something else than your product. More on that in a future article." %}
+{% include components/aside-note.html text="If you think there was little to no struggle being felt, you might be selling a commodity, or you might be selling something else than your product. More on that in a future article." %}
 
 **What you can do once you have your answer**: Change your product's page to vividly relate to your visitor that you understand their struggle. Make them _know_ they've come to the right place. **Make them feel understood**.
 
