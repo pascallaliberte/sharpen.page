@@ -82,6 +82,8 @@ This diagram illustrates the [Four Forces of Progress][four-forces]. It shows th
 
 Did you communicate you understood the <mark>struggle</mark>? Did you show properties that were <mark>attractive</mark>, address your customer's <mark>anxieties</mark>, and make it a no-brainer to part ways with with their current <mark>habits</mark>?
 
+Did the top two beat the bottom two?
+
 If so, your idea is solid.
 
 Stay Sharp!
