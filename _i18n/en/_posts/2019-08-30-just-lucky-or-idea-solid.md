@@ -87,3 +87,7 @@ Did the top two beat the bottom two?
 If so, your idea is solid.
 
 Stay Sharp!
+
+---
+
+_Do I need to address a hard struggle? That's a question we'll answer in a future article. Stay tuned!_
