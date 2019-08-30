@@ -55,7 +55,7 @@ If the severity of the struggle defines the strength of the customer's momentum,
 
 **What you can do once you have your answer**: Feed the customer's <mark>attraction</mark> to your product by _focusing_ only on the properties that address the main struggle. Mention other benefits only if they serve the job, lest you want to make your benefits fall into the trap of the next question...
 
-### **Question #4**<br>What Made Your Customer's _Hesitate_ About Going Forward with the Purchase?
+### **Question #4**<br>What Made Your Customers _Hesitate_ About Going Forward with the Purchase?
 
 You might be extolling the merits of your product, but despite your best efforts, your customers are likely left with some <mark>anxieties</mark> about moving forward.
 
