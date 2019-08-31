@@ -12,6 +12,8 @@ Some ideas are never going to work, no matter how hard you try.
 
 Some ideas don't work _just yet_, but might work out if you tried a little later or if you persist.
 
+Sometimes you get an idea that starts out to look like it's going to work, but then something happens and you realize it wasn't _solid_.
+
 **So how can you tell if your idea is solid?** You've had some success, but will it _last_?
 
 Marketing is a fuzzy practice, isn't it? It's fuzzy because it relies on tactics, trial and error, timing wizardry and, frankly, it often depends on _luck_. 
