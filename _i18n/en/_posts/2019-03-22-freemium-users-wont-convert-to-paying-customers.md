@@ -56,7 +56,7 @@ So what you _can_ do is **figure out what the target _situation_ is**, [when][tr
 
 ## Not the Customer. The _Situation_
 
-What happened right before purchase of your app? **What were the circumstances** which led up to the paid upgrade? Did the customer go for the free version for a while before they deciding to pay for it, or did they straight up buy it? Of course, this will vary from customer to customer, so here are more questions to dig further:
+What happened right before the purchase of your app? **What were the circumstances** which led up to the paid upgrade? Did the customer go for the free version for a while before they deciding to pay for it, or did they straight up buy it? Of course, this will vary from customer to customer, so here are more questions to dig further:
 
 * Was there an important moment which occurred, pushing people to start journaling their life weeks at a time?
 * Have they been deliberating about the purchase decision a little bit before going for the purchase?
@@ -66,7 +66,7 @@ What happened right before purchase of your app? **What were the circumstances**
 
 These questions are meant to be an interview checklist. They're not, however, the questions to ask during the interview itself. For those, you want to steer clear of questions that ask the customer to analyze or make conclusions, [but rather, you want to ask questions that bring the customer to recount the purchase story][better-questions]. 
 
-Asking the right questions will get the person to recall, in vivid detail, the moments preceding the interview, so you can get to the [real mix of emotional and rational motivations][four-forces]. It takes practice. If it helps, you can preface the interview by saying that you're asking questions as if you're writing a movie script of the purchase story. That's the kind of mindset to be in when interviewing for the purchase story.
+Asking the right questions will get the person to recall, in vivid detail, the moments preceding the purchase, so you can get to the [real mix of emotional and rational motivations][four-forces]. It takes practice. If it helps, you can preface the interview by saying that you're asking questions as if you're writing a movie script of the purchase story. That's the kind of mindset to be in when interviewing for the purchase story.
 
 [better-questions]: {% post_url 2019-03-08-interview-questions-to-ask %}
 [four-forces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
