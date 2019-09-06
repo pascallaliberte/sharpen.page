@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Do I Need to Address a Hard Struggle?"
+title: Do I Need to Address a Hard Struggle?
 categories: jtbd
 author: Pascal Laliberté
 image: 2019-09-06-hard-struggle-required.jpg
+published: true
 ---
 
 In [this podcast episode of _The Disruptive Voice_, Andrew Glaser shares][clip] this painful story of a product he put together:
@@ -50,6 +51,8 @@ What will make someone go out of their way to find a product like yours? A hard 
 A hard struggle will create _momentum_. That's basically free help for your sales. But is it _required_?
 
 ## Do I _Need_ to Find a Hard Struggle?
+
+No, you dont need to. **But why would you waste your energy otherwise?**
 
 If you don't have a hard struggle:
 
