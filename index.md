@@ -6,53 +6,19 @@ layout: home
 
 <div class="home-situation-quotes" markdown="1">
 
-> "**Things aren't selling as much as I'm hoping.** I interviewed some people but nothing really comes out of my research. I'm tempted to change my marketing, but I've tried that before and haven't found an approach that works. **I've been wasting my time and my attention trying to change my marketing approach**, and I'd like to get some help with my research. I know there's something here, but I just can't uncover it."
+> **You're running a service business in a field that's on the up and up**. DevOps, AI/ML, Cybersecurity, SwiftUI, plugin development for e-commerce shops, animations, team coaching. **You're getting attention**, but you know your site is saying something way too generic. Services I offer, Contact me. You know that won't do it.
 
-> "**People are cancelling our service**, and I'd like to stop the spigot if I could! I know what people are switching to, but I don't want to match the competitor, **I just want to know what makes us unique**."
-
-See your situation listed? [Shoot me an email {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } to tell me what you're up against. Would love to hear the specifics. Or [maybe there's an article I wrote](/articles) that can help out.
-{: .cta-interstitial }
-
-> "I've been finally getting [enough traffic to do some A/B testing][how-much-traffic], but **I'm out of my element when trying some A/B testing alterations**. I realize I have to research my recent buyer's to get better insights, **but that seems time-consuming to me**. I'd like to get someone who's good at research to propose some copywriting changes we can implement and test out."
-
-[how-much-traffic]: {% post_url 2019-07-05-how-much-traffic-needed-to-start-ab-testing %}
-
-> "It's been a month and a half since we shipped a feature we've spent 5 sprints building. And despite us educating our users about the feature, **the new feature is barely getting used!** Yet, we've heard from our users that this feature was needed. **Something's wrong with the way we're finding features to build**, and we're sure it's because we're jumping to conclusions about what the user wants. Help!"
+> "I’ve just realized that **the page describing my product doesn’t do it justice**. It focuses too much on the benefits. I know I can make it communicate more sharply **the problem it can help solve for my customers**."
 
 </div>
 
-## You're seeing:
+So how do you move forward? You know that **it starts by getting a good sense of your customers [struggles][struggles]**. You know you want to help your clients get unstuck.
 
-* Bizarre patterns in who's been buying your product
-* Features that work more than expected, other features less than expected
-* An uptick in cancellations 
-* A slowdown in sales
-* A surprising success you didn't see coming
-
-## "I admit, I just don't understand some key things about my customers"
-
-You were sure, but now you're no longer so sure...  
-You knew, but now you no longer do...  
-
-<mark>I help fix your hesitations about your product</mark> by helping you more deeply understand your buyers and their purchasing behavior in their own context. I do <mark>product sharpening through understanding sharpening</mark>, if that makes sense.
-{: .intro }
-
-<aside class="home-personal-intro" markdown="1">
-
-<h2>About me {% include avatar.html %}</h2>
-
-Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I can help you sharpen that product or service offering. I'll help you make it more tuned to <mark>help your customer progress on what they're trying to get progress on</mark>, more distinctive, more incisive, and, well, <mark>more sharp</mark>.
-
-As a side effect, you'll be more confident about the decisions you make about your product.
-
-[Contact me via email {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } and I'll be glad to help you sharpen your product. Or read on to learn if I can help with your situation.
-{: .cta }
-
-</aside>
+[struggles]: {% post_url 2019-09-06-hard-struggle-required %}
 
 ## Your customers just want to make <mark>progress</mark>
 
-[Your product gets _hired_ into the lives of your customers for a reason][jtbd-intro]. When they're saying _yes_ to your product, they're saying _no_ to something else. Saying _no_ to that other thing was a key moment for them. It took time before they finally pulled the plug.
+[Your product, your service, it gets _hired_ into the lives of your customers for a reason][jtbd-intro]. When they're saying _yes_ to your product, they're saying _no_ to something else. Saying _no_ to that other thing was a key moment for them. It took time before they finally pulled the plug.
 
 [jtbd-intro]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
 
@@ -99,25 +65,22 @@ That's enough to get started.
 
 [There are more articles on the blog](/articles) to learn more about all this, or if you'd like some help, let me tell you a little bit about what I have to offer:
 
----
+<aside id="contact" class="home-personal-intro" markdown="1">
 
-## What I offer:
+<h2>About me {% include avatar.html %}</h2>
 
-I help you sharpen your product, and your understanding of your buyers, by doing this:
+Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I can help you sharpen that product or service offering. I'll help you make it more tuned to <mark>help your customer progress on what they're trying to get progress on</mark>, more distinctive, more incisive, by doing this:
 
-* **Buyer Interviews and Buyer Research** to uncover the [job for which they hired your product][jtbd], what they switched away from, and the [emotional back-and-forth in their decision-making][fourforces]. 5-10 buyer interviews will suffice for most products. Even a single interview is useful for uncovering what happened to land a big B2B contract;
-* **Copywriting reviews and tweaks** with split-testing (A/B testing);
-* **1-on-1 calls** to review your product approach (pricing, features, messaging).
+1. **Buyer Interviews and Buyer Research** to uncover the [job for which they hired your product][jtbd], what they switched away from, and the [emotional back-and-forth in their decision-making][fourforces]. 5-10 buyer interviews will suffice for most products. Even a single interview is useful for uncovering what happened to land a big B2B contract;
+2. and **landing page copywriting** based on that buyer research.
 
 [jtbd]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
 [fourforces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
 
-## Interested in talking to me about your thing?
-
-[Contact me {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } to move forward with one of these engagements. Tell me about your situation and I'll reply with more questions to learn a little more or with some small tips that help you right away. If I think I can help with one of these engagements, you'll get a proposal with some options to go forward.
+[Contact me via email {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } and I'll be glad to help you sharpen your offerings.
 {: .cta }
 
----
+</aside>
 
 ## We'll be a good fit...
 
