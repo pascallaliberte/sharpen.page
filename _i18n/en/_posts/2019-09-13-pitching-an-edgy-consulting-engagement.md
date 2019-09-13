@@ -56,7 +56,7 @@ Make sure that each option is tuned to make the client carefully weigh her choic
 
 Also notice how the top option goes further than the bottom options.
 
-In fact, the top option assumes you're the one taking the some risk.
+In fact, the top option assumes you're the one taking the most risk.
 
 ### 3. The Proposal Offers An Option Where You Assume Risk
 
