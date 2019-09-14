@@ -2,15 +2,21 @@
 layout: default
 class: blog
 ---
-<div class="blog">
+<div class="blog" data-controller="articles-list">
   
   <h1>{{ page.title }}</h1>
+  
+  <select data-target="articles-list.select" data-action="articles-list#highlightFilteredArticles">
+    <option value="all" selected="selected">All Topics</option>
+    <option value="jtbd">Jobs-To-Be-Done</option>
+    <option value="optimize">Optimizing Pages</option>
+  </select>
   
   <ol reversed>
   {% for post in site.posts %}
     <li>
       <div class="post__title">
-        <a class="blog__link" href="{{ post.url | relative_url }}">
+        <a class="blog__link" href="{{ post.url | relative_url }}" data-target="articles-list.article" data-categories="{{ post.categories | join:' ' | downcase }}">
           <span class="post__title__decoration">{{ post.title | escape }}</span>
         </a>
       </div>

@@ -147,6 +147,21 @@
       transform: scale(1.06);
       color: $color-primary;
     }
+    
+    &.fade {
+      opacity: 0.5;
+      transform: scale(0.9);
+      
+      &:hover, &:active {
+        transform: scale(1);
+        color: inherit;
+        background: inherit;
+      }
+    }
+    
+    &.highlight {
+      transform: scale(1.03);
+    }
   }
 }
 
