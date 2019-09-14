@@ -161,6 +161,10 @@
     
     &.highlight {
       transform: scale(1.03);
+      
+      &:hover, &:active {
+        transform: scale(1.1);
+      }
     }
   }
 }
