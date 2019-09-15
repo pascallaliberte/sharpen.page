@@ -1,19 +1,19 @@
 import { Controller } from "stimulus"
 
 export default class extends Controller {
-  static targets = [ "select", "article" ]
+  static targets = [ "article" ]
 
-  highlightFilteredArticles() {
-    const category = this.selectTarget.value
+  highlightFilteredArticles(event) {
+    const topic = event.target.value || event.detail.value
     
     this.articleTargets.forEach(articleTarget => {
-      if (category === 'all') {
+      if (topic === 'all') {
         articleTarget.classList.remove('fade')
         articleTarget.classList.remove('highlight')
         return
       }
       
-      if (articleTarget.dataset.categories.includes(category)) {
+      if (articleTarget.dataset.categories.includes(topic)) {
         articleTarget.classList.add('highlight')
         articleTarget.classList.remove('fade')
       } else {

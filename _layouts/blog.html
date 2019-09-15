@@ -6,14 +6,24 @@ class: blog
   
   <h1>{{ page.title }}</h1>
   
-  <select data-target="articles-list.select" data-action="articles-list#highlightFilteredArticles">
-    <option value="all" selected="selected">All Topics</option>
-    <option value="jtbd">Jobs-To-Be-Done</option>
-    <option value="optimize">Optimizing, A/B Testing</option>
-    <option value="copywriting">Copywriting</option>
-    <option value="consulting">Consulting</option>
-    <option value="purchase-stories">Purchase Stories</option>
-  </select>
+  <div data-controller="articles-topics-filter">
+    <select data-controller="select" data-target="articles-topics-filter.select" data-action="articles-list#highlightFilteredArticles articles-topics-filter#update update->select#update">
+      {% for topic in site.data.topics-to-filter %}
+        <option
+        value="{{ topic.value }}"
+        data-target="select.option"
+        {% if topic.selected %}selected="selected"{% endif %}
+        >{{ topic.name }}</option>
+      {% endfor %}
+    </select>
+    <ul data-controller="menu" data-target="articles-topics-filter.menu" data-action="change->articles-list#highlightFilteredArticles change->articles-topics-filter#update update->menu#update">
+      {% for topic in site.data.topics-to-filter %}
+        <li>
+          <a href="#{{ topic.value }}" data-target="menu.link" data-value="{{ topic.value }}" data-action="menu#select">{{ topic.name }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
   
   <ol reversed>
   {% for post in site.posts %}
