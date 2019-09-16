@@ -2,38 +2,44 @@
 layout: default
 class: blog
 ---
-<div class="blog" data-controller="articles-list">
+<div class="blog-posts" data-controller="articles-list">
   
   <h1>{{ page.title }}</h1>
   
-  <div data-controller="articles-topics-filter">
-    <select data-controller="select" data-target="articles-topics-filter.select" data-action="articles-list#highlightFilteredArticles articles-topics-filter#update update->select#update">
-      {% for topic in site.data.topics-to-filter %}
-        <option
-        value="{{ topic.value }}"
-        data-target="select.option"
-        {% if topic.selected %}selected="selected"{% endif %}
-        >{{ topic.name }}</option>
-      {% endfor %}
-    </select>
-    <ul data-controller="menu" data-target="articles-topics-filter.menu" data-action="change->articles-list#highlightFilteredArticles change->articles-topics-filter#update update->menu#update">
-      {% for topic in site.data.topics-to-filter %}
-        <li>
-          <a href="#{{ topic.value }}" data-target="menu.link" data-value="{{ topic.value }}" data-action="menu#select">{{ topic.name }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
+  <ol reversed start="{{ site.posts.size }}">
+  {% for post in site.posts limit:5 %}
+  <li>
+    {% include blog-link.html post="post" %}
+  </li>
+  {% endfor %}
+  </ol>
   
-  <ol reversed>
-  {% for post in site.posts %}
-    <li>
-      <div class="post__title">
-        <a class="blog__link" href="{{ post.url | relative_url }}" data-target="articles-list.article" data-categories="{{ post.categories | join:' ' | downcase }}">
-          <span class="post__title__decoration">{{ post.title | escape }}</span>
-        </a>
-      </div>
-    </li>
+  <aside class="articles-filter-container" title="Filter articles by topic" data-controller="articles-topics-filter">
+    <div class="articles-filter">
+      <select class="articles-filter-select" data-controller="select" data-target="articles-topics-filter.select" data-action="articles-list#highlightFilteredArticles articles-topics-filter#update update->select#update">
+        {% for topic in site.data.topics-to-filter %}
+          <option
+          value="{{ topic.value }}"
+          data-target="select.option"
+          {% if topic.selected %}selected="selected"{% endif %}
+          >{{ topic.name }}</option>
+        {% endfor %}
+      </select>
+      <ul class="articles-filter-links" data-controller="menu" data-target="articles-topics-filter.menu" data-action="change->articles-list#highlightFilteredArticles change->articles-topics-filter#update update->menu#update">
+        {% for topic in site.data.topics-to-filter %}
+          <li>
+            <a href="#{{ topic.value }}" data-target="menu.link" data-value="{{ topic.value }}" data-action="menu#select">{{ topic.name }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </aside>
+  
+  <ol reversed start="{{ site.posts.size | minus:5 }}">
+  {% for post in site.posts offset:5 %}
+  <li>
+    {% include blog-link.html post="post" %}
+  </li>
   {% endfor %}
   </ol>
 </div>
