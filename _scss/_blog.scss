@@ -179,6 +179,13 @@
   position: relative;
   
   aside.articles-filter-container {
+    display: none;
+    &.show {
+      display: block;
+    }
+  }
+  
+  aside.articles-filter-container {
     position: sticky;
     top: 0;
     

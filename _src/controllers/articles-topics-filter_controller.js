@@ -3,6 +3,10 @@ import { Controller } from "stimulus"
 export default class extends Controller {
   static targets = [ "select", "menu" ]
   
+  connect() {
+    this.element.classList.add('show')
+  }
+  
   update(event) {
     console.log(event)
     let value = ''
