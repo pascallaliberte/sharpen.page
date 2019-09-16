@@ -2,6 +2,7 @@
 layout: post
 title: "How to Get Better Consulting Clients without Being Too Sales-y"
 categories: jtbd optimize
+tags: consulting
 author: Pascal Laliberté
 image: 2019-08-09-get-better-consulting-clients-without-being-too-sales-y.jpg
 ---

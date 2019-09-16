@@ -2,6 +2,7 @@
 layout: post
 title: "Changing Orbit: Selling Your Idea"
 categories: jtbd
+tags: consulting
 author: Pascal Laliberté
 image: 2019-01-10-changing-orbit-selling-your-idea.jpg
 ---

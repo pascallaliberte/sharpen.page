@@ -2,6 +2,7 @@
 layout: post
 title: "For My Landing Page Call to Action: Appointment or Email?"
 categories: jtbd copywriting
+tags: consulting
 author: Pascal Laliberté
 image: 2019-05-10-landing-page-appointment-or-email.jpg
 ---

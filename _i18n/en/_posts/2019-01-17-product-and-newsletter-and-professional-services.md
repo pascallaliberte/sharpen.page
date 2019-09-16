@@ -2,6 +2,7 @@
 layout: post
 title: "The Product, The Newsletter and The Professional Services"
 categories: jtbd
+tags: consulting
 author: Pascal Laliberté
 image: 2019-01-17-product-and-newsletter-and-professional-services.jpg
 ---

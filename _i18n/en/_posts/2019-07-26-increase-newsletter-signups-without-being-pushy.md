@@ -2,6 +2,7 @@
 layout: post
 title: "How to Increase Newsletter Signups without Being Pushy?"
 categories: jtbd optimize
+tags: consulting
 author: Pascal Laliberté
 image: 2019-07-26-increase-newsletter-signups-without-being-pushy.jpg
 ---
