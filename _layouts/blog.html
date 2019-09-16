@@ -2,19 +2,25 @@
 layout: default
 class: blog
 ---
-<div class="blog">
+<div class="blog-posts" data-controller="articles-list">
   
   <h1>{{ page.title }}</h1>
   
-  <ol reversed>
-  {% for post in site.posts %}
-    <li>
-      <div class="post__title">
-        <a class="blog__link" href="{{ post.url | relative_url }}">
-          <span class="post__title__decoration">{{ post.title | escape }}</span>
-        </a>
-      </div>
-    </li>
+  <ol reversed start="{{ site.posts.size }}">
+  {% for post in site.posts limit:5 %}
+  <li>
+    {% include blog-link.html post="post" %}
+  </li>
+  {% endfor %}
+  </ol>
+  
+  {% include blog-articles-filter.html %}
+  
+  <ol reversed start="{{ site.posts.size | minus:5 }}">
+  {% for post in site.posts offset:5 %}
+  <li>
+    {% include blog-link.html post="post" %}
+  </li>
   {% endfor %}
   </ol>
 </div>

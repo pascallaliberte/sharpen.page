@@ -1,0 +1,5 @@
+<div class="post__title">
+  <a class="blog__link" href="{{ post.url | relative_url }}" data-target="articles-list.article" data-categories="{{ post.categories | join:' ' | downcase }}">
+    <span class="post__title__decoration">{{ post.title | escape }}</span>
+  </a>
+</div>
