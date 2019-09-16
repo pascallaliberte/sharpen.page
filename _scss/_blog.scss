@@ -182,10 +182,22 @@
     position: sticky;
     top: 0;
     
+    h2 {
+      margin: 0;
+      font-weight: normal;
+      color: $color-primary;
+      font-size: rem(18px);
+    }
+    
+    a {
+      font-size: rem(24px);
+      font-weight: bold;
+      display: inline-block;
+    }
+    
     @media (max-width: ($reference-width-xs-until)) {
       margin-left: rem(-15px);
       margin-right: rem(-15px);
-      height: rem(70px);
       padding: rem(15px);
       z-index: 20;
       background: transparentize(#ccc, 0.1);
@@ -212,11 +224,26 @@
         margin: 0;
         list-style: none;
       }
+      
+      h2 {
+        padding: 0 0.5em;
+        margin-bottom: 0.5em;
+        font-size: rem(16px);
+      }
+      
+      li {
+        margin-bottom: 0.2em;
+      }
+      
+      a {
+        font-size: rem(16px);
+      }
     }
     
     .articles-filter {
       position: sticky;
-      top: 50vh;
+      top: 40vh;
+      text-align: right;
     }
     
     .articles-filter-select {
@@ -225,6 +252,22 @@
     
     .articles-filter-links {
       display: block;
+      
+      a {
+        background: none;
+        padding: 0 0.5em;
+        text-shadow: none;
+      }
+      
+      a:hover, a:active {
+        background: transparentize(#d8d8d8, 0.5);
+      }
+      
+      a.active {
+        background: #D8D8D8;
+        color: $color-secondary;
+        cursor: default;
+      }
     }
   }
   
@@ -238,12 +281,19 @@
       ul {
         list-style: none;
       }
+      
+      a {
+        font-size: rem(20px);
+      }
+      
+      h2 {
+        font-size: rem(22px);
+      }
     }
     
     .articles-filter {
       position: sticky;
       top: rem(100px);
-      text-align: right;
     }
   }
 }
