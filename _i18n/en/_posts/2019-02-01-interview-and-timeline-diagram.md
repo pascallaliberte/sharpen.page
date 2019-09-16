@@ -2,6 +2,7 @@
 layout: post
 title: "The Interview and the Timeline Diagram"
 categories: jtbd
+tags: purchase-interview
 author: Pascal Laliberté
 image: 2019-02-01-interview-and-timeline-diagram.jpg
 ---
