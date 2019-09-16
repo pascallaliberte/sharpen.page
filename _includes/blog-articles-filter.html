@@ -1,6 +1,6 @@
 <aside class="articles-filter-container" title="Filter articles by topic" data-controller="articles-topics-filter">
   <div class="articles-filter">
-    <h2>Just show articles on</h2>
+    <h2>Highlight articles on</h2>
     
     <select class="articles-filter-select" data-controller="select" data-target="articles-topics-filter.select" data-action="articles-list#highlightFilteredArticles articles-topics-filter#update update->select#update">
       {% for topic in site.data.topics-to-filter %}
