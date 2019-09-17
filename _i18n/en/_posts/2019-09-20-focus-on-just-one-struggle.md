@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Do I Need To Focus On Just One Struggle?
-categories: jtbd consulting copywriting
+categories: jtbd copywriting
+tags: consulting
 author: Pascal Laliberté
 image: 2019-09-20-focus-on-just-one-struggle.jpg
 published: true
