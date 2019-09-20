@@ -2,6 +2,7 @@
 layout: post
 title: "What Are Sellable Ways to Package up (my) Skills as Services?"
 categories: jtbd
+tags: consulting
 author: Pascal Laliberté
 image: 2019-08-16-sellable-ways-to-package-skills-as-services.jpg
 ---
