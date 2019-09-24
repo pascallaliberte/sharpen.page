@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Rewriting Common Mental Models About Introducing Yourself as a Freelancer
-categories: consulting mental-models
+categories: consulting
+tags: mental-models
 author: Pascal Laliberté
 image: 2019-09-27-rewriting-mental-models-about-introducing-yourself-as-freelancer.jpg
 published: true
@@ -33,7 +34,9 @@ So to start, here are three common "unlesses" and "surely's" that come up when s
 
 Let's rewrite this one:
 
-* **There must be a way to introduce myself in a way that will be welcomed, that will come at the right time for them.** 
+* **There must be a way to introduce myself [in a way that will be welcomed][cold-emails-welcomed], that will come at the right time for them.** 
+
+[cold-emails-welcomed]: {% post_url 2019-05-03-writing-outreach-cold-emails-that-will-be-welcomed %}
 
 Here, we're just catching and rewriting. But we know there are more mental models underneath, that we're just starting.
 
