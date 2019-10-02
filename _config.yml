@@ -8,7 +8,7 @@ email: pascal@pascallaliberte.me
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-theme_color: '#C4614E'
+theme_color: '#605aa4'
 twitter_username: pascallaliberte
 github_username:  pascallaliberte
 author: Pascal Laliberté
@@ -22,6 +22,9 @@ social:
     - https://github.com/pascallaliberte
 
 languages: ["en"]
+
+permalink: /:categories/:title/
+
 ampdir: amp
 destination: public
 
@@ -44,6 +47,9 @@ plugins:
   # - octopress-minify-html
   - jekyll-multiple-languages-plugin
   # - amp-jekyll
+
+include:
+  - _redirects
 
 ### Exclude from processing.
 exclude:

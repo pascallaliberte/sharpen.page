@@ -1,20 +1,28 @@
 ---
 layout: default
+class: blog
 ---
-<div class="blog">
-  {% for post in site.posts %}
-    <article class="blog__post">
-      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-      <div class="blog__date">
-        <p>{{ post.date | date: date_format }}</p>
-        <p>by {{ post.author }}</p>
-      </div>
-      <div class="blog__content">
-        <a class="blog__link" href="{{ post.url | relative_url }}">
-          <h2 class="blog__title">{{ post.title | escape }}</h2>
-          <p class="blog__excerpt">{{ post.excerpt }}</p>
-        </a>
-      </div>
-    </article>
+<div class="blog-posts" data-controller="articles-list">
+  
+  <h1>{{ page.title }}</h1>
+  
+  <ol reversed start="{{ site.posts.size }}">
+  {% for post in site.posts limit:5 %}
+  <li>
+    {% include blog-link.html post="post" %}
+  </li>
   {% endfor %}
+  </ol>
+  
+  {% include blog-articles-filter.html %}
+  
+  <ol reversed start="{{ site.posts.size | minus:5 }}">
+  {% for post in site.posts offset:5 %}
+  <li>
+    {% include blog-link.html post="post" %}
+  </li>
+  {% endfor %}
+  </ol>
 </div>
+
+{% include email-sign-up-form.html context="articles-list" %}

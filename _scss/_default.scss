@@ -1,24 +1,86 @@
+@import "../node_modules/awesome-sass-easing/_sass-easing.scss";
+
 // Variables
 
 $container-width: 100%;
-$container-padding: 15px;
+$container-padding: rem(15px);
 
-$color-primary: #C4614E;
-$color-secondary: #310051;
+$color-primary: #605aa4;
+$color-secondary: #393561;
+$color-tertiary: #c16cab;
 $color-grey: #5b5b5b;
-$text-color: #333;
-$link-color: $color-primary;
-$color-highlight: #fcffb9;
+$text-color: $color-primary;
+$link-color: $color-tertiary;
+$link-underline-color: transparentize($color-tertiary, 0.7);
+$color-highlight: transparentize(#d2dc00, 0.4);
+$color-success: #639403;
+$color-error: #611802;
 
-$font-xl: 58px;
-$font-md: 22px;
-$font-sm: 18px;
-$font-xs: 16px;
+$color-body-background: #ddd;
+$color-main-background: #e8e8e8;
+
+$font-xl: rem(58px);
+$font-md: rem(22px);
+$font-sm: rem(18px);
+$font-xs: rem(16px);
 
 $system-font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 $primary-font-family: jubilat,$system-font-family;
 $secondary-font-family: clarendon-wide-stencil,$system-font-family;
 $tertiary-font-family: mr-eaves-xl-sans,$system-font-family;
+
+$reference-width-xs:    375px;
+$reference-width-xs-until: 525px;
+$reference-width-md:    768px;
+$reference-width-md-until: 850px;
+$reference-width-xl: 1440px;
+
+body {
+  padding-left: rem(15px);
+  padding-right: rem(15px);
+  * {
+    box-sizing: border-box;
+  }
+}
+
+@media only screen and (max-width: $reference-width-xs-until) {
+  html {
+    font-size: root-vw-font-size($reference-width-xs);
+  }
+  
+  body {
+    padding-left: 0;
+    padding-right: 0;
+  }
+    
+  main {
+    max-width: 100%;
+    padding-left: $container-padding;
+    padding-right: $container-padding;
+  }
+}
+
+@media only screen and (min-width: ($reference-width-xs-until + 1px)) and (max-width: $reference-width-md-until) {
+  html {
+    font-size: root-vw-font-size($reference-width-md);
+  }
+    
+  main {
+    max-width: rem(700px);
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (min-width: ($reference-width-md-until + 1px)) {
+  html {
+    font-size: root-vw-font-size($reference-width-xl);
+  }
+    
+  main {
+    max-width: rem(1125px);
+    margin: 0 auto;
+  }
+}
 
 // Mixin
 
@@ -34,18 +96,24 @@ $tertiary-font-family: mr-eaves-xl-sans,$system-font-family;
 body {
   font-family: $primary-font-family;
   color: $text-color;
+  background-color: $color-body-background;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
 }
 
+::selection {
+  background-color: transparentize(mix($color-primary, navy), 0.8);
+}
+
 main {
   flex: 1;
   width: 100%;
+  background-color: $color-main-background;
 }
 
 a {
-  color: $link-color;
+  color: $color-primary;
   text-decoration: none;
   transition: color 0.4s ease;
 
@@ -60,7 +128,10 @@ li {
 
 .intro {
   font-family: $tertiary-font-family;
-  font-size: 40px;
+  font-size: rem(40px);
+  @media only screen and (max-width: $reference-width-xs-until) {
+    line-height: 1.05;
+  }
 }
 
 hr {
@@ -68,7 +139,7 @@ hr {
   border: none;
   height: 0.3em;
   max-width: 10em;
-  margin: 50px 0 30px;
+  margin: rem(50px 0 30px);
 }
 
 // Shared
@@ -76,9 +147,10 @@ hr {
 .button {
   display: inline-block;
   border: 1px solid lighten($link-color, 40%);
-  border-radius: 50px;
-  padding: 15px 30px;
+  border-radius: rem(50px);
+  padding: rem(15px 30px);
   font-weight: 300;
+  text-shadow: none;
 
   &:hover {
     background-color: lighten($link-color, 49%);
@@ -90,7 +162,7 @@ hr {
 }
 
 mark {
-  background-color: #fcffb9;
+  background-color: $color-highlight;
 }
 
 .img-max-20em {
@@ -101,66 +173,136 @@ mark {
 
 // Components & pages
 
-.main-content {
-  margin-top: 95px;
+a {
+  .main-content &, &.text-link, body:not(.home) &.navigation__logo {
+    
+    position: relative;
+    transition-property: background-position, text-shadow, color;
+    transition-duration: 0.5s;
+    transition-timing-function: $easeInCirc;
+    
+    text-shadow: -2px -2px 0px rgba(255, 255, 255, 1);
+    
+    background: linear-gradient(
+      to bottom,
+      rgba(255,255,255,0) 0%, rgba(255,255,255,0) 75%,
+      transparentize($link-color, 0.6) 75.1%, transparentize($link-color, 0.6) 100%
+    );
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    
+    &:hover, &:active {
+      color: mix($color-primary, $color-secondary);
+      background: linear-gradient(
+        to bottom,
+        rgba(255,255,255,0) 0%, rgba(255,255,255,0) 75%,
+        transparentize($link-color, 0.5) 75.1%, transparentize($link-color, 0.5) 100%
+      );
+      background-position: 0 4px;
+      background-repeat: no-repeat;
+      transition-timing-function: $easeOutQuint;
+      text-shadow: -2px -2px 0px rgba(255, 255, 255, 0.5);
+    }  
+  }
   
-  font-size: 22px;
+  body:not(.home) &.navigation__logo {
+    text-shadow: none;
+    background-image: linear-gradient(
+      to bottom,
+      rgba(255,255,255,0) 0%, rgba(255,255,255,0) 88%,
+      transparentize($link-color, 0.6) 88.1%, transparentize($link-color, 0.6) 100%
+    );
+    
+    &:hover, &:active {
+      text-shadow: none;
+      background-image: linear-gradient(
+        to bottom,
+        rgba(255,255,255,0) 0%, rgba(255,255,255,0) 88%,
+        transparentize($link-color, 0.5) 88.1%, transparentize($link-color, 0.5) 100%
+      );
+    }  
+  }
+  
+  .main-content &.cta-btn {
+    display: inline-block;
+    background: $color-primary;
+    color: white;
+    padding: 0 0.5em 0.05em 0.5em;
+    border-radius: rem(2px);
+    text-shadow: none;
+    box-shadow: -2px -2px 0px rgba(255, 255, 255, 1);
+    
+    .i {
+      width: auto;
+      height: 1em;
+      stroke-width: rem(3px);
+      transform: translateY(rem(4px));
+      margin-left: 0.1em;
+      
+      @media only screen and (max-width: $reference-width-xs-until) {
+        stroke-width: rem(2px);
+      }
+    }
+    
+    &:hover, &:focus {
+      background-color: darken($color-primary, 10%);
+    }
+  }
+}
+
+.main-content {
+  font-size: rem(22px);
   line-height: (27/22);
   letter-spacing: 0.024em;
   
-  a {
-    position: relative;
-    
-    &::before {
-      content: '';
-      position: absolute;
-      bottom: 3px;
-      height: 5px;
-      background-color: lighten($color-primary, 40%);
-      left: 0;
-      right: 0;
-      z-index: -10;
-      transition: background-color 0.4s ease, bottom 0.4s ease, height 0.4s ease;
-    }
-    
-    &:hover::before {
-      background-color: lighten($color-primary, 5%);
-      bottom: 2px;
-      height: 2px;
-    }
+  @media (min-width: $reference-width-xs-until) {
+    margin-left: rem(60px);
+    max-width: rem(490px);
+    margin-right: rem(60px);
   }
   
-  @media (min-width: 768px) {
-    margin-left: 60px;
-    max-width: 490px;
-    margin-right: 60px;
+  @media (min-width: $reference-width-md-until) {
+    margin-left: rem(280px);
+    max-width: rem(780px);
+    margin-right: rem(60px);
+    margin-top: rem(-70px);
   }
   
-  @media (min-width: 1024px) {
-    margin-left: 280px;
-    max-width: 780px;
-    margin-right: 60px;
-    margin-top: 20px;
+  .service & {
+    margin-top: rem(30px);
+    
+    @media (min-width: $reference-width-xs-until) {
+      margin-left: rem(70px);
+    }
+    
+    @media (min-width: $reference-width-md-until) {
+      margin-left: rem(70px);
+    }
   }
   
   h1 {
-    font-size: 35px;
+    font-size: rem(35px);
     line-height: (25/30);
-    letter-spacing: -0.033;
+    letter-spacing: -0.033em;
     color: $color-secondary;
     font-weight: bold;
   }
   
   h2 {
-    color: $text-color;
-    font-size: 28px;
-    margin-top: 45px;
-    margin-bottom: 15px;
+    color: $color-secondary;
+    font-size: rem(28px);
+    margin-top: rem(45px);
+    margin-bottom: rem(15px);
     font-weight: bold;
   }
   
   h3 {
-    font-size: 22px;
+    font-size: rem(22px);
+    color: $color-secondary;
+  }
+  
+  strong {
+    color: mix($color-primary, $color-secondary);
   }
   
   .instead-of-list {
@@ -168,8 +310,8 @@ mark {
     padding-left: 0;
     
     @media (min-width: 500px) {
-      margin: 10px 20px;
-      margin-left: 100px;
+      margin: rem(10px 20px);
+      margin-left: rem(100px);
     }
     
     > li {
@@ -187,7 +329,7 @@ mark {
       li {
         margin-top: 1em;
         margin-left: 0;
-        color: $color-secondary;
+        color: $color-primary;
         font-size: 1.2em;
       }
       
@@ -223,8 +365,8 @@ mark {
             top: auto;
             bottom: -0.1em;
             right: 42%;
-            width: (215*.3) + 0px;
-            height: (232*.3) + 0px;
+            width: rem((215*.3) + 0px);
+            height: rem((232*.3) + 0px);
           }
         }  
       }
@@ -235,10 +377,8 @@ mark {
 
 .home {
 
-  @include container($container-padding);
-  
   header h1 {
-    font-size: 18px;
+    font-size: rem(18px);
     letter-spacing: -0.02em;
     font-family: $secondary-font-family;
     color: $color-primary;
@@ -255,7 +395,7 @@ mark {
 .page {
 
   @include container($container-padding);
-  margin-top: 60px;
+  margin-top: rem(60px);
 
   &__header {
     padding: 0 $container-padding;
@@ -266,81 +406,6 @@ mark {
     padding: 0 $container-padding;
   }
 }
-
-.blog {
-  @include container($container-padding);
-  margin-top: 60px;
-
-
-  &__post {
-
-    padding: 0 $container-padding;
-    display: flex;
-    flex-direction: row;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    border-bottom: 1px solid lighten($link-color, 40%);
-
-    @media (max-width: 900px) {
-      flex-direction: column;
-    }
-
-    &:first-child {
-      padding-top: 10px;
-    }
-
-    &:last-child {
-      border-bottom: none;
-    }
-  }
-
-  &__date {
-    padding-top: 15px;
-    width: 30%;
-    color: $link-color;
-  }
-
-  &__content {
-    width: 100%;
-  }
-
-
-  &__link {
-    &:hover {
-      color: $link-color;
-    }
-  }
-
-  &__title {
-    color: $text-color;
-    font-size: $font-md;
-    padding-top: 0;
-  }
-
-  &__excerpt {
-    color: $link-color;
-  }
-}
-
-
-.post {
-
-  @include container($container-padding);
-  margin-top: 80px;
-
-
-  &__container {
-    padding: 0 $container-padding;
-  }
-
-  &__meta {
-    padding-bottom: 40px;
-    margin-bottom: 40px;
-    border-bottom: 1px solid lighten($link-color, 40%);
-  }
-
-}
-
 
 .footer {
   border-top: 1px solid lighten($link-color, 40%);
@@ -358,5 +423,46 @@ mark {
 .mobile-only {
   @media (min-width: 768px) {
     display: none;
+  }
+}
+
+.drag-to-bookmarks-container {
+  border: rem(10px) solid transparentize($color-secondary, 0.9);
+  padding: rem(16px 20px 20px);
+  
+  font-size: rem(12px);
+  font-style: italic;
+  font-family: $system-font-family;
+  color: #444;
+  
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+  @media (max-width: $reference-width-xs-until) {
+    flex-direction: column;
+  }
+}
+
+a.drag-to-bookmarks-link {
+  background: #ccc;
+  display: inline-block;
+  color: #444;
+  border-radius: 1em;
+  font-size: rem(12px);
+  font-style: normal;
+  font-family: $system-font-family;
+  padding: 0.3em 1.3em;
+  white-space: nowrap;
+  margin-right: 2em;
+  
+  &:hover, &:active {
+    background: darken(#ccc, 10%);
+    text-shadow: none;
+    color: #111;
+  }
+  
+  @media (max-width: $reference-width-xs-until) {
+    margin-bottom: 1em;
   }
 }

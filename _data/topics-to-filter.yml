@@ -1,0 +1,16 @@
+-
+  value: all
+  name: All Topics
+  selected: true
+- 
+  value: copywriting
+  name: Copywriting
+- 
+  value: consulting
+  name: Consulting, Freelancing
+- 
+  value: optimize
+  name: Optimizing & A/B Testing
+-
+  value: purchase-interview
+  name: Purchase Interviews

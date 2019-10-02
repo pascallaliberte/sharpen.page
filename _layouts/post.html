@@ -1,28 +1,59 @@
 ---
 layout: default
+class: post
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <div class="post__container">
     <header class="post__header">
-      <h1 class="post__title" itemprop="name headline">{{ page.title | escape }}</h1>
-      <p class="post__meta">
-        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-          {{ page.date | date: date_format }}
-        </time>
-        {% if page.author %}
-          • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-        {% endif %}</p>
+      {% for category in page.categories %}
+        <span class="post__category">{{ category }}</span>
+      {% endfor %}
+      <h1 class="post__title" itemprop="name headline">
+        <span class="animation-wrapper" data-behavior="animate-on-load" data-animation-class="animate">
+          <span class="post__title__decoration">{{ page.title | escape }}</span>
+        </span>
+      </h1>
     </header>
 
     <div class="post__content" itemprop="articleBody">
       {{ content }}
+      
+      <p>&mdash;<br /><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span><br />
+      <a href="https://twitter.com/@pascallaliberte">@pascallaliberte</a></p>
     </div>
 
-    <div class="post__comments">
-    {% if site.disqus.shortname %}
-      {% include disqus_comments.html %}
-    {% endif %}
+    <p class="post__meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        Published on {{ page.date | date: date_format }}
+      </time>
+    </p>
+    
+    <div class="blog-nav-container">
+      <nav class="blog-nav">
+        {% if page.previous.url %} 
+        <div class="blog-nav-link-previous-wrapper">
+          <a class="blog-nav-link text-link blog-nav-link-previous"
+             href="{{ page.previous.url }}">
+            <strong>Previous Article</strong><br>
+            <span class="blog-nav-link-title">{{ page.previous.title }}</span>
+          </a>
+        </div>
+        {% endif %} 
+        {% if page.next.url %} 
+        <div class="blog-nav-link-next-wrapper">
+          <a class="blog-nav-link text-link blog-nav-link-next"
+             href="{{ page.next.url }}">
+            <strong>Next Article</strong><br>
+            <span class="blog-nav-link-title">{{ page.next.title }}</span>
+          </a>
+        </div>
+        {% endif %}
+      </nav>
     </div>
+    
+    
   </div>
 </article>
+
+{% include email-sign-up-form.html context="post" %}

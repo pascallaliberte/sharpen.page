@@ -1,40 +1,43 @@
-<!-- <nav class="navigation" role="navigation">
-  {% assign default_paths = site.pages | map: "path" %}
-  {% assign page_paths = site.navigation_pages | default: default_paths %}
-  <a class="navigation__branding" href="{{ "/" | relative_url }}">
-    <span class="navigation__logo"><img src="{{ "/assets/images/icon.png" | relative_url }}" class="navigation__logo-img" alt=""></span>
-    <span class="navigation__title">{{ site.title | escape }}</span>
-  </a>
-  <div class="navigation__links">
-    {% if page_paths %}
-      {% for path in page_paths %}
-        {% assign my_page = site.pages | where: "path", path | first %}
-        {% if my_page.title %}
-          {% unless my_page.url contains site.ampdir %}
-            <a class="navigation__link{% if my_page.url == page.url %} navigation__link--active{% endif %}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-          {% endunless %}
-        {% endif %}
+<nav class="navigation" role="navigation">
+  <div class="navigation__branding">
+    <a class="navigation__logo" href="{{ "/" | relative_url }}">
+      <span class="">
+        {% include logo.svg.html class="navigation__logo-img" alt="Logo for sharpen.page" %}
+      </span>
+    </a>
+    {% if page.layout == "service" %}
+    <div class="navigation__service-slug">
+      {{ page.permalink | replace: "/", "" }}
+    </div>
+    {% endif %}
+    <a href="{{ "/" | relative_url }}" class="navigation__tagline on-{{ page.layout }}" data-behavior="navigation__tagline">
+      <div class="navigation__tagline-bg">
+        {% include tagline-bg.svg.html %}
+      </div>
+      <div class="navigation__tagline-text">
+        A Product Sharpening Service
+      </div>
+    </a>
+    <div class="navigation__summary">
+      <span class="desktop-only">For sharpening that marketing copy, keeping the feature set tight, and understanding the buyer's motivation.</span>
+      <span class="navigation__summary-byline desktop-only"><span class="desktop-only">A service</span> by <a href="https://pascallaliberte.me/" class="text-link">Pascal Laliberté</a></span>
+    </div>
+  </div>
+  <div class="navigation__main">
+    <div style="margin-bottom: 1em;">
+      <a class="navigation__link navigation__link-articles text-link" href="/articles/"><strong>Articles</strong></a>
+    </div>
+    {% if page.layout == "home" or page.layout == "blog" or page.layout =="post" %}
+      {% for post in site.posts limit:1 %}
+        <a class="navigation__link navigation__link-latest-article text-link" href="{{ post.url }}"><strong>Latest</strong><span class="navigation__link-latest-article-title"><br>{{ post.title }}</span></a>
       {% endfor %}
     {% endif %}
   </div>
-</nav> -->
-
-<nav class="navigation" role="navigation">
-  <div class="navigation__branding">
-    <a class="" href="{{ "/" | relative_url }}">
-      <span class="navigation__logo"><img src="{{ "/assets/images/logo.svg" | relative_url }}" class="navigation__logo-img" alt="Logo for {{ site.title | escape }}"></span>
-    </a>
-    <div class="navigation__tagline">
-      <span class="navigation__tagline__first-line-desktop">
-        <mark>A</mark><br class="mobile-only">
-        <mark>Product</mark><br class="mobile-only">
-        <mark>Sharpening</mark><br>
-      </span>
-      <mark>Service</mark>
-    </div>
-  </div>
-  <div class="nav-links">
+  {% if page.layout == "home" or page.layout == "blog" or page.layout =="post" %}
+  <div class="navigation__links">
     <a class="btn btn-be-notified" href="#be-notified">Be notified&hellip;</a>
   </div>
+  {% endif %}
+  
   
 </nav>

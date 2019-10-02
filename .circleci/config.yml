@@ -1,0 +1,20 @@
+# Ruby CircleCI 2.0 configuration file
+version: 2
+jobs:
+  deploy:
+    docker:
+      - image: circleci/node:latest
+    steps:
+      - run: curl -X POST -d {} https://api.netlify.com/build_hooks/5d208deccd227c03800674be
+workflows:
+  version: 2
+  autopublish:
+    triggers:
+      - schedule:
+          cron: "00 13 * * *" # daily at 8 am
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - deploy

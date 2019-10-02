@@ -1,0 +1,713 @@
+.blog .main-content {
+  @media (min-width: ($reference-width-xs-until + 1px)) and (max-width: $reference-width-md-until) {  
+    max-width: rem(420px);
+  }
+}
+
+.blog-posts {
+  
+  ol {
+    li {
+      margin-bottom: 1em;
+      line-height: 1.1;
+    }
+    a {
+      background: none;
+      font-weight: bold;
+      font-size: 1.2em;
+    }
+  }
+  
+  &__post {
+    
+    padding: 0 $container-padding;
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid lighten($link-color, 40%);
+    
+    @media (max-width: 900px) {
+      flex-direction: column;
+    }
+
+    &:first-child {
+      padding-top: 10px;
+    }
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  &__title {
+    color: $text-color;
+    font-size: $font-md;
+    padding-top: 0;
+  }
+}
+
+.post, .blog {
+  @media (min-width: $reference-width-md-until) {
+    main {
+      display: flex;
+      flex-direction: row;
+    }
+    
+    .navigation {
+      width: rem(500px);
+    }
+    
+    .main-content {
+      margin-top: rem(120px);
+      margin-left: 0;
+      margin-right: rem(15px);
+      
+      line-height: 1.3;
+      
+      p {
+        font-size: rem(22px);
+        
+        &.post__meta {
+          font-size: rem(16px);
+        }
+      }
+      
+      h2 {
+        font-size: rem(28px);
+      }
+    }  
+  }
+  
+  .main-content .post__title {
+    font-size: rem(32px);
+    line-height: (38/32);
+    color: $color-primary;
+    text-shadow: -2px -2px 0px rgba(255, 255, 255, 1);
+    position: relative;
+    
+    @media (min-width: $reference-width-md-until) {
+      font-size: rem(40px);
+      line-height: (48/40);
+    }
+    
+    .animation-wrapper {
+      display: block;
+      &.animate {
+        animation: eyepop 0.85s ease;
+        animation-delay: 1s;
+        transform-origin: top left;
+      }
+    }
+    
+    .post__title__decoration {
+      display: inline;
+      padding: 0 rem(10px);
+      margin: 0 rem(-10px);
+      position: relative;
+      z-index: 10;
+      
+      &, &::before {
+        background-color: #D8D8D8;
+      }
+      
+      &::before {
+        position: absolute;
+        content: '';
+        left: 0;
+        width: rem(10px);
+        top: 0;
+        bottom: 0;
+        z-index: -1;
+      }
+    }
+    
+    &::before {
+      position: absolute;
+      bottom: rem(9px);
+      z-index: 0;
+      content: '';
+      border-bottom: rem(3px) dashed lighten($color-grey, 40%);
+      width: calc(100% - 8rem);
+    }
+  }
+}
+
+.blog .main-content .post__title {
+  display: block;
+  margin-left: rem(10px);
+  
+  font-size: rem(18px);
+  
+  @media (min-width: $reference-width-md-until) {
+    font-size: rem(24px);
+  }
+  
+  .blog__link {
+    display: inline-block;
+    transition: transform 0.05s ease;
+    transform-origin: top left;
+    
+    &:hover, &:active {
+      background: none;
+      transform: scale(1.06);
+      color: $color-primary;
+    }
+    
+    &.fade {
+      opacity: 0.5;
+      transform: scale(0.9);
+      
+      &:hover, &:active {
+        transform: scale(1);
+        color: inherit;
+        background: inherit;
+      }
+    }
+    
+    &.highlight {
+      transform: scale(1.03);
+      
+      &:hover, &:active {
+        transform: scale(1.1);
+      }
+    }
+  }
+}
+
+.blog-posts {
+  position: relative;
+  
+  aside.articles-filter-container {
+    display: none;
+    &.show {
+      display: block;
+    }
+  }
+  
+  aside.articles-filter-container {
+    position: sticky;
+    top: 0;
+    
+    h2 {
+      margin: 0;
+      font-weight: normal;
+      color: $color-primary;
+      font-size: rem(18px);
+    }
+    
+    a {
+      font-size: rem(24px);
+      font-weight: bold;
+      display: inline-block;
+    }
+    
+    @media (max-width: ($reference-width-xs-until)) {
+      margin-left: rem(-15px);
+      margin-right: rem(-15px);
+      padding: rem(15px);
+      z-index: 20;
+      background: transparentize(#ccc, 0.1);
+      backdrop-filter: saturate(180%) blur(10px);
+    }
+  }
+  
+  .articles-filter-links {
+    display: none;
+  }
+  
+  @media (min-width: ($reference-width-xs-until + 1px)) {
+    aside.articles-filter-container {
+      padding: 0;
+      position: absolute;
+      top: rem(500px);
+      bottom: 0;
+      left: calc(100% + #{ rem(10px) });
+      right: auto;
+      width: rem(200px);
+      
+      ul {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+      }
+      
+      h2 {
+        padding: 0 0.5em;
+        margin-bottom: 0.5em;
+        font-size: rem(16px);
+      }
+      
+      li {
+        margin-bottom: 0.2em;
+      }
+      
+      a {
+        font-size: rem(16px);
+      }
+    }
+    
+    .articles-filter {
+      position: sticky;
+      top: 40vh;
+      text-align: right;
+    }
+    
+    .articles-filter-select {
+      display: none;
+    }
+    
+    .articles-filter-links {
+      display: block;
+      
+      a {
+        background: none;
+        padding: 0 0.5em;
+        text-shadow: none;
+      }
+      
+      a:hover, a:active {
+        background: transparentize(#d8d8d8, 0.5);
+      }
+      
+      a.active {
+        background: #D8D8D8;
+        color: $color-secondary;
+        cursor: default;
+      }
+    }
+  }
+  
+  @media (min-width: ($reference-width-md-until + 1px)) {
+    aside.articles-filter-container {
+      top: rem(800px);
+      left: auto;
+      right: calc(100% + #{ rem(50px) });
+      width: rem(300px);
+      
+      ul {
+        list-style: none;
+      }
+      
+      a {
+        font-size: rem(20px);
+      }
+      
+      h2 {
+        font-size: rem(22px);
+      }
+    }
+    
+    .articles-filter {
+      position: sticky;
+      top: rem(100px);
+    }
+  }
+}
+
+
+.post {
+  
+  .main-content {
+    p, ul, ol {
+      font-size: rem(18px)
+    }
+    
+    p, h2, h3 {
+      hanging-punctuation: first;
+    }
+    
+    h3 {
+      font-weight: normal;
+      margin-top: 2em;
+      color: mix($color-primary, $color-main-background, 80%);
+    }
+
+    ul, ol {
+      padding-left: rem(35px);
+    }
+    
+    h2 {
+      font-size: rem(22px);
+    }
+    
+    img {
+      width: 100%;
+      height: auto;
+    }
+    
+    .job-statement {
+      font-family: $tertiary-font-family;
+      font-size: rem(30px);
+    }
+    
+    .question {
+      font-weight: normal;
+      font-family: $tertiary-font-family;
+      
+      background: transparentize(white, 0.4);
+      padding: 1em;
+      margin: 1em -1em;
+      
+      strong {
+        font-family: $primary-font-family;
+        display: block;
+      }
+    }
+    
+    blockquote {
+      margin: rem(1em -30px);
+      padding: rem(15px);
+      padding-left: rem(30px);
+      padding-bottom: rem(5px);
+      background-color: transparentize(white, 0.5);
+      position: relative;
+      
+      @media (min-width: $reference-width-xs-until) {
+        margin: rem(1em -40px);
+        padding: rem(20px 40px);
+        padding-left: rem(50px);
+        margin-left: rem(-50px);
+        transform: rotateZ(-1deg) perspective(80rem) rotateX(0.5deg);
+      }
+      
+      strong {
+        background-color: $color-highlight;
+        color: mix($color-secondary, black);
+        font-weight: normal;
+      }
+      
+      &::before {
+        position: absolute;
+        content: "〝";
+        top: rem(20px);
+        left: rem(-20px);
+        font-size: 3em;
+        font-weight: bold;
+        color: transparentize($color-secondary, 0.5);
+        
+        @media (min-width: $reference-width-xs-until) {
+          top: rem(27px);
+          left: rem(-20px);
+        }
+      }
+      
+      @media (max-width: $reference-width-xs-until) {
+        & > p {
+          text-indent: rem(20px);
+        }
+      }
+    }
+    
+    position: relative;
+  }
+
+  color: $color-secondary;
+
+  .job {
+    font-weight: normal;
+    font-style: italic;
+    position: relative;
+    margin-top: 3em;
+    padding-left: rem(20px);
+    border-left: rem(4px) dashed lighten($color-grey, 50%);
+    
+    mark {
+      font-weight: bold;
+      font-style: normal;
+      position: absolute;
+      display: inline-block;
+      top: -1.7em;
+      left: rem(-15px);
+      padding: rem(2px 15px);
+    }
+  }
+  
+  .primer {
+    margin: rem(1em -15px);
+    padding: rem(15px);
+    padding-bottom: rem(5px);
+    background-color: transparentize(white, 0.5);
+    color: #777;
+    h2, h3 {
+      margin-top: 0;
+      color: #555;
+    }
+    
+    @media (min-width: $reference-width-xs-until) {
+      margin: rem(2em -40px);
+      padding: rem(40px);
+      transform: rotateZ(-1deg) perspective(80rem) rotateX(0.5deg);
+    }
+  }
+  
+  .force-icon {
+    font-style: normal;
+    
+    span {
+      @include sr-only();
+      position: absolute;
+    }
+    
+    display: inline-block;
+    height: 1em;
+    width: 2.2em;
+    position: relative;
+    
+    top: rem(3px);
+    left: rem(-2px);
+    margin-right: rem(-5px);
+    
+    &::after {
+      position: absolute;
+      content: '';
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+    }
+  }
+  
+  .force-icon-struggle::after {
+    background-image: url(/assets/images/icons/icon-struggle.svg);
+  }
+  .force-icon-attraction::after {
+    background-image: url(/assets/images/icons/icon-attraction.svg);
+  }
+  .force-icon-anxieties::after {
+    background-image: url(/assets/images/icons/icon-anxieties.svg);
+  }
+  .force-icon-habits::after {
+    background-image: url(/assets/images/icons/icon-habits.svg);
+  }
+  
+  ul.forces {
+    list-style: none;
+    padding-left: 2.4em;
+    margin: 2em 0;
+    
+    li {
+      position: relative;
+      margin-bottom: 1em;
+    }
+    
+    .force-icon {
+      position: absolute;
+      left: -2.5em;
+    }
+  }
+  
+  aside {
+    position: relative;
+    
+    .force, .note {
+      opacity: 0.7;
+      
+      @media (max-width: $reference-width-md-until) {
+        border-left: rem(2px) dashed transparentize($text-color, 0.2);
+        padding-left: rem(15px);
+      }
+      
+      @media (min-width: ($reference-width-md-until + 1px)) {
+        position: absolute;
+        width: rem(250px);
+        right: calc(100% + 6rem);
+        bottom: 0;
+        border-right: rem(2px) dashed transparentize($text-color, 0.2);
+        padding-right: rem(10px);
+      }
+      
+      .force-icon {
+        @media (min-width: ($reference-width-md-until + 1px)) {
+          display: block;
+          margin-top: -1.3em;
+          margin-bottom: 0.3em;
+        }
+      }
+      
+      p {
+        margin: 0;
+        @media (min-width: ($reference-width-md-until + 1px)) {
+          display: inline;
+        }
+      }
+    }
+    
+    .note {
+      &, p {
+        font-size: rem(16px);
+        line-height: 1.2;
+      }
+      
+      @media (min-width: ($reference-width-md-until + 1px)) {
+        transform: translateY(50%);
+      }
+    }
+  }
+  
+  .examples {
+    background-color: transparentize($color-grey, 0.9);
+    margin: rem(1em -15px);
+    padding: rem(30px);
+    padding-left: rem(60px);
+    padding-bottom: rem(20px);
+    li {
+      padding: rem(10px 0 20px);
+      border-bottom: rem(1px) solid $color-grey;
+      &:last-of-type {
+        padding-bottom: 0;
+        border-bottom: none;
+      }
+    }
+  }
+  
+  ol.site-cutup {
+    img {
+      display: block;
+      margin-top: 0.5em;
+    }
+    
+    @media (min-width: ($reference-width-xs-until + 1px)) {
+      li {
+        @include clearfix;
+        padding-right: rem(220px);
+      }
+      
+      img {
+        float: right;
+        max-width: rem(200px);
+        height: auto;
+        margin-right: rem(-200px);
+      }
+    }
+  }
+  
+  &__category {
+    display: inline-block;
+    background-color: #686868;
+    color: white;
+    font-family: $tertiary-font-family;
+    font-size: rem(21px);
+    line-height: 1;
+    padding: rem(2px 10px);
+  }
+  
+  &__container {
+    padding: 0 $container-padding;
+  }
+
+  &__meta {
+    margin-top: rem(40px);
+    margin-bottom: rem(40px);
+    color: lighten($color-secondary, 30%);
+  }
+  
+  .blog-nav-link-next-wrapper {
+    text-align: right;
+    margin-top: rem(20px);
+  }
+  
+  @media (min-width: $reference-width-xs-until) and (max-width: $reference-width-md-until) {
+    .blog-nav-link-next-wrapper {
+      position: relative;
+      right: rem(-100px);
+    }
+  }
+  
+  @media (min-width: $reference-width-md-until) {
+    .blog-nav-container {
+      position: relative;
+    }
+    
+    .blog-nav {
+      position: absolute;
+      max-width: rem(250px);
+      bottom: rem(50px);
+      left: rem(-410px);
+    }
+    
+    .blog-nav-link-next-wrapper {
+      text-align: right;
+      position: relative;
+      right: rem(-100px);
+    }
+  }
+}
+
+@keyframes eyepop {
+  0%   { transform: scale(1); }
+  5%   { transform: scale(0.95); }
+  20%  { transform: scale(1.15); }
+  22%  { transform: scale(1.13); }
+  75%  { transform: scale(1.18); }
+  80%  { transform: scale(1.2); }
+  95%  { transform: scale(0.95); }
+  100% { transform: scale(1); }
+}
+
+.blog, .post {
+  #be-notified {
+    @media (min-width: $reference-width-md-until) {
+      margin-right: 0;
+      position: relative;
+      left: rem(-220px);
+    }
+  }
+}
+
+.post {
+  .img-zoom {
+    
+    img {
+      display: block;
+    }
+    
+    @media (min-width: $reference-width-xs-until) {
+      margin-left: rem(-100px);
+      margin-right: rem(-120px);
+      background: white;
+      padding: rem(6px);
+    }
+    
+    @media (max-width: $reference-width-md-until) {
+      margin-left: rem(-60px);
+      margin-right: rem(-150px);
+    }
+    
+    @media (max-width: $reference-width-xs-until) {
+      margin-left: rem(-30px);
+      margin-right: rem(-30px);
+      background: white;
+      padding: rem(6px 0);
+    }
+  }
+  
+  pre.highlight {
+    background: transparentize(white, 0.5);
+    color: #777;
+    font-size: rem(20px);
+    padding: 0.5em 0.5em 0.5em 1em;
+    border-left: 12px solid transparentize($color-secondary, 0.5);
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+    
+    @media (max-width: $reference-width-md-until) {
+      font-size: rem(14px);
+    }
+    
+    @media (max-width: $reference-width-xs-until) {
+      margin-left: rem(-30px);
+      margin-right: rem(-30px);
+      padding-left: rem(30px - 12px);
+    }
+  }
+  
+  figcaption {
+    font-size: 0.8em;
+    font-style: italic;
+    text-align: center;
+  }
+}
