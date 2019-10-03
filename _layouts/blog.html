@@ -6,6 +6,8 @@ class: blog
   
   <h1>{{ page.title }}</h1>
   
+  <p style="margin-bottom: 1.5em;">Read how to <mark>sharpen your own stuff</mark> with these articles on the Jobs-to-be-done theory, copywriting, putting together service packages, conducting purchase interviews, and more.</p>
+  
   <ol reversed start="{{ site.posts.size }}">
   {% for post in site.posts limit:5 %}
   <li>
