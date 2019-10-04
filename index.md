@@ -4,7 +4,7 @@ layout: home
 
 ## I help modest online products and service businesses (like your freelancing practice) going through situations like these…
 
-<div class="home-situation-quotes" markdown="1">
+<div class="situation-quotes" markdown="1">
 
 > **You're running a service business in a field that's on the up and up**. DevOps, AI/ML, Cybersecurity, SwiftUI, plugin development for e-commerce shops, animations, team coaching. **You're getting attention**, but you know your site is saying something way too generic. Services I offer, Contact me. You know that won't do it.
 
