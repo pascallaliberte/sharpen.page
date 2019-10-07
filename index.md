@@ -6,99 +6,101 @@ layout: home
 
 <div class="situation-quotes" markdown="1">
 
-> **You're running a service business in a field that's on the up and up**. DevOps, AI/ML, Cybersecurity, SwiftUI, plugin development for e-commerce shops, animations, team coaching. **You're getting attention**, but you know your site is saying something way too generic. Services I offer, Contact me. You know that won't do it.
+> **You're running a service business in a field that's on the up and up.** Maybe you're in a specialty from your years of study that you know there's a niche for, like for speech, sleep, nutrition or relational problems. Or maybe you design. Maybe it's a technical field, like in DevOps, AI/ML, Cybersecurity, SwiftUI, plugin development for e-commerce shops, or animations. 
+
+The important thing for you: **you're getting attention**, but you know your site is saying something way too generic. Services I offer, Contact me. You know that won't do it.
 
 > "I’ve just realized that **the page describing my product doesn’t do it justice**. It focuses too much on the benefits. I know I can make it communicate more sharply **the problem it can help solve for my customers**."
 
 </div>
 
-So how do you move forward? You know that **it starts by getting a good sense of your customers [struggles][struggles]**. You know you want to help your clients get unstuck.
+## Here's how I'd Do It if I Were in Your Place...
 
-[struggles]: {% post_url 2019-09-06-hard-struggle-required %}
+Think of moments where your customer will be wanting to say "enough is enough" and start to look for something different. Same-old got too old.
 
-## Your customers just want to make <mark>progress</mark>
+Those moments are key, because then you'll understand what people will switch away from, so they can switch toward what you offer.
 
-[Your product, your service, it gets _hired_ into the lives of your customers for a reason][jtbd-intro]. When they're saying _yes_ to your product, they're saying _no_ to something else. Saying _no_ to that other thing was a key moment for them. It took time before they finally pulled the plug.
+So you make a list of some of those moments. Now what? Are these moments real?
 
-[jtbd-intro]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
+So you revert to just make a page that highlights the benefits, what you'll get.
 
-So what caused that switch from "not this, now now" to "yes, this, now"?
+But you know you're missing something. Adding benefits will just make you look like everyone else. You know your thing helps with a precise struggle, and you want better customers who will tell others about you, not people who are shopping for the lowest price. This is, after all, the Internet you're working on. You know what makes a message go places. You want your thing to be remarkable, _remark-worthy_.
 
-How is your product helping your customers to make some progress?
+So you know you'll make a page that highlights the pain, and shows some ways forward, and humbly shows how your thing can be of help, and what to do next. A little like this page you're reading right now.
 
-<mark>What was the job they needed to get done?</mark>
+## A New Structure for Your Site
 
-**Are some of your product's features** causing people to think this?
+The Home page highlights one meta struggle.
 
-> "Hey, I don't need this feature to get my job done, and that thing is causing me to hesitate. Should I pay attention to this?"
+You make sure you've got a value-ladder, a way for people to jump in at the stage they're at, regardless of their level of sophistication. One way to do that is to offer services, smaller one-offs or subscriptions that land on different "steps" of the ladder.
 
-## Just a few key insights are needed
+Newsletters are a great risk-free way for people to try you out. But careful, make sure you're tending to the forces of progress pushing back on the visitor, and make sure you find the "job" for which people will gladly "hire" your newsletter and make sure it delivers.
 
-What _causes_ someone to [buy two ebooks at the same time][two-ebooks]? "The price was too high for these ebooks, but I bought them anyway." What's that all about?
+Another thing on your value-ladder might be a guide or a short ebook or an email sequence (like an email-based course).
 
-[two-ebooks]: {% post_url 2019-03-01-two-ebooks-purchased-together %}
+As for your professional services, you can have that big "contact me" button (or other ways you can have that call to action), but you might also want to think about packaging your services in a way new-comers can just purchase. Maybe it's a one-off report, a single exploratory call or a critique call or a consulting call that you package. Something that offers clear value, tests the water for the relationship (both ways), and gets you to talk to new people for a predictable price.
 
-What's going on in the mind of someone who buys a [$450 pair of winter boots][winter-boots]? Is it that he's a millenial or is there something else in his life _causing him to hire these boots?_
+And for each of those offerings, you make its own page. Armed with a very good understanding of the pushes and pulls going on in the mind of the buyer for each of those offerings, you can make those offerings compete against each other, (and not against someone else they know). For each, you know the situation that causes someone to part ways with the old, and say yes to something new. You've humbly positioned yourself as someone who can help. And maybe you'll have found someone to spread the word.
 
-[winter-boots]: {% post_url 2019-01-04-expensive-pair-of-boots %}
+As you see, that _also_ includes some mini products you could sell. Guides and courses and ebooks. Sharpen the pitch pages of those products the same way.
 
-In both of these stories, there's something that can be learned. Anecdotes from your buyer's purchase stories give you insights **you can't get from seeing stats or asking people why they bought your product**.
+## Principles, not a Formula
 
-You really need the whole purchase story. Because <mark>that purchase is the final decision in a string of many small decisions</mark>.
+All this might look like a formula to reproduce. "It's just a formula for long-form landing pages."
 
-**That insight you're missing, that deeper understanding you're after?** It's most likely found in knowing the story behind what _caused_ people to pick your product, after all.
+But it's about some principles that are underused, but work:
 
-## Purchase stories as part of your qualitative research
+* Focus on a hard struggle. Something that's a throbbing thumb, a recurring nuisance, something that seems to get worse.
+* It's not about being sales-y, it's about being helpful. People just want to make progress, and get help from someone they can trust.
+* Know that you're mostly in competition with people continuing with their own self-made mish-mash of habits, and in your case specifically, you're in competition with them doing it themselves. At some point though, the struggle will get stronger. If you sowed trust, they'll have bookmarked you for later. They'll be back when it's time.
+* Speaking of competition, you might as well offer multiple options to your visitor. Make each option compete against each other, instead of trying to compete with other people. They're on _your_ site. Help them through their own back-and-forth. Help them make a decision. Even if it's to go with your free guide or for your newsletter.
+* Speaking of newsletter and free stuff, consider everything you write as mini struggle-solvers. You'll then be able to weave a web of links between what you write and what you offer. That'll help people vet you, but also, it'll help them learn it themselves. By the time they hire you (or your product) with money, you'll have a common language.
 
-What's needed to get enough purchase stories to learn something new:
+## "Whoa, I believe you, and also, I'm swamped with work right now, and I'm not great at writing and understanding the buyer like that."
 
-* 5-10 interviews of recent purchasers (no more than 90 days in the past);
-* Buyers who hesitated, deliberated before making the purchase;
-* 50-60 minutes per call;
-* [A way to record the call][recording-setup] and permission from the person you're interviewing;
-* An interview technique that [asks the right questions][interview-questions].
+One way I can help is to take all that over from you. I could take care of crafting those pages for you, and my process involves understanding deeply those situations which cause _your_ buyers to want to create some movement towards something new. Those situations can be uncovered through just discussing between the two of us, but better if you'd have previous buyers we can interview, or we can find them through buyer research, which I'll take care of. We're talking a few months where I'm there part-time, helping you sharpen your product: you and your services. At the end of our time together, you'll also have sharpened your understanding of your buyers in a new way. Or if you already have a good sense of your buyer's struggles, I could just take care of rewriting a single page. If you're interested, that's the /stepitup package (see below for my other packages).
 
-[recording-setup]: {% post_url 2019-03-14-how-to-record-buyer-interviews %}
-[interview-questions]: {% post_url 2019-03-08-interview-questions-to-ask %}
+## Doing it yourself: Q&A
 
-That's enough to get started.
+### Can I write those kinds of pages through WordPress or Squarespace or Wix?
 
-[There are more articles on the blog](/articles) to learn more about all this, or if you'd like some help, let me tell you a little bit about what I have to offer:
+Sure thing. We're talking here about longer-style pages with mostly text, so WordPress's new editor will work well, page builder plugins will work great too, and of course Squarespace and Wix offer page builder UIs of their own.
 
-<aside id="contact" class="home-personal-intro" markdown="1">
+What helps your page pop up is to sprinkle a little bit of styling to your text to help with visual hierarchy: headings of different sizes, blockquotes that stand out, a couple different types of bulleted lists. I offer the styling as part of my /stepitup package, but any good designer could help with the CSS work on that.
 
-<h2>About me {% include avatar.html %}</h2>
+### Do you do all the copywriting, including blog posts?
 
-Hi, my name is [Pascal Laliberté](https://pascallaliberte.me). I can help you sharpen that product or service offering. I'll help you make it more tuned to <mark>help your customer progress on what they're trying to get progress on</mark>, more distinctive, more incisive, by doing this:
+I only write the copy for the marketing pages of your site. I know of a good writer for your blog posts and your guides that I can refer to you, if you'd like.
 
-1. **Buyer Interviews and Buyer Research** to uncover the [job for which they hired your product][jtbd], what they switched away from, and the [emotional back-and-forth in their decision-making][fourforces]. 5-10 buyer interviews will suffice for most products. Even a single interview is useful for uncovering what happened to land a big B2B contract;
-2. and **landing page copywriting** based on that buyer research.
+### How do I go about doing the buyer research, like you do?
 
-[jtbd]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
-[fourforces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
+It starts with a messy process of understanding the buyer's vocabulary, the options she considers, and mostly, knowing that "doing it myself" is your primary competitor here. What will people do in-house, on their own, or learn how to to build? Go hang out in forums and Slack communities, and listen for the pains and struggles. Then your research might take you to conduct purchase interviews, a specific technique that retroactively looks at the story of a purchase (of a competitor, of a piece of software to do it themselves, or a hire). What's needed: that the buyer went through a good amount of deliberation before the purchase. Here's a list of questions you could use during this Purchase Interview.
 
-[Contact me via email {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } and I'll be glad to help you sharpen your offerings.
-{: .cta }
+### Do I have to understand the Jobs-To-Be-Done theory, which I see you talk about a lot in your articles?
 
-</aside>
+The Jobs-To-Be-Done theory of buyer behaviour is pretty central to the practice I propose you take up. It insists on concepts like the "struggling moment" being the requirement for any start of a purchase journey, the main trigger for of all jobs-to-be-done. It talks about the Four Forces of Progress, non-consumption being your major competition, and how you compete with surprising other alternatives. It's a strong lens you can use, and I highly recommend it.
 
-## We'll be a good fit...
+## "Bah, it'll take too long to figure it out if I do it myself, and I don't want to miss the boat. How can we team up?"
 
-... if you value understanding things deeply, if you're interested in serving your customers in what they're trying to get some progress on, if you're interested in starting small and doing things right, if you're into honest communication and being straight with people.
+Here's what I have to offer:
 
-I'll take the time to understand your business deeply, I'll be thoughtful about serving the progress you're trying to make, I'll start small and do things right, I'll communicate honestly and I'll be straight with you too.
+**[/visualize](/visualize)** - This is a consulting call preceded by an email exchange. The focus of the call (the main value to you) will be about consulting you with what I'd do in your situation. Additionally, our discussion will give me the information I need to put together a proposal for further work for you, if that'd be helpful (I won't try to upsell you). $250, including our back-and-forth over email ahead of the call and the call itself (about an hour). I'll wave the fee if you choose to go with the next package:
 
-## Hope to help
+**[/stepitup](/stepitup)** - For Your Service Business, a monthly retainer to help you create a value-ladder of options you can give your potential clients (a bit like these options I'm listing here). Each month, we sharpen your site in one meaningful way, and we sharpen your understanding of your buyers via some research. Plus you get my availability to get answers to your questions, learn what I'm finding on the web, hang out in your Slack. If you've already got a good idea of the struggle of your buyer and just need one page done, I've got a one-pager option too.
 
-I'm doing this to help folks like you make a good living from the products and services you sell. So I hope I can be of some help to you.
+**[/articles](/articles)** - Free, my articles are published every Friday. They cover everything about buyer psychology through the lens of Jobs-To-Be-Done, about copywriting and about sharpening your products and services. Sign-up below.
 
-<mark>Stay Sharp!</mark>  
+---
+
+You just want more _lift_ happening. You want to help your customers lift themselves to newer heights, and that's exactly what I want for you.
+
+Stay Sharp!
 
 Pascal Laliberté  
 [pascal@pascallaliberte.me](mailto:pascal@pascallaliberte.me)  
 Ottawa, Ontario, Canada
 
-Find me on [Twitter][twitter], [LinkedIn][linkedin], or sign-up to be notified of new articles:
+Find me on [Twitter][twitter] or sign-up to be notified of new articles:
 
 [twitter]: https://twitter.com/pascallaliberte
 [linkedin]: https://www.linkedin.com/in/pascallaliberte/ 
