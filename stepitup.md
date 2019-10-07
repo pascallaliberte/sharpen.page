@@ -33,6 +33,14 @@ Learn more about options to go forward below, or read on. Maybe you could still 
 
 ---
 
+## Maybe This Is Your Situation
+
+Your industry is in expansion and there aren't too many service providers like you serving it. And yet, interest is growing, and you don't want to sell a commodity. You want to sell premium.
+
+You're getting sign-ups to your newsletter, and you're starting to get some interest in the knowledge you put out. Now's the time for you to get serious about the specific services you're offering.
+
+Or maybe that interest you're getting isn't transforming into new clients. You realize it's because you display a generic "here are my services, contact me here if interested" website. It's your word against some other freelancer in your industry, and that doesn't work for you anymore. Time for a change.
+
 ## So Let's Imagine a New Situation for You...
 
 You've migrated from getting paid by the hour. Now you're paid by the impact.
