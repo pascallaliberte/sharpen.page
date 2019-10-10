@@ -5,15 +5,21 @@ title: What I Offer
 class: services
 ---
 
+**You're getting attention** with your solo practice, or with your product. (Congrats!)
+
+But you realize that the way you're communicating your offerings seems too generic. **Not sharp enough.** Not communicating you understand their struggle enough. Not made to give options to the visitor that aim to be helpful right in that moment they're on your site. Also, you're busy doing your actual work.
+
+Here are two packages to help you speed things up.
+
 ## [/visualize](/visualize)
 
-This is a consulting call preceded by an email exchange. The focus of the call (the main value to you) will be about consulting you with what I'd do in your situation. Additionally, our discussion will give me the information I need to put together a proposal for further work for you, if that'd be helpful (I won't try to upsell you).
+**A consulting call**. Preceded by an email exchange to learn how I can help, the focus of the call (the main value to you) will be about consulting you on what to do next. Additionally, our discussion will give me the information I need to put together a proposal for further work for you, if that'd be helpful (I won't try to upsell you).
 
-$250, including our back-and-forth over email ahead of the call and the call itself (about an hour). I'll wave the fee if you choose to go with the next package:
+$250, including our back-and-forth over email ahead of the call and the call itself (about an hour). I'll wave the fee if you choose to go with the next package...
 
 ## [/stepitup](/stepitup)
 
-For Your Service Business, a monthly retainer to help you create a value-ladder of options you can give your potential clients (a bit like these options I'm listing here). 
+**For your service business, a monthly retainer to evolve your site to include a value-ladder of options** (a bit like these options I'm listing here). 
 
 Each month, we sharpen your site in one meaningful way, and we sharpen your understanding of your buyers via some research. Plus you get my availability to get answers to your questions, learn what I'm finding on the web, hang out in your Slack.
 
