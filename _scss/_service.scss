@@ -3,6 +3,17 @@
     @media (max-width: $reference-width-md-until) {
       margin-top: rem(70px);
     }
+    
+    h1 {
+      padding-top: rem(60px);
+      margin-top: rem(-60px);
+    }
+  }
+}
+
+.services, .service {
+  .main-content {
+    padding-bottom: rem(300px);
   }
 }
 

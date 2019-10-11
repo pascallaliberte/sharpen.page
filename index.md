@@ -4,7 +4,7 @@ layout: home
 
 ## I help modest online products and service businesses (like your freelancing practice) going through situations like these…
 
-<div class="home-situation-quotes" markdown="1">
+<div class="situation-quotes" markdown="1">
 
 > **You're running a service business in a field that's on the up and up.** Maybe you're in a specialty from your years of study that you know there's a niche for, like for speech, sleep, nutrition or relational problems. Or maybe you design or you animate. Maybe it's a technical field, like in DevOps, AI/ML, Cybersecurity, Cloud orchestration, SwiftUI, plugin development for e-commerce shops. 
 
@@ -28,7 +28,7 @@ But you know you're missing something. **Adding benefits will just make you look
 
 **You want your thing to be remarkable, _remark-worthy_.**
 
-So you know you'll make a page that highlights the pain, and shows some ways forward, and humbly shows how your thing can be of help, and what to do next.
+So you know you'll make a page that highlights the pain, and shows some ways forward, and humbly shows how your thing can be of help, and what to do next. A little like this page you're reading right now.
 
 ## A New Structure for Your Site
 
@@ -45,7 +45,7 @@ Newsletters are a great risk-free way for people to try you out. Make sure you'r
 
 Another thing on your value-ladder might be a guide or a short ebook or an email sequence (like an email-based course).
 
-As for your professional services, you can have that big "contact me" button (or [other ways you can have that call to action][pick-cta]), but you might also want to think about [packaging your services in a way new-comers can just purchase right away][package-skills] (look out soon for my own packaged services on this site). Maybe it's a one-off report, a single exploratory call or a critique call or a consulting call that you package. Something that offers clear value, tests the water for the relationship (both ways), and gets you to talk to new people for a predictable price.
+As for your professional services, you can have that big "contact me" button (or [other ways you can have that call to action][pick-cta]), but you might also want to think about [packaging your services in a way new-comers can just purchase right away][package-skills]. Maybe it's a one-off report, a single exploratory call or a critique call or a consulting call that you package. Something that offers clear value, tests the water for the relationship (both ways), and gets you to talk to new people for a predictable price.
 
 [pick-cta]: {% post_url 2019-05-10-landing-page-appointment-or-email %}
 [package-skills]: {% post_url 2019-08-16-sellable-ways-to-package-skills-as-services %}
@@ -87,8 +87,7 @@ One way I can help is to take all that over for you.
 
 Or if you already have a good sense of your buyer's struggles, **I could just take care of rewriting a single page**.
 
-If you're interested, [Send me a note {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } to tell me about your business. I'll write back within a day or two.
-{: .cta }
+If you're interested, that's the [**/stepitup**](/stepitup) package ([see below for my full list of packages](#services)).
 
 ## Doing It Yourself: Q&A
 
@@ -96,7 +95,7 @@ If you're interested, [Send me a note {% include svg/mail.svg.html %}](mailto:pa
 
 Sure thing. We're talking here about longer-style pages with mostly text, so WordPress's new editor will work well, page builder plugins will work great too, and of course Squarespace and Wix offer page builder UIs of their own.
 
-What helps your page pop out is to sprinkle a little bit of styling to your text to help with visual hierarchy: headings of different sizes, blockquotes that stand out, a couple different types of bulleted lists. I can help out with that if you want.
+What helps your page pop out is to sprinkle a little bit of styling to your text to help with visual hierarchy: headings of different sizes, blockquotes that stand out, a couple different types of bulleted lists. I offer the styling as part of my **[/stepitup](/stepitup)** package, but any good designer could help with the CSS work on that.
 
 ### Do you do all the copywriting, including blog posts?
 
@@ -119,10 +118,19 @@ The Jobs-To-Be-Done theory of buyer behaviour ([here's an intro with some exampl
 ## "Bah, it'll take too long to figure it out if I do it myself, and I don't want to miss the boat. How can we team up?"
 {: #services }
 
-[Contact me via email {% include svg/mail.svg.html %}](mailto:pascal@pascallaliberte.me){: .cta-btn } and I'll be glad to help you sharpen your offerings.
-{: .cta }
+Here's what I have to offer:
+
+**[/visualize](/visualize#details) - A consulting call**. Preceded by an email exchange to learn how I can help, the focus of the call (the main value to you) will be about consulting you on what to do next. Additionally, our discussion will give me the information I need to put together a proposal for further work for you, if that'd be helpful (I won't try to upsell you). $250, including our back-and-forth over email ahead of the call and the call itself (about an hour). I'll wave the fee if you choose to go with the next package:
+
+**[/stepitup](/stepitup#details) - For your service business, a monthly retainer to evolve your site to include a value-ladder of options** (a bit like these options I'm listing here). Each month, we sharpen your site in one meaningful way, and we sharpen your understanding of your buyers via some research. Plus you get my availability to get answers to your questions, learn what I'm finding on the web, hang out in your Slack. If you've already got a good idea of the struggle of your buyer and just need one page done, I've got a one-pager option too.
+
+**[/articles](/articles)** - Free, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Sign-up below.
 
 ---
+
+You just want more _lift_ happening. You want to help your customers lift themselves to newer heights, and that's exactly what I want for you.
+
+Stay Sharp!
 
 Pascal Laliberté  
 [pascal@pascallaliberte.me](mailto:pascal@pascallaliberte.me)  
