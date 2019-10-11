@@ -139,5 +139,6 @@ Pascal
 ---
 
 ## Questionnaire for the /stepitup package
+{: #start }
 
 {% include service-sign-up-form-stepitup.html %}
