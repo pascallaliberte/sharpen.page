@@ -44,19 +44,19 @@ Or maybe that interest you're getting isn't transforming into new clients. You r
 
 ## So Let's Imagine a New Situation for You...
 
-You've migrated from getting paid by the hour. Now you're paid by the impact.
+Imagine you've migrated from getting paid by the hour. Now you're paid by the impact.
 
-You're getting completely new kinds of clients, and a new kind of word-of-mouth.
+Imagine you're getting completely new kinds of clients, and a new kind of word-of-mouth.
 
 The rumour of your new services is spreading, and people find you.
 
-You _understand_ the impact you're making for your buyers.
+You've got to a point where you _understand_ the impact you're making for your buyers.
 
-And most of all, you packaged your skills in a way that's totally making a difference for your clients.
+And most of all, you've packaged your skills in a way that's totally making a difference for your clients.
 
-## Steps I'd Take If I Were You
+## Steps I'd Take To Get There
 
-1. Take a few weeks to imagine the _situations_ that your buyers are in when they decide they've had enough with the old, and are ready for the new. Those situations are the gold you're after. They're usually experiencing some kind of struggle, an annoyance, something that just won't go away.
+1. Take some time to imagine the _situations_ that your buyers are in when they decide they've had enough with the old, and are ready for the new. Those situations are the gold you're after. They're usually experiencing some kind of struggle, an annoyance, something that just won't go away.
 2. Armed with those situations, try to see if those situations, those struggles, combine into one overarching struggle... over here, on this site, I use the struggle "I'm starting to get attention", and in your case, it might be something like "I've got a certain event coming up that I gotta get ready", or "we've tried doing this our way and failed 3 times." If you've got more than one struggle, consider packaging them up into different offerings maybe.
 3. Start writing a new home page. The home page will have the main struggle front and center, right at the top. That will scream to your visitors: _you are in the right spot, I understand what you're going through_. That will get them to want to read on. Describe in vivid detail what it's like for them. Have a section describing what a new future might look like.
 4. Still on your new home page, encourage your visitors to continue trying to do it themselves. Just like I'm doing here, show them how you'd do it.
@@ -83,11 +83,11 @@ If you've got a good understanding of the main situation that causes your buyers
 $1600 + your time so I get to understand what you're selling and your buyers
 
 * Half up front to understand enough to make the page on my own, half to proceed with the page and book the week I'll be writing the page.
-* Once I got enough information from you, turnaround is one week.
+* Once I got enough information from you, the turnaround is one week.
 
-Written up, styled and ready to put it in production
+Written up, styled and ready to put it in production (coded or ready in your CMS)
 
-Not included: Researching your buyers, recruiting fees
+Not included: Researching your buyers, recruiting fees. However, they're included in option 2:
 
 ### Option No. 2 - Monthly Sharpening Retainer
 
@@ -95,27 +95,34 @@ Monthly Retainer that sharpens service offerings and sharpens your understanding
 
 Each month, you'll obtain:
 
-1. Minimum one sharpening of the web presence - Will sharpen the way people engage with the business, its funnel, bit by bit through minimum one change per month. Will match the language and the voice of the business in the copy. Will provide drafts ahead of production. Includes implementation provided adequate approval lead-up.
-2. Minimum one sharpening of understanding the audience - Includes: recruitment fees, e.g. incentives for surveys or conversations, userinterviews booking fees.
+1. Minimum one sharpening of the web presence - Will sharpen the way people engage with the business, its funnel, bit by bit through minimum one change per month. Will provide drafts ahead of production. Includes implementation provided adequate approval lead-up.
+2. Minimum one sharpening of understanding the audience - Will share insights from research, and ask you clarification questions. Included in the package: recruitment fees, e.g. incentives for surveys or conversations, userinterviews.com booking fees.
 
-$2200 per month plus your involvement in revising drafts, answering questions, and more importantly, working through worldview changes. Paid at the start of the month.
+$2200 per month plus your involvement in revising drafts, and answering questions. Paid at the start of the 30-day period.
 
 ### Both options include:
 
-Service Offering Development / Value Ladder Building / Copywriting / Page Design /
-Call-To-Action Sharpening
+* Service Offering Development
+* Value Ladder Building
+* Copywriting and Page Design
+* Call-To-Action Sharpening
 
 ### To go ahead with one of these options...
 
-The first step is to answer these questions so I can understand your setup a bit, and I'll be in touch.
+**Ready to start?** [Please answer some questions{% include svg/caret-bottom.svg.html %}](#start){: .cta-btn } in the form below so I can understand your setup a bit, and I'll be in touch.
 
 ## Or Instead, I Offer...
 
-Maybe another option to start would be have a [/visualize](/visualize#details) call. The process starts with a questionnaire for you, followed by an email exchange so I can learn about your situation, then a call so we can jam on what to do next in your situation. I'll bill you after the call ($250), and wave the fee if you decide to signup to one of the two options above.
+Maybe another option to start would be have a **[/visualize](/visualize#details)** call. The process starts with a questionnaire for you, followed by an email exchange so I can learn about your situation, then a call so we can jam on what to do next in your situation. I'll bill you after the call ($250), and wave the fee if you decide to signup to one of the two options above.
 
-Additionally, I invite you to subscribe to my weekly email, where you'll be the first to know about the week's new article, or check out my twitter feed if that's better for you.
+Additionally, I invite you to [subscribe to my weekly email](/articles/#be-notified), where you'll be the first to know about the week's new article, or check out my [twitter feed][twitter] if that's better for you.
 
-Looking forward to help!  
+[twitter]: https://twitter.com/pascallaliberte
+
 Stay Sharp.
 
 Pascal
+
+---
+
+## Questionnaire for the /stepitup package
