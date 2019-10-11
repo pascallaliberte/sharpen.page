@@ -4,6 +4,8 @@ layout: service
 title: Step It Up - When You're About to Get Some Attention for Your Services...
 ---
 
+<div class="pitch-lead-up" markdown="1">
+
 <div class="situation-quotes" markdown="1">
 
 > "I've been evolving toward my current situation for a couple years, and it's been good. **But now I'm going to start getting attention**, and I don't want to be offering a generic pitch anymore. Everybody else is pitching an approach. I want to pitch a sharp result."
@@ -12,7 +14,9 @@ title: Step It Up - When You're About to Get Some Attention for Your Services...
 
 </div>
 
-You've been taking some steps to sharpen your offerings...
+<div class="pitch-lead-up-block" markdown="1">
+
+## You've been taking some steps to sharpen your offerings...
 
 * Moving away from hourly billing;
 * Researching some new potential clients;
@@ -20,17 +24,25 @@ You've been taking some steps to sharpen your offerings...
 * Practicing conversations;
 * Thinking up ways you could package your services.
 
+
+<div class="pitch-lead-up-block" markdown="1">
+
 But now it's about timing. You're busy. You're forced to choose between working, or working on some packages on your site.
+
+</div>
+
+</div>
 
 ---
 
 # Step It Up
 {: #details }
 
-A service to sharply explain what you do, with some packages communicating to your newcomers how you can help, that compete against one another (the packages), instead of you competing against other people.
+**A service to sharply explain what you do**, with some packages communicating to your newcomers how you can help, that compete against one another (the packages), instead of you competing against other people.
 
 I've got a monthly package, or if you'd like, the ability to just get a one-off page rewritten.
-Learn more about options to go forward below, or read on. Maybe you could still do a lot of this on your own.
+
+[See the two options to go forward {% include svg/caret-bottom.svg.html %}](#options){: .cta-btn } or read on. Maybe you could still do a lot of this on your own.
 
 ---
 
@@ -68,19 +80,20 @@ More than that, the _process_ of doing all this work will give you some new ways
 
 ### Learn More via My Articles
 
-To go deeper and learn more about all this, I publish an article each Friday, or you can filter through the list of articles I've already published. I go in depth about the Jobs-To-Be-Done theory, the approach that focuses on situations, struggling moments, and the Forces of Progress.
+To go deeper and learn more about all this, I [publish an article each Friday](/articles#be-notified), or you can filter through the list of [articles I've already published](/articles). I go in depth about the Jobs-To-Be-Done theory, the approach that focuses on situations, struggling moments, and the Forces of Progress.
 
 ## "I'm Too Busy To Do All That"
 
 So here's where I can help. If you're too busy for this level of work, but you're thinking "this is where I want to take my solo practice next", I've got two options for you, and a couple other ones below.
 
 ## Two Options to Step It Up
+{: #options }
 
-### Option No. 1 - One Pager
+### Option No. 1 - One-Pager
 
 If you've got a good understanding of the main situation that causes your buyers to go with your service, and you just want to write that up in a single page.
 
-$1600 + your time so I get to understand what you're selling and your buyers
+**$1600** + your time so I get to understand what you're selling and your buyers
 
 * Half up front to understand enough to make the page on my own, half to proceed with the page and book the week I'll be writing the page.
 * Once I got enough information from you, the turnaround is one week.
@@ -98,7 +111,7 @@ Each month, you'll obtain:
 1. Minimum one sharpening of the web presence - Will sharpen the way people engage with the business, its funnel, bit by bit through minimum one change per month. Will provide drafts ahead of production. Includes implementation provided adequate approval lead-up.
 2. Minimum one sharpening of understanding the audience - Will share insights from research, and ask you clarification questions. Included in the package: recruitment fees, e.g. incentives for surveys or conversations, userinterviews.com booking fees.
 
-$2200 per month plus your involvement in revising drafts, and answering questions. Paid at the start of the 30-day period.
+**$2200 per 30-day period** plus your involvement in revising drafts, and answering questions. Paid at the start of the 30-day period.
 
 ### Both options include:
 
@@ -109,7 +122,7 @@ $2200 per month plus your involvement in revising drafts, and answering question
 
 ### To go ahead with one of these options...
 
-**Ready to start?** [Please answer some questions{% include svg/caret-bottom.svg.html %}](#start){: .cta-btn } in the form below so I can understand your setup a bit, and I'll be in touch.
+**Ready to start?** [Please answer some questions {% include svg/caret-bottom.svg.html %}](#start){: .cta-btn } in the form below so I can understand your setup a bit, and I'll be in touch.
 
 ## Or Instead, I Offer...
 
@@ -126,3 +139,5 @@ Pascal
 ---
 
 ## Questionnaire for the /stepitup package
+
+{% include service-sign-up-form-stepitup.html %}
