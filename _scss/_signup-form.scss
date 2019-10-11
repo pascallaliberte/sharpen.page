@@ -381,3 +381,27 @@ body #mc_embed_signup {
     margin-right: rem(-100px);
   }
 }
+
+.main-content .createform {
+  float: none;
+  
+  form {
+    &, .cf-item, .cf-label, .cf-input {
+      float: none;
+    }
+  }
+  
+  .cf-item {
+    margin-top: 2em;
+  }
+  
+  .cf-input {
+    padding: 0.8em 0.7em;
+    font-family: $primary-font-family;
+  }
+  
+  small {
+    display: block;
+    margin-bottom: 1em;
+  }
+}
