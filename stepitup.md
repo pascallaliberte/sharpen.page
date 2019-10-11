@@ -25,6 +25,7 @@ But now it's about timing. You're busy. You're forced to choose between working,
 ---
 
 # Step It Up
+{: #details }
 
 A service to sharply explain what you do, with some packages communicating to your newcomers how you can help, that compete against one another (the packages), instead of you competing against other people.
 
@@ -110,7 +111,7 @@ The first step is to answer these questions so I can understand your setup a bit
 
 ## Or Instead, I Offer...
 
-Maybe another option to start would be have a [/visualize](/visualize) call. The process starts with a questionnaire for you, followed by an email exchange so I can learn about your situation, then a call so we can jam on what to do next in your situation. I'll bill you after the call ($250), and wave the fee if you decide to signup to one of the two options above.
+Maybe another option to start would be have a [/visualize](/visualize#details) call. The process starts with a questionnaire for you, followed by an email exchange so I can learn about your situation, then a call so we can jam on what to do next in your situation. I'll bill you after the call ($250), and wave the fee if you decide to signup to one of the two options above.
 
 Additionally, I invite you to subscribe to my weekly email, where you'll be the first to know about the week's new article, or check out my twitter feed if that's better for you.
 

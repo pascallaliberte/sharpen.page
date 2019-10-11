@@ -4,44 +4,61 @@ layout: service
 title: Visualize - Let's have a call
 ---
 
+<div class="pitch-lead-up" markdown="1">
+
 <div class="situation-quotes" markdown="1">
 
 > "I just don't have time to learn this stuff by myself right now. I need a few pointers"
 
 </div>
 
-You've tried to put together some packages, or researching your buyer's situations, or communicating your specialty in a way that clearly communicates the struggle you're there to help fix.
-
-But you're drawing a blank for what to try next.
-
-You could continue figuring it out, but now it's time to get serious.
+<div class="pitch-lead-up-block" markdown="1">
 
 You know that when you'll have put together something sharp on your website, you'll be able to communicate your new specialty to some new people. Get the word out, get some new referrals, and get started from there.
 
 But right now, you feel that the **clock is ticking**. You're starting to get some attention, and what you got on your site won't do.
 
+</div>
+
+<div class="pitch-lead-up-block" markdown="1">
+
+<aside markdown="1">
+
 ## What If You Waited a Few Months?
 
-* You'll still have your current site listing your services, but not listing the distinct situations you can help your visitors with...
+* Waiting a few months... you'll still have your current site listing your services, but not listing the distinct situations you can help your visitors with...
 * You'll get word-of-mouth, but it would be for the same work you currently do...
 * Or maybe you wouldn't get word-of-mouth, because your current clients don't have a stake in recommending you to others. They'd rather keep it to themselves that you're helping them...
 * Maybe you're putting together a small product, like a guide, an ebook, a course of some sort, and you'll have worked on it by that time (in a few months from now), but you're hesitating. "Since I don't know exactly the struggles that my customers are going through, I might be creating something too generic..."
 
-If you're still reading, you want none of that. You're ready to get moving.
+</aside>
+
+</div>
+
+<div class="pitch-lead-up-block" markdown="1">
+
+**But if you don't want to put this until later...**
+
+</div>
+
+</div>
 
 ---
 
-# /visualize<br>A Call to Help You _Visualize_ What Should Come Next
+# /visualize<br>A Call to Help Pick What Should Come Next
+{: #details }
 
-By the end of the call, you'll have:
+**By the end of the call, you'll have:**
 
 * Obtained a clear sense of what you should do next, and confidence that it'll do something good for you;
 * Obtained an idea of how it is to work together;
 * Obtained an idea of what I could do to help out, if a proposal from me would be a useful next step (I won't try to upsell you).
 
-$250, after a back-and-forth over email before the call to get to know your situation a little bit more. I'll send you an invoice after the call, and the call will be discounted if you choose to go through the /stepitup package.
+**$250**, after a back-and-forth over email before the call to get to know your situation a little bit more. I'll send you an invoice after the call, and the call will be _discounted_ if you choose to go through the **[/stepitup](/stepitup)** package.
 
-The first step: Skip down to fill the questionnaire at the bottom of page. Or continue reading to learn more.
+**To go ahead with the call:**
+
+[Start by answering these questions {% include svg/caret-bottom.svg.html %}](#start){: .cta-btn } found below and I'll be following up within a day or two.
 
 ---
 
@@ -85,12 +102,11 @@ You've got sales, and you've got traffic! And so it's time to start testing some
 * Article: [How Much Traffic Do I Need To Start Doing A/B Testing?]({% post_url 2019-07-05-how-much-traffic-needed-to-start-ab-testing %})
 * Article: [How Can I Prove That My Version B Will Be Better?]({% post_url 2019-07-12-ab-testing-how-to-prove-version-b-better %})
 
-## "Ok, I'm Ready to Get Moving"
-
-If you'd like a single page redone, or if you'd like to hire me month-by-month to sharpen both your site and your understanding of your buyers, consider checking out the /stepitup package.
-
-If a visualize call would be most helpful, that's great! Please fill the questionnaire below, and I'll write back with some follow-up questions. A reminder that the $250 fee for the call and email exchange is waved if you decide you want to go with the /stepitup package.
-
 ---
+
+## "Ok, I'm Ready to Get Moving"
+{: #start }
+
+Please fill the questionnaire below, and I'll write back with some follow-up questions. A reminder that the $250 fee for the call and email exchange is waved if you decide you want to go with the **[/stepitup](/stepitup)** package.
 
 ## Questionnaire for the /visualize call
