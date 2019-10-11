@@ -43,50 +43,51 @@
     }
   }
   
-  .pitch-lead-up-block {
-    max-width: 80%;
-    position: relative;
-    padding-top: rem(60px);
-    padding-bottom: rem(10px);
-    
-    &::before {
-      position: absolute;
-      content: '';
-      width: 0;
-      height: rem(50px);
-      left: rem(20px);
-      border-left: rem(4px) dashed transparentize($color-grey, 0.5);
-      top: 0;
-    }
-    
-    &:last-child {
-      &::after {
-        position: absolute;
-        content: '';
-        width: rem(15px);
-        height: rem(15px);
-        left: rem(20px);
-        border-radius: 50%;
-        background-color: transparentize($color-grey, 0.5);
-        top: rem(50px);
-        transform: translateX(-5px);
-      }
-    }
-    
-    & aside {
-      padding: rem(10px 20px);
-      background-color: rgba(255,255,255,0.5);
-      border-radius: 0.5rem;
-      margin: rem(20px) 0;
-      margin-left: rem(-10px);
-      
-      h2 {
-        margin-top: 0.5em;
-      }
-    }
-  }
+  
   
   @media (min-width: $reference-width-md-until) {
-    
+    .pitch-lead-up-block {
+      max-width: 80%;
+      position: relative;
+      padding-top: rem(60px);
+      padding-bottom: rem(10px);
+      
+      &::before {
+        position: absolute;
+        content: '';
+        width: 0;
+        height: rem(50px);
+        left: rem(20px);
+        border-left: rem(4px) dashed transparentize($color-grey, 0.5);
+        top: 0;
+      }
+      
+      &:last-child {
+        &::after {
+          position: absolute;
+          content: '';
+          width: rem(15px);
+          height: rem(15px);
+          left: rem(20px);
+          border-radius: 50%;
+          background-color: transparentize($color-grey, 0.5);
+          top: rem(50px);
+          transform: translateX(-5px);
+        }
+      }
+      
+      & aside {
+        padding: rem(10px 20px);
+        background-color: rgba(255,255,255,0.5);
+        border-radius: 0.5rem;
+        margin: rem(20px) 0;
+        margin-left: rem(-10px);
+        
+        h2 {
+          margin-top: 0.5em;
+        }
+      }
+    }
+  
   }
 }
