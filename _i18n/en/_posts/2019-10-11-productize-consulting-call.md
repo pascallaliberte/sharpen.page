@@ -51,8 +51,8 @@ That means that your consulting call has to be one of the _rungs_ in a value-lad
 A value-ladder offers options to a visitor so that they can choose the level at which they can move forward for their problem. They pick the package that fits their point in their journey.
 
 * **Top package: an all-out custom engagement.** No fixed price, no fixed length. Contact us to start.
-* **Middle package: a one-off smaller engagement** Fixed price, fixed length. Apply here.
-* **Bottom package: a consulting call** Fixed price, fixed length. Tell us about your situation.
+* **Middle package: a one-off smaller engagement.** Fixed price, fixed length. Apply here.
+* **Bottom package: a consulting call.** Fixed price, fixed length. Tell us about your situation.
 * **Catching "I'll just do it myself" option:** Here's a free guide and here's a collection of articles so you can learn to do it on your own.
 
 In this case, the consulting call fits within competing options _that you offer_. They're already on _your site_, looking at _your_ material.
