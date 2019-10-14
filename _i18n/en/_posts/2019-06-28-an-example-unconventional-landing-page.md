@@ -78,7 +78,7 @@ By now, the page demonstrated that it understands the visitor's struggle, unders
 
 ### The Page is Unconventional
 
-* **There's lot of text.** It bets on text to provide multiple shots at delivering the words to connect with the visitor's worldview, words that describe her problem vividly.
+* **There's lots of text.** It bets on text to provide multiple shots at delivering the words to connect with the visitor's worldview, words that describe her problem vividly.
 * **It's not optimized to convert every visitor into a customer.** It's optimized to match the product with the right visitor. This page is built to allow people to go away, confident that if they continue experiencing the problem, they'll surely be coming back to find the solution.
 * **It takes a long time before it talks about the product itself.** And as you'll see, the next section doesn't talk about the product yet either. That only comes after this next section.
 
