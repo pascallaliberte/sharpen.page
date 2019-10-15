@@ -126,7 +126,7 @@ Each month, you'll obtain:
 
 ## Or Instead, I Offer...
 
-Maybe another option to start would be have a **[/visualize](/visualize#details)** call. The process starts with a questionnaire for you, followed by an email exchange so I can learn about your situation, then a call so we can jam on what to do next in your situation. I'll bill you after the call ($250), and wave the fee if you decide to signup to one of the two options above.
+Maybe another option to start would be to have a **[/visualize](/visualize#details)** call. The process starts with a questionnaire for you, followed by an email exchange so I can learn about your situation, then a call so we can jam on what to do next in your situation. I'll bill you after the call ($250), and wave the fee if you decide to signup to one of the two options above.
 
 Additionally, I invite you to [subscribe to my weekly email](/articles/#be-notified), where you'll be the first to know about the week's new article, or check out my [twitter feed][twitter] if that's better for you.
 
