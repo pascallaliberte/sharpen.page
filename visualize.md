@@ -102,12 +102,18 @@ You've got sales, and you've got traffic! And so it's time to start testing some
 * Article: [How Much Traffic Do I Need To Start Doing A/B Testing?]({% post_url 2019-07-05-how-much-traffic-needed-to-start-ab-testing %})
 * Article: [How Can I Prove That My Version B Will Be Better?]({% post_url 2019-07-12-ab-testing-how-to-prove-version-b-better %})
 
+### You've Hit a Snag with Your Product. <mark>You Thought You Knew, But No Longer Do...</mark>
+
+Maybe you're getting cancellations, or some of your product's features aren't getting used like you planned. You've been building and building, but you've had a bit of a surprise. Now you need to start questioning a little bit.
+
+_This situation might be a good fit for my **[/prioritize](/prioritize)** actually. If you like to start with a call and you end up going with that package, I'll wave the fee for the consulting call._
+
 ---
 
 ## "Ok, I'm Ready to Get Moving"
 {: #start }
 
-Please fill the questionnaire below, and I'll write back with some follow-up questions. A reminder that the $250 fee for the call and email exchange is waved if you decide you want to go with the **[/stepitup](/stepitup)** package.
+Please fill the questionnaire below, and I'll write back with some follow-up questions. A reminder that the $250 fee for the call and email exchange is waved if you decide you want to go with the **[/stepitup](/stepitup)** package or the **[/prioritize](/prioritize)** package.
 
 ## Questionnaire for the /visualize call
 

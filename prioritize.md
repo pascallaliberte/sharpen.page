@@ -1,7 +1,7 @@
 ---
 permalink: prioritize/
 layout: service
-title: Prioritize - A research-based buyer-mindset sharpening exercise for your product priorities
+title: Prioritize - A Research Boost To Focus for Your Product Priorities
 ---
 
 <div class="pitch-lead-up" markdown="1">
@@ -52,7 +52,7 @@ It's now time for a little more research into your buyers.
 
 ---
 
-# /prioritize<br>A Research Cycle to Get a Boost in Focus for Your Product Priorities
+# /prioritize<br>A Research Boost To Focus for Your Product Priorities
 {: #details }
 
 ## By the End of Our Time Together, You'll Get:
@@ -103,6 +103,11 @@ They were experiencing some kind of struggle, and your product came along as a w
 ### There Are Forces at Play in the Mind of the Buyer
 
 * Article: [Purchase Decisions: The Four Forces at Play][four-forces]
+* Article: [Was I Just Lucky or Is My Idea Solid?][idea-solid]
+* Article: [Do I Need to Address a Hard Struggle?][struggle]
+
+[idea-solid]: {% post_url 2019-08-30-just-lucky-or-idea-solid %}
+[struggle]: {% post_url 2019-09-06-hard-struggle-required %}
 
 ### Your Product Is Competing Against Odd Competitors for the Job It Was Hired to Do
 
@@ -118,7 +123,14 @@ And avoid, at all costs, the trap of having features creating anxiety for your b
 
 * Article: [When a Feature Is Not a Feature][feature-anxiety]
 
+### Avoid "Overserving"
+
+Which happens when you've built too much product, or your product doesn't really help the job for which buyers hired your product.
+
+* Article: [How Do I Know I've Built Too Much Product?][too-much-product]
+
 [feature-anxiety]: {% post_url 2019-02-15-when-a-feature-is-not-a-feature %}
+[too-much-product]: {% post_url 2019-08-23-how-to-know-if-built-too-much-product-overserving %}
 
 ---
 

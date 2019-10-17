@@ -25,6 +25,12 @@ Each month, we sharpen your site in one meaningful way, and we sharpen your unde
 
 If you've already got a good idea of the struggle of your buyer and just need one page done, I've got a one-pager option too.
 
+## [/prioritize](/prioritize)
+
+**For product teams, a research boost to focus for your product priorities**
+
+When you've got to take a pause and dig into what motivated your buyers to "hire" your product. Maybe you're getting cancellations, or people aren't using the features you've developed, and you're left a little surprised. You can't continue building and building, and need to start questioning a little bit more.
+
 ---
 
 Or to learn how to sharpen your own stuff, check out the **[/articles](/articles)**, published every Friday.
