@@ -9,7 +9,7 @@ class: services
 
 But you realize that the way you're communicating your offerings seems too generic. **Not sharp enough.** Not communicating you understand their struggle enough. Not made to give options to the visitor that aim to be helpful right in that moment they're on your site. Also, you're busy doing your actual work.
 
-Here are two packages to help you speed things up.
+Here are two packages to help you speed things up. _And a third one below to help product teams._
 
 ## [/visualize](/visualize#details)
 
@@ -24,6 +24,8 @@ $250, including our back-and-forth over email ahead of the call and the call its
 Each month, we sharpen your site in one meaningful way, and we sharpen your understanding of your buyers via some research. Plus you get my availability to get answers to your questions, learn what I'm finding on the web, hang out in your Slack.
 
 If you've already got a good idea of the struggle of your buyer and just need one page done, I've got a one-pager option too.
+
+---
 
 ## [/prioritize](/prioritize)
 
