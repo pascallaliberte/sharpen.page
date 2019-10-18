@@ -1,7 +1,7 @@
 ---
 permalink: prioritize/
 layout: service
-title: Prioritize - A Research Boost To Focus for Your Product Priorities
+title: Prioritize - A Research Boost To Focus Your Product Priorities
 ---
 
 <div class="pitch-lead-up" markdown="1">
@@ -52,7 +52,7 @@ It's now time for a little more research into your buyers.
 
 ---
 
-# /prioritize<br>A Research Boost To Focus for Your Product Priorities
+# /prioritize<br>A Research Boost To Focus Your Product Priorities
 {: #details }
 
 ## By the End of Our Time Together, You'll Get:

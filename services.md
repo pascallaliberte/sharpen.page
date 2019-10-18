@@ -27,7 +27,7 @@ If you've already got a good idea of the struggle of your buyer and just need on
 
 ## [/prioritize](/prioritize)
 
-**For product teams, a research boost to focus for your product priorities**
+**For product teams, a research boost to focus your product priorities**
 
 When you've got to take a pause and dig into what motivated your buyers to "hire" your product. Maybe you're getting cancellations, or people aren't using the features you've developed, and you're left a little surprised. You can't continue building and building, and need to start questioning a little bit more.
 
