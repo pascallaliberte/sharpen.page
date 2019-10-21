@@ -22,7 +22,9 @@ _(If this last one is you, check out the separate **[/prioritize](/prioritize)**
 
 </div>
 
-## Here's how I'd Do It if I Were in Your Place...
+## You're Getting Attention, and What You're Offering Isn't Sharp Enough
+
+**Here's how I'd Do It if I Were in Your Place...**
 
 Think of those moments [_when_][try-when] your customers will be wanting to say "enough is enough", where they'll start to look for something different. Same-old got too old.
 
