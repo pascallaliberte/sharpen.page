@@ -37,7 +37,7 @@ But for some of these other ones, **having a fixed price and a fixed scope won't
 * Sell **three on-site sessions** to train your client's team on a new approach;
 * Sell a **facilitation session to help your client get unstuck**, imagine possibilities and commit to next steps (include accountability follow-up calls);
 
-You're probably going to create a custom proposals for each potential client, but you can still package them up.
+You're probably going to create custom proposals for each potential client, but you can still package them up.
 
 **You can still sell a sharp _result_**, on a page that shows the visitor you understand the struggle and can help them make progress:
 
