@@ -54,7 +54,7 @@ But right now, you feel that the **clock is ticking**. You're starting to get so
 * Obtained an idea of how it is to work together;
 * Obtained an idea of what I could do to help out, if a proposal from me would be a useful next step (I won't try to upsell you).
 
-**$250**, after a back-and-forth over email before the call to get to know your situation a little bit more. I'll send you an invoice after the call, and the call will be _discounted_ if you choose to go through the **[/stepitup](/stepitup)** package.
+**CDN$&nbsp;250**, after a back-and-forth over email before the call to get to know your situation a little bit more. I'll send you an invoice after the call, and the call will be _discounted_ if you choose to go through the **[/stepitup](/stepitup)** package.
 
 **To go ahead with the call:**
 
@@ -113,7 +113,7 @@ _This situation might be a good fit for my **[/prioritize](/prioritize)** actual
 ## "Ok, I'm Ready to Get Moving"
 {: #start }
 
-Please fill the questionnaire below, and I'll write back with some follow-up questions. A reminder that the $250 fee for the call and email exchange is waved if you decide you want to go with the **[/stepitup](/stepitup)** package or the **[/prioritize](/prioritize)** package.
+Please fill the questionnaire below, and I'll write back with some follow-up questions. A reminder that the CDN$&nbsp;250 fee for the call and email exchange is waved if you decide you want to go with the **[/stepitup](/stepitup)** package or the **[/prioritize](/prioritize)** package.
 
 ## Questionnaire for the /visualize call
 

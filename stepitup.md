@@ -93,7 +93,7 @@ So here's where I can help. If you're too busy for this level of work, but you'r
 
 If you've got a good understanding of the main situation that causes your buyers to go with your service, and you just want to write that up in a single page.
 
-**$1600** + your time so I get to understand what you're selling and your buyers
+**CDN$&nbsp;1600** + your time so I get to understand what you're selling and your buyers
 
 * Half up front to understand enough to make the page on my own, half to proceed with the page and book the week I'll be writing the page.
 * Once I got enough information from you, the turnaround is one week.
@@ -111,7 +111,7 @@ Each month, you'll obtain:
 1. Minimum one sharpening of the web presence - Will sharpen the way people engage with the business, its funnel, bit by bit through minimum one change per month. Will provide drafts ahead of production. Includes implementation provided adequate approval lead-up.
 2. Minimum one sharpening of understanding the audience - Will share insights from research, and ask you clarification questions. Included in the package: recruitment fees, e.g. incentives for surveys or conversations, userinterviews.com booking fees.
 
-**$2200 per 30-day period** plus your involvement in revising drafts, and answering questions. Paid at the start of the 30-day period.
+**CDN$&nbsp;2200 per 30-day period** plus your involvement in revising drafts, and answering questions. Paid at the start of the 30-day period.
 
 ### Both options include:
 
@@ -126,7 +126,7 @@ Each month, you'll obtain:
 
 ## Or Instead, I Offer...
 
-Maybe another option to start would be to have a **[/visualize](/visualize#details)** call. The process starts with a questionnaire for you, followed by an email exchange so I can learn about your situation, then a call so we can jam on what to do next in your situation. I'll bill you after the call ($250), and wave the fee if you decide to signup to one of the two options above.
+Maybe another option to start would be to have a **[/visualize](/visualize#details)** call. The process starts with a questionnaire for you, followed by an email exchange so I can learn about your situation, then a call so we can jam on what to do next in your situation. I'll bill you after the call (CDN$&nbsp;250), and wave the fee if you decide to signup to one of the two options above.
 
 Additionally, I invite you to [subscribe to my weekly email](/articles/#be-notified), where you'll be the first to know about the week's new article, or check out my [twitter feed][twitter] if that's better for you.
 
