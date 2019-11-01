@@ -665,11 +665,19 @@
       display: block;
     }
     
+    p {
+      margin: 0;
+    }
+    
     @media (min-width: $reference-width-xs-until) {
       margin-left: rem(-100px);
       margin-right: rem(-120px);
-      background: white;
+      background: transparentize(white, 0.5);
       padding: rem(6px);
+      
+      figcaption {
+        margin: rem(6px);
+      }
     }
     
     @media (max-width: $reference-width-md-until) {
@@ -680,7 +688,7 @@
     @media (max-width: $reference-width-xs-until) {
       margin-left: rem(-30px);
       margin-right: rem(-30px);
-      background: white;
+      background: transparentize(white, 0.5);
       padding: rem(6px 0);
     }
   }
