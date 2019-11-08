@@ -35,15 +35,22 @@ But now it's about timing. You're busy. You're forced to choose between working,
 
 ---
 
-# Step It Up
+<div class="pitch-solution" markdown="1">
+
+# <span class="service-slug">stepitup</span> Sharpen Your Service Offerings
 {: #details }
 
-**A service to sharply explain what you do**, with some packages communicating to your newcomers how you can help, that compete against one another (the packages), instead of you competing against other people.
+<div class="tagline pitch-solution-tagline pull-up" markdown="1">
+{% include tagline-service.html %}
+</div>
+
+**A service to sharply explain what you do**, by detailing service offerings that communicate to your newcomers how you can help.
 
 I've got a monthly package, or if you'd like, the ability to just get a one-off page rewritten.
 
 [See the two options to go forward {% include svg/caret-bottom.svg.html %}](#options){: .cta-btn } or read on. Maybe you could still do a lot of this on your own.
 
+</div>
 ---
 
 ## Maybe This Is Your Situation

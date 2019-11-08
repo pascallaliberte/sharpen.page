@@ -49,3 +49,31 @@
     }  
   }
 }
+
+.service-slug {
+  color: $color-tertiary;
+  font-family: $tertiary-font-family;
+  font-size: rem(42px);
+  position: relative;
+  font-weight: normal;
+  
+  &::before {
+    position: absolute;
+    content: '/';
+    left: -0.5em;
+    top: 0;
+  }
+  
+  @media (max-width: $reference-width-xs-until) {
+    margin-left: 0.5em;
+  }
+  
+  @media only screen and (min-width: ($reference-width-xs-until + 1px)) and (max-width: $reference-width-md-until) {
+    font-size: rem(32px);
+  }
+  
+  .service & {
+    display: block;
+    margin-bottom: 0.5em;
+  }
+}

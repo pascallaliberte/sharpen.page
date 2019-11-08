@@ -45,7 +45,9 @@ But right now, you feel that the **clock is ticking**. You're starting to get so
 
 ---
 
-# /visualize<br>A Call to Help Pick What Should Come Next
+<div class="pitch-solution" markdown="1">
+
+# <span class="service-slug">visualize</span> A Call to Help Pick What Should Come Next
 {: #details }
 
 **By the end of the call, you'll have:**
@@ -59,6 +61,8 @@ But right now, you feel that the **clock is ticking**. You're starting to get so
 **To go ahead with the call:**
 
 [Start by answering these questions {% include svg/caret-bottom.svg.html %}](#start){: .cta-btn } found below and I'll be following up within a day or two.
+
+</div>
 
 ---
 

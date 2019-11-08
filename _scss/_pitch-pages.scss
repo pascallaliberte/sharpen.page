@@ -91,3 +91,9 @@
   
   }
 }
+
+.pitch-solution {
+  @media (min-width: $reference-width-md-until) {
+    width: rem(620px);
+  }
+}

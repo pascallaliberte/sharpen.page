@@ -1,0 +1,52 @@
+.tagline {
+  display: block;
+  margin-left: rem(-15px);
+  @media (min-width: $reference-width-md-until) {
+    margin-left: 0;
+  }
+  margin-top: rem(10px);
+  position: relative;
+  
+  transform: scale(1);
+  transition: transform 0.2s $easeOutBack, margin-bottom 0.2s $easeOutBack;
+  transform-origin: top left;
+  
+  &-bg > svg {
+    width: rem(353px);
+    height: auto;
+  }
+  &-text {
+    font-size: rem(68px);
+    font-family: $tertiary-font-family;
+    font-weight: 200;
+    color: white;
+    line-height: (57/68);
+    letter-spacing: -0.0113em;
+    text-transform: uppercase;
+    
+    width: 1em;
+    
+    [contenteditable] & {
+      width: 5em;
+    }
+    position: absolute;
+    left: rem(15px);
+    top: rem(5px);
+  }
+}
+
+.pitch-solution-tagline {
+  width: rem(353px);
+  @media (min-width: $reference-width-md-until) {
+    float: right;
+    margin-right: rem(-373px);
+    
+    &.push-down {
+      margin-top: rem(75px);
+    }
+    
+    &.pull-up {
+      margin-top: rem(-15px);
+    }
+  }
+}

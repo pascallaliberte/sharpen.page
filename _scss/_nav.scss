@@ -62,11 +62,8 @@
     }
   }
   
-  &__service-slug {
+  & &__service-slug {
     position: absolute;
-    color: $color-tertiary;
-    font-family: $tertiary-font-family;
-    font-size: rem(42px);
     top: rem(25px);
     left: rem(235px);
     
@@ -85,7 +82,6 @@
     }
     
     @media only screen and (min-width: ($reference-width-xs-until + 1px)) and (max-width: $reference-width-md-until) {
-      font-size: rem(32px);
       max-width: rem(480px);
       top: rem(80px);
       left: rem(69px);
@@ -99,41 +95,10 @@
     }
   }
   
-  &__tagline {
-    display: block;
-    margin-left: rem(-15px);
-    @media (min-width: $reference-width-md-until) {
-      margin-left: 0;
-    }
-    margin-top: rem(10px);
-    position: relative;
-    
+  .tagline {
     transform: scale(1);
     transition: transform 0.2s $easeOutBack, margin-bottom 0.2s $easeOutBack;
     transform-origin: top left;
-    
-    &-bg > svg {
-      width: rem(353px);
-      height: auto;
-    }
-    &-text {
-      font-size: rem(68px);
-      font-family: $tertiary-font-family;
-      font-weight: 200;
-      color: white;
-      line-height: (57/68);
-      letter-spacing: -0.0113em;
-      text-transform: uppercase;
-      
-      width: 1em;
-      
-      [contenteditable] & {
-        width: 5em;
-      }
-      position: absolute;
-      left: rem(15px);
-      top: rem(5px);
-    }
     
     &.on-post, &.on-blog {
       transform: scale(0.84985835694051);

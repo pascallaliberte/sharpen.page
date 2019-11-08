@@ -6,17 +6,12 @@
       </span>
     </a>
     {% if page.layout == "service" %}
-    <div class="navigation__service-slug">
+    <div class="navigation__service-slug service-slug">
       {{ page.permalink | replace: "/", "" }}
     </div>
     {% endif %}
-    <a href="{{ "/" | relative_url }}" class="navigation__tagline on-{{ page.layout }}" data-behavior="navigation__tagline">
-      <div class="navigation__tagline-bg">
-        {% include tagline-bg.svg.html %}
-      </div>
-      <div class="navigation__tagline-text">
-        A Product Sharpening Service
-      </div>
+    <a href="{{ "/" | relative_url }}" class="navigation__tagline tagline on-{{ page.layout }}" data-behavior="navigation__tagline">
+      {% include tagline-product.html %}
     </a>
     <div class="navigation__summary">
       <span class="desktop-only">For sharpening that marketing copy, keeping the feature set tight, and understanding the buyer's motivation.</span>

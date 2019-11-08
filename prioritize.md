@@ -52,8 +52,14 @@ It's now time for a little more research into your buyers.
 
 ---
 
-# /prioritize<br>A Research Boost To Focus Your Product Priorities
+<div class="pitch-solution" markdown="1">
+
+# <span class="service-slug">prioritize</span> A Research Boost To Focus Your Product Priorities
 {: #details }
+
+<div class="tagline pitch-solution-tagline push-down" markdown="1">
+{% include tagline-product.html %}
+</div>
 
 ## By the End of Our Time Together, You'll Get:
 
@@ -67,6 +73,8 @@ It's now time for a little more research into your buyers.
 * Some new possibilities on how we can work together next: A/B testing changes to your site, more research, or help shaping your next features.
 
 [jtbd-intro]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
+
+</div>
 
 ---
 
