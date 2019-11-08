@@ -119,4 +119,10 @@ Design your page well, and the flow will catch these mini-changes in how the [fo
 
 Stay Sharp!
 
+Further Reading:
+
+* Article: [How Long Landing Pages Make Calls-To-Action Work]({% post_url 2019-05-17-how-long-landing-pages-make-calls-to-action-work %})
+* Article: [What's the Minimum to Make My Landing Page Communicate I Understand the Struggle?]({% post_url 2019-10-25-minimum-to-get-struggle-based-landing-page %})
+* Article: [How To Quickly Tweak Text On Your Landing Page Directly In The Browser]({% post_url 2019-05-30-how-to-quickly-tweak-landing-page-text-in-browser %})
+
 _"But do I really need to start each page describing a struggle? Other popular product pages I see focus straight on the product." We'll look at that question in an another article in the next few weeks._
