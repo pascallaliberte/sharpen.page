@@ -92,6 +92,6 @@ And since you know you're competing with them figuring it out themselves, you co
 [modest-hire]: {% post_url 2019-10-04-how-to-add-modesty-to-intros-as-freelancer %}
 [newsletter]: {% post_url 2019-07-26-increase-newsletter-signups-without-being-pushy %}
 
-So sharpen your service offerings this way, continue helping your visitors by teaching them everything you know, and stick it out.
+So sharpen your service offerings this way, continue helping your visitors by teaching them everything you know, and **stick it out**.
 
 Stay Sharp!
