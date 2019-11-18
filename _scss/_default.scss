@@ -34,6 +34,7 @@ $reference-width-xs-until: 525px;
 $reference-width-md:    768px;
 $reference-width-md-until: 850px;
 $reference-width-xl: 1440px;
+$lock-font-size-and-center-beyond: 1440px;
 
 body {
   padding-left: rem(15px);
@@ -79,6 +80,12 @@ body {
   main {
     max-width: rem(1125px);
     margin: 0 auto;
+  }
+}
+
+@media only screen and (min-width: ($lock-font-size-and-center-beyond)) {
+  html {
+    font-size: get-adjusted-font-size-baseline($lock-font-size-and-center-beyond, $reference-width-xl);
   }
 }
 
