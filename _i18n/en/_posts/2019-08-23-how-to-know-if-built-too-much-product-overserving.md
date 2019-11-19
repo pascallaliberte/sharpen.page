@@ -3,7 +3,7 @@ layout: post
 title: "How Do I Know I've Built Too Much Product?"
 categories: jtbd
 author: Pascal Laliberté
-image: 2019-08-23-how-to-know-if-built-too-much-product-overserving.jpg
+image: /assets/images/posts/2019-08-23-how-to-know-if-built-too-much-product-overserving.jpg
 ---
 
 A few days ago, I cancelled a HootSuite account before my trial was over. I had signed up so I could schedule some tweets and some posts on LinkedIn while I was away on vacation. But then I was digging more about automation, remembered about Buffer, saw it had a free offering that fit my needs, and signed up to Buffer. I liked Buffer, and decided to cancel HootSuite. **Although I noticed HootSuite had a free tier also, Buffer did the job, and HootSuite felt like it did too much**.

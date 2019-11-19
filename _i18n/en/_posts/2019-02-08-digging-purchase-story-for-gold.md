@@ -4,7 +4,7 @@ title: "Digging the Purchase Story for Gold"
 categories: jtbd
 tags: purchase-interview
 author: Pascal Laliberté
-image: 2019-02-08-digging-purchase-story-for-gold.jpg
+image: /assets/images/posts/2019-02-08-digging-purchase-story-for-gold.jpg
 ---
 
 Last week's article introduced the [interview technique and the timeline diagram][interview-timeline], crucial to understand the real circumstances which caused the person to purchase your product. With the interview technique, you're digging for the job they hired your product to do.

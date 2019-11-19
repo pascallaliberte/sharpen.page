@@ -4,7 +4,7 @@ title: "Was I Just Lucky or Is My Idea Solid?"
 categories: jtbd
 tags: consulting
 author: Pascal Laliberté
-image: 2019-08-30-just-lucky-or-idea-solid.jpg
+image: /assets/images/posts/2019-08-30-just-lucky-or-idea-solid.jpg
 ---
 
 Some ideas don't work.

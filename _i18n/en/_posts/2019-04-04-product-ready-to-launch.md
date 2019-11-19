@@ -3,7 +3,7 @@ layout: post
 title: "How Do I Know My Product Is Ready To Launch? I Want It To Be Perfect!"
 categories: jtbd
 author: Pascal Laliberté
-image: 2019-04-04-product-ready-to-launch.jpg
+image: /assets/images/posts/2019-04-04-product-ready-to-launch.jpg
 ---
 
 You've got a product in the works.

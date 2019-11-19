@@ -4,7 +4,7 @@ title: Rewriting Common Mental Models About Introducing Yourself as a Freelancer
 categories: consulting
 tags: mental-models
 author: Pascal Laliberté
-image: 2019-09-27-rewriting-mental-models-about-introducing-yourself-as-freelancer.jpg
+image: /assets/images/posts/2019-09-27-rewriting-mental-models-about-introducing-yourself-as-freelancer.jpg
 published: true
 ---
 

@@ -4,7 +4,7 @@ title: Sharpening Your Packaged Service Offerings
 categories: jtbd consulting
 tags: copywriting
 author: Pascal Laliberté
-image: 2019-11-15-sharpen-your-packaged-services.jpg
+image: /assets/images/posts/2019-11-15-sharpen-your-packaged-services.jpg
 published: true
 ---
 

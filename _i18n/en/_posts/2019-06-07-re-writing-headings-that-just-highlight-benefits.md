@@ -3,7 +3,7 @@ layout: post
 title: "Re-writing Headings That Just Highlight The Benefits"
 categories: jtbd copywriting
 author: Pascal Laliberté
-image: 2019-06-07-re-writing-headings-that-just-highlight-benefits.jpg
+image: /assets/images/posts/2019-06-07-re-writing-headings-that-just-highlight-benefits.jpg
 ---
 
 Let's say you've got an app like [this one][site] and you'd like to improve the main heading on the app's marketing landing page.

@@ -12,7 +12,6 @@ theme_color: '#605aa4'
 twitter_username: pascallaliberte
 github_username:  pascallaliberte
 author: Pascal Laliberté
-logo: assets/images/og-image.jpg
 twitter:
   username: pascallaliberte
 social:
@@ -20,6 +19,15 @@ social:
   links:
     - https://twitter.com/pascallaliberte
     - https://github.com/pascallaliberte
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: 
+        path: /assets/images/a-product-sharpening-service.jpg
+        height: 400
+        width: 400
 
 languages: ["en"]
 

@@ -3,7 +3,7 @@ layout: post
 title: "How Long Landing Pages Make Calls-To-Action Work"
 categories: jtbd copywriting
 author: Pascal Laliberté
-image: 2019-05-17-how-long-landing-pages-make-calls-to-action-work.jpg
+image: /assets/images/posts/2019-05-17-how-long-landing-pages-make-calls-to-action-work.jpg
 ---
 
 In the last article, we saw [how to pick the right call-to-action for contacting you][pick-cta]. What will make the user make the jump to schedule a call with you? Is that too much to ask, and should you be using an email link instead, a form, or maybe a questionnaire?

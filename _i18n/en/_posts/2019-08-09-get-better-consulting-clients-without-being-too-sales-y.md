@@ -4,7 +4,7 @@ title: "How to Get Better Consulting Clients without Being Too Sales-y"
 categories: jtbd optimize
 tags: consulting
 author: Pascal Laliberté
-image: 2019-08-09-get-better-consulting-clients-without-being-too-sales-y.jpg
+image: /assets/images/posts/2019-08-09-get-better-consulting-clients-without-being-too-sales-y.jpg
 ---
 
 In the past few articles, we've looked at things your consulting business probably has setup already: a [newsletter][newsletter], and even probably an [ebook or guide of some sort][ebook].

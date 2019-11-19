@@ -4,7 +4,7 @@ title: "How to Record Buyer Interviews"
 categories: jtbd gear
 tags: purchase-interview
 author: Pascal Laliberté
-image: 2019-03-14-how-to-record-buyer-interviews.jpg
+image: /assets/images/posts/2019-03-14-how-to-record-buyer-interviews.jpg
 ---
 
 In [this thread on Roadmap.com about organizing customer interviews results][thread], the subject of recording interviews comes up.

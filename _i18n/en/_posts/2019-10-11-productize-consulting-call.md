@@ -3,7 +3,7 @@ layout: post
 title: How Do You Productize a Consulting Call?
 categories: jtbd consulting
 author: Pascal Laliberté
-image: 2019-10-11-productize-consulting-call.jpg
+image: /assets/images/posts/2019-10-11-productize-consulting-call.jpg
 published: true
 ---
 

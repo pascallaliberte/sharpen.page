@@ -3,7 +3,7 @@ layout: post
 title: Introduction to the Jobs-To-Be-Done Theory, Through Three Example Purchases
 categories: JTBD
 author: Pascal Laliberté
-image: 2018-11-29-intro-to-jobs-to-be-done-through-examples.jpg
+image: /assets/images/posts/2018-11-29-intro-to-jobs-to-be-done-through-examples.jpg
 ---
 
 Let's start off with these questions:

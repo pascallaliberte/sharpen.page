@@ -7,12 +7,6 @@
 <meta name="theme-color" content="{{ site.theme_color }}">
 <meta name="msapplication-navbutton-color" content="{{ site.theme_color }}">
 <meta name="apple-mobile-web-app-status-bar-style" content="{{ site.theme_color }}">
-{% if page.layout != "post" -%}
-  <meta property="og:image" content="{{ site.url }}/{{ site.logo }}" />
-{%- endif -%}
-{%- if page.layout == "post" and page.image -%}
-  <meta property="og:image" content="{{ site.url }}/assets/images/posts/{{ page.image }}" />
-{%- endif %}
 
 <link rel="stylesheet" href="https://use.typekit.net/xeo8nfr.css">
 

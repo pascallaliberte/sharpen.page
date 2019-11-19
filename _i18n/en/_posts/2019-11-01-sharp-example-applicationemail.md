@@ -4,7 +4,7 @@ title: "Sharp Example: applicationemail.com"
 categories: jtbd copywriting
 tags: consulting
 author: Pascal Laliberté
-image: 2019-11-01-sharp-example-applicationemail.jpg
+image: /assets/images/posts/2019-11-01-sharp-example-applicationemail.jpg
 published: true
 ---
 

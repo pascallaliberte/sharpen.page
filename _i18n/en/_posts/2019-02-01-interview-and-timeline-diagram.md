@@ -4,7 +4,7 @@ title: "The Interview and the Timeline Diagram"
 categories: jtbd
 tags: purchase-interview
 author: Pascal Laliberté
-image: 2019-02-01-interview-and-timeline-diagram.jpg
+image: /assets/images/posts/2019-02-01-interview-and-timeline-diagram.jpg
 ---
 
 * What caused someone to purchase my product (or service)?

@@ -3,7 +3,7 @@ layout: post
 title: "Too Few of My Freemium Users Are Converting To Paying Customers"
 categories: jtbd
 author: Pascal Laliberté
-image: 2019-03-22-freemium-users-wont-convert-to-paying-customers.jpg
+image: /assets/images/posts/2019-03-22-freemium-users-wont-convert-to-paying-customers.jpg
 ---
 
 Let's say you have an online product with both a free version (a freemium version) and a paid version. Maybe it's a paid subscription (monthly or yearly) or maybe it's a fixed price for access.

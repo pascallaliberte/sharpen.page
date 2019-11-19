@@ -3,7 +3,7 @@ layout: post
 title: "Sadly Found A Competitor For My Product. How Do I Make Mine Better?"
 categories: jtbd
 author: Pascal Laliberté
-image: 2019-04-12-competitor-found-make-mine-better.jpg
+image: /assets/images/posts/2019-04-12-competitor-found-make-mine-better.jpg
 ---
 
 OrangeFractal on [this post on the r/Entrepreneur subreddit writes][thread1]:

@@ -3,7 +3,7 @@ layout: post
 title: "How Much Traffic Do I Need To Start Doing A/B Testing?"
 categories: optimize
 author: Pascal Laliberté
-image: 2019-07-05-how-much-traffic-needed-to-start-ab-testing.jpg
+image: /assets/images/posts/2019-07-05-how-much-traffic-needed-to-start-ab-testing.jpg
 ---
 
 > I'd like to start measuring improvements quantitatively, but I don't think I have enough traffic. What's the point when I can start doing real A/B Testing?

@@ -4,7 +4,7 @@ title: "Writing Outreach (Cold) Emails, The Basic Lessons To Get Started"
 categories: jtbd copywriting
 author: Pascal Laliberté
 tags: consulting
-image: 2019-04-26-writing-outreach-cold-emails-the-basic-lessons-to-get-started.jpg
+image: /assets/images/posts/2019-04-26-writing-outreach-cold-emails-the-basic-lessons-to-get-started.jpg
 ---
 
 Outreach emails, or cold emails, are these emails you write to help gain attention to sell your services or your product.

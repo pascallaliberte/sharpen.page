@@ -3,7 +3,7 @@ layout: post
 title: How Can I Pitch a Bolder, More Edgy Consulting Engagement?
 categories: jtbd consulting
 author: Pascal Laliberté
-image: 2019-09-13-pitching-an-edgy-consulting-engagement.jpg
+image: /assets/images/posts/2019-09-13-pitching-an-edgy-consulting-engagement.jpg
 published: true
 ---
 

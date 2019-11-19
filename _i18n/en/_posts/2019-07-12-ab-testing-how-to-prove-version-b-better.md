@@ -3,7 +3,7 @@ layout: post
 title: "How Can I Prove That My Version B Will Be Better?"
 categories: optimize
 author: Pascal Laliberté
-image: 2019-07-12-ab-testing-how-to-prove-version-b-better.jpg
+image: /assets/images/posts/2019-07-12-ab-testing-how-to-prove-version-b-better.jpg
 ---
 
 You've got [enough visits to start an A/B testing experiment][previous], but now you're wondering how that calculation works exactly. How do I know if my Version B will end up being better than my Version A, _with numbers_.

@@ -3,7 +3,7 @@ layout: post
 title: "Purchase Interview: $450 Pair of Winter Boots"
 categories: jtbd purchase-interview
 author: Pascal Laliberté
-image: 2019-01-04-expensive-pair-of-boots.jpg
+image: /assets/images/posts/2019-01-04-expensive-pair-of-boots.jpg
 ---
 
 Let's say you make expensive winter boots. You're wondering what you'll focus on for the next two years. Should we diversify our product line? Should we change our marketing? Should we create a low-price entry-level boot? What we have right now, is it working?

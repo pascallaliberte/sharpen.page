@@ -4,7 +4,7 @@ title: How Does the Pain-Dream-Fix Page Structure Fit with Jobs-To-Be-Done?
 categories: jtbd copywriting
 tags: consulting
 author: Pascal Laliberté
-image: 2019-11-08-pain-dream-fix-and-jtbd.jpg
+image: /assets/images/posts/2019-11-08-pain-dream-fix-and-jtbd.jpg
 published: true
 ---
 

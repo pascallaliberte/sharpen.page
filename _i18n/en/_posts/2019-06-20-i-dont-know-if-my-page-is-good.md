@@ -3,7 +3,7 @@ layout: post
 title: "I Don't Know If My Page Is Any Good"
 categories: jtbd copywriting
 author: Pascal Laliberté
-image: 2019-06-20-i-dont-know-if-my-page-is-good.jpg
+image: /assets/images/posts/2019-06-20-i-dont-know-if-my-page-is-good.jpg
 ---
 
 **Are you in one of these situations?**

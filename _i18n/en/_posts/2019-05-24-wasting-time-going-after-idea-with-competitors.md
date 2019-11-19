@@ -3,7 +3,7 @@ layout: post
 title: "Would I Be Wasting My Time Going After An Idea With Competitors?"
 categories: discerning
 author: Pascal Laliberté
-image: 2019-05-24-wasting-time-going-after-idea-with-competitors.jpg
+image: /assets/images/posts/2019-05-24-wasting-time-going-after-idea-with-competitors.jpg
 ---
 
 So you're ready to start investing your time in a product idea. You've worked hard, saved some money, cleared your responsabilities, carved out some spare time for the next few years.

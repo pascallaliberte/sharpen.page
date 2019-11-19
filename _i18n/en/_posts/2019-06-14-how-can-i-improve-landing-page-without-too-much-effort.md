@@ -3,7 +3,7 @@ layout: post
 title: "How Can I Improve The Design Of This Landing Page Without Too Much Effort?"
 categories: jtbd copywriting
 author: Pascal Laliberté
-image: 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort.jpg
+image: /assets/images/posts/2019-06-14-how-can-i-improve-landing-page-without-too-much-effort.jpg
 ---
 
 On [this post on Reddit][thread], the poster asks for feedback on [their SaaS app's website][site].

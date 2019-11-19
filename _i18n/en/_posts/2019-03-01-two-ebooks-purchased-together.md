@@ -3,7 +3,7 @@ layout: post
 title: "Purchase Interview: Two Ebooks Purchased Together"
 categories: jtbd purchase-interview
 author: Pascal Laliberté
-image: 2019-03-01-two-ebooks-purchased-together.jpg
+image: /assets/images/posts/2019-03-01-two-ebooks-purchased-together.jpg
 ---
 
 "He's just the type of guy who buys ebooks". That was my thought when I interviewed a guy who had bought two ebooks. Yes, two ebooks that he bought at the same time.

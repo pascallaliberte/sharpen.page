@@ -3,7 +3,7 @@ layout: post
 title: How to Add Modesty to Your Intros as a Freelancer
 categories: jtbd consulting
 author: Pascal Laliberté
-image: 2019-10-04-how-to-add-modesty-to-intros-as-freelancer.jpg
+image: /assets/images/posts/2019-10-04-how-to-add-modesty-to-intros-as-freelancer.jpg
 published: true
 ---
 

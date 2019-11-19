@@ -3,7 +3,7 @@ layout: post
 title: "An Example Of An Unconventional Landing Page"
 categories: jtbd copywriting
 author: Pascal Laliberté
-image: 2019-06-28-an-example-unconventional-landing-page.jpg
+image: /assets/images/posts/2019-06-28-an-example-unconventional-landing-page.jpg
 ---
 
 Startups use it, web agencies use it, products, services, big companies and small companies use it.

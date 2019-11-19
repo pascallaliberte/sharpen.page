@@ -3,7 +3,7 @@ layout: post
 title: Packaging a Sharp Service, But without a Public Price
 categories: jtbd consulting
 author: Pascal Laliberté
-image: 2019-10-18-packaged-service-no-public-price.jpg
+image: /assets/images/posts/2019-10-18-packaged-service-no-public-price.jpg
 published: true
 ---
 

@@ -4,7 +4,7 @@ title: "What Are Sellable Ways to Package up (my) Skills as Services?"
 categories: jtbd
 tags: consulting
 author: Pascal Laliberté
-image: 2019-08-16-sellable-ways-to-package-skills-as-services.jpg
+image: /assets/images/posts/2019-08-16-sellable-ways-to-package-skills-as-services.jpg
 ---
 
 You're pretty good at what you do, you've been taking freelance or consulting contracts (or you're starting that up), and the word-of-mouth keeps getting you the same kind of clients. But you want _better_ clients, and you want referrals that highlight **something new you're specializing in**.

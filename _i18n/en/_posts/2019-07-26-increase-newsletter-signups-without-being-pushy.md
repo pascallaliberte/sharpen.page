@@ -4,7 +4,7 @@ title: "How to Increase Newsletter Signups without Being Pushy?"
 categories: jtbd optimize
 tags: consulting
 author: Pascal Laliberté
-image: 2019-07-26-increase-newsletter-signups-without-being-pushy.jpg
+image: /assets/images/posts/2019-07-26-increase-newsletter-signups-without-being-pushy.jpg
 ---
 
 From this point forward, you don't want to have pop-ups. You don't want to try to juice every visistor to sign up to your newsletter. You don't want pushy tactics. You're not going down that road.

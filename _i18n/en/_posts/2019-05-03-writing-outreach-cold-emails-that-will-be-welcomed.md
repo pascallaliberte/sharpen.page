@@ -4,7 +4,7 @@ title: "Writing Outreach (Cold) Emails That Will Be Welcomed"
 categories: jtbd copywriting
 author: Pascal Laliberté
 tags: consulting
-image: 2019-05-03-writing-outreach-cold-emails-that-will-be-welcomed.jpg
+image: /assets/images/posts/2019-05-03-writing-outreach-cold-emails-that-will-be-welcomed.jpg
 ---
 
 In last week's article, we [covered the basics of writing outreach (cold) email][the-basics]. It covered how to make your cold email stand out from spam, and how you need to re-write the email to be you-focused (reader-focused).

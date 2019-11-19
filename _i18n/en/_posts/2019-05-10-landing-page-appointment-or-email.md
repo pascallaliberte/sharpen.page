@@ -4,7 +4,7 @@ title: "For My Landing Page Call to Action: Appointment or Email?"
 categories: jtbd copywriting
 tags: consulting
 author: Pascal Laliberté
-image: 2019-05-10-landing-page-appointment-or-email.jpg
+image: /assets/images/posts/2019-05-10-landing-page-appointment-or-email.jpg
 ---
 
 From [this thread on r/Entrepreneur, a consultant for small businesses asks][thread] if it's better to use a **link to schedule an appointment or an email form**, to allow visitors to contact him:

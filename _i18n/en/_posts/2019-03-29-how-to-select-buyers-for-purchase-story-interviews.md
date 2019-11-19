@@ -4,7 +4,7 @@ title: "How to Select Buyers for Purchase Story Interviews"
 categories: jtbd
 tags: purchase-interview
 author: Pascal Laliberté
-image: 2019-03-29-how-to-select-buyers-for-purchase-story-interviews.jpg
+image: /assets/images/posts/2019-03-29-how-to-select-buyers-for-purchase-story-interviews.jpg
 ---
 
 We've previously covered the benefits of interviewing your buyers for their [purchase stories][timeline-diagram]. They're useful when you're wondering what _caused_ your customers to go out and seek out your product for a [job they have to get done][jtbd-intro]. To get those details out, the interview format [asks questions to recall in vivid detail the circumstances leading up to the purchase][questions-to-ask].

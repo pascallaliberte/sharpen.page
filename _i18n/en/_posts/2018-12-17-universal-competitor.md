@@ -3,7 +3,7 @@ layout: post
 title: The Number One Competitor of Your Product
 categories: JTBD
 author: Pascal Laliberté
-image: 2018-12-06-forces-of-progress-in-purchase-decision.jpg
+image: /assets/images/posts/2018-12-06-forces-of-progress-in-purchase-decision.jpg
 ---
 
 There's a universal competitor that every product is competing with. Every service competes against this competitor too.
