@@ -12,7 +12,7 @@ You've done the effort of putting together some [packaged service offerings][pac
 
 [package-skills]: {% post_url 2019-08-16-sellable-ways-to-package-skills-as-services %}
 
-Your already sold on the idea. It's a great way for your visitors to understand what you do, and how to best work with you.
+You're already sold on the idea. It's a great way for your visitors to understand what you do, and how to best work with you.
 
 But you feel you went half-way with your "productized" services.
 
