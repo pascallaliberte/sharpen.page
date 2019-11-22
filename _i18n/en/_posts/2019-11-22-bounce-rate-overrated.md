@@ -8,7 +8,7 @@ image: /assets/images/posts/2019-11-22-bounce-rate-overrated.jpg
 published: true
 ---
 
-We've been advocating for a [new kind of sales page][pain-dream-fix], here on sharpen.page:
+I've been advocating for a [new kind of sales page][pain-dream-fix], here on sharpen.page:
 
 1. [Start the page by describing the struggle][struggle], so your visitor says "I feel understood!";
 1. Use your knowledge of the [Four Forces of Progress][four-forces], including the <mark>Struggle of the Moment</mark> force, to craft a sales page that will help the visitor through their deliberation to go forward;
