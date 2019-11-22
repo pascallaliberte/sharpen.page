@@ -34,7 +34,7 @@ I've been advocating for a [new kind of sales page][pain-dream-fix], here on sha
 
 So if this would be moving you away from familiar features-first product pages, or these-are-all-the-services-I-offer freelancing pages, **you're likely asking yourself the question**:
 
-> "But what will this do to my bounce rate? I get the feeling I'll get fewer visitors sticking on my site with a page like this. **I'll be pushing more people away**..."
+> But what will this do to my bounce rate? I get the feeling I'll get fewer visitors sticking on my site with a page like this. **I'll be pushing more people away**...
 
 ## Your Bounce Rate Will Get Worse
 
