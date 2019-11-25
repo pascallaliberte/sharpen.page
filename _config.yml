@@ -50,6 +50,7 @@ destination: public
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-json-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   # - octopress-minify-html

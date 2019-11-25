@@ -31,6 +31,8 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.11.0)
       jekyll (~> 3.3)
+    jekyll-json-feed (1.0.0)
+      jekyll (~> 3.3)
     jekyll-multiple-languages-plugin (1.6.0)
       jekyll (>= 2.0, < 4.0)
     jekyll-sass-converter (1.5.2)
@@ -74,6 +76,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (>= 3.6.3)
   jekyll-feed (~> 0.6)
+  jekyll-json-feed
   jekyll-multiple-languages-plugin
   jekyll-seo-tag
   jekyll-sitemap
