@@ -2,6 +2,7 @@
 layout: post
 title: "An Example Of An Unconventional Landing Page"
 categories: jtbd copywriting
+tags: example-page
 author: Pascal Laliberté
 image: /assets/images/posts/2019-06-28-an-example-unconventional-landing-page.jpg
 ---
