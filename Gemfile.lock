@@ -33,8 +33,6 @@ GEM
       jekyll (~> 3.3)
     jekyll-json-feed (1.0.0)
       jekyll (~> 3.3)
-    jekyll-multiple-languages-plugin (1.6.0)
-      jekyll (>= 2.0, < 4.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.5.0)
@@ -77,7 +75,6 @@ DEPENDENCIES
   jekyll (>= 3.6.3)
   jekyll-feed (~> 0.6)
   jekyll-json-feed
-  jekyll-multiple-languages-plugin
   jekyll-seo-tag
   jekyll-sitemap
   tzinfo-data

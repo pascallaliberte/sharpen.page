@@ -29,8 +29,6 @@ defaults:
         height: 400
         width: 400
 
-languages: ["en"]
-
 permalink: /:categories/:title/
 
 ampdir: amp
@@ -53,9 +51,6 @@ plugins:
   - jekyll-json-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  # - octopress-minify-html
-  - jekyll-multiple-languages-plugin
-  # - amp-jekyll
 
 include:
   - _redirects
