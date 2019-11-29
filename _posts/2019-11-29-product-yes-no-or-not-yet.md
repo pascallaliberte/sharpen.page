@@ -8,7 +8,7 @@ image: /assets/images/posts/2019-11-29-product-yes-no-or-not-yet.jpg
 published: true
 ---
 
-This week, [IndieHackers user _lasargnia_ asked for feedback][thread] on his product's landing page: [colorways.club](https://colorways.club/). It's a subscription service to receive clothing recommendations for men via text messages. You pay a monthly subscription, and you get two outfits recommendations per week, with links to buy the items.
+This week, [IndieHackers user _lasargnia_ asked for feedback][thread] on his product's landing page: [colorways.club](https://colorways.club/). It's a subscription service to receive clothing recommendations for men via text messages. You pay a monthly subscription, and you get two outfit recommendations per week, with links to buy the items.
 
 [thread]: https://www.indiehackers.com/post/landing-page-feedback-a91f62e148
 [site]: (https://colorways.club/)
