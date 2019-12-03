@@ -28,6 +28,10 @@ defaults:
         path: /assets/images/a-product-sharpening-service.jpg
         height: 400
         width: 400
+  - scope:
+      path: "secret/*"
+    values:
+      sitemap: false
 
 permalink: /:categories/:title/
 
