@@ -94,6 +94,8 @@ Now, people get to Intercom's page with that mindset firmly established, **and I
 
 Whether your thing is a product, a service offering or a [newsletter][newsletter], a _Struggle-First_ page will help catch the people visiting your site, make then say "I feel understood!", and will help with the word of mouth too.
 
+Oh, and speaking of word of mouth: if you're in a crowded space, and everyone else is using a _Features and Benefits_ page... **well a Struggle-First page will set you apart**.
+
 [newsletter]: {% post_url 2019-07-26-increase-newsletter-signups-without-being-pushy %}
 
 Look below for some past articles to dig deeper or look out for more articles on this topic soon.
