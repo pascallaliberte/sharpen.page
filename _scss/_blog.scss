@@ -669,6 +669,23 @@
       margin: 0;
     }
     
+    &.two-up {
+      @include clearfix;
+      
+      @media (min-width: $reference-width-xs-until) {
+        .left {
+          float: left;
+          width: 49.5%;
+        }
+        .right {
+          clear: none;
+          float: right;
+          width: 49.5%;
+          margin-left: 1%;
+        }
+      }
+    }
+    
     @media (min-width: $reference-width-xs-until) {
       margin-left: rem(-100px);
       margin-right: rem(-120px);
