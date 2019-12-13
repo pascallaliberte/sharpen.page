@@ -31,7 +31,7 @@ So that's the _convention_.
 
 As an example of an unconventional landing page, let's look at the [design of clean-ruby.com][example], which sells a book that addresses the following struggle:
 
-[example]: (http://www.clean-ruby.com)
+[example]: http://www.clean-ruby.com
 
 ![Top of clean-ruby.com, showing the struggle it helps solve: complicated code is frustrating to work with](/assets/images/posts/2019-06-28-an-example-unconventional-landing-page-02.jpg)
 {: .img-zoom }
