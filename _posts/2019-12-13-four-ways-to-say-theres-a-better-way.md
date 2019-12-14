@@ -28,7 +28,7 @@ Imagine your visitor feeling understood, and right away being presented with a p
 
 Here are four ways taken **from the wild** which show a way forward without talking about the solution _per se_.
 
-## The "Instead of/You'll have" and "Before and After" Patterns
+## 1. The "Instead of/You'll have" and "Before and After" Patterns
 
 This is a classic visual technique. It juxtaposes the struggling situation besides a future, better situation. **This creates contrast**, and is effective at making your point.
 
@@ -51,7 +51,7 @@ And here's an example of "Before and After" using just text, from the current ba
 ![Current Basecamp home page, using Before and After with just text](/assets/images/posts/2019-12-13-four-ways-to-say-theres-a-better-way-02.jpg)
 {: .img-zoom }
 
-## "Deserve"
+## 2. "Deserve"
 
 A few articles ago, we looked at the landing page of [applicationemail.com from Garrett Dimon][applicationemail].
 
@@ -62,7 +62,7 @@ Here, Garrett uses the "Deserve" word to transport the visitor to a new possibil
 ![Garrett Dimon's applicationemail.com uses You and your customers deserve…](/assets/images/posts/2019-12-13-four-ways-to-say-theres-a-better-way-03.jpg)
 {: .img-zoom }
 
-## "Wouldn't It Be Much Better If..."
+## 3. "Wouldn't It Be Much Better If..."
 
 In the article [An Example Of An Unconventional Landing Page][ebook-landing-page], we saw how the Struggle-First page layout works well to sell an ebook.
 
@@ -73,7 +73,7 @@ Nestled into the copy, we see this dream pattern in the form of "Wouldn't it be 
 ![Jim Gay's clean-ruby.com uses Wouldn't it much better if?](/assets/images/posts/2019-12-13-four-ways-to-say-theres-a-better-way-04.jpg)
 {: .img-zoom }
 
-## "What If?"
+## 4. "What If?"
 
 And lastly, here's an example from [Meg Cumby's service offering page][meg].
 
@@ -100,14 +100,16 @@ These approaches take the visitor out of their day-to-day, and transports them w
 
 Want a few more ways to write the _Dream_?
 
-* "Imagine if"
-* "Let's Pretend We're in the Future"
-* "It Doesn't Have to Be This Way"
-* "Here's a Different Scenario"
+{:start="5"}
+5. "Imagine if"
+6. "Let's Pretend We're in the Future"
+7. "It Doesn't Have to Be This Way"
+8. "Here's a Different Scenario"
 
 Or, simply:
 
-* "There's a Better Way"
+{:start="9"}
+9. "There's a Better Way"
 
 Stay Sharp!
 
