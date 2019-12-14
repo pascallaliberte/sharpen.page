@@ -2,10 +2,13 @@
 layout: post
 title: "Yeah but Apple and Intercom Design Their Pages Using Features and Benefits"
 categories: jtbd copywriting
-tags: example-page
+tags: showcase
 author: Pascal Laliberté
 image: /assets/images/posts/2019-12-06-yeah-but-apple-intercom-have-features-benefits-pages.jpg
 published: true
+showcased:
+  - apple.com
+  - intercom.com
 ---
 
 **I've been taking a hard stance against the _Features and Benefits_** style of landing page design, which:

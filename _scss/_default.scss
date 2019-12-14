@@ -8,11 +8,12 @@ $container-padding: rem(15px);
 $color-primary: #605aa4;
 $color-secondary: #393561;
 $color-tertiary: #c16cab;
+$color-quaternary: #d2dc00;
 $color-grey: #5b5b5b;
 $text-color: $color-primary;
 $link-color: $color-tertiary;
 $link-underline-color: transparentize($color-tertiary, 0.7);
-$color-highlight: transparentize(#d2dc00, 0.4);
+$color-highlight: transparentize($color-quaternary, 0.4);
 $color-success: #639403;
 $color-error: #611802;
 

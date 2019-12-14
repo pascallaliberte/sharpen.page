@@ -172,6 +172,27 @@
         transform: scale(1.1);
       }
     }
+    
+    .post__showcasing {
+      display: none;
+      position: relative;
+      margin-left: rem(8px);
+      top: rem(-1px);
+      clear: left;
+      z-index: 10;
+      font-size: rem(18px);
+      font-family: $tertiary-font-family;
+      color: white;
+      font-weight: normal;
+      padding: rem(4px 8px);
+      text-transform: lowercase;
+      text-shadow: none;
+      background: mix($color-quaternary, $color-grey, 95%);
+    }
+    
+    &.highlight .post__showcasing {
+      display: inline-block;
+    }
   }
 }
 

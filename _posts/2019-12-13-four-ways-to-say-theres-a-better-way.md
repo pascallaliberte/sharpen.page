@@ -2,10 +2,16 @@
 layout: post
 title: "Four Ways to Tell Your Visitors 'There's a Better Way'"
 categories: jtbd copywriting
-tags: example-page
+tags: showcase
 author: Pascal Laliberté
 image: /assets/images/posts/2019-12-13-four-ways-to-say-theres-a-better-way.jpg
 published: true
+showcased:
+  - basecamp.com
+  - intercom.io
+  - applicationemail.com
+  - clean-ruby.com
+  - megcumby.com
 ---
 
 You've found ways to communicate to your visitor that [you understand their hard struggle][struggle]. You start off your landing page with [a minimum of evidence to demonstrate that you do][minimum-struggle] so that your visitor can quickly say ["I feel seen!"][cferdinandi-tweet]

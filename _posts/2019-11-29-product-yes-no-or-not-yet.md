@@ -2,10 +2,12 @@
 layout: post
 title: Is Your Product a 'Yes', a 'No', or a 'Not Yet'?
 categories: jtbd
-tags: example-page
+tags: showcase
 author: Pascal Laliberté
 image: /assets/images/posts/2019-11-29-product-yes-no-or-not-yet.jpg
 published: true
+showcased:
+  - colorways.club
 ---
 
 This week, [IndieHackers user _lasargnia_ asked for feedback][thread] on his product's landing page: [colorways.club](https://colorways.club/). It's a subscription service to receive clothing recommendations for men via text messages. You pay a monthly subscription, and you get two outfit recommendations per week, with links to buy the items.

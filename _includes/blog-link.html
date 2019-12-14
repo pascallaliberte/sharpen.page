@@ -1,5 +1,19 @@
 <div class="post__title">
   <a class="blog__link" href="{{ post.url | relative_url }}" data-target="articles-list.article" data-categories="{{ post.categories | join:' ' | downcase }} {{ post.tags | join:' ' | downcase }}">
     <span class="post__title__decoration">{{ post.title | escape }}</span>
+    {% unless post.showcased.size == 1 and post.title contains post.showcased[0] %}
+      {% if post.showcased and post.showcased.size > 0 %}
+      <span class="post__showcasing">
+        Showcasing:
+        {% if post.showcased.size == 1 %}
+          {{ post.showcased[0] }}
+        {% elsif post.showcased.size == 2 %}
+          {{ post.showcased[0] }}, {{ post.showcased[1] }}
+        {% else %}
+          {{ post.showcased[0] }} + {{ post.showcased.size - 1 }} more
+        {% endif %}
+      </span>
+      {% endif %}
+    {% endunless %}
   </a>
 </div>

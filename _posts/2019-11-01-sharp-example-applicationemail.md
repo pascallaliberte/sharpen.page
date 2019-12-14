@@ -2,10 +2,12 @@
 layout: post
 title: "Sharp Example: applicationemail.com"
 categories: jtbd copywriting
-tags: consulting example-page
+tags: consulting showcase
 author: Pascal Laliberté
 image: /assets/images/posts/2019-11-01-sharp-example-applicationemail.jpg
 published: true
+showcased:
+  - applicationemail.com
 ---
 
 So here's a great example of a sharp pitch page: [applicationemail.com](https://applicationemail.com)
