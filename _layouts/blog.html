@@ -10,7 +10,7 @@ class: blog
   
   <p>New articles every Friday. <a href="#be-notified">Be notified</a> when new ones are out.</p>
   
-  <ol reversed start="{{ site.posts.size }}" style="margin-top: 1.5em;">
+  <ol reversed start="{{ site.posts.size }}" style="margin-top: 1.5em;" class="post-list">
   {% for post in site.posts limit:5 %}
   <li>
     {% include blog-link.html post="post" %}
@@ -20,7 +20,7 @@ class: blog
   
   {% include blog-articles-filter.html %}
   
-  <ol reversed start="{{ site.posts.size | minus:5 }}">
+  <ol reversed start="{{ site.posts.size | minus:5 }}" class="post-list">
   {% for post in site.posts offset:5 %}
   <li>
     {% include blog-link.html post="post" %}
