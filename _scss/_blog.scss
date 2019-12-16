@@ -723,13 +723,13 @@
         clear: left;
         z-index: 10;
         font-size: rem(18px);
-        font-family: $tertiary-font-family;
-        color: white;
+        font-family: $primary-font-family;
+        color: black;
         font-weight: normal;
         padding: rem(4px 8px);
         text-transform: lowercase;
         text-shadow: none;
-        background: mix($color-quaternary, $color-grey, 95%);
+        background: #DBE078;
       }
       
       &.highlight .post__showcasing {
