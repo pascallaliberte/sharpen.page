@@ -9,6 +9,17 @@ published: true
 showcased:
   - apple.com
   - intercom.com
+related_posts:
+  - 2019-06-28-an-example-unconventional-landing-page
+  - 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort
+  - 2019-05-24-wasting-time-going-after-idea-with-competitors
+  - 2019-11-08-pain-dream-fix-and-jtbd
+  - 2019-11-01-sharp-example-applicationemail
+  - 2019-08-30-just-lucky-or-idea-solid
+  - 2019-11-22-bounce-rate-overrated
+  - 2019-09-06-hard-struggle-required
+  - 2019-06-20-i-dont-know-if-my-page-is-good
+  - 2019-08-23-how-to-know-if-built-too-much-product-overserving
 ---
 
 **I've been taking a hard stance against the _Features and Benefits_** style of landing page design, which:
@@ -104,16 +115,3 @@ Oh, and speaking of word of mouth: if you're in a crowded space, and everyone el
 Look below for some past articles to dig deeper or look out for more articles on this topic soon.
 
 Stay Sharp!
-
-Related Articles: 
-
-* Article: [An Example Of An Unconventional Landing Page]({% post_url 2019-06-28-an-example-unconventional-landing-page %})
-* Article: [How Can I Improve The Design Of This Landing Page Without Too Much Effort?]({% post_url 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort %})
-* Article: [Would I Be Wasting My Time Going After An Idea With Competitors?]({% post_url 2019-05-24-wasting-time-going-after-idea-with-competitors %})
-* Article: [How Does the Pain-Dream-Fix Page Structure Fit with Jobs-To-Be-Done?]({% post_url 2019-11-08-pain-dream-fix-and-jtbd %})
-* Article: [Sharp Example: applicationemail.com]({% post_url 2019-11-01-sharp-example-applicationemail %})
-* Article: [Was I Just Lucky or Is My Idea Solid?]({% post_url 2019-08-30-just-lucky-or-idea-solid %})
-* Article: [But How Will This Affect My Bounce Rate?]({% post_url 2019-11-22-bounce-rate-overrated %})
-* Article: [Do I Need to Address a Hard Struggle?]({% post_url 2019-09-06-hard-struggle-required %})
-* Article: [I Don't Know If My Page Is Any Good]({% post_url 2019-06-20-i-dont-know-if-my-page-is-good %})
-* Article: [How Do I Know I've Built Too Much Product?]({% post_url 2019-08-23-how-to-know-if-built-too-much-product-overserving %})

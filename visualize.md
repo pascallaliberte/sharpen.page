@@ -2,6 +2,24 @@
 permalink: visualize/
 layout: service
 title: Visualize - Let's have a call
+articles_on_solo_practice:
+  - 2019-09-06-hard-struggle-required
+  - 2019-08-16-sellable-ways-to-package-skills-as-services
+  - 2019-09-13-pitching-an-edgy-consulting-engagement
+  - 2019-05-10-landing-page-appointment-or-email
+articles_on_sharp_intro:
+  - 2019-08-09-get-better-consulting-clients-without-being-too-sales-y  
+  - 2019-09-27-rewriting-mental-models-about-introducing-yourself-as-freelancer
+articles_on_info_product:
+  - 2019-08-02-increase-ebook-sales-without-buy-now-popups
+  - 2018-12-17-universal-competitor
+articles_on_product_marketing:
+  - 2019-04-18-five-ways-to-tweak-product-page-to-convert
+  - 2019-06-28-an-example-unconventional-landing-page
+articles_on_optimizing:
+  - 2019-03-08-interview-questions-to-ask
+  - 2019-07-05-how-much-traffic-needed-to-start-ab-testing
+  - 2019-07-12-ab-testing-how-to-prove-version-b-better
 ---
 
 <div class="pitch-lead-up" markdown="1">
@@ -72,39 +90,31 @@ But right now, you feel that the **clock is ticking**. You're starting to get so
 
 Now's the time to figure out what's next and to invest in honing your specialty before you start spreading the word. Maybe you'll say you do (insert result) for (insert audience). Or maybe you'll focus on communicating the skills you bring. But if you've got the time to do the extra work, it'll pay off to figure out the _struggling moments_ of the people you want to help.
 
-* Article: [Do I Need to Address a Hard Struggle?]({% post_url 2019-09-06-hard-struggle-required %})
-* Article: [What Are Sellable Ways to Package up (my) Skills as Services?]({% post_url 2019-08-16-sellable-ways-to-package-skills-as-services %})
-* Article: [How Can I Pitch a Bolder, More Edgy Consulting Engagement?]({% post_url 2019-09-13-pitching-an-edgy-consulting-engagement %})
-* Article: [For My Landing Page Call to Action: Appointment or Email?]({% post_url 2019-05-10-landing-page-appointment-or-email %})
+  {% include adhoc-post-list.html post_ids=page.articles_on_solo_practice %}
 
 ### You've Made A Few Introductions Where <mark>You Didn't Sound Sharp Enough</mark>
 
 As you're switching to a new way of introducing what you do, you've had a couple chances to test your explanation, and it hasn't come out quite right. You'd say it came out a little clumsy. Maybe it's because you felt you needed to be sales-y, and that didn't sit well with you.
 
-* Article: [How to Get Better Consulting Clients without Being Too Sales-y]({% post_url 2019-08-09-get-better-consulting-clients-without-being-too-sales-y %})  
-* Article: [Rewriting Common Mental Models About Introducing Yourself as a Freelancer]({% post_url 2019-09-27-rewriting-mental-models-about-introducing-yourself-as-freelancer %})
+  {% include adhoc-post-list.html post_ids=page.articles_on_sharp_intro %}
 
 ### You're Thinking of <mark>Putting Together an Informational Product</mark>
 
 You're thinking of putting together a course or an email sequence, an ebook or a guide. And you know you could help a general audience with some general information. But you know it'd be better to target some specific struggles with your informational product, so that it's sharply created to be a more accessible option for your audience than to contact you outright. You want that informational product to compete against contacting you, not against everything else that's on the market.
 
-* Article: [How to Increase Ebook Sales without ‘Buy Now’ Pop-ups?]({% post_url 2019-08-02-increase-ebook-sales-without-buy-now-popups %})
-* Article: [The Number One Competitor of Your Product]({% post_url 2018-12-17-universal-competitor %})
+  {% include adhoc-post-list.html post_ids=page.articles_on_info_product %}
 
 ### You've Already Got a Product, and You Know <mark>Your Marketing Page Doesn't Do It Justice</mark>
 
 You're convinced. You understand the merit of communicating to the visitor that your product addresses their specific struggle right at the top of the page. As a result, you'd like to rewrite that whole page now. Instead of focusing on features and benefits, you want to communicate you understand their pain. You want your page to stop begging for a purchase, and instead focus on helping your visitor make progress -- even if that means encouraging them to learn to do it themselves instead.
 
-* Article: [Five Ways to Rejig a Product Page When It Doesn't Lead To Enough Sales]({% post_url 2019-04-18-five-ways-to-tweak-product-page-to-convert %})
-* Article: [An Example Of An Unconventional Landing Page]({% post_url 2019-06-28-an-example-unconventional-landing-page %})
+  {% include adhoc-post-list.html post_ids=page.articles_on_product_marketing %}
 
 ### You've Got Plenty of Sales with Your Product, <mark>but Could be Getting More</mark>...
 
 You've got sales, and you've got traffic! And so it's time to start testing some new versions of your marketing pages, to see if you can increase sales, and your ability to help the buyers make progress. So it's time to interview your buyers, and start doing A/B testing.
 
-* Article: [What Questions Should I Ask During a Buyer Interview?]({% post_url 2019-03-08-interview-questions-to-ask %})
-* Article: [How Much Traffic Do I Need To Start Doing A/B Testing?]({% post_url 2019-07-05-how-much-traffic-needed-to-start-ab-testing %})
-* Article: [How Can I Prove That My Version B Will Be Better?]({% post_url 2019-07-12-ab-testing-how-to-prove-version-b-better %})
+  {% include adhoc-post-list.html post_ids=page.articles_on_optimizing %}
 
 ### You've Hit a Snag with Your Product. <mark>You Thought You Knew, But No Longer Do...</mark>
 

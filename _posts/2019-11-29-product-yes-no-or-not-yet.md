@@ -8,6 +8,11 @@ image: /assets/images/posts/2019-11-29-product-yes-no-or-not-yet.jpg
 published: true
 showcased:
   - colorways.club
+related_posts:
+  - 2019-08-30-just-lucky-or-idea-solid
+  - 2019-11-22-bounce-rate-overrated
+  - 2019-09-06-hard-struggle-required
+  - 2019-06-20-i-dont-know-if-my-page-is-good
 ---
 
 This week, [IndieHackers user _lasargnia_ asked for feedback][thread] on his product's landing page: [colorways.club](https://colorways.club/). It's a subscription service to receive clothing recommendations for men via text messages. You pay a monthly subscription, and you get two outfit recommendations per week, with links to buy the items.
@@ -138,10 +143,3 @@ It's worth sticking it out, being patient, and being [confident][confidence] abo
 [confidence]: {% post_url 2019-04-04-product-ready-to-launch %}
 
 Stay Sharp!
-
-Related articles:
-
-* Article: [Was I Just Lucky or Is My Idea Solid?]({% post_url 2019-08-30-just-lucky-or-idea-solid %})
-* Article: [But How Will This Affect My Bounce Rate?]({% post_url 2019-11-22-bounce-rate-overrated %})
-* Article: [Do I Need to Address a Hard Struggle?]({% post_url 2019-09-06-hard-struggle-required %})
-* Article: [I Don't Know If My Page Is Any Good]({% post_url 2019-06-20-i-dont-know-if-my-page-is-good %})

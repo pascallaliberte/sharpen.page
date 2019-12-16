@@ -1,0 +1,12 @@
+{% if include.post_ids and include.post_ids.size %}
+<ul class="post-list">
+{% for post_id in include.post_ids -%}
+  {%- assign slug = post_id | slice: 11, post_id.size -%}
+  {%- assign post = site.posts | where:"slug", slug -%}
+  {%- assign post = post[0] -%}
+  <li>
+    {% include blog-link.html post=post %}
+  </li>
+{% endfor %}
+</ul>
+{% endif %}

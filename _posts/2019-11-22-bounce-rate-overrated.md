@@ -6,6 +6,14 @@ tags: optimize
 author: Pascal Laliberté
 image: /assets/images/posts/2019-11-22-bounce-rate-overrated.jpg
 published: true
+related_posts:
+  - 2019-08-30-just-lucky-or-idea-solid
+  - 2019-09-20-focus-on-just-one-struggle
+  - 2019-08-16-sellable-ways-to-package-skills-as-services
+  - 2019-07-12-ab-testing-how-to-prove-version-b-better
+read_first:
+  - 2019-06-28-an-example-unconventional-landing-page
+  - 2019-11-01-sharp-example-applicationemail
 ---
 
 I've been advocating for a [new kind of sales page][pain-dream-fix], here on sharpen.page:
@@ -29,8 +37,7 @@ I've been advocating for a [new kind of sales page][pain-dream-fix], here on sha
 
 **This approach creates some sharp, unconventional landing pages:**
 
-* Article: [An Example Of An Unconventional Landing Page]({% post_url 2019-06-28-an-example-unconventional-landing-page %})
-* Article: [Sharp Example: applicationemail.com]({% post_url 2019-11-01-sharp-example-applicationemail %})
+{% include adhoc-post-list.html post_ids=page.read_first %}
 
 So if this would be moving you away from familiar features-first product pages, or these-are-all-the-services-I-offer freelancing pages, **you're likely asking yourself the question**:
 
@@ -61,11 +68,4 @@ You'll have gained their trust.
 
 Stay sharp!
 
-**Related articles:**
-
-* Article: [Was I Just Lucky or Is My Idea Solid?]({% post_url 2019-08-30-just-lucky-or-idea-solid %})
-* Article: [Do I Need To Focus On Just One Struggle?]({% post_url 2019-09-20-focus-on-just-one-struggle %})
-* Article: [What Are Sellable Ways to Package up (my) Skills as Services?]({% post_url 2019-08-16-sellable-ways-to-package-skills-as-services %})
-* Article: [How Can I Prove That My Version B Will Be Better?]({% post_url 2019-07-12-ab-testing-how-to-prove-version-b-better %})
-
-_Also be on the lookout for an upcoming article answering the question: "But how come these other companies have product pages highlighting features and benefits? They seem fine."_
+_Be on the lookout for an upcoming article answering the question: "But how come these other companies have product pages highlighting features and benefits? They seem fine."_

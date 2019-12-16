@@ -2,6 +2,18 @@
 permalink: prioritize/
 layout: service
 title: Prioritize - A Research Boost To Focus Your Product Priorities
+articles_on_jtbd:
+  - 2018-11-29-intro-to-jobs-to-be-done-through-examples
+articles_on_four_forces:
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2019-08-30-just-lucky-or-idea-solid
+  - 2019-09-06-hard-struggle-required
+articles_on_competition:
+  - 2018-12-17-universal-competitor
+articles_on_features: 
+  - 2019-02-15-when-a-feature-is-not-a-feature
+articles_on_overserving:
+  - 2019-08-23-how-to-know-if-built-too-much-product-overserving
 ---
 
 <div class="pitch-lead-up" markdown="1">
@@ -106,39 +118,29 @@ This is based on the **Jobs-to-be-done Theory of Buyer Behavior**, pioneered by 
 
 They were experiencing some kind of struggle, and your product came along as a way forward.
 
-* Article: [Introduction to the Jobs-To-Be-Done Theory, Through Three Example Purchases][jtbd-intro]
+  {% include adhoc-post-list.html post_ids=page.articles_on_jtbd %}
 
 ### There Are Forces at Play in the Mind of the Buyer
 
-* Article: [Purchase Decisions: The Four Forces at Play][four-forces]
-* Article: [Was I Just Lucky or Is My Idea Solid?][idea-solid]
-* Article: [Do I Need to Address a Hard Struggle?][struggle]
-
-[idea-solid]: {% post_url 2019-08-30-just-lucky-or-idea-solid %}
-[struggle]: {% post_url 2019-09-06-hard-struggle-required %}
+  {% include adhoc-post-list.html post_ids=page.articles_on_four_forces %}
 
 ### Your Product Is Competing Against Odd Competitors for the Job It Was Hired to Do
 
 And, specifically, it's competing against "non-consumption".
 
-* Article: [The Number One Competitor of Your Product][non-consumption]
-
-[non-consumption]: {% post_url 2018-12-17-universal-competitor %}
-
+  {% include adhoc-post-list.html post_ids=page.articles_on_competition %}
+  
 ### Make Each Feature Support a Job-to-be-done
 
 And avoid, at all costs, the trap of having features creating anxiety for your buyers ("I don't want to have to learn all this").
 
-* Article: [When a Feature Is Not a Feature][feature-anxiety]
+  {% include adhoc-post-list.html post_ids=page.articles_on_features %}
 
 ### Avoid "Overserving"
 
 Which happens when you've built too much product, or your product doesn't really help the job for which buyers hired your product.
 
-* Article: [How Do I Know I've Built Too Much Product?][too-much-product]
-
-[feature-anxiety]: {% post_url 2019-02-15-when-a-feature-is-not-a-feature %}
-[too-much-product]: {% post_url 2019-08-23-how-to-know-if-built-too-much-product-overserving %}
+  {% include adhoc-post-list.html post_ids=page.articles_on_overserving %}
 
 ---
 

@@ -8,6 +8,11 @@ image: /assets/images/posts/2019-11-01-sharp-example-applicationemail.jpg
 published: true
 showcased:
   - applicationemail.com
+related_posts:
+  - 2019-09-06-hard-struggle-required
+  - 2019-05-10-landing-page-appointment-or-email
+  - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
+related_posts_heading: "If You'd Like to Read More About Crafting a Page Like This"
 ---
 
 So here's a great example of a sharp pitch page: [applicationemail.com](https://applicationemail.com)
@@ -121,13 +126,7 @@ This is a really great page. It's without fluff, it's [confidently in a long for
 
 Well done Garrett!
 
-If you'd like to read more about crafting a page like this:
-
-* Article: [Do I Need to Address a Hard Struggle?][struggle]
-* Article: [For My Landing Page Call to Action: Appointment or Email?]({% post_url 2019-05-10-landing-page-appointment-or-email %})
-* Article: [How Long Landing Pages Make Calls-To-Action Work][long-pages]
-
-_And if this approach looks familiar, and you've heard about the [Pain-Dream-Fix format for landing pages made popular by Amy Hoy at Stacking the Bricks][pain-dream-fix], you're onto something: Garrett probably used Pain-Dream-Fix! Check soon for an article on how the Jobs-To-Be-Done Theory and Pain-Dream-Fix format go hand-in-hand._
+_If this approach looks familiar, and you've heard about the [Pain-Dream-Fix format for landing pages made popular by Amy Hoy at Stacking the Bricks][pain-dream-fix], you're onto something: Garrett probably used Pain-Dream-Fix! Check soon for an article on how the Jobs-To-Be-Done Theory and Pain-Dream-Fix format go hand-in-hand._
 
 [pain-dream-fix]: https://stackingthebricks.com/how-i-increased-conversion-2-4x-with-better-copywriting/
 

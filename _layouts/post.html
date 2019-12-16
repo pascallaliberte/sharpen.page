@@ -56,4 +56,16 @@ class: post
   </div>
 </article>
 
+<div class="related-posts">
+  <h2>
+    {%- if page.related_posts_heading -%}
+      {{ page.related_posts_heading }}:
+    {%- else -%}
+      P.S. To learn more, here are a few extra articles:
+    {%- endif -%}
+  </h2>
+
+  {% include adhoc-post-list.html post_ids=page.related_posts %}
+</div>
+
 {% include email-sign-up-form.html context="post" %}

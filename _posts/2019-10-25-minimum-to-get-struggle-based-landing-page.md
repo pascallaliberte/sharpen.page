@@ -6,6 +6,14 @@ tags: consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2019-10-25-minimum-to-get-struggle-based-landing-page.jpg
 published: true
+related_posts:
+  - 2019-04-18-five-ways-to-tweak-product-page-to-convert
+  - 2019-06-28-an-example-unconventional-landing-page
+  - 2019-08-02-increase-ebook-sales-without-buy-now-popups
+  - 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort
+  - 2019-08-30-just-lucky-or-idea-solid
+  - 2019-08-23-how-to-know-if-built-too-much-product-overserving
+  - 2019-05-24-wasting-time-going-after-idea-with-competitors
 ---
 
 You've got a _benefits and features_ page. It communicates the product's proposition: what it offers, how much it costs. To cover all angles, it lists its features and even some options or variants to pick from.
@@ -78,13 +86,3 @@ This will help them get progress, sow trust, and **it will make your product com
 To recap, your new page will start with a headline describing their struggle. It'll then have a few paragraphs showing you understand your visitor's struggle, using _the visitor's own words_ to relate in vivid details what they're ready to leave behind. You'll downplay your features and will instead help your visitor do it themselves, helping your product compete with your other offerings, rather than the other products in your category.
 
 Stay Sharp!
-
-P.S. To read more, here a few extra articles:
-
-* Article: [Five Ways to Rejig a Product Page When It Doesn't Lead To Enough Sales]({% post_url 2019-04-18-five-ways-to-tweak-product-page-to-convert %})
-* Article: [An Example Of An Unconventional Landing Page]({% post_url 2019-06-28-an-example-unconventional-landing-page %})
-* Article: [How to Increase Ebook Sales without ‘Buy Now’ Pop-ups?]({% post_url 2019-08-02-increase-ebook-sales-without-buy-now-popups %})
-* Article: [How Can I Improve The Design Of This Landing Page Without Too Much Effort?]({% post_url 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort %})
-* Article: [Was I Just Lucky or Is My Idea Solid?]({% post_url 2019-08-30-just-lucky-or-idea-solid %})
-* Article: [How Do I Know I've Built Too Much Product?]({% post_url 2019-08-23-how-to-know-if-built-too-much-product-overserving %})
-* Article: [Would I Be Wasting My Time Going After An Idea With Competitors?]({% post_url 2019-05-24-wasting-time-going-after-idea-with-competitors %})

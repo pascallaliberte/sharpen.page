@@ -2,6 +2,26 @@
 title: Hello, IndieHackers
 layout: page
 permalink: hello-indiehackers/
+articles_on_struggle: 
+  - 2019-06-28-an-example-unconventional-landing-page
+  - 2019-11-08-pain-dream-fix-and-jtbd
+  - 2019-06-07-re-writing-headings-that-just-highlight-benefits
+  - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
+articles_on_communicating_struggle:
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2019-09-06-hard-struggle-required
+  - 2019-09-20-focus-on-just-one-struggle
+articles_on_understanding_buyer:
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2019-11-29-product-yes-no-or-not-yet
+  - 2019-08-30-just-lucky-or-idea-solid
+  - 2019-06-20-i-dont-know-if-my-page-is-good
+  - 2019-08-23-how-to-know-if-built-too-much-product-overserving
+  - 2019-05-24-wasting-time-going-after-idea-with-competitors
+articles_on_optimizing_pages:
+  - 2019-04-18-five-ways-to-tweak-product-page-to-convert
+  - 2019-07-12-ab-testing-how-to-prove-version-b-better
+  - 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort
 ---
 
 Hi, I'm Pascal Laliberté. Thanks for following the link from my [IndieHackers][ih-profile] page.
@@ -50,33 +70,21 @@ I've been [writing weekly articles](/articles) on the topic of sharpening produc
 
 Here are some articles you might find useful for sharpening your own product's landing page:
 
-### On the Particular Struggle-First Landing Page Design Style I Advocate For
+### On the Particular Struggle-First Landing Page Design Style I Advocate For:
 
-* Article: [An Example Of An Unconventional Landing Page]({% post_url 2019-06-28-an-example-unconventional-landing-page %})
-* Article: [How Does the Pain-Dream-Fix Page Structure Fit with Jobs-To-Be-Done?]({% post_url 2019-11-08-pain-dream-fix-and-jtbd %})
-* Article: [Re-writing Headings That Just Highlight The Benefits]({% post_url 2019-06-07-re-writing-headings-that-just-highlight-benefits %})
-* Article: [How Long Landing Pages Make Calls-To-Action Work]({% post_url 2019-05-17-how-long-landing-pages-make-calls-to-action-work %})
+  {% include adhoc-post-list.html post_ids=page.articles_on_struggle %}
 
-### On Communicating That You Understand the Buyer's Struggle
+### On Communicating That You Understand the Buyer's Struggle:
 
-* Article: [What's the Minimum to Make My Landing Page Communicate I Understand the Struggle?]({% post_url 2019-10-25-minimum-to-get-struggle-based-landing-page %})
-* Article: [Do I Need to Address a Hard Struggle?]({% post_url 2019-09-06-hard-struggle-required %})
-* Article: [Do I Need To Focus On Just One Struggle?]({% post_url 2019-09-20-focus-on-just-one-struggle %})
+  {% include adhoc-post-list.html post_ids=page.articles_on_communicating_struggle %}
 
-### On Understanding the Buyer
+### On Understanding the Buyer:
 
-* Article: [Purchase Decisions: The Four Forces at Play]({% post_url 2018-12-06-forces-of-progress-in-purchase-decision %})
-* Aritlce: [Is Your Product a 'Yes', a 'No', or a 'Not Yet'?]({% post_url 2019-11-29-product-yes-no-or-not-yet %})
-* Article: [Was I Just Lucky or Is My Idea Solid?]({% post_url 2019-08-30-just-lucky-or-idea-solid %})
-* Article: [I Don't Know If My Page Is Any Good]({% post_url 2019-06-20-i-dont-know-if-my-page-is-good %})
-* Article: [How Do I Know I've Built Too Much Product?]({% post_url 2019-08-23-how-to-know-if-built-too-much-product-overserving %})
-* Article: [Would I Be Wasting My Time Going After An Idea With Competitors?]({% post_url 2019-05-24-wasting-time-going-after-idea-with-competitors %})
+  {% include adhoc-post-list.html post_ids=page.articles_on_understanding_buyer %}
 
-### On Optimizing A Landing Page
+### On Optimizing A Landing Page:
 
-* Article: [Five Ways to Rejig a Product Page When It Doesn't Lead To Enough Sales]({% post_url 2019-04-18-five-ways-to-tweak-product-page-to-convert %})
-* Article: [How Can I Prove That My Version B Will Be Better?]({% post_url 2019-07-12-ab-testing-how-to-prove-version-b-better %})
-* Article: [How Can I Improve The Design Of This Landing Page Without Too Much Effort?]({% post_url 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort %})
+  {% include adhoc-post-list.html post_ids=page.articles_on_optimizing_pages %}
 
 Hope those articles can be helpful. To be the first to get new articles, published each Friday, check out the form below to sign up.
 

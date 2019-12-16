@@ -5,16 +5,18 @@ categories: jtbd consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2019-10-11-productize-consulting-call.jpg
 published: true
+pre-reading:
+  - 2019-08-16-sellable-ways-to-package-skills-as-services
+  - 2019-08-09-get-better-consulting-clients-without-being-too-sales-y
+  - 2019-09-06-hard-struggle-required
+  - 2019-05-10-landing-page-appointment-or-email
 ---
 
 Maybe you're in this common scenario: you sell custom services as a consultant and the initial calls are part of the sales process for you. You take them for free, or you take them for a fee, but you'd like to see how you could switch that around: make the consulting call a specific package to buy.
 
 But to start, I'll point to a few articles that we'll build on:
 
-* Article: [What Are Sellable Ways to Package up (my) Skills as Services?]({% post_url 2019-08-16-sellable-ways-to-package-skills-as-services %}) (in which I listed packaking an exploratory call.)
-* Article: [How to Get Better Consulting Clients without Being Too Sales-y]({% post_url 2019-08-09-get-better-consulting-clients-without-being-too-sales-y %}) (in which I advocate to build a value-ladder that helps the visitor make _progress_.)
-* Article: [Do I Need to Address a Hard Struggle?]({% post_url 2019-09-06-hard-struggle-required %})
-* Article: [For My Landing Page Call to Action: Appointment or Email?]({% post_url 2019-05-10-landing-page-appointment-or-email %})
+{% include adhoc-post-list.html post_ids=page.pre-reading %}
 
 ## Make Sure It Addresses a Hard Struggle
 
