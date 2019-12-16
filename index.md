@@ -74,10 +74,10 @@ But it's about some principles that are underused, but work:
 
 1. [**Focus on a hard struggle**][struggle]. Something that's a throbbing thumb, a recurring nuisance, something that seems to get worse;
 1. **A long landing page, although optional**, gives you multiple chances at making your case, using different words, [multiple takes at showing you understand][long-pages], and still helps those who'll freely scroll your page anyway;
-1. [**It's not about being sales-y**, it's about being helpful][forces-freelancer]. People just want to make progress, and get help from someone they can trust;
+1. [**It's not about being sales-y**, it's about being helpful][forces-freelancer]. People just want to make progress, and to get help from someone they can trust;
 1. **Know that you're mostly [in competition with people continuing with their own self-made mish-mash][non-consumption] of habits**, and in your case specifically, you're in competition with them doing it themselves. At some point though, the struggle will get stronger. If you sowed trust, they'll have bookmarked you for later. They'll be back when it's time;
 1. Speaking of competition, **you might as well offer multiple options to your visitor**. Make each option compete against each other, instead of trying to compete with other people. They're on _your_ site. Help them through their own back-and-forth. Help them make a decision. Even if it's to go with your free guide [or for your newsletter][newsletter];
-1. Speaking of newsletter and free stuff, **consider everything you write as mini struggle-solvers**. You'll then be able to weave a web of links between what you write and what you offer. That'll help people vet you, but also, it'll help them learn it themselves. By the time they hire you (or your product) with money, you'll have a common language.
+1. Speaking of newsletters and free stuff, **consider everything you write as mini struggle-solvers**. You'll then be able to weave a web of links between what you write and what you offer. That'll help people vet you, but also, it'll help them learn it themselves. By the time they hire you (or your product) with money, you'll have a common language.
 
 [struggle]: {% post_url 2019-09-06-hard-struggle-required %}
 [long-pages]: {% post_url 2019-05-17-how-long-landing-pages-make-calls-to-action-work %}
