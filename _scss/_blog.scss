@@ -744,3 +744,33 @@
     padding: 0 $container-padding;  
   }
 }
+
+.post-helper {
+  display: none;
+  
+  @media (min-width: $reference-width-md-until) {
+    display: block;
+  }
+  
+  position: absolute;
+  top: rem(-80px);
+  right: 0;
+  
+  input[type="text"] {
+    width: rem(300px);
+    font-size: rem(14px);
+    color: #999;
+    padding: rem(5px 10px);
+    border: none;
+    font-family: $primary-font-family;
+  }
+  button {
+    font-size: rem(14px);
+    padding: rem(5px 10px);
+    border: none;
+    color: white;
+    background: mix($color-secondary, $color-grey);
+    font-family: $primary-font-family;
+    cursor: pointer;
+  }
+}
