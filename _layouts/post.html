@@ -56,6 +56,7 @@ class: post
   </div>
 </article>
 
+{% if page.related_posts %}
 <div class="related-posts">
   <h2>
     {%- if page.related_posts_heading -%}
@@ -67,5 +68,6 @@ class: post
 
   {% include adhoc-post-list.html post_ids=page.related_posts %}
 </div>
+{% endif %}
 
 {% include email-sign-up-form.html context="post" %}
