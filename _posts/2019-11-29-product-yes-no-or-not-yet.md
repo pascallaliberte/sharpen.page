@@ -2,7 +2,7 @@
 layout: post
 title: Is Your Product a 'Yes', a 'No', or a 'Not Yet'?
 categories: jtbd
-tags: showcase
+tags: showcase jtbd-basics
 author: Pascal Laliberté
 image: /assets/images/posts/2019-11-29-product-yes-no-or-not-yet.jpg
 published: true

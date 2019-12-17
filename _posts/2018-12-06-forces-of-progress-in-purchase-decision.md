@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Purchase Decisions: The Four Forces at Play"
-categories: JTBD
+categories: jtbd
+tags: jtbd-basics
 author: Pascal Laliberté
 image: /assets/images/posts/2018-12-06-forces-of-progress-in-purchase-decision.jpg
 ---

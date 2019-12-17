@@ -2,7 +2,7 @@
 layout: post
 title: "What Questions Should I Ask During a Buyer Interview?"
 categories: jtbd
-tags: purchase-interview
+tags: purchase-interview jtbd-basics
 author: Pascal Laliberté
 image: /assets/images/posts/2019-03-08-interview-questions-to-ask.jpg
 ---

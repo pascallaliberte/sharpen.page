@@ -8,6 +8,9 @@
 -
   value: showcase
   name: Example Sites
+-
+  value: jtbd-basics
+  name: Jobs-To-Be-Done Basics
 - 
   value: consulting
   name: Consulting, Freelancing

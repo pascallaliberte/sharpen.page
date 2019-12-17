@@ -2,7 +2,7 @@
 layout: post
 title: "Digging the Purchase Story for Gold"
 categories: jtbd
-tags: purchase-interview
+tags: purchase-interview jtbd-basics
 author: Pascal Laliberté
 image: /assets/images/posts/2019-02-08-digging-purchase-story-for-gold.jpg
 ---

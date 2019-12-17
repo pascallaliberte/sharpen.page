@@ -3,7 +3,7 @@ layout: post
 title: Do I Need to Address a Hard Struggle?
 categories: jtbd
 author: Pascal Laliberté
-tags: consulting
+tags: consulting jtbd-basics
 image: /assets/images/posts/2019-09-06-hard-struggle-required.jpg
 published: true
 ---
