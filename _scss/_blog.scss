@@ -731,12 +731,12 @@
         text-shadow: none;
         background: #DBE078;
       }
-      
-      &.highlight .post__showcasing {
-        display: inline-block;
-      }
     }
   }
+}
+
+[data-filter-topic="showcase"] .blog__link.highlight[data-categories*="showcase"] .post__showcasing {
+  display: inline-block;
 }
 
 .post {

@@ -6,6 +6,8 @@ export default class extends Controller {
   highlightFilteredArticles(event) {
     const topic = event.target.value || event.detail.value
     
+    this.element.dataset.filterTopic = topic
+    
     this.articleTargets.forEach(articleTarget => {
       if (topic === 'all') {
         articleTarget.classList.remove('fade')
