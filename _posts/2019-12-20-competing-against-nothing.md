@@ -74,7 +74,7 @@ That's what competing against "nothing" is about.
 
 ---
 
-Most products have this universal competitor. It's what commonly called [non-consumption][non-consumption].
+All products have this _universal_ competitor: it's called [non-consumption][non-consumption].
 
 [non-consumption]: {% post_url 2018-12-17-universal-competitor %}
 
