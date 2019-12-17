@@ -45,7 +45,7 @@ Here's how I can help:
 
 ## <small>Option #1</small><br>Public Review
 
-If you have post in [#landing-page-feedback on IndieHackers][ih-landing-page-feedback], please [send me a link to your post](mailto:pascal@pascallaliberte.me?Landing+Page+Feedback). If I think I can help, I'll be glad to leave a public comment.
+If you have a post in [#landing-page-feedback on IndieHackers][ih-landing-page-feedback], please [send me a link to your post](mailto:pascal@pascallaliberte.me?Landing+Page+Feedback). If I think I can help, I'll be glad to leave a public comment.
 
 **If you've got the original .sketch or .xd file** of the design, I could record a screencast of some changes I'd propose making and share that on YouTube. I'd be up for that if you're game.
 
