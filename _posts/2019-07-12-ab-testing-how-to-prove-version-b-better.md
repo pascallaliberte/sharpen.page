@@ -42,7 +42,7 @@ _Measuring_ significance is about _ruling out_ other factors much more than it i
 To get a p-value of 0.05 (or lower, of course, the lower the better), you need to run the math. And that math takes into account the three factors in this way:
 
 1. Increases in the **number of visits (sample size)** reduces the p-value (gives you more confidence there's a significant difference);
-2. A lower percentage for **how well your version A is doing (baselines conversion rate)** increases the p-value (adding uncertainty, because there are too few conversions to make our calculations from);
+2. A lower percentage for **how well your version A is doing (baseline conversion rate)** increases the p-value (adding uncertainty, because there are too few conversions to make our calculations from);
 3. Increases in **how well you think you can improve it (percentage improvement)** reduces the p-value (your improvement will be easier to demonstrate).
 
 ## Calculating Whether Version B Will Bring A Significant Difference
