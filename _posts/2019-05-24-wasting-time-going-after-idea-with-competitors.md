@@ -27,7 +27,7 @@ Maybe you're like [Tydaljames who writes over on reddit][thread] (emphasis mine)
 * {% include components/icon-anxieties.html %} **Don't waste your time**, because most products fail;
 * {% include components/icon-attraction.html %} _Invest your time_, because your idea's biggest competitor is not other competing products, you're mostly competing against people _choosing to do nothing instead of purchasing something_ ([non-consumption is your biggest competitor][non-consumption]), and so you have a ton of market potential still;
 * {% include components/icon-anxieties.html %} **Don't waste your time**, because your competitor has a head start building tons of features;
-* {% include components/icon-attraction.html %} _Invest your time_, because you could find what make people hesitate to go with a competitor and you can [make your idea better by underdoing your competition][underdo] and creating just the features that matter.
+* {% include components/icon-attraction.html %} _Invest your time_, because you could find what makes people hesitate to go with a competitor and you can [make your idea better by underdoing your competition][underdo] and creating just the features that matter.
 * {% include components/icon-anxieties.html %} **Don't waste your time**, because surely you're going to make mistakes;
 * {% include components/icon-attraction.html %} _Invest your time_, because your current decision isn't to launch something, **it's to start the process of making products**.
 {: .forces }
