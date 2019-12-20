@@ -18,6 +18,7 @@ articles_on_understanding_buyer:
   - 2019-06-20-i-dont-know-if-my-page-is-good
   - 2019-08-23-how-to-know-if-built-too-much-product-overserving
   - 2019-05-24-wasting-time-going-after-idea-with-competitors
+  - 2019-12-20-competing-against-nothing
 articles_on_optimizing_pages:
   - 2019-04-18-five-ways-to-tweak-product-page-to-convert
   - 2019-07-12-ab-testing-how-to-prove-version-b-better
