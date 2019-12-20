@@ -38,7 +38,7 @@ SendHoney gets flowers delivered to people you love. Set it and forget it. That'
 
 **Does it mean that SendHoney has no competitor?** You _could_ say there are other similar services. There might be flower shops who allow booking a flower delivery far in advance.
 
-But this product isn't just offering a service. It's offering a promise: "you be the hero".
+But this product isn't just offering a service. It's offering a promise: "you be the hero". To be the hero in specific _contexts_.
 
 ## The Struggles: _When_ You'd _Even Care_ To Be that Kind of Hero
 
