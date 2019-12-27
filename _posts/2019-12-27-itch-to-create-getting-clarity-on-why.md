@@ -27,7 +27,7 @@ So, what to do?
 
 Beneath the thoughts that are going through your mind, there are _lenses_ that colour how you receive the information that comes in. Those lenses help you parse the input and make sense of it.
 
-These lenses are known under different names: **biases, conlusions, prejudices, convictions, oppositions, beliefs or assumptions.**
+These lenses are known under different names: **biases, conclusions, prejudices, convictions, oppositions, beliefs or assumptions.**
 
 Like others, I call those "mental models". You know there's a mental model at work when you find yourself **agitated, defensive, taken by an inspiration, short tempered, engrossed in a thought**, or especially when you find yourself being **reactive**.
 
