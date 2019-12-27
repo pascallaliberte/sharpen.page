@@ -63,7 +63,7 @@ _At this point, you'll feel like your excitement has been challenged, like its h
 
 * Maybe!
 
-_That's interesting. There's an opposition here, and either/or. Is there any way I can rewrite that to use an "both/and"?_
+_That's interesting. There's an opposition here, and either/or. Is there any way I can rewrite that to use a "both/and"?_
 
 * Maybe there's a different way of looking at this idea, a _third way_.
 * There might be a way to prioritize some _other_ thing. **This other thing would encompass _both_ my new bold idea, _and_ the safety of my current situation.**
