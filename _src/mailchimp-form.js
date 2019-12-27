@@ -519,9 +519,16 @@ window.displayMailChimpStatus = function (data) {
     // Make sure the data is in the right format and that there's a status container
     if (!data.result || !data.msg || !mcStatus ) return;
 
+    // if captcha is required, force a real form submit to navigate to mailchimp's captcha page
+    if (data.result === 'error' && data.msg === 'captcha') {
+      mcForm.dataset.forcePost = true;
+      mcForm.submit();
+      return;
+    }
+
     // Update our status message
     mcStatus.innerHTML = data.msg;
-
+    
     // If error, add error class
     if (data.result === 'error') {
         mcStatus.classList.remove('success-message');
@@ -549,6 +556,9 @@ var submitMailChimpForm = function (form) {
 
     // Create a global variable for the status container
     window.mcStatus = form.querySelector('.mc-status');
+    
+    // Create a global variable for the form element
+    window.mcForm = form;
 
     // Insert script tag into the DOM (append to <head>)
     ref.parentNode.insertBefore( script, ref );
@@ -586,6 +596,11 @@ document.addEventListener('submit', function (event) {
 
     // Only run on forms flagged for validation
     if (!event.target.classList.contains('validate')) return;
+    
+    if (event.target.dataset.forcePost == true) {
+      // submit naturally
+      return;
+    }
 
     // Prevent form from submitting
     event.preventDefault();
