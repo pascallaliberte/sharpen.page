@@ -5,6 +5,15 @@ categories: discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2019-12-27-itch-to-create-getting-clarity-on-why.jpg
 published: true
+related_posts:
+  - 2020-01-03-itch-to-create-making-your-idea-inevitable
+  - 2019-09-27-rewriting-mental-models-about-introducing-yourself-as-freelancer
+  - 2019-08-16-sellable-ways-to-package-skills-as-services
+  - 2019-01-17-product-and-newsletter-and-professional-services
+  - 2019-08-09-get-better-consulting-clients-without-being-too-sales-y
+  - 2019-10-04-how-to-add-modesty-to-intros-as-freelancer
+  - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
+  - 2018-11-29-intro-to-jobs-to-be-done-through-examples
 ---
 
 You've found yourself in a very familiar spot. It's happened to you many times before, and you suspect it'll happen to you again in the future.

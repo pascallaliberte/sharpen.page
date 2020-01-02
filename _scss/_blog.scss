@@ -774,3 +774,43 @@
     cursor: pointer;
   }
 }
+
+pre.have-done {
+  color: $color-grey;
+  background: white;
+  
+  margin-left: rem(-30px);
+  margin-right: rem(-30px);
+  padding-left: 0;
+  padding-right: 0;
+  
+  @media (min-width: $reference-width-xs-until + 1px) and (max-width: $reference-width-md-until) {
+    margin-right: rem(-120px);
+  }
+  
+  line-height: 1.5;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: smooth;
+  
+  &, & > p {
+    font-size: rem(16px) !important;
+  }
+  
+  & > p {
+    margin: 0;
+    margin-left: rem(30px);
+  }
+  
+  strong, em {
+    color: black;
+  }
+  
+  em {
+    font-style: normal;
+  }
+  
+  &.pre-wrap {
+    overflow: visible;
+    white-space: pre-wrap;
+  }
+}
