@@ -779,13 +779,24 @@ pre.have-done {
   color: $color-grey;
   background: white;
   
-  margin-left: rem(-30px);
-  margin-right: rem(-30px);
+  
   padding-left: 0;
   padding-right: 0;
   
+  @media (max-width: $reference-width-xs-until) {
+    margin-left: rem(-30px);
+    margin-right: rem(-30px);
+  }
+  
   @media (min-width: $reference-width-xs-until + 1px) and (max-width: $reference-width-md-until) {
+    margin-left: rem(-30px);
     margin-right: rem(-120px);
+  }
+  
+  @media (min-width: $reference-width-md-until + 1px) {
+    margin-left: rem(-90px);
+    transform: translateX(rem(60px));
+    width: rem(730px);
   }
   
   line-height: 1.5;
