@@ -5,6 +5,16 @@ categories: discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2020-01-10-itch-to-create-incorporating-outside-advice.jpg
 published: true
+related_posts:
+  - 2020-01-03-itch-to-create-making-your-idea-inevitable
+  - 2019-12-27-itch-to-create-getting-clarity-on-why
+  - 2019-12-20-competing-against-nothing
+  - 2019-11-15-sharpen-your-packaged-services
+  - 2019-09-27-rewriting-mental-models-about-introducing-yourself-as-freelancer
+  - 2019-08-16-sellable-ways-to-package-skills-as-services
+  - 2019-05-24-wasting-time-going-after-idea-with-competitors
+  - 2019-01-25-industry-standard-pricing-no-such-thing
+  - 2019-01-10-changing-orbit-selling-your-idea
 ---
 
 Following up on Part 1 and 2, we've got two good tools to see, with clarity:

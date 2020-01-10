@@ -7,6 +7,7 @@ image: /assets/images/posts/2020-01-03-itch-to-create-making-your-idea-inevitabl
 published: true
 related_posts:
   - 2019-12-27-itch-to-create-getting-clarity-on-why
+  - 2020-01-10-itch-to-create-incorporating-outside-advice
   - 2019-09-27-rewriting-mental-models-about-introducing-yourself-as-freelancer
   - 2019-08-16-sellable-ways-to-package-skills-as-services
   - 2019-01-17-product-and-newsletter-and-professional-services
