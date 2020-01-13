@@ -22,11 +22,11 @@ The benefit of stating the struggles on your website is that people will see tha
 
 But **once you've got their attention**, you could cover a few more struggles.
 
-## Option 2: One Main Struggle, and "Maybe's"
+## Option 2: One Main Struggle, and "Maybe"
 
 For this, you start off the page stating the main struggle, describing in vivid details what they might be experiencing.
 
-Shortly after, to make sure you catch people who don't connect with the main struggle, you list a few _maybe's_.
+Shortly after, to make sure you catch people who don't connect with the main struggle, you list a few _maybes_.
 
 > Or maybe you find yourself in these situations:
 > 
@@ -34,7 +34,7 @@ Shortly after, to make sure you catch people who don't connect with the main str
 > 
 > "Something is coming up very shortly where we need this done, and our past two attempts have failed. We totally underestimated the work that was needed. We need someone to get us off the ground, quick."
 
-By using those maybe's, you add extra words on the page that they can connect with as they scroll down the page. Using multiple takes on a longer page [gives you more opportunities to make them feel they're in the right spot][long-pages].
+By using those _maybes_, you add extra words on the page that they can connect with as they scroll down the page. Using multiple takes on a longer page [gives you more opportunities to make them feel they're in the right spot][long-pages].
 
 [long-pages]: {% post_url 2019-05-17-how-long-landing-pages-make-calls-to-action-work %}
 
