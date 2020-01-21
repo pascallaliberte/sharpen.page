@@ -91,7 +91,7 @@ You try to dig for the [back story][purchase-story]. You try to find the [forces
 
 * What did you try before finding my product?
 * What did you search for in Google when you first thought of solving that problem?
-* Tell me about momemts when you backtracked and decided to just make do with your current "I'll do it myself" solutions?
+* Tell me about moments when you backtracked and decided to just make do with your current "I'll do it myself" solutions?
 * What pushed you forwards? What made you hesitate and go backwards?
 * What _happened_ that made you decide to continue in your search?
 * What _happened_ that made you decide that "enough was enough", "this can't go on"?
