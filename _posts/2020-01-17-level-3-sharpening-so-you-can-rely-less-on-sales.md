@@ -135,6 +135,6 @@ So let's have conversations and let's be helpful. [No sleeze required][slimy-jer
 
 Stay Sharp!
 
-_P.S. When you're at the stage where you've started digging for the back story of your buyers and find yourself wanting a little more help, consider digging into some of the [other articles I wrote](/articles) or maybe checking out the **[services I offer](/services)**. I help solo businesses and modest online products sharpen what they offer._
+_P.S. When you're at the stage where you've started digging for the back story of your buyers and find yourself wanting a little more help, consider digging into some of the [other articles I wrote](/articles) or maybe checking out the [services I offer](/services). I help solo businesses and modest online products sharpen what they offer._
 
 _Also, stay tuned for more examples of how Level 3 Sharpening helps design better product pages._
