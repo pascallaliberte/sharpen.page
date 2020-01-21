@@ -54,7 +54,7 @@ At this level, you understand that people with a certain role in a certain marke
 
 Selling your product, however, **means that you have to rely on crude tactics**: turning more conversations into opportunities to raise awareness, show the benefits, and trying a sale.
 
-The problem here is that you haven't got a clue what's going on in the mind of the buyer. Your understanding of the buyer isn't sharp enough. It's out of focus.
+At this point, your understanding of the buyer isn't sharp enough. It's out of focus, since the focus has been on the _appeal_ of your product. Let's move to Level 2.
 
 ## <small>Level 2 (Sharp):</small><br>Understanding the Problem and the Aspiration
 
