@@ -6,7 +6,7 @@ tags: optimize showcase
 author: Pascal Laliberté
 image: /assets/images/posts/2020-01-24-level-3-sharpening-xebel-app-for-course-creators.jpg
 published: true
-related_posts_heading: To dig further, here some articles I think you'll find useful
+related_posts_heading: To dig further, here are some articles I think you'll find useful
 related_posts:
   - 2019-03-01-two-ebooks-purchased-together
   - 2019-12-13-four-ways-to-say-theres-a-better-way
