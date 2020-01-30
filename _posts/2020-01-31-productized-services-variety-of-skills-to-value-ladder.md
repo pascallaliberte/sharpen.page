@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Productized Services: From a Variety of Skills to a Value-ladder"
+title: "Productized Services: From a Variety of Skills to a Value-Ladder"
 categories: jtbd consulting
 tags: showcase optimize
 showcased:
