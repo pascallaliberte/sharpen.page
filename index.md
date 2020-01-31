@@ -12,7 +12,7 @@ layout: home
 
 **Maybe you're running a service business in a field that's on the up and up.** Maybe you're past creating deliverables and you're more into coaching your clients. Maybe you do very cutom design or animation work and you want to go for the best of the best. Maybe it's a technical field, like in DevOps, AI/ML, Cybersecurity, Cloud orchestration, SwiftUI, plugin development for e-commerce shops.
 
-> I'm in a specialty that I know there's a niche for. And my site is starting to get visited, **but the services I'm advertising are unremarkable**, a little too scattershot, a little too generic. **Better clients, that's what I'm after.** But I know I'm not making the case on what I can do for them. 
+> "I'm in a specialty that I know there's a niche for. And my site is starting to get visited, **but the services I'm advertising are unremarkable**, a little too scattershot, a little too generic. **Better clients, that's what I'm after.** But I know I'm not making the case on what I can do for them."
 
 ---
 
