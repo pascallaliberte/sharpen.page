@@ -6,7 +6,7 @@ layout: home
 
 <div class="situation-quotes" markdown="1">
 
-**You're getting attention**, but you know your site is saying something way too generic. Services I offer, Contact me. Here's my product, here are the benefits, buy here. You know that won't do it for the stage you're at.
+> "**I'm getting attention**, but I know my site is saying something way too generic. Services I offer, Contact me. Here's my product, here are the benefits, buy here. I know that won't do it for the stage I'm at."
 
 ---
 
