@@ -6,17 +6,25 @@ layout: home
 
 <div class="situation-quotes" markdown="1">
 
-> **You're running a service business in a field that's on the up and up.** Maybe you're in a specialty from your years of study that you know there's a niche for, like for speech, sleep, nutrition or relational problems. Or maybe you design or you animate. Maybe it's a technical field, like in DevOps, AI/ML, Cybersecurity, Cloud orchestration, SwiftUI, plugin development for e-commerce shops. 
+**You're getting attention**, but you know your site is saying something way too generic. Services I offer, Contact me. Here's my product, here are the benefits, buy here. You know that won't do it for the stage you're at.
 
-The important thing for you: **you're getting attention**, but you know your site is saying something way too generic. Services I offer, Contact me. You know that won't do it for the stage you're at. Better clients, that's what you're after.
+---
 
-Or you might have a product...
+**Maybe you're running a service business in a field that's on the up and up.** Maybe you're past creating deliverables and you're more into coaching your clients. Maybe you do very cutom design or animation work and you want to go for the best of the best. Maybe it's a technical field, like in DevOps, AI/ML, Cybersecurity, Cloud orchestration, SwiftUI, plugin development for e-commerce shops.
+
+> I'm in a specialty that I know there's a niche for. And my site is starting to get visited, **but the services I'm advertising are unremarkable**, a little too scattershot, a little too generic. **Better clients, that's what I'm after.** But I know I'm not making the case on what I can do for them. 
+
+---
+
+**Maybe you have a product**, and you're in this place...
 
 > "I’ve just realized that **the page describing my product doesn’t do it justice**. It focuses too much on the benefits. I know I can make it communicate more sharply **the problem it can help solve for my customers**."
 
-Maybe you've hit a snag with your product...
+---
 
-> "We thought we knew, but we no longer do. We're getting cancellations, unused features. Our buyers are using the product for purposes that surprise us. **We need to stop and do some research before we continue down this path**"
+**Maybe you've hit a snag with your product...**
+
+> "We thought we knew what to do, but we no longer do. We're getting cancellations, unused features. Our buyers are using the product for purposes that surprise us. **We need to stop and do some research before we continue down this path**"
 
 _(If this last one is you, check out the separate **[/prioritize](/prioritize)** package I'm offering just for product teams. Otherwise, please read on.)_
 
@@ -28,6 +36,10 @@ _(If this last one is you, check out the separate **[/prioritize](/prioritize)**
 
 Think of those moments [_when_][try-when] your customers will be wanting to say "enough is enough", where they'll start to look for something different. Same-old got too old.
 
+Go beyond just identifying a market and a typical buyer. Go beyond finding a problem you can help solve. Go further than that and identify those **[situations that are ripe for your visitors to "switch" to you][level-3-sharpening]**.
+
+[level-3-sharpening]: [level-3-sharpening]: {% post_url 2020-01-17-level-3-sharpening-so-you-can-rely-less-on-sales %}
+
 Those moments are key, because then **you'll understand what people will switch away from**, so they can switch toward what you offer.
 
 So you make a list of some of those moments. Now what? Are these moments real? Without that bit of validation, you're tempted to revert to just make a page that highlights the benefits, what you'll get.
@@ -36,7 +48,9 @@ But you know you're missing something. **Adding benefits will just make you look
 
 **You want your thing to be remarkable, _remark-worthy_.**
 
-So you know you'll make a page that highlights the pain, and shows some ways forward, and humbly shows how your thing can be of help, and what to do next. A little like this page you're reading right now.
+So you know you'll make a [page that highlights the pain][minimum-struggle], and shows some ways forward, and humbly shows how your thing can be of help, and what to do next. A little like this page you're reading right now.
+
+[minimum-struggle]: {% post_url 2019-10-25-minimum-to-get-struggle-based-landing-page %}
 
 ## A New Structure for Your Site
 
@@ -44,7 +58,9 @@ So you know you'll make a page that highlights the pain, and shows some ways for
 
 The Home page highlights one meta struggle.
 
-You make sure you've got a value-ladder, a way for people to jump in at the stage they're at, regardless of their level of sophistication. One way to do that is to offer services, smaller one-offs or subscriptions that land on different "steps" of the ladder.
+You make sure you've got a _[value-ladder][value-ladder]_, a way for people to jump in at the stage they're at, regardless of their level of sophistication. One way to do that is to offer services, smaller one-offs or subscriptions that land on different "steps" of the ladder.
+
+[value-ladder]: {% post_url 2020-01-31-productized-services-variety-of-skills-to-value-ladder %}
 
 Newsletters are a great risk-free way for people to try you out. Make sure you're tending to the [forces of progress pushing back][four-forces] in the visitor's mind, and make sure you find the ["job" for which people will gladly "hire"][jtbd-intro] your newsletter. Make sure it delivers.
 
@@ -76,7 +92,7 @@ But it's about some principles that are underused, but work:
 1. **A long landing page, although optional**, gives you multiple chances at making your case, using different words, [multiple takes at showing you understand][long-pages], and still helps those who'll freely scroll your page anyway;
 1. [**It's not about being sales-y**, it's about being helpful][forces-freelancer]. People just want to make progress, and to get help from someone they can trust;
 1. **Know that you're mostly [in competition with people continuing with their own self-made mish-mash][non-consumption] of habits**, and in your case specifically, you're in competition with them doing it themselves. At some point though, the struggle will get stronger. If you sowed trust, they'll have bookmarked you for later. They'll be back when it's time;
-1. Speaking of competition, **you might as well offer multiple options to your visitor**. Make each option compete against each other, instead of trying to compete with other people. They're on _your_ site. Help them through their own back-and-forth. Help them make a decision. Even if it's to go with your free guide [or for your newsletter][newsletter];
+1. Speaking of competition, **you might as well offer multiple options to your visitor**. Make each option compete against each other (the main idea behind having a [value-ladder][value-ladder]), instead of trying to compete with other people. They're on _your_ site. Help them through their own back-and-forth. Help them make a decision. Even if it's to go with your free guide [or for your newsletter][newsletter];
 1. Speaking of newsletters and free stuff, **consider everything you write as mini struggle-solvers**. You'll then be able to weave a web of links between what you write and what you offer. That'll help people vet you, but also, it'll help them learn it themselves. By the time they hire you (or your product) with money, you'll have a common language.
 
 [struggle]: {% post_url 2019-09-06-hard-struggle-required %}

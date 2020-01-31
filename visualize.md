@@ -7,6 +7,7 @@ articles_on_solo_practice:
   - 2019-08-16-sellable-ways-to-package-skills-as-services
   - 2019-09-13-pitching-an-edgy-consulting-engagement
   - 2019-05-10-landing-page-appointment-or-email
+  - 2020-01-31-productized-services-variety-of-skills-to-value-ladder
 articles_on_sharp_intro:
   - 2019-08-09-get-better-consulting-clients-without-being-too-sales-y  
   - 2019-09-27-rewriting-mental-models-about-introducing-yourself-as-freelancer

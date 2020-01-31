@@ -75,11 +75,13 @@ And most of all, you've packaged your skills in a way that's totally making a di
 
 ## Steps I'd Take To Get There
 
-1. Take some time to imagine the _situations_ that your buyers are in when they decide they've had enough with the old, and are ready for the new. Those situations are the gold you're after. They're usually experiencing some kind of struggle, an annoyance, something that just won't go away.
-2. Armed with those situations, try to see if those situations, those struggles, combine into one overarching struggle (over here, on this site, I use the struggle "I'm starting to get attention"). In your case, it might be something like "I've got a certain event coming up that I gotta get ready", or "we've tried doing this our way and failed 3 times." If you've got more than one struggle, consider packaging them up into different offerings maybe.
-3. Start writing a new home page. The home page will have the main struggle front and center, right at the top. That will scream to your visitors: _you are in the right spot, I understand what you're going through_. That will get them to want to read on. Describe in vivid detail what it's like for them. Have a section describing what a new future might look like.
-4. Still on your new home page, encourage your visitors to continue trying to do it themselves. Just like I'm doing here: show them how you'd do it.
-5. Have a way for your visitors to take the next step or to choose a package. Each package would also be centered around its own struggle it solves.
+1. **Take some time to imagine the [_situations_][try-when] that your buyers are in when they decide they've had enough with the old**, and are ready for the new. Those situations are the gold you're after. They're usually experiencing some kind of struggle, an annoyance, something that just won't go away.
+2. Armed with those situations, **try to see if those situations, those struggles, combine into one overarching struggle** (over here, on this site, I use the struggle "I'm starting to get attention"). In your case, it might be something like "I've got a certain event coming up that I gotta get ready", or "we've tried doing this our way and failed 3 times." If you've got more than one struggle, consider packaging them up into different offerings maybe.
+3. Start writing a new home page. **The home page will have the main struggle front and center, right at the top.** That will scream to your visitors: _you are in the right spot, I understand what you're going through_. That will get them to want to read on. Describe in vivid detail what it's like for them. Have a section describing what a new future might look like.
+4. Still on your new home page, **encourage your visitors to continue trying to do it themselves.** Just like I'm doing here: show them how you'd do it.
+5. **Have a way for your visitors to take the next step or to choose a package.** Each package would also be centered around its own struggle it solves.
+
+[try-when]: {% post_url 2019-02-21-try-when %}
 
 At this point, you've got a website that's unlike most you see in the world of solo people like you. Most people go on about all the things they can do for you, but you'll have something that's really sharp, well-defined, incredibly enticing, and worthy to tell the world about.
 
@@ -100,7 +102,7 @@ So here's where I can help. If you're too busy for this level of work, but you'r
 
 If you've got a good understanding of the main situation that causes your buyers to go with your service, and you just want to write that up in a single page.
 
-**CDN$&nbsp;1600** + your time so I get to understand what you're selling and your buyers
+**CDN$&nbsp;1300** + your time so I get to understand what you're selling and your buyers
 
 * Half up front to understand enough to make the page on my own, half to proceed with the page and book the week I'll be writing the page.
 * Once I got enough information from you, the turnaround is one week.
@@ -118,7 +120,7 @@ Each month, you'll obtain:
 1. Minimum one sharpening of the web presence - Will sharpen the way people engage with the business, its funnel, bit by bit through minimum one change per month. Will provide drafts ahead of production. Includes implementation provided adequate approval lead-up.
 2. Minimum one sharpening of understanding the audience - Will share insights from research, and ask you clarification questions. Included in the package: recruitment fees, e.g. incentives for surveys or conversations, userinterviews.com booking fees.
 
-**CDN$&nbsp;2200 per 30-day period** plus your involvement in revising drafts, and answering questions. Paid at the start of the 30-day period.
+**CDN$&nbsp;1800 per 30-day period** plus your involvement in revising drafts, and answering questions. Paid at the start of the 30-day period.
 
 ### Both options include:
 
