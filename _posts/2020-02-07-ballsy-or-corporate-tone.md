@@ -26,13 +26,13 @@ related_posts:
 
 On [this IndieHackers thread, Xander asks][thread]:
 
-> A friend today advised me to be more ballsy on [ratemymeeting.co][ratemymyeeting] copy. Not 'improve your meeting effectiveness', but 'make your meetings s*ck less'.  
+> A friend today advised me to be more ballsy on [ratemymeeting.co][ratemymeeting] copy. Not 'improve your meeting effectiveness', but 'make your meetings s*ck less'.  
 > I'd be happy to hear any of your thoughts.
 
 [thread]: https://www.indiehackers.com/post/ballsy-vs-corporate-tone-f562e7ca74
-[ratemymyeeting]: https://ratemymyeeting.co
+[ratemymeeting]: https://ratemymeeting.co
 
-[![Screenshot of ratemymeeting.co with the headline 'Make Your Meetings Suck Less'](/assets/images/posts/2020-02-07-ballsy-or-corporate-tone-01.jpg)][ratemymyeeting]
+[![Screenshot of ratemymeeting.co with the headline 'Make Your Meetings Suck Less'](/assets/images/posts/2020-02-07-ballsy-or-corporate-tone-01.jpg)][ratemymeeting]
 {: .img-zoom }
 
 ## My Answer...
