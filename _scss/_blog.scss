@@ -312,6 +312,10 @@
         font-weight: normal;
       }
       
+      h2:first-child {
+        margin-top: 0.8em;
+      }
+      
       &::before {
         position: absolute;
         content: "〝";
