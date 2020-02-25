@@ -30,7 +30,7 @@ Maybe you're realizing your current website will take some time to attract leads
 
 If that's your case, **hold on a bit**. Maybe there's a way to keep your website sharp for those who come to visit.
 
-Before I make my point, let's got through four types of markets.
+Before I make my point, let's go through four types of markets.
 
 ---
 
