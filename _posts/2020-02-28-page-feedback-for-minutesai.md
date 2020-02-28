@@ -3,10 +3,28 @@ layout: post
 title: Page Feedback for minutesai.com
 categories: jtbd copywriting
 tags: showcase optimize
+showcased:
+  - minutesai.com
 author: Pascal Laliberté
 image: /assets/images/posts/2020-02-28-page-feedback-for-minutesai.jpg
 published: true
 related_posts:
+  - 2019-06-07-re-writing-headings-that-just-highlight-benefits
+  - 2019-04-12-competitor-found-make-mine-better
+  - 2020-01-17-level-3-sharpening-so-you-can-rely-less-on-sales
+  - 2020-01-24-level-3-sharpening-xebel-app-for-course-creators
+  - 2019-12-13-four-ways-to-say-theres-a-better-way
+  - 2020-02-07-ballsy-or-corporate-tone
+  - 2019-09-20-focus-on-just-one-struggle
+  - 2019-12-06-yeah-but-apple-intercom-have-features-benefits-pages
+  - 2019-11-29-product-yes-no-or-not-yet
+  - 2019-11-22-bounce-rate-overrated
+  - 2019-08-30-just-lucky-or-idea-solid
+  - 2019-06-20-i-dont-know-if-my-page-is-good
+  - 2019-06-28-an-example-unconventional-landing-page
+  - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
+  - 2019-02-21-try-when
+  - 2018-12-17-universal-competitor
 ---
 
 **How do you come up with a good headline** for your product idea? Something catchy, memorable, distinctive. Something different than the competition.
