@@ -78,7 +78,7 @@ It may be the case that **a manager wants more transparency** and make every mee
 
 With these headings, we're getting closer to the reality of they buyers coming to the site (and what they'd be typing into DuckDuckGo to find the product).
 
-But you might say: "yeah but my product can do different jobs for different people". The tempation here will be to keep to generics. Add features to the product to appeal to more people, keep the main headline generic. The cure for this is to **dig for even more reality**.
+But you might say: "yeah but my product can do different jobs for different people". The temptation here will be to keep to generics. Add features to the product to appeal to more people, keep the main headline generic. The cure for this is to **dig for even more reality**.
 
 ## Going Deeper: the Real Switching Moments
 
