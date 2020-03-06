@@ -58,7 +58,7 @@ I'll go quickly through the fundamentals (with links to some other articles to d
 
 At the core of selling is this: **people want to make progress**. They have this thing that they want to move away from, so they can get to some better place. Things used to be okay in this one area, but now it's time for a change. "Enough is enough". And so they get moving.
 
-That means that **selling is about getting closer to people experiencing some kind of struggle**, (and there's always a ton of those, even (and maybe especially) when times are rough) **and about helping them make progress**.
+That means that **selling is about getting closer to people experiencing some kind of struggle**, (and there's always a ton of those, especially when times are rough) **and about helping them make progress**.
 
 The other interesting point is this: it's always **about a person** wanting to make progress. Even if it's a business-to-business transaction, or even if you're just selling an idea, there's a person at the other end making that purchase decision.
 
