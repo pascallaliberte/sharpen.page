@@ -34,6 +34,8 @@ related_posts:
   - 2019-01-04-expensive-pair-of-boots
   - 2019-06-20-i-dont-know-if-my-page-is-good
   - 2019-04-26-writing-outreach-cold-emails-the-basic-lessons-to-get-started
+excerpt:
+  Selling in rough times is like selling in good times, only the fundamentals are way more important. In short, people just want to make progress, and selling is about being helpful. But when times are risky, risk is top of mind. So might as well get closer to the buyer and make the risk more symmetric...
 ---
 
 I don't know if the product you're thinking of building will sell when markets get shaky.
@@ -48,6 +50,8 @@ I don't know if your day job will be safe.
 1. Even when people hold onto their money, they still have to get moving. So **there's a way to tweak how we sell even when there's more risk**.
 
 I'll go quickly through the fundamentals (with links to some other articles to dig deeper), and then I'll show how to make selling less about the money.
+
+<!--more-->
 
 ---
 
