@@ -51,8 +51,6 @@ I don't know if your day job will be safe.
 
 I'll go quickly through the fundamentals (with links to some other articles to dig deeper), and then I'll show how to make selling less about the money.
 
-<!--more-->
-
 ---
 
 ## The Fundamentals of Selling
