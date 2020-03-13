@@ -423,6 +423,14 @@
     background-image: url(/assets/images/icons/icon-habits.svg);
   }
   
+  .force-badge {
+    padding-left: 0.4em;
+    padding-right: 0.4em;
+    background-color: #DFDEEC;
+    border: rem(2px) solid white;
+    color: $color-secondary;
+  }
+  
   ul.forces {
     list-style: none;
     padding-left: 2.4em;
