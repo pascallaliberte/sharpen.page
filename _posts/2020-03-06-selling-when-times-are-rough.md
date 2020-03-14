@@ -160,6 +160,4 @@ Stay Sharp!
 
 ---
 
-_P.S. If you'd like a run through a purchase interview and you've recently made a purchase you hesitated on making, [give me a shout][email] and we'll conduct the interview on your own purchase story. For your time, you'll receive a $60 gift certificate._
-
-[email]: mailto:pascal@pascallaliberte.me
+_P.S. If you'd like a run through a purchase interview and you've recently made a purchase you hesitated on making, [please let me know about it](/your-purchase-story/) and we'll conduct the interview on your own purchase story. For your time, you'll receive a $60 gift certificate._

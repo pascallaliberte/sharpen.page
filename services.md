@@ -35,4 +35,10 @@ When you've got to take a pause and dig into what motivated your buyers to "hire
 
 ---
 
-Or to learn how to sharpen your own stuff, check out the **[/articles](/articles)**, published every Friday.
+## What's Free
+
+Learn how to sharpen your own stuff, check out the **[/articles](/articles)**, published every Friday.
+
+## In a Twist, Let Me Pay _You_ Instead
+
+**I'd like to hear your own purchase story**, if you don't mind talking to me for about an hour on the phone. I'll pay you **USD $60 via an Amazon Gift Card** if I choose to interview you. Learn more at [**/your-purchase-story**](/your-purchase-story).
