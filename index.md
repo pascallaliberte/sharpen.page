@@ -152,6 +152,8 @@ Here's what I have to offer:
 
 **[/articles](/articles)** - Free, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Sign-up below.
 
+**[/your-purchase-story](/your-purchase-story)** - I pay _you_ USD $60 for you to tell me a recent purchase story. Conditions apply and I might blog about your story (names and details removed), but that's basically the deal.
+
 ---
 
 You just want more _lift_ happening. You want to help your customers lift themselves to newer heights, and that's exactly what I want for you.
