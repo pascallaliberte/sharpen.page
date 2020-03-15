@@ -2,6 +2,7 @@
 permalink: your-purchase-story/
 title: Can I Interview You on a Purchase You Made?
 layout: page
+image: /assets/images/your-purchase-story.jpg
 ---
 
 ## Here's the Offer:
