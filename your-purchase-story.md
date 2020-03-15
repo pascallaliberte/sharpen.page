@@ -3,6 +3,7 @@ permalink: your-purchase-story/
 title: Can I Interview You on a Purchase You Made?
 layout: page
 image: /assets/images/your-purchase-story.jpg
+description: For one hour of your time (Amazon gift card if chosen), can I interview you on a purchase you made?
 ---
 
 ## Here's the Offer:
