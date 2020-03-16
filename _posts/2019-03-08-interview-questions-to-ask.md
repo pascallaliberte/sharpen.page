@@ -5,6 +5,28 @@ categories: jtbd
 tags: purchase-interview jtbd-basics
 author: Pascal Laliberté
 image: /assets/images/posts/2019-03-08-interview-questions-to-ask.jpg
+related_posts_heading: "Here are more articles I think will come at the right time"
+related_posts:
+  - 2018-11-29-intro-to-jobs-to-be-done-through-examples
+  - 2019-03-29-how-to-select-buyers-for-purchase-story-interviews
+  - 2019-01-04-expensive-pair-of-boots
+  - 2019-02-01-interview-and-timeline-diagram
+  - 2019-02-08-digging-purchase-story-for-gold
+  - 2019-04-18-five-ways-to-tweak-product-page-to-convert
+  - 2019-03-01-two-ebooks-purchased-together
+  - 2019-04-12-competitor-found-make-mine-better
+  - 2019-05-24-wasting-time-going-after-idea-with-competitors
+  - 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort
+  - 2019-06-07-re-writing-headings-that-just-highlight-benefits
+  - 2019-06-28-an-example-unconventional-landing-page
+  - 2019-07-05-how-much-traffic-needed-to-start-ab-testing
+  - 2019-08-23-how-to-know-if-built-too-much-product-overserving
+  - 2019-09-06-hard-struggle-required
+  - 2019-11-22-bounce-rate-overrated
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2019-12-06-yeah-but-apple-intercom-have-features-benefits-pages
+  - 2019-12-13-four-ways-to-say-theres-a-better-way
+  - 2020-03-13-when-your-software-proposes-different-process
 ---
 
 Maybe you're in one of these two situations:
@@ -80,4 +102,4 @@ Stay Sharp!
 
 ---
 
-_Want to have a run through an interview formatted with these questions? If you have (yourself) purchased a product in the last three months, or if you know of one buyer who'd be ready for a 50-minute phone interview, [send me an email](mailto:pascal@pascallaliberte.me) and we'll setup the interview._
+_Want to have a run through an interview formatted with these questions? If you have a recent buyer whose story surprised you a bit who'd be ready for a 1 hour phone interview, (or you, yourself, purchased a product in the last three months), [send me an email](mailto:pascal@pascallaliberte.me) and we'll setup the interview._
