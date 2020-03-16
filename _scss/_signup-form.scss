@@ -395,9 +395,31 @@ body #mc_embed_signup {
     margin-top: 2em;
   }
   
+  select {
+    max-width: 100%;
+    box-sizing: border-box;
+    
+    @media only screen and (min-width: ($reference-width-xs-until + 1px)) and (max-width: $reference-width-md-until) {
+      max-width: rem(600px);
+    }
+    @media only screen and (min-width: ($reference-width-md-until + 1px)) {
+      max-width: rem(600px);
+    }
+  }
+  
   .cf-input {
     padding: 0.8em 0.7em;
     font-family: $primary-font-family;
+    max-width: 100%;
+    box-sizing: border-box;
+    
+    @media only screen and (min-width: ($reference-width-xs-until + 1px)) and (max-width: $reference-width-md-until) {
+      width: rem(600px);
+    }
+    @media only screen and (min-width: ($reference-width-md-until + 1px)) {
+      width: rem(600px);
+    }
+    
   }
   
   small {
