@@ -19,40 +19,34 @@
     <textarea name="about-your-purchase" required="true" class="cf-input cf-text-area color-input color-border"></textarea>
   </div>
   <div class="cf-item" id="cf-item_15602">
-    <div class="cf-label color-label"> <label for="purchase-timeline">When was it that you made this purchase</label></div>
-    <select name="purchase-timeline" id="purchase-timeline" required="true">
-      <option value="">Please specify</option>
-      <option value="in-last-week">In the last week</option>
-      <option value="in-last-month">In the last month</option>
-      <option value="in-last-3-months">In the last 3 months</option>
-      <option value="before-3-months-ago">Before 3 months ago</option>
-    </select>
+    <div class="cf-label color-label"> <label class="form-radio-heading">When was it that you made this purchase</label></div>
+    
+    {% include form-radio.html value="in-last-week" name="purchase-timeline" label="In the last week" %}
+    {% include form-radio.html value="in-last-month" name="purchase-timeline" label="In the last month" %}
+    {% include form-radio.html value="in-last-3-months" name="purchase-timeline" label="In the last 3 months" %}
+    {% include form-radio.html value="before-3-months-ago" name="purchase-timeline" label="Before 3 months ago" %}
   </div>
   <div class="cf-item" id="cf-item_15341">
     <div class="cf-label color-label"> <label for="purchase-date">How best can you describe the purchase day (e.g. Specific date, or "Probably on a Sunday, end of January")</label></div>
     <input type="text" name="purchase-date" id="purchase-date" required="true" class="cf-input first color-input color-border">
   </div>
   <div class="cf-item" id="cf-item_15600">
-    <div class="cf-label color-label"> <label for="amount-of-deliberation">How much did you have to think about making this purchase?</label> </div>
-    <select name="amount-of-deliberation" id="amount-of-deliberation" required="true">
-      <option value="">Please specify</option>
-      <option value="instant-purchase">It was an instant purchase - not much mental back-and-forth</option>
-      <option value="intense-but-quick">I thought about it intensely, lots of back-and-forth, but it happened pretty quickly</option>
-      <option value="same-day-not-much-thought">I bought it the same day I thought of it, but there was just a little back-and-forth, not much.</option>
-      <option value="few-days-some-back-and-forth">I thought about it over a day or two before deciding, some mental back-and-forth</option>
-      <option value="many-days-lots-of-back-and-forth">I thought about it over several days or weeks, with a lot of mental back-and-forth</option>
-      <option value="please-ask-in-follow-up-email">Let me just explain it to you in a follow-up email...</option>
-    </select>
+    <div class="cf-label color-label"> <label class="form-radio-heading">How much did you have to think about making this purchase?</label> </div>
+    
+    {% include form-radio.html value="instant-purchase" name="amount-of-deliberation" label="It was an instant purchase - not much mental back-and-forth" %}
+    {% include form-radio.html value="intense-but-quick" name="amount-of-deliberation" label="I thought about it intensely, lots of back-and-forth, but it happened pretty quickly" %}
+    {% include form-radio.html value="same-day-not-much-thought" name="amount-of-deliberation" label="I bought it the same day I thought of it, but there was just a little back-and-forth, not much." %}
+    {% include form-radio.html value="few-days-some-back-and-forth" name="amount-of-deliberation" label="I thought about it over a day or two before deciding, some mental back-and-forth" %}
+    {% include form-radio.html value="many-days-lots-of-back-and-forth" name="amount-of-deliberation" label="I thought about it over several days or weeks, with a lot of mental back-and-forth" %}
+    {% include form-radio.html value="please-ask-in-follow-up-email" name="amount-of-deliberation" label="Let me just explain it to you in a follow-up email..." %}
   </div>
   <div class="cf-item" id="cf-item_15600">
-    <div class="cf-label color-label"> <label for="purchased-for-whom">Who did you make the purchase for?</label> </div>
-    <select name="purchased-for-whom" id="purchased-for-whom" required="true">
-      <option value="">Please specify</option>
-      <option value="for-me">For me, personally</option>
-      <option value="as-a-gift">As a gift for someone</option>
-      <option value="for-work">Using the money from where I work, for work</option>
-      <option value="other-not-gift">Other, just not as a gift.</option>
-    </select>
+    <div class="cf-label color-label"> <label class="form-radio-heading">Who did you make the purchase for?</label> </div>
+    
+    {% include form-radio.html value="for-me" name="purchased-for-whom" label="For me, personally" %}
+    {% include form-radio.html value="as-a-gift" name="purchased-for-whom" label="As a gift for someone" %}
+    {% include form-radio.html value="for-work" name="purchased-for-whom" label="Using the money from where I work, for work" %}
+    {% include form-radio.html value="other-not-gift" name="purchased-for-whom" label="Other, just not as a gift." %}
   </div>
   
   <div class="cf-item" id="cf-item_15600">
