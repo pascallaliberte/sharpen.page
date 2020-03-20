@@ -2,6 +2,7 @@
 layout: post
 title: Selling When Times Are Rough
 categories: jtbd
+tags: consulting recession
 author: Pascal Laliberté
 image: /assets/images/posts/2020-03-06-selling-when-times-are-rough.jpg
 published: true
