@@ -21,6 +21,8 @@ related_posts:
   - 2019-01-17-product-and-newsletter-and-professional-services
   - 2019-01-10-changing-orbit-selling-your-idea
   - 2019-01-25-industry-standard-pricing-no-such-thing
+excerpt:
+  Here's a roundup of articles, a twitter thread and a podcast I found this week answering about freelancing in a recession. "Be an investment, not an expense". Good luck!
 ---
 
 * "Are things going to be okay?"
