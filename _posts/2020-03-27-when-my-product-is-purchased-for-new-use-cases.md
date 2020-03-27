@@ -26,7 +26,7 @@ related_posts:
   - 2020-03-06-selling-when-times-are-rough
   - 2020-03-13-when-your-software-proposes-different-process
 excerpt:
-  
+  You're seeing surprising purchasing behaviours. New kinds of people are buying what you sell. To pull on that string without too much effort, considering calling some recent buyers to get their purchase story.
 ---
 
 "I'm seeing new purchase patterns and I don't know what to make of those."
