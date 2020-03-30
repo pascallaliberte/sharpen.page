@@ -121,7 +121,7 @@ You've got sales, and you've got traffic! And so it's time to start testing some
 
 Maybe you're getting cancellations, or some of your product's features aren't getting used like you planned. You've been building and building, but you've had a bit of a surprise. Now you need to start questioning a little bit.
 
-_This situation might be a good fit for my **[/prioritize](/prioritize)** actually. If you like to start with a call and you end up going with that package, I'll wave the fee for the consulting call._
+_This situation might be a good fit for my **[/understand](/understand)** actually. If you like to start with a call and you end up going with that package, I'll wave the fee for the consulting call._
 
 ---
 

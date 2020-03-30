@@ -26,7 +26,7 @@ layout: home
 
 > "We thought we knew what to do, but we no longer do. We're getting cancellations, unused features. Our buyers are using the product for purposes that surprise us. **We need to stop and do some research before we continue down this path**"
 
-_(If this last one is you, check out the separate **[/prioritize](/prioritize)** package I'm offering just for product teams. Otherwise, please read on.)_
+_(If this last one is you, check out the separate **[/understand](/understand)** package I'm offering just for product teams. Otherwise, please read on.)_
 
 </div>
 
@@ -146,9 +146,9 @@ Here's what I have to offer:
 
 **[/visualize](/visualize#details) -- A consulting call**. Preceded by an email exchange to learn how I can help, the focus of the call (the main value to you) will be about consulting you on what to do next. Additionally, our discussion will give me the information I need to put together a proposal for further work for you, if that'd be helpful (I won't try to upsell you). CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the call itself (about an hour). I'll wave the fee if you choose to go with the next package:
 
-**[/stepitup](/stepitup#details) -- For your service business, a monthly retainer to evolve your site to include a value-ladder of options** (a bit like these options I'm listing here). Each month, we sharpen your site in one meaningful way, and we sharpen your understanding of your buyers via some research. Plus you get my availability to get answers to your questions, learn what I'm finding on the web, hang out in your Slack. If you've already got a good idea of the struggle of your buyer and just need one page done, I've got a one-pager option too.
+**[/understand](/understand) -- A research boost to focus your product priorities.** When you've got to take a pause and dig into what motivated your buyers to "hire" your product. Maybe you're getting cancellations, or people aren't using the features you've developed, and you're left a little surprised. You can't continue building and building, and need to start questioning a little bit more.
 
-**[/prioritize](/prioritize) -- For product teams, a research boost to focus your product priorities.** When you've got to take a pause and dig into what motivated your buyers to "hire" your product. Maybe you're getting cancellations, or people aren't using the features you've developed, and you're left a little surprised. You can't continue building and building, and need to start questioning a little bit more.
+**[/stepitup](/stepitup#details) -- For your service business, a monthly retainer to evolve your site to include a value-ladder of options** (a bit like these options I'm listing here). Each month, we sharpen your site in one meaningful way, and we sharpen your understanding of your buyers via some research. Plus you get my availability to get answers to your questions, learn what I'm finding on the web, hang out in your Slack. If you've already got a good idea of the struggle of your buyer and just need one page done, I've got a one-pager option too.
 
 **[/articles](/articles)** - Free, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Sign-up below.
 

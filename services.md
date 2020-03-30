@@ -17,6 +17,14 @@ Here are two packages to help you speed things up. _And a third one below to hel
 
 CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the call itself (about an hour). I'll wave the fee if you choose to go with the next package...
 
+## [/understand](/understand)
+
+**A research boost to focus your product priorities.**
+
+When you've got to take a pause and dig into what motivated your buyers to "hire" your product. Maybe you're getting cancellations, or people aren't using the features you've developed, and you're left a little surprised. You can't continue building and building, and need to start questioning a little bit more.
+
+---
+
 ## [/stepitup](/stepitup#details)
 
 **For your service business, a monthly retainer to evolve your site to include a value-ladder of options** (a bit like these options I'm listing here). 
@@ -27,18 +35,10 @@ If you've already got a good idea of the struggle of your buyer and just need on
 
 ---
 
-## [/prioritize](/prioritize)
+## [/articles](/articles)
 
-**For product teams, a research boost to focus your product priorities.**
+Free, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Sign-up below.
 
-When you've got to take a pause and dig into what motivated your buyers to "hire" your product. Maybe you're getting cancellations, or people aren't using the features you've developed, and you're left a little surprised. You can't continue building and building, and need to start questioning a little bit more.
+## [/your-purchase-story](/your-purchase-story)
 
----
-
-## What's Free
-
-Learn how to sharpen your own stuff, check out the **[/articles](/articles)**, published every Friday.
-
-## In a Twist, Let Me Pay _You_ Instead
-
-**I'd like to hear your own purchase story**, if you don't mind talking to me for about an hour on the phone. I'll pay you **USD $60 via an Amazon Gift Card** if I choose to interview you. Learn more at [**/your-purchase-story**](/your-purchase-story).
+I pay _you_ USD $60 for you to tell me a recent purchase story. Conditions apply and I might blog about your story (names and details removed), but that's basically the deal.

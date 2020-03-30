@@ -1,7 +1,7 @@
 ---
-permalink: prioritize/
+permalink: understand/
 layout: service
-title: Prioritize - A Research Boost To Focus Your Product Priorities
+title: Understand - A Research Boost To Focus Your Product Priorities
 articles_on_jtbd:
   - 2018-11-29-intro-to-jobs-to-be-done-through-examples
 articles_on_four_forces:
@@ -66,7 +66,7 @@ It's now time for a little more research into your buyers.
 
 <div class="pitch-solution" markdown="1">
 
-# <span class="service-slug">prioritize</span> A Research Boost To Focus Your Product Priorities
+# <span class="service-slug">understand</span> A Research Boost To Focus Your Product Priorities
 {: #details }
 
 <div class="tagline pitch-solution-tagline push-down" markdown="1">
@@ -147,7 +147,7 @@ Which happens when you've built too much product, or your product doesn't really
 At this point, I propose two options: 
 
 1. filling out the questionnaire below;
-2. or heading over to the **[/visualize](/visualize)** page to learn about a one-off consulting call, the cost of which will be waved if you decide to move ahead with the /prioritize package as described above.
+2. or heading over to the **[/visualize](/visualize)** page to learn about a one-off consulting call, the cost of which will be waved if you decide to move ahead with the /understand package as described above.
 
 Hope that helps.
 
@@ -157,7 +157,7 @@ Pascal
 
 ---
 
-## Questionnaire for the /prioritize package
+## Questionnaire for the /understand package
 {: #start }
 
-{% include service-sign-up-form-prioritize.html %}
+{% include service-sign-up-form-understand.html %}
