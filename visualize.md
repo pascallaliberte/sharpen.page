@@ -48,8 +48,8 @@ Right now though, you feel that the **clock is ticking**. Time to get some advic
 
 ## What If You Waited a Few Months?
 
-* You could read how to get into the mind of the buyer [from some articles you find](/articles), **but you've done that already**, and you just want to explain your situation to someone with experience.
-* You could run some experiments instead, or adopt a wait-and-see approach. But that's too risky for you.
+* You could read how to get into the mind of the buyer from some articles you find, **but you've done that already**, and you just want to explain your situation to someone with experience.
+* You could run some experiments instead, or adopt a wait-and-see approach. But you're looking for a quicker way to adjust your sails.
 
 </aside>
 
@@ -57,7 +57,7 @@ Right now though, you feel that the **clock is ticking**. Time to get some advic
 
 <div class="pitch-lead-up-block" markdown="1">
 
-**But if you don't want to put this until later...**
+**If you don't want to put this until later...**
 
 </div>
 
@@ -74,7 +74,8 @@ Right now though, you feel that the **clock is ticking**. Time to get some advic
 
 * Obtained a clear sense of what you should do next, and confidence that it'll do something good for you;
 * Obtained an idea of how it is to work together;
-* Obtained an idea of what I could do to help out, if a proposal from me would be a useful next step (I won't try to upsell you).
+* Obtained an idea of what I could do to help out, if a proposal from me would be a useful next step (I won't try to upsell you);
+* Obtained a recording of the call or screen share (up to you, it's _your call_).
 
 **CDN$&nbsp;250**, after a back-and-forth over email before the call to get to know your situation a little bit more. I'll send you an invoice after the call, and the call will be _discounted_ if you choose to go through the **[/understand](/understand)** package for sharpening your understanding of your buyer, or the **[/stepitup](/stepitup)** for your service business website.
 

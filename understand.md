@@ -160,11 +160,13 @@ That means if the markets change, you adjust too.
 
 ---
 
+## Ready to Go Deep...
+{: #start }
+
 If you decide to give it a try on your side, I'd love to hear about it, see how it goes (I'm [@pascallaliberte](https://twitter.com/pascallaliberte) on Twitter.)
 
 But if you'd like help on digging deeper to understand your buyers a little better, please reach out by answering these questions:
 
 ## Questionnaire for the /understand package
-{: #start }
 
 {% include service-sign-up-form-understand.html %}
