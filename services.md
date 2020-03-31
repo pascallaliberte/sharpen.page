@@ -35,7 +35,7 @@ When you've got to take a pause and dig into what motivated your buyers to "hire
 
 **A consulting call** consulting you on what to do next.
 
-CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the call itself (about an hour). If that's helpful, it'll comes with a recording of what we discussed or the screen share. I'll wave the fee if you choose to go with either of these packages below...  
+CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the call itself (about an hour). If that's helpful, it'll comes with a recording of what we discussed or the screen share. I'll wave the fee if you choose to go with either of these packages above...  
 [Read more about the **/visualize** consulting call](/visualize#details)
 
 ---
