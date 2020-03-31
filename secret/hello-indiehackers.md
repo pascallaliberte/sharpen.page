@@ -89,7 +89,7 @@ Here are some articles you might find useful for sharpening your own product's l
 
 Hope those articles can be helpful. To be the first to get new articles, published each Friday, check out the form below to sign up.
 
-Pascal Laliberté  
+{% include avatar.html %} Pascal Laliberté  
 [pascal@pascallaliberte.me](mailto:pascal@pascallaliberte.me)
 
 {% include email-sign-up-form.html context="articles-list" %}

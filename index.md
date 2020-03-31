@@ -160,7 +160,7 @@ You just want more _lift_ happening. You want to help your customers lift themse
 
 Stay Sharp!
 
-Pascal Laliberté  
+{% include avatar.html %} Pascal Laliberté  
 [pascal@pascallaliberte.me](mailto:pascal@pascallaliberte.me)  
 Ottawa, Ontario, Canada
 
