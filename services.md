@@ -19,13 +19,6 @@ So here are a couple packages to help you speed things up:
 
 ---
 
-## [/visualize](/visualize)
-
-**A consulting call** consulting you on what to do next.
-
-CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the call itself (about an hour). If that's helpful, it'll comes with a recording of what we discussed or the screen share. I'll wave the fee if you choose to go with either of these packages below...  
-[Read more about the **/visualize** consulting call](/visualize#details)
-
 ## [/understand](/understand)
 
 **A research boost to focus your product priorities.**
@@ -33,12 +26,17 @@ CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the
 When you've got to take a pause and dig into what motivated your buyers to "hire" your product. Maybe you're getting cancellations, or people aren't using the features you've developed, or that market change brought you some new types of buyers. **Overall, you're a little surprised**. You can't continue building and building, and need to start questioning a little bit more, to **understand your buyer** a little deeper.  
 [Learn more about the **/understand** package](/understand#details)
 
----
-
 ## [/stepitup](/stepitup)
 
 **For your service business (freelance/consulting)**, a monthly retainer to evolve your site to include a value-ladder of options (a bit like these options I'm listing here).  
 [Read more about the **/stepitup** for service businesses](/stepitup#details)
+
+## [/visualize](/visualize)
+
+**A consulting call** consulting you on what to do next.
+
+CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the call itself (about an hour). If that's helpful, it'll comes with a recording of what we discussed or the screen share. I'll wave the fee if you choose to go with either of these packages below...  
+[Read more about the **/visualize** consulting call](/visualize#details)
 
 ---
 
