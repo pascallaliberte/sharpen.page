@@ -14,7 +14,7 @@ articles_on_page_sharpening:
   - 2019-10-25-minimum-to-get-struggle-based-landing-page
 ---
 
-## I help online businesses who find themselves in situations like these…
+## <mark>I help online businesses</mark> who find themselves in situations like these…
 
 <div class="situation-quotes" markdown="1">
 
@@ -39,7 +39,7 @@ articles_on_page_sharpening:
 ## _Maybe it's that_ <mark>Your Industry Is Changing Real Fast</mark> and You Need Your Ear To the Gound
 {: .maybe-heading }
 
-Previously, you were concentrating on a generic profile of buyers. But all of a sudden, those kinds of buyers are down (you got competition), but **surprisingly, other kinds buyers are up**. What's that about? Sharper use cases, new stories. They're buying your thing _despite_ your generic marketing. Time to dig deeper.
+Previously, you were concentrating on a generic profile of buyers. But all of a sudden, those kinds of buyers are down (ie. market downturn, competition), but **surprisingly, other kinds buyers are up**. What's that about? Sharper use cases, new stories. They're buying your thing _despite_ your generic marketing. Time to dig deeper.
 
   {% include adhoc-post-list.html post_ids=page.articles_on_adjusting %}
 
@@ -103,6 +103,10 @@ It starts with a messy process of understanding the buyer's vocabulary, the opti
 ### Do you do all the copywriting, including blog posts?
 
 I only write the copy for the marketing pages of your site. I know of a good writer for your blog posts and your guides that I can refer to you, if you'd like.
+
+### Do you also do any data analysis, or data infrastructure work?
+
+My focus is on qualitative research -- digging through messy anecdotes for clues, finding the trail of motivations that led a person to your door. But [I know a guy](https://www.lantrns.co/) who does the _quantitative_ part: setting up a data collection system that's replicable, producing insights from data. We can actually team up if that's what you're after: we could offer a complete solution from support channel trends to unearthing new Jobs-to-be-done through purchase interviews.
 
 ### Do I have to understand the Jobs-To-Be-Done theory, which I see you talk about a lot in your articles?
 

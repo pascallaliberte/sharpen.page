@@ -35,7 +35,10 @@
     margin-left: 0;
     
     & > blockquote {
-      font-size: 1.2em;
+      
+      @media (min-width: $reference-width-md-until) {
+        font-size: 1.2em;
+      }
       
       &:nth-child(1) {
         margin-left: 0;
