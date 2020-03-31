@@ -5,6 +5,18 @@ class: page
 <article class="page">
 
   <header class="page__header">
+    {% if page.show_breadcrumb %}
+    {% assign parts = page.permalink | split: "/" %}
+    <div class="service-slug">
+      {% for part in parts %}
+        {% if forloop.last == true %}
+          {{ part }} /
+        {% else %}
+          <a href="/{{ part }}">{{ part }}</a> /
+        {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
     <h1 class="page__title">{{ page.title | escape }}</h1>
   </header>
 

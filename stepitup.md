@@ -76,6 +76,10 @@ And most of all, you've packaged your skills in a way that's totally making a di
 ## Steps I'd Take To Get There
 
 1. **Take some time to imagine the [_situations_][try-when] that your buyers are in when they decide they've had enough with the old**, and are ready for the new. Those situations are the gold you're after. They're usually experiencing some kind of struggle, an annoyance, something that just won't go away.
+
+{% include components/aside-note.html text="I'm assuming here you'd rather do this work yourself. But if you just want to get it done by someone like me, [skip down to the /stepitup packages below](#options)" %}
+
+{:start="2"}
 2. Armed with those situations, **try to see if those situations, those struggles, combine into one overarching struggle** (over here, on this site, I use the struggle "I'm starting to get attention"). In your case, it might be something like "I've got a certain event coming up that I gotta get ready", or "we've tried doing this our way and failed 3 times." If you've got more than one struggle, consider packaging them up into different offerings maybe.
 3. Start writing a new home page. **The home page will have the main struggle front and center, right at the top.** That will scream to your visitors: _you are in the right spot, I understand what you're going through_. That will get them to want to read on. Describe in vivid detail what it's like for them. Have a section describing what a new future might look like.
 4. Still on your new home page, **encourage your visitors to continue trying to do it themselves.** Just like I'm doing here: show them how you'd do it.
@@ -87,16 +91,22 @@ At this point, you've got a website that's unlike most you see in the world of s
 
 More than that, the _process_ of doing all this work will give you some new ways to introduce yourself to new people, spot whether they're currently experiencing the problem or not, and make those conversations about just being helpful.
 
-### Learn More via My Articles
+### A Free Guide to Help You Create a Value-ladder of Offerings
 
-To go deeper and learn more about all this, I [publish an article each Friday](/articles#be-notified), or you can filter through the list of [articles I've already published](/articles). I go in depth about the Jobs-To-Be-Done theory, the approach that focuses on situations, struggling moments, and the Forces of Progress.
+To go deeper and learn more about all this, take [**this free guide**](/stepitup/guide) with you. It's just a web page you can bookmark and come back to, no email required, no tracking or anything. Hope that helps!
+
+### Or... Learn More via My Articles
+
+If now's not the right time to take that on on your own, consider signing up to the [articles I publish each Friday](/articles#be-notified), or find a few [articles I've already published](/articles) (filter for Consulting/Freelancing). I go in depth about the Jobs-To-Be-Done theory, the approach that focuses on situations, struggling moments, and the Forces of Progress.
+
+---
 
 ## "I'm Too Busy To Do All That"
+{: #options }
 
-So here's where I can help. If you're too busy for this level of work, but you're thinking "this is where I want to take my solo practice next", I've got two options for you, and a couple other ones below.
+**So here's where I can help.** If you're too busy for this level of work, but you're thinking "this is where I want to take my solo practice next", I've got two options for you, and a couple other ones below.
 
 ## Two Options to Step It Up
-{: #options }
 
 ### Option No. 1 - One-Pager
 
