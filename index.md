@@ -33,7 +33,9 @@ articles_on_page_sharpening:
 ---
 
 <div class="home-personal-intro" markdown="1">
-**Hi, I'm {% include avatar.html %} Pascal.** I offer [services](/services) where I enter the mind of your buyer, and help you sharpen what you sell; how it's presented, how you think about what you sell, and to know what to build and what to table.
+**Hi, I'm {% include avatar.html %} Pascal.**
+
+I offer [services](/services) where **I enter the mind of your buyer**, and help you understand their motivations so you can sharpen what you sell; how it's presented, how you think about what you sell, and to know what to build and what to table.
 </div>
 
 ## _Maybe it's that_ <mark>Your Industry Is Changing Real Fast</mark> and You Need Your Ear To the Gound
