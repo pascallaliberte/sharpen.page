@@ -55,6 +55,7 @@ articles_on_adjusting:
 * An uptick in cancellations
 * A slowdown in sales
 * A surprising success you didn’t see coming
+* Support interactions that tell you there's a different kind of buyer all of a sudden
 
 ## You've Started with Your Research
 

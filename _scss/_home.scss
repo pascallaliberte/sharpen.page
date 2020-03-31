@@ -113,3 +113,22 @@
     margin-left: rem(-55px);
   }
 }
+
+.home .maybe-heading {
+  position: relative;
+  margin-top: 4em;
+  
+  em {
+    position: absolute;
+    top: -1.2em;
+    left: 0;
+    
+    display: inline-block;
+    color: $color-primary;
+    font-size: 0.8em;
+    
+    &::after {
+      content: '...';
+    }
+  }
+}
