@@ -1,7 +1,7 @@
 ---
-permalink: prioritize/
+permalink: understand/
 layout: service
-title: Prioritize - A Research Boost To Focus Your Product Priorities
+title: Understand - A Research Boost To Focus Your Product Priorities
 articles_on_jtbd:
   - 2018-11-29-intro-to-jobs-to-be-done-through-examples
 articles_on_four_forces:
@@ -14,6 +14,8 @@ articles_on_features:
   - 2019-02-15-when-a-feature-is-not-a-feature
 articles_on_overserving:
   - 2019-08-23-how-to-know-if-built-too-much-product-overserving
+articles_on_adjusting:
+  - 2020-03-27-when-my-product-is-purchased-for-new-use-cases
 ---
 
 <div class="pitch-lead-up" markdown="1">
@@ -37,6 +39,14 @@ articles_on_overserving:
 </div>
 
 <div class="pitch-lead-up-block" markdown="1">
+<div class="situation-quotes" markdown="1">
+
+> "**This current downturn is no joke**, but people are buying our product for surprising new use cases. And they don't seem to be motivated about the same things. Should we change our pitch, adjust our support channels too? Are they 'hiring' our product for a new 'job'?"
+
+</div>
+</div>
+
+<div class="pitch-lead-up-block" markdown="1">
 
 ## You're Seeing...
 
@@ -45,6 +55,7 @@ articles_on_overserving:
 * An uptick in cancellations
 * A slowdown in sales
 * A surprising success you didn’t see coming
+* Support interactions that tell you there's a different kind of buyer all of a sudden
 
 ## You've Started with Your Research
 
@@ -66,7 +77,7 @@ It's now time for a little more research into your buyers.
 
 <div class="pitch-solution" markdown="1">
 
-# <span class="service-slug">prioritize</span> A Research Boost To Focus Your Product Priorities
+# <span class="service-slug">understand</span> A Research Boost To Focus Your Product Priorities
 {: #details }
 
 <div class="tagline pitch-solution-tagline push-down" markdown="1">
@@ -112,7 +123,7 @@ It's now time for a little more research into your buyers.
 [try-when]: {% post_url 2019-02-21-try-when %}
 [purchase-story]: {% post_url 2019-02-08-digging-purchase-story-for-gold %}
 
-This is based on the **Jobs-to-be-done Theory of Buyer Behavior**, pioneered by Clayton Christensen, Bob Moesta and Chris Spiek from the Re-Wired group, Alan Klement and other, **which states that**:
+This is based on the **Jobs-to-be-done Theory of Buyer Behavior**, pioneered by Clayton Christensen, Bob Moesta and Chris Spiek from the Re-Wired group, Alan Klement and others, **which states that**:
 
 ### Your Buyers Just Wanted to Make Progress
 
@@ -142,22 +153,21 @@ Which happens when you've built too much product, or your product doesn't really
 
   {% include adhoc-post-list.html post_ids=page.articles_on_overserving %}
 
----
+### Serve the Struggle Your Buyer Is Experiencing _Right Now_
 
-At this point, I propose two options: 
+That means if the markets change, you adjust too.
 
-1. filling out the questionnaire below;
-2. or heading over to the **[/visualize](/visualize)** page to learn about a one-off consulting call, the cost of which will be waved if you decide to move ahead with the /prioritize package as described above.
-
-Hope that helps.
-
-Stay Sharp!
-
-Pascal
+  {% include adhoc-post-list.html post_ids=page.articles_on_adjusting %}
 
 ---
 
-## Questionnaire for the /prioritize package
+## Ready to Go Deep...
 {: #start }
 
-{% include service-sign-up-form-prioritize.html %}
+If you decide to give it a try on your side, I'd love to hear about it, see how it goes (I'm [@pascallaliberte](https://twitter.com/pascallaliberte) on Twitter.)
+
+But if you'd like help on digging deeper to understand your buyers a little better, please reach out by answering these questions:
+
+## Questionnaire for the /understand package
+
+{% include service-sign-up-form-understand.html %}

@@ -31,7 +31,7 @@ Hi, I'm Pascal Laliberté. Thanks for following the link from my [IndieHackers][
 
 I do Product Sharpening, helping modest online companies sharpen what they have to offer. Also, if you're a freelancer, I can help you sharpen your own service offerings too. **I do this by understanding your buyer, and then by sharpening your pitch pages.** Check out my [list of services](services/) to learn more.
 
-Specifically, if you're a product team and you've hit a point where more features don't equate with more sales, please check out my [**/prioritize**](/prioritize) package. Stop building and building, and start digging into [purchase stories][purchase-story].
+Specifically, if you're a product team and you've hit a point where more features don't equate with more sales, please check out my [**/understand**](/understand) package. Stop building and building, and start digging into [purchase stories][purchase-story].
 
 [purchase-story]: {% post_url 2019-02-08-digging-purchase-story-for-gold %}
 
@@ -89,7 +89,7 @@ Here are some articles you might find useful for sharpening your own product's l
 
 Hope those articles can be helpful. To be the first to get new articles, published each Friday, check out the form below to sign up.
 
-Pascal Laliberté  
+{% include avatar.html %} Pascal Laliberté  
 [pascal@pascallaliberte.me](mailto:pascal@pascallaliberte.me)
 
 {% include email-sign-up-form.html context="articles-list" %}

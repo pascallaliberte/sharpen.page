@@ -55,7 +55,7 @@ I've got a monthly package, or if you'd like, the ability to just get a one-off 
 
 ## Maybe This Is Your Situation
 
-Your industry is in expansion and there aren't too many service providers like you serving it. And yet, interest is growing, and you don't want to sell a commodity. You want to sell premium.
+Your industry is in expansion (to your surprise!) and there aren't too many service providers like you serving it. And yet, interest is growing, and you don't want to sell a commodity. You want to sell premium.
 
 You're getting sign-ups to your newsletter, and you're starting to get some interest in the knowledge you put out. Now's the time for you to get serious about the specific services you're offering.
 
@@ -102,14 +102,14 @@ So here's where I can help. If you're too busy for this level of work, but you'r
 
 If you've got a good understanding of the main situation that causes your buyers to go with your service, and you just want to write that up in a single page.
 
-**CDN$&nbsp;1300** + your time so I get to understand what you're selling and your buyers
+**CDN$&nbsp;1,300** + your time so I get to understand what you're selling and your buyers
 
 * Half up front to understand enough to make the page on my own, half to proceed with the page and book the week I'll be writing the page.
 * Once I got enough information from you, the turnaround is one week.
 
 Written up, styled and ready to put it in production (coded or ready in your CMS)
 
-Not included: Researching your buyers, recruiting fees. However, they're included in option 2:
+_Not included: Researching your buyers, recruiting fees. However, they're included in option 2:_
 
 ### Option No. 2 - Monthly Sharpening Retainer
 
@@ -117,10 +117,10 @@ Monthly Retainer that sharpens service offerings and sharpens your understanding
 
 Each month, you'll obtain:
 
-1. Minimum one sharpening of the web presence - Will sharpen the way people engage with the business, its funnel, bit by bit through minimum one change per month. Will provide drafts ahead of production. Includes implementation provided adequate approval lead-up.
-2. Minimum one sharpening of understanding the audience - Will share insights from research, and ask you clarification questions. Included in the package: recruitment fees, e.g. incentives for surveys or conversations, userinterviews.com booking fees.
+1. **Minimum one sharpening of the web presence** - Will sharpen the way people engage with the business, its funnel, bit by bit through minimum one change per month. Will provide drafts ahead of production. Includes implementation provided adequate approval lead-up.
+2. **Minimum one sharpening of understanding the audience** - Will share insights from research, and ask you clarification questions. Included in the package: recruitment fees, e.g. incentives for surveys or conversations, userinterviews.com booking fees.
 
-**CDN$&nbsp;1800 per 30-day period** plus your involvement in revising drafts, and answering questions. Paid at the start of the 30-day period.
+**CDN$&nbsp;1,800 per 30-day period** plus your involvement in revising drafts, and answering questions. Paid at the start of the 30-day period.
 
 ### Both options include:
 
@@ -143,7 +143,7 @@ Additionally, I invite you to [subscribe to my weekly email](/articles/#be-notif
 
 Stay Sharp.
 
-Pascal
+{% include avatar.html %} Pascal
 
 ---
 
