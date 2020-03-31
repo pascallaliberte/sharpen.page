@@ -41,7 +41,7 @@ I offer [services](/services) where **I enter the mind of your buyer**, and help
 ## _Maybe it's that_ <mark>Your Industry Is Changing Real Fast</mark> and You Need Your Ear To the Gound
 {: .maybe-heading }
 
-Previously, you were concentrating on a generic profile of buyers. But all of a sudden, those kinds of buyers are down (ie. market downturn, competition), but **surprisingly, other kinds buyers are up**. What's that about? Sharper use cases, new stories. They're buying your thing _despite_ your generic marketing. Time to dig deeper.
+Previously, you were concentrating on a generic profile of buyers. But all of a sudden, those kinds of buyers are down (ie. market downturn, competition), but **surprisingly, other kinds of buyers are up**. What's that about? Sharper use cases, new stories. They're buying your thing _despite_ your generic marketing. Time to dig deeper.
 
   {% include adhoc-post-list.html post_ids=page.articles_on_adjusting %}
 
