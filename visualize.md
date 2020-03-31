@@ -2,6 +2,17 @@
 permalink: visualize/
 layout: service
 title: Visualize - Let's have a call
+articles_on_optimizing:
+  - 2019-03-08-interview-questions-to-ask
+  - 2020-03-27-when-my-product-is-purchased-for-new-use-cases
+  - 2019-07-05-how-much-traffic-needed-to-start-ab-testing
+  - 2019-07-12-ab-testing-how-to-prove-version-b-better
+articles_on_product_marketing:
+  - 2019-04-18-five-ways-to-tweak-product-page-to-convert
+  - 2019-06-28-an-example-unconventional-landing-page
+articles_on_info_product:
+  - 2019-08-02-increase-ebook-sales-without-buy-now-popups
+  - 2018-12-17-universal-competitor
 articles_on_solo_practice:
   - 2019-09-06-hard-struggle-required
   - 2019-08-16-sellable-ways-to-package-skills-as-services
@@ -11,16 +22,6 @@ articles_on_solo_practice:
 articles_on_sharp_intro:
   - 2019-08-09-get-better-consulting-clients-without-being-too-sales-y  
   - 2019-09-27-rewriting-mental-models-about-introducing-yourself-as-freelancer
-articles_on_info_product:
-  - 2019-08-02-increase-ebook-sales-without-buy-now-popups
-  - 2018-12-17-universal-competitor
-articles_on_product_marketing:
-  - 2019-04-18-five-ways-to-tweak-product-page-to-convert
-  - 2019-06-28-an-example-unconventional-landing-page
-articles_on_optimizing:
-  - 2019-03-08-interview-questions-to-ask
-  - 2019-07-05-how-much-traffic-needed-to-start-ab-testing
-  - 2019-07-12-ab-testing-how-to-prove-version-b-better
 ---
 
 <div class="pitch-lead-up" markdown="1">
@@ -33,9 +34,11 @@ articles_on_optimizing:
 
 <div class="pitch-lead-up-block" markdown="1">
 
-You know that when you'll have put together something sharp on your website, you'll be able to communicate your new specialty to some new people. Get the word out, get some new referrals, and get started from there.
+You know that when you'll have put together something sharp on your website, you'll be able to communicate your offering to some new people. Get people say "Yes, I feel understood" when they get to your page.
 
-But right now, you feel that the **clock is ticking**. You're starting to get some attention, and what you got on your site won't do.
+Or maybe you've started doing some research into your buyers, but you don't know if you're doing it right.
+
+Right now though, you feel that the **clock is ticking**. Time to get some advice.
 
 </div>
 
@@ -45,10 +48,8 @@ But right now, you feel that the **clock is ticking**. You're starting to get so
 
 ## What If You Waited a Few Months?
 
-* Waiting a few months... you'll still have your current site listing your services, but not listing the distinct situations you can help your visitors with...
-* You'll get word-of-mouth, but it would be for the same work you currently do...
-* Or maybe you wouldn't get word-of-mouth, because your current clients don't have a stake in recommending you to others. They'd rather keep it to themselves that you're helping them...
-* Maybe you're putting together a small product, like a guide, an ebook, a course of some sort, and you'll have worked on it by that time (in a few months from now), but you're hesitating. "Since I don't know exactly the struggles that my customers are going through, I might be creating something too generic..."
+* You could read how to get into the mind of the buyer [from some articles you find](/articles), **but you've done that already**, and you just want to explain your situation to someone with experience.
+* You could run some experiments instead, or adopt a wait-and-see approach. But that's too risky for you.
 
 </aside>
 
@@ -75,7 +76,7 @@ But right now, you feel that the **clock is ticking**. You're starting to get so
 * Obtained an idea of how it is to work together;
 * Obtained an idea of what I could do to help out, if a proposal from me would be a useful next step (I won't try to upsell you).
 
-**CDN$&nbsp;250**, after a back-and-forth over email before the call to get to know your situation a little bit more. I'll send you an invoice after the call, and the call will be _discounted_ if you choose to go through the **[/stepitup](/stepitup)** package.
+**CDN$&nbsp;250**, after a back-and-forth over email before the call to get to know your situation a little bit more. I'll send you an invoice after the call, and the call will be _discounted_ if you choose to go through the **[/understand](/understand)** package for sharpening your understanding of your buyer, or the **[/stepitup](/stepitup)** for your service business website.
 
 **To go ahead with the call:**
 
@@ -86,30 +87,6 @@ But right now, you feel that the **clock is ticking**. You're starting to get so
 ---
 
 ## Maybe You Find Yourself in These Other Situations Instead
-
-### You're Now Launching a <mark>New Solo Practice</mark>
-
-Now's the time to figure out what's next and to invest in honing your specialty before you start spreading the word. Maybe you'll say you do (insert result) for (insert audience). Or maybe you'll focus on communicating the skills you bring. But if you've got the time to do the extra work, it'll pay off to figure out the _struggling moments_ of the people you want to help.
-
-  {% include adhoc-post-list.html post_ids=page.articles_on_solo_practice %}
-
-### You've Made A Few Introductions Where <mark>You Didn't Sound Sharp Enough</mark>
-
-As you're switching to a new way of introducing what you do, you've had a couple chances to test your explanation, and it hasn't come out quite right. You'd say it came out a little clumsy. Maybe it's because you felt you needed to be sales-y, and that didn't sit well with you.
-
-  {% include adhoc-post-list.html post_ids=page.articles_on_sharp_intro %}
-
-### You're Thinking of <mark>Putting Together an Informational Product</mark>
-
-You're thinking of putting together a course or an email sequence, an ebook or a guide. And you know you could help a general audience with some general information. But you know it'd be better to target some specific struggles with your informational product, so that it's sharply created to be a more accessible option for your audience than to contact you outright. You want that informational product to compete against contacting you, not against everything else that's on the market.
-
-  {% include adhoc-post-list.html post_ids=page.articles_on_info_product %}
-
-### You've Already Got a Product, and You Know <mark>Your Marketing Page Doesn't Do It Justice</mark>
-
-You're convinced. You understand the merit of communicating to the visitor that your product addresses their specific struggle right at the top of the page. As a result, you'd like to rewrite that whole page now. Instead of focusing on features and benefits, you want to communicate you understand their pain. You want your page to stop begging for a purchase, and instead focus on helping your visitor make progress -- even if that means encouraging them to learn to do it themselves instead.
-
-  {% include adhoc-post-list.html post_ids=page.articles_on_product_marketing %}
 
 ### You've Got Plenty of Sales with Your Product, <mark>but Could be Getting More</mark>...
 
@@ -123,12 +100,36 @@ Maybe you're getting cancellations, or some of your product's features aren't ge
 
 _This situation might be a good fit for my **[/understand](/understand)** actually. If you like to start with a call and you end up going with that package, I'll wave the fee for the consulting call._
 
+### You've Already Got a Product, and You Know <mark>Your Marketing Page Doesn't Do It Justice</mark>
+
+You're convinced. You understand the merit of communicating to the visitor that your product addresses their specific struggle right at the top of the page. As a result, you'd like to rewrite that whole page now. Instead of focusing on features and benefits, you want to communicate you understand their pain. You want your page to stop begging for a purchase, and instead focus on helping your visitor make progress -- even if that means encouraging them to learn to do it themselves instead.
+
+  {% include adhoc-post-list.html post_ids=page.articles_on_product_marketing %}
+
+### You're Thinking of <mark>Putting Together an Informational Product</mark>
+
+You're thinking of putting together a course or an email sequence, an ebook or a guide. And you know you could help a general audience with some general information. But you know it'd be better to target some specific struggles with your informational product, so that it's sharply created to be a more accessible option for your audience than to contact you outright. You want that informational product to compete against contacting you, not against everything else that's on the market.
+
+  {% include adhoc-post-list.html post_ids=page.articles_on_info_product %}
+
+### You're Now Launching a <mark>New Solo Practice</mark>
+
+Now's the time to figure out what's next and to invest in honing your specialty before you start spreading the word. Maybe you'll say you do (insert result) for (insert audience). Or maybe you'll focus on communicating the skills you bring. But if you've got the time to do the extra work, it'll pay off to figure out the _struggling moments_ of the people you want to help.
+
+  {% include adhoc-post-list.html post_ids=page.articles_on_solo_practice %}
+
+### You've Made A Few Introductions Where <mark>You Didn't Sound Sharp Enough</mark>
+
+As you're switching to a new way of introducing what you do, you've had a couple chances to test your explanation, and it hasn't come out quite right. You'd say it came out a little clumsy. Maybe it's because you felt you needed to be sales-y, and that didn't sit well with you.
+
+  {% include adhoc-post-list.html post_ids=page.articles_on_sharp_intro %}
+
 ---
 
 ## "Ok, I'm Ready to Get Moving"
 {: #start }
 
-Please fill the questionnaire below, and I'll write back with some follow-up questions. A reminder that the CDN$&nbsp;250 fee for the call and email exchange is waved if you decide you want to go with the **[/stepitup](/stepitup)** package or the **[/prioritize](/prioritize)** package.
+Please fill the questionnaire below, and I'll write back with some follow-up questions. A reminder that the CDN$&nbsp;250 fee for the call and email exchange is waved if you decide you want to go with the **[/understand](/understand)** package or the **[/stepitup](/stepitup)** package.
 
 ## Questionnaire for the /visualize call
 
