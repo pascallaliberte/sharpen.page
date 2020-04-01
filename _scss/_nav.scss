@@ -151,19 +151,22 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    align-items: flex-start;
-    padding-right: rem(20px);
+    align-items: flex-end;
     position: relative;
     margin-top: 1em;
     width: 100%;
     font-size: rem(22px);
     
-    @media (max-width: $reference-width-md-until) {
-      .btn {
-        position: absolute;
-        bottom: rem(15px);
-        right: rem(15px);
-      }  
+    @media (max-width: $reference-width-xs-until - 1px) {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+    }
+    
+    @media (min-width: $reference-width-md-until) {
+      .page &, .blog &, .post & {
+        align-items: flex-start;
+      }
     }
   }
   
@@ -207,6 +210,7 @@
       right: rem(30px);
       text-align: right;
       top: rem(50px);
+      bottom: 0;
     }
     
     

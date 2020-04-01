@@ -31,12 +31,12 @@
         <a class="navigation__link navigation__link-latest-article text-link" href="{{ post.url }}"><strong>Latest</strong><span class="navigation__link-latest-article-title"><br>{{ post.title }}</span></a>
       {% endfor %}
     {% endif %}
+    
+    {% if page.layout == "home" or page.layout == "blog" or page.layout =="post" %}
+    <div class="navigation__links">
+      <a class="btn btn-be-notified" href="#be-notified">Be notified&hellip;</a>
+    </div>
+    {% endif %}
   </div>
-  {% if page.layout == "home" or page.layout == "blog" or page.layout =="post" %}
-  <div class="navigation__links">
-    <a class="btn btn-be-notified" href="#be-notified">Be notified&hellip;</a>
-  </div>
-  {% endif %}
-  
   
 </nav>
