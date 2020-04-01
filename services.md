@@ -42,8 +42,8 @@ CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the
 
 ## [/articles](/articles)
 
-Free, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Be sure to filter by topics.
+**Free**, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Be sure to filter by topics.
 
 ## [/your-purchase-story](/your-purchase-story)
 
-I pay _you_ USD $60 for you to tell me a recent purchase story. I'm looking for a time you hesitated a lot, purchased it for yourself, and a few other things I'm looking for. I might blog about your story too (names and details removed), but that's basically the deal.
+**I pay _you_ USD $60** for you to tell me a recent purchase story. I'm looking for a time you hesitated a lot, purchased it for yourself, and a few other things I'm looking for. I might blog about your story too (names and details removed), but that's basically the deal.

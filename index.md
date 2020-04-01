@@ -89,9 +89,9 @@ Enough is enough. **Time to sharpen your marketing pages.**
 
 **[/visualize](/visualize#details) -- A consulting call**. Preceded by an email exchange to learn how I can help, the focus of the call (the main value to you) will be about consulting you on what to do next. Additionally, our discussion will give me the information I need to put together a proposal for further work for you, if that'd be helpful (I won't try to upsell you). CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the call itself (about an hour). I'll wave the fee if you choose to go with one of the above packages.
 
-**[/articles](/articles)** - Free, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Sign-up below.
+**[/articles](/articles)** - **Free**, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Sign-up below.
 
-**[/your-purchase-story](/your-purchase-story)** - I pay _you_ USD $60 for you to tell me a recent purchase story. Conditions apply and I might blog about your story (names and details removed), but that's basically the deal.
+**[/your-purchase-story](/your-purchase-story)** - **I pay _you_ USD $60** for you to tell me a recent purchase story. I'm looking for a time you hesitated a lot, purchased it for yourself, and a few other things I'm looking for. I might blog about your story too (names and details removed), but that's basically the deal.
 
 ## Since You Were About to Ask...
 
