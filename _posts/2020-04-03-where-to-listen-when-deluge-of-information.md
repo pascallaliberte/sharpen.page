@@ -40,7 +40,7 @@ related_posts:
   - 2019-01-25-industry-standard-pricing-no-such-thing 
   - 2018-11-29-intro-to-jobs-to-be-done-through-examples
 excerpt:
-  
+  Despite the calamity we're going through, there are going to be changes in how people get to work. If you want to find ways to help them make progress, now's the time to start listening.
 ---
 
 You've been wanting to create a new product for a while now.
