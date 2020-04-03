@@ -837,3 +837,44 @@ pre.have-done {
     white-space: pre-wrap;
   }
 }
+
+.main-content .post a.external-link {
+  font-family: monospace;
+  letter-spacing: 0;
+  font-size: 0.9em;
+  text-shadow: none;
+  opacity: 0.8;
+  
+  &.fade {
+    opacity: 0.5;
+  }
+  
+  &.highlight {
+    opacity: 1;
+  }
+}
+.main-content .post a.external-link-filter {
+  font-family: monospace;
+  font-size: 0.9em;
+  
+  &, &:active, &:focus {
+    background: none;
+    text-shadow: none;
+    color: #333;
+    display: inline-block;
+    padding: rem(2px 8px);
+  }
+  
+  & {
+    background: transparentize($color-grey, 0.9);
+  }
+  
+  &:active, &:focus {
+    background: transparentize($color-grey, 0.7);
+  }
+  
+  &.active {
+    background: transparentize($color-grey, 0.5);
+    color: white;
+  }
+}
