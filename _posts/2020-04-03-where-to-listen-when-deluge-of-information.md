@@ -16,6 +16,8 @@ watering_holes_filters:
     name: Paid
   - value: product
     name: Product Community
+  - value: slack
+    name: Slack
   - value: forum
     name: Forums
   - value: reddit
@@ -124,7 +126,7 @@ So here's a list, alphabetized, of some of the online communities that I've foun
   {% endfor %}
 </div>
 
-_(Note: I'll update with some Slack channels shortly... Thinking this list is missing something? let me know on Twitter [@pascallaliberte][twitter].)_
+_(Note: Thinking this list is missing something? let me know on Twitter [@pascallaliberte][twitter].)_
 
 [twitter]: https://twitter.com/pascallaliberte
 
