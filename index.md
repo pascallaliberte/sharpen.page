@@ -18,7 +18,7 @@ articles_on_page_sharpening:
 
 <div class="situation-quotes" markdown="1">
 
-> "We thought we knew what to do, but we no longer do. We're getting cancellations, unused features. Our buyers are using the product for purposes that surprise us. **We need to stop and do some research before we continue down this path**"
+> "We're getting cancellations, unused features. Our buyers are using the product for purposes that surprise us. We thought we knew what problem our product was hired to solve, but we no longer do. We need to stop building and building and **we need to start digging and digging.**"
 
 > "I’ve just realized that **the page describing my product doesn’t do it justice**. It focuses too much on the benefits. I know I can make it communicate more sharply **the problem it can help solve for my customers**. People finding our site should feel like shouting '**I feel understood!**'"
 
