@@ -4,6 +4,27 @@ title: "How Do I Know I've Built Too Much Product?"
 categories: jtbd
 author: Pascal Laliberté
 image: /assets/images/posts/2019-08-23-how-to-know-if-built-too-much-product-overserving.jpg
+published: true
+related_posts:
+  - 2020-03-27-when-my-product-is-purchased-for-new-use-cases
+  - 2019-02-15-when-a-feature-is-not-a-feature
+  - 2020-03-13-when-your-software-proposes-different-process
+  - 2020-01-17-level-3-sharpening-so-you-can-rely-less-on-sales
+  - 2019-02-08-digging-purchase-story-for-gold
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2019-03-01-two-ebooks-purchased-together
+  - 2019-12-20-competing-against-nothing
+  - 2019-12-13-four-ways-to-say-theres-a-better-way
+  - 2019-11-29-product-yes-no-or-not-yet
+  - 2019-11-08-pain-dream-fix-and-jtbd
+  - 2019-09-20-focus-on-just-one-struggle
+  - 2019-09-06-hard-struggle-required
+  - 2019-08-30-just-lucky-or-idea-solid
+  - 2019-07-19-how-to-improve-conversion-rates-without-being-a-slimy-jerk
+  - 2019-06-28-an-example-unconventional-landing-page
+  - 2019-06-20-i-dont-know-if-my-page-is-good
+  - 2019-06-07-re-writing-headings-that-just-highlight-benefits
+  - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
 ---
 
 A few days ago, I cancelled a HootSuite account before my trial was over. I had signed up so I could schedule some tweets and some posts on LinkedIn while I was away on vacation. But then I was digging more about automation, remembered about Buffer, saw it had a free offering that fit my needs, and signed up to Buffer. I liked Buffer, and decided to cancel HootSuite. **Although I noticed HootSuite had a free tier also, Buffer did the job, and HootSuite felt like it did too much**.
