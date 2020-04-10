@@ -106,7 +106,6 @@ Let's imagine these offerings instead:
 **`$$$$` for two days**
 
 Value: Availability, Innovation, Exploring Possibilities, Learning New Things
-Availability starting in (x weeks)
 
 ### **Middle of the Ladder:**<br>Your Audio Team (Monthly Retainer)
 {: .numbered-title }
