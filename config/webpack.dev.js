@@ -27,6 +27,7 @@ module.exports = Merge(CommonConfig, {
             }
           }
         },
+        open: false
       },
       {
         reload: false,
@@ -50,6 +51,6 @@ module.exports = Merge(CommonConfig, {
       path.resolve('public'),
     ],
     hot: true,
-    port: 9000,
+    port: 9000
   },
 });
