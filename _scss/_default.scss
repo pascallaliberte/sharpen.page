@@ -458,3 +458,37 @@ a.drag-to-bookmarks-link {
     margin-bottom: 1em;
   }
 }
+
+ol.page-structure {
+  list-style: none;
+  max-width: rem(200px);
+  background: transparentize(white, 0.6);
+  border: rem(10px) solid transparentize(#D8D8D8, 0.3);
+  border-radius: rem(5px);
+  padding: 0 !important;
+  font-size: rem(16px) !important;
+  
+  li {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: rem(10px 15px);
+    margin: 0 !important;
+    font-family: $secondary-font-family;
+    border-top: rem(2px) solid transparentize(#D8D8D8, 0.3);
+    position: relative;
+    
+    &:first-of-type {
+      padding-top: rem(30px);
+      padding-bottom: rem(30px);
+      border-top: none;
+    }
+    
+    em {
+      display: block;
+      margin-left: rem(15px);
+      font-size: 0.8em;
+      color: #777;
+    }
+  }
+}
