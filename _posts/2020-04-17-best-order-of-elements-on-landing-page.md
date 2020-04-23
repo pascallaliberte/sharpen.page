@@ -94,7 +94,7 @@ It's true. [Long landing pages make calls-to-action work better][long-pages], be
 * you get multiple chances at making your point _with a variety of words_ (one of the words will eventually _connect_), and;
 * you help your visitor make progress **by offering them the next step (the CTA) right where it makes sense**.
 
-[long-pages]: 2019-05-17-how-long-landing-pages-make-calls-to-action-work
+[long-pages]: {% post_url 2019-05-17-how-long-landing-pages-make-calls-to-action-work %}
 
 But then there's [this unconventional page structure][ebook-landing-page]:
 
@@ -155,7 +155,7 @@ Here's a simple heuristic:
 
 Example: when Intercom started, it didn't have a hero with a "what you get" headline. [Intercom had a Before and After illustration contrasting the struggle and the solution][apple-intercom] **because their solution wasn't mainstream**. They used a struggle-first approach for their home page until the point where Intercom became synonymous with user communication in the SaaS market, until the struggle and the solution were a de-facto standard.
 
-[apple-intercom]: 2019-12-06-yeah-but-apple-intercom-have-features-benefits-pages
+[apple-intercom]: {% post_url 2019-12-06-yeah-but-apple-intercom-have-features-benefits-pages %}
 
 A Struggle-first or Pain-Dream-Fix page structure is generally your best bet unless your product is something popular and super obvious.
 
@@ -192,7 +192,7 @@ And maybe there are other anxieties you can address throughout your page:
 {: .forces }
 
 [different-process]: {% post_url 2020-03-13-when-your-software-proposes-different-process %}
-[feedback-purplesoundstudios]: [% post_url 2020-04-10-productized-services-feedback-for-purplesoundstudios %}
+[feedback-purplesoundstudios]: {% post_url 2020-04-10-productized-services-feedback-for-purplesoundstudios %}
 [feature-anxiety]: {% post_url 2019-02-15-when-a-feature-is-not-a-feature %}
 [jtbd-intro]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
 [just-one-struggle]: {% post_url 2019-09-20-focus-on-just-one-struggle %}
