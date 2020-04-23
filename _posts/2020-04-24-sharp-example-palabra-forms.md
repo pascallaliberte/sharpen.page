@@ -4,7 +4,7 @@ title: "Sharp Example: Palabra Sign-Up Forms"
 categories: jtbd showcase
 tags: copywriting
 author: Pascal Laliberté
-image: /assets/images/posts/2020-04-27-sharp-example-palabra-forms.jpg
+image: /assets/images/posts/2020-04-24-sharp-example-palabra-forms.jpg
 published: true
 showcased:
   - palabra.io
@@ -43,7 +43,7 @@ To have flow, **make sure the questions raised by one part of the page are answe
 
 So here's an example that nails both the top, _and the flow_. There's a couple things I'd fix, but otherwise, this is **not only a sharp page, it's a surprising page too**. It's brilliant, you'll see.
 
-[![The top of the page doesn't need to focus on a struggle, since the audience has an established mindset for the solution. But it still addresses the struggle: nothing ugly please.](/assets/images/posts/2020-04-27-sharp-example-palabra-forms-01.jpg)][palabra-forms]
+[![The top of the page doesn't need to focus on a struggle, since the audience has an established mindset for the solution. But it still addresses the struggle: nothing ugly please.](/assets/images/posts/2020-04-24-sharp-example-palabra-forms-01.jpg)][palabra-forms]
 {: .img-zoom }
 
 [palabra-forms]: https://www.palabra.io/forms.html
@@ -58,7 +58,7 @@ Visitor reaction: "Go on, go on, I'm listening."
 
 So it gets the top right. And the flow? Well the visitor wants to scroll, so that's a good start. So let's scroll.
 
-[![The three steps... got it, scroll](/assets/images/posts/2020-04-27-sharp-example-palabra-forms-02.jpg)][palabra-forms]
+[![The three steps... got it, scroll](/assets/images/posts/2020-04-24-sharp-example-palabra-forms-02.jpg)][palabra-forms]
 {: .img-zoom }
 
 Then you see the three steps.
@@ -67,7 +67,7 @@ Visitor reaction: "Got it, _scrolls_"
 
 (**But these are interactive steps, not just instructional**. If the visitor wants to go for it, she'll scroll back here to try, no sweat.)
 
-[![Ah, ok, it demos the output and the options by allowing me to edit the code, smart](/assets/images/posts/2020-04-27-sharp-example-palabra-forms-03.jpg)][palabra-forms]
+[![Ah, ok, it demos the output and the options by allowing me to edit the code, smart](/assets/images/posts/2020-04-24-sharp-example-palabra-forms-03.jpg)][palabra-forms]
 {: .img-zoom }
 
 There's a demo with live code, also interactive. Not a screenshot, a mini code editor I can play with.
@@ -76,7 +76,7 @@ Visitor: "I'm re-assured, it's not going to inject a bunch of ugly styles I'll n
 
 And then, more proof:
 
-[![More proof it delivers on the "no ugly styles" promise](/assets/images/posts/2020-04-27-sharp-example-palabra-forms-04.jpg)][palabra-forms]
+[![More proof it delivers on the "no ugly styles" promise](/assets/images/posts/2020-04-24-sharp-example-palabra-forms-04.jpg)][palabra-forms]
 {: .img-zoom }
 
 Here, the page abundantly delivers on the "no ugly styles" promise. The main job-to-be-done is solved. Aside: No problem with the repitition here, because [long pages give you multiple chances communicate to those who will scroll anyway][long-pages].
@@ -107,7 +107,7 @@ So this is where I'd add something to quell a few of those anxieties:
 
 ## The Page Takes a Surprising Turn
 
-[![Reveal: it's not just to collect emails, it lets you send emails too.](/assets/images/posts/2020-04-27-sharp-example-palabra-forms-05.jpg)][palabra-forms]
+[![Reveal: it's not just to collect emails, it lets you send emails too.](/assets/images/posts/2020-04-24-sharp-example-palabra-forms-05.jpg)][palabra-forms]
 {: .img-zoom }
 
 Visitor reaction: "Wait, what? It's also a tool to compose emails?"
@@ -124,7 +124,7 @@ The page delivers on the main job-to-be-done, and then **surprises by addressing
 
 Then, the page closes by addressing pricing anxiety: it's free, but there are ways to scale up, and that's how they make they're money. Makes sense: what they really offer is a system to organize contacts, the product's other job-to-be-done.
 
-[![The page finishes with the pricing information](/assets/images/posts/2020-04-27-sharp-example-palabra-forms-06.jpg)][palabra-forms]
+[![The page finishes with the pricing information](/assets/images/posts/2020-04-24-sharp-example-palabra-forms-06.jpg)][palabra-forms]
 {: .img-zoom }
 
 So that's a sharp example of a great landing page. It addresses a real struggle with panache, and helps the visitor who scrolls with a page that flows. Just a few anxieties to addresses somewhere in the middle, and it's going to be rock solid.
