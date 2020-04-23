@@ -5,6 +5,7 @@ permalink: hello-indiehackers/
 articles_on_struggle: 
   - 2019-06-28-an-example-unconventional-landing-page
   - 2019-11-08-pain-dream-fix-and-jtbd
+  - 2020-04-17-best-order-of-elements-on-landing-page
   - 2019-06-07-re-writing-headings-that-just-highlight-benefits
   - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
 articles_on_communicating_struggle:
