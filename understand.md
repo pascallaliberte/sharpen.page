@@ -22,7 +22,7 @@ articles_on_adjusting:
 
 <div class="situation-quotes" markdown="1">
 
-> "We've gone through one-too-many sprints **building things we don't know will make a difference** for the buyer."
+> "We've been tweaking our product, our site, our marketing, **but we don't know if it makes a difference for the buyer**. We're a little bit in the dark, despite trying to understand our buyers."
 
 > "**Things aren’t selling as much as I’m hoping.** I interviewed some people but nothing really comes out of my research. I’m tempted to change my marketing, but I’ve tried that before and haven’t found an approach that works. I’ve been wasting my time and my attention trying to change my marketing approach, and I’d like to get some help with my research. **I know there’s something here, but I just can’t uncover it.**"
 
@@ -31,9 +31,9 @@ articles_on_adjusting:
 <div class="pitch-lead-up-block" markdown="1">
 <div class="situation-quotes" markdown="1">
 
-> "**People are cancelling our service**, and I’d like to stop the spigot if I could! I know what people are switching to, but I don’t want to match the competitor, I just want to know what makes us unique."
+> "**People are cancelling their subscription**, and I’d like to stop the spigot if I could! I know what people are switching to, but I don’t want to match the competitor, **I just want to know what makes us unique**."
 
-> "It’s been a month and a half since we shipped a feature we’ve spent 5 sprints building. And despite us educating our users about the feature, **the new feature is barely getting used!** Yet, we’ve heard from our users that this feature was needed. Something’s wrong with the way we’re finding features to build, and we’re sure it’s because we’re jumping to conclusions about what the user wants. Help!"
+> "It’s been a month and a half since we shipped a feature we’ve spent 5 sprints building. And despite us educating our users about the feature, **the new feature is barely getting used!** Yet, we’ve heard from our users that this feature was needed. Something’s wrong with the way we’re finding features to build, and we’re sure it’s because **we’re jumping to conclusions** about what the user wants. Help!"
 
 </div>
 </div>
@@ -41,7 +41,7 @@ articles_on_adjusting:
 <div class="pitch-lead-up-block" markdown="1">
 <div class="situation-quotes" markdown="1">
 
-> "**This current downturn is no joke**, but people are buying our product for surprising new use cases. And they don't seem to be motivated about the same things. Should we change our pitch, adjust our support channels too? Are they 'hiring' our product for a new 'job'?"
+> "This current downturn is no joke, but people are **buying our product for surprising new use cases**. And they don't seem to be motivated about the same things. **Should we change our pitch**, adjust our support channels too? Are they 'hiring' our product for a new 'job'?"
 
 </div>
 </div>
@@ -52,10 +52,10 @@ articles_on_adjusting:
 
 * Bizarre patterns in who’s been buying your product
 * Features that work more than expected, other features less than expected
-* An uptick in cancellations
-* A slowdown in sales
 * A surprising success you didn’t see coming
 * Support interactions that tell you there's a different kind of buyer all of a sudden
+* An uptick in cancellations
+* A slowdown in sales
 
 ## You've Started with Your Research
 
