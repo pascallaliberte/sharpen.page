@@ -1,7 +1,8 @@
 ---
 permalink: understand/
+image: /assets/images/understand-a-research-boost-focus-product.jpg
 layout: service
-title: Understand - A Research Boost To Focus Your Product Priorities
+title: '/understand - A Research Boost To Focus Your Product Priorities'
 articles_on_jtbd:
   - 2018-11-29-intro-to-jobs-to-be-done-through-examples
 articles_on_four_forces:
@@ -67,7 +68,7 @@ You've been talking to customers. You have more people you could talk to. But yo
 
 <div class="pitch-lead-up-block" markdown="1">
 
-It's now time for a little more research into your buyers.
+It's now time for deeper research into your buyers.
 
 </div>
 
@@ -105,7 +106,7 @@ It's now time for a little more research into your buyers.
 
 1. **You need to have recent buyers** who would be ready to talk about their purchase story on an hour-long call. 5 interviews minimum, but 10 is sufficient. **Or**, enough cancellations that we can talk to 5-10 recent people leaving your product.
 2. [Start by answering these questions {% include svg/caret-bottom.svg.html %}](#start){: .cta-btn }  below, so we can start getting to know each other and so I can understand how I can help. I'll write back with some more questions.
-3. Once I get a good sense of how I can be helpful, I'll provide you with a proposal with some options to go forward.
+3. Once I get a good sense of how I can be helpful, I'll provide you with a proposal with some options to go forward. Options start at a few thousand dollars.
 
 [twitter]: https://twitter.com/pascallaliberte
 
