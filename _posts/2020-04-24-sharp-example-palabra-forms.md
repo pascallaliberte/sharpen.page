@@ -79,7 +79,7 @@ And then, more proof:
 [![More proof it delivers on the "no ugly styles" promise](/assets/images/posts/2020-04-24-sharp-example-palabra-forms-04.jpg)][palabra-forms]
 {: .img-zoom }
 
-Here, the page abundantly delivers on the "no ugly styles" promise. The main job-to-be-done is solved. Aside: No problem with the repitition here, because [long pages give you multiple chances communicate to those who will scroll anyway][long-pages].
+Here, the page abundantly delivers on the "no ugly styles" promise. The main job-to-be-done is solved. Aside: No problem with the repetition here, because [long pages give you multiple chances to communicate to those who will scroll anyway][long-pages].
 
 [long-pages]: {% post_url 2019-05-17-how-long-landing-pages-make-calls-to-action-work %}
 
