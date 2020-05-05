@@ -44,7 +44,7 @@ It's a video-based course, and it's solid.
 
 [course-mastering-interviews]: https://learn.jobstobedone.org/courses/JTBDinterviews
 
-## Two Podcasts Episodes to Start
+## Two Podcast Episodes to Start
 
 If you're looking for something free to start learning, here are two podcasts I suggest starting with.
 
