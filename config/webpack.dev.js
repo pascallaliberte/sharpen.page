@@ -17,7 +17,7 @@ module.exports = Merge(CommonConfig, {
       {
         host: 'localhost',
         port: 3000,
-        proxy: 'http://localhost:9000',
+        proxy: 'http://localhost:9090',
         files: ['public', '_src'],
         snippetOptions: {
           rule: {
@@ -51,6 +51,6 @@ module.exports = Merge(CommonConfig, {
       path.resolve('public'),
     ],
     hot: true,
-    port: 9000
+    port: 9090
   },
 });
