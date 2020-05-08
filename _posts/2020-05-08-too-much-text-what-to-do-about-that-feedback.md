@@ -30,7 +30,7 @@ related_posts:
   - 2019-12-06-yeah-but-apple-intercom-have-features-benefits-pages
   - 2020-03-06-selling-when-times-are-rough
 excerpt:
-  "Too much text." How should you react when given this feedback about your marketing page? I'd say disregard it, because your actual visitors have a different brain mode coming to your site. Still, there are things you could do to make your wordy page work better, which I go over. Keep your wordy page!
+  "'Too much text.' How should you react when given this feedback about your marketing page? I'd say disregard it, because your actual visitors have a different brain mode coming to your site. Still, there are things you could do to make your wordy page work better, which I go over. Keep your wordy page!"
 ---
 
 You've created a landing page for your service or your product, and when you ask around for feedback, you get this:
