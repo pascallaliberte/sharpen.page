@@ -1,9 +1,9 @@
 {%- if include.post %}{% assign post = include.post %}{% endif -%}
 <div class="post__title">
-  <a class="blog__link" href="{{ post.url | relative_url }}" data-target="articles-list.article" data-categories="{{ post.categories | join:' ' | downcase }} {{ post.tags | join:' ' | downcase }}">
+  <a class="blog__link {% if include.showcase %}highlight{% endif %}" href="{{ post.url | relative_url }}" data-target="articles-list.article" data-categories="{{ post.categories | join:' ' | downcase }} {{ post.tags | join:' ' | downcase }}">
     <span class="post__title__decoration">{{ post.title | escape }}</span>
     {% unless post.showcased.size == 1 and post.title contains post.showcased[0] %}
-      {% if page.layout == "blog" and post.showcased and post.showcased.size > 0 %}
+      {% if (page.layout == "blog" or include.showcase) and post.showcased and post.showcased.size > 0 %}
       <span class="post__showcasing">
         Showcasing:
         {% if post.showcased.size == 1 %}
