@@ -2,6 +2,7 @@
 layout: post
 title: "Purchase Interview: Two Ebooks Purchased Together"
 categories: jtbd purchase-interview
+tags: research
 author: Pascal Laliberté
 image: /assets/images/posts/2019-03-01-two-ebooks-purchased-together.jpg
 ---

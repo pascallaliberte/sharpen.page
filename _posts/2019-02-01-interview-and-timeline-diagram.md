@@ -2,7 +2,7 @@
 layout: post
 title: "The Interview and the Timeline Diagram"
 categories: jtbd
-tags: purchase-interview jtbd-basics
+tags: purchase-interview research jtbd-basics
 author: Pascal Laliberté
 image: /assets/images/posts/2019-02-01-interview-and-timeline-diagram.jpg
 ---
