@@ -682,6 +682,23 @@
     font-style: italic;
     text-align: center;
   }
+  
+  ul.painstorming {
+    list-style: none;
+    padding-left: rem(15px);
+    font-size: rem(15px);
+    font-family: $primary-font-family;
+    color: $color-grey;
+    line-height: (17 / 15);
+  }
+  ul.painstorming-words {
+    list-style: none;
+    border-left: rem(2px) dotted transparentize($color-grey, 0.5);
+    background: transparentize(white, 0.5);
+    max-width: rem(350px);
+    padding-top: rem(8px);
+    padding-bottom: rem(8px);
+  }
 }
 
 .main-content .post-list {

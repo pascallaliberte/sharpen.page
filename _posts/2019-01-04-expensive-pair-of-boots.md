@@ -2,6 +2,7 @@
 layout: post
 title: "Purchase Interview: $450 Pair of Winter Boots"
 categories: jtbd purchase-interview
+tags: research
 author: Pascal Laliberté
 image: /assets/images/posts/2019-01-04-expensive-pair-of-boots.jpg
 ---

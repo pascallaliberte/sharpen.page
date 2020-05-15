@@ -2,7 +2,7 @@
 layout: post
 title: "How to Select Buyers for Purchase Story Interviews"
 categories: jtbd
-tags: purchase-interview jtbd-basics
+tags: purchase-interview research jtbd-basics
 author: Pascal Laliberté
 image: /assets/images/posts/2019-03-29-how-to-select-buyers-for-purchase-story-interviews.jpg
 ---

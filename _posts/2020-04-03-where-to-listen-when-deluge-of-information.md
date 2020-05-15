@@ -16,6 +16,8 @@ watering_holes_filters:
     name: Paid
   - value: product
     name: Product Community
+  - value: freelancing
+    name: Freelancing
   - value: slack
     name: Slack
   - value: forum
@@ -125,6 +127,8 @@ So here's a list, alphabetized, of some of the online communities that I've foun
     {% unless forloop.last %} • {% endunless %}
   {% endfor %}
 </div>
+
+_UPDATE May 14, 2020: Added `Freelancing` filter, added r/freelance, removed one that's now closed_
 
 _(Note: Thinking this list is missing something? let me know on Twitter [@pascallaliberte][twitter].)_
 

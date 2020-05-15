@@ -2,7 +2,7 @@
 layout: post
 title: "When I Suspect My Product Is Purchased for New Use Cases"
 categories: jtbd optimize
-tags: recession purchase-interview jtbd-basics
+tags: recession purchase-interview research jtbd-basics
 author: Pascal Laliberté
 image: /assets/images/posts/2020-03-27-when-my-product-is-purchased-for-new-use-cases.jpg
 published: true
