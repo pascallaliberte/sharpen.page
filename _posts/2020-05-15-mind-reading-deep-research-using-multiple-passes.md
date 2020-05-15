@@ -303,7 +303,9 @@ Here are some of the more interesting bits that I got from this exercise:
 
 1. **Retail therapy:** Customers go shop online as a way to blow off steam, which could signal a kind of baseline of online activity will remain throughout downturns.
 1. **Exhaustion causes shop owners to delay improving logictics, [interviewing customers](/understand), or analyzing traffic:** This might be an opportunity for some specialty informational products coupled with consulting service offerings.
-1. **Apps:** There might be some apps (and plugins) that would normally not get much attention, but that are now being tried for the new situation. I'd dig in the Shopify community site for online discussions of people describing struggles around customizing their stores with those apps. I'd look into payment options, installments, subscriptions and the site integration workflow around those.
+1. **Apps:** There might be some apps (and plugins) that would normally not get much attention, but that are now being tried for the new situation. I'd dig in the [Shopify community site][shopify-community] for online discussions of people describing struggles around customizing their stores with those apps. I'd look into payment options, installments, subscriptions and the site integration workflow around those.
+
+[shopify-community]: https://community.shopify.com/
 
 ---
 
