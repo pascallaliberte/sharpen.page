@@ -84,7 +84,7 @@ Even before I get to the page, I put myself in a mode of looking for what needs 
 
 That brain mode **is not the brain mode your actual buyers have when coming to your site**.
 
-This is important. When usability researchers conduct tests with real users, they make sure to avoid this _creative_ brain mode at all costs. They painstakingly make sure to put the test participant in a real situation where they have to accomplish a task. They ask questions like "tell me about what's going through your mind, out loud, as much as possible". There's a very good reason for this. They want to simulate _reality_ and they want to understand people's unconcsious reactions by verbalizing them.
+This is important. When usability researchers conduct tests with real users, they make sure to avoid this _creative_ brain mode at all costs. They painstakingly make sure to put the test participant in a real situation where they have to accomplish a task. They ask questions like "tell me about what's going through your mind, out loud, as much as possible". There's a very good reason for this. They want to simulate _reality_ and they want to understand people's unconscious reactions by verbalizing them.
 
 **In reality**, your visitors are not in a critiquing/creative mindset when coming to your page, **they're in a transactional mindset when coming to your site.** And there's a lot of messy stuff going on internally that they're not verbalizing.
 
