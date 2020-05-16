@@ -2,7 +2,7 @@
 layout: post
 title: "Sharp Example: Palabra Sign-Up Forms"
 categories: jtbd showcase
-tags: copywriting
+tags: copywriting struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2020-04-24-sharp-example-palabra-forms.jpg
 published: true

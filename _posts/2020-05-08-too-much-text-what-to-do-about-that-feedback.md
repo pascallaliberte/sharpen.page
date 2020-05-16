@@ -2,7 +2,7 @@
 layout: post
 title: '"Too Much Text": What to Do About that Feedback'
 categories: jtbd copywriting
-tags: showcase optimizing
+tags: showcase optimizing struggle-first
 showcased:
   - simplifychange.co.uk
 author: Pascal Laliberté

@@ -2,7 +2,7 @@
 layout: post
 title: "Four Ways to Tell Your Visitors 'There's a Better Way'"
 categories: jtbd copywriting
-tags: showcase
+tags: showcase struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2019-12-13-four-ways-to-say-theres-a-better-way.jpg
 published: true

@@ -2,7 +2,7 @@
 layout: post
 title: But How Will This Affect My Bounce Rate?
 categories: jtbd copywriting
-tags: optimize
+tags: optimize struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2019-11-22-bounce-rate-overrated.jpg
 published: true

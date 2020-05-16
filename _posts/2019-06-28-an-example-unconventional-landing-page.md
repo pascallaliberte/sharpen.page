@@ -2,7 +2,7 @@
 layout: post
 title: "An Example Of An Unconventional Landing Page"
 categories: jtbd copywriting
-tags: showcase
+tags: showcase struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2019-06-28-an-example-unconventional-landing-page.jpg
 showcased:

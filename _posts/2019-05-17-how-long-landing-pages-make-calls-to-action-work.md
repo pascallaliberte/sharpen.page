@@ -2,6 +2,7 @@
 layout: post
 title: "How Long Landing Pages Make Calls-To-Action Work"
 categories: jtbd copywriting
+tags: struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2019-05-17-how-long-landing-pages-make-calls-to-action-work.jpg
 ---

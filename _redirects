@@ -1,3 +1,4 @@
 # Redirect with a 301
 /jtbd         /              301
 /prioritize   /understand    301
+/services     /offerings     301

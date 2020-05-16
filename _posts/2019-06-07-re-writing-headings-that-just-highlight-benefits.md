@@ -2,7 +2,7 @@
 layout: post
 title: "Re-writing Headings That Just Highlight The Benefits"
 categories: jtbd copywriting
-tags: showcase
+tags: showcase struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2019-06-07-re-writing-headings-that-just-highlight-benefits.jpg
 showcased:

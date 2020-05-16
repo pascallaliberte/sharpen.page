@@ -50,13 +50,13 @@
   }
 }
 
-.services, .service {
+.offerings, .service {
   .main-content {
     padding-bottom: rem(300px);
   }
 }
 
-.services {
+.offerings {
   @media (min-width: $reference-width-md-until) {
     main {
       display: flex;

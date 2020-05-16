@@ -1,8 +1,8 @@
 ---
-permalink: services/
+permalink: offerings/
 layout: page
 title: What I Offer
-class: services
+class: offerings
 ---
 
 **I help sharpen your understanding of the buyer, and sharpen how it's presented**.
@@ -43,6 +43,10 @@ CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the
 ## [/articles](/articles)
 
 **Free**, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Be sure to filter by topics.
+
+## [/struggle-first](/struggle-first)
+
+**Free**, a collection of articles on creating a Struggle-First marketing/landing page for your product or service. The kind of page to make when your thing helps a real struggle, but your audience doesn't have an established mindset about the solution yet.
 
 ## [/your-purchase-story](/your-purchase-story)
 

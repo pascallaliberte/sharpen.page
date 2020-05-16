@@ -30,7 +30,7 @@ Hi, I'm Pascal Laliberté. Thanks for following the link from my [IndieHackers][
 
 [ih-profile]: https://www.indiehackers.com/pascallaliberte
 
-I do Product Sharpening, helping modest online companies sharpen what they have to offer. Also, if you're a freelancer, I can help you sharpen your own service offerings too. **I do this by understanding your buyer, and then by sharpening your pitch pages.** Check out my [list of services](services/) to learn more.
+I do Product Sharpening, helping modest online companies sharpen what they have to offer. Also, if you're a freelancer, I can help you sharpen your own service offerings too. **I do this by understanding your buyer, and then by sharpening your pitch pages.** Check out my [list of services](offerings/) to learn more.
 
 Specifically, if you're a product team and you've hit a point where more features don't equate with more sales, please check out my [**/understand**](/understand) package. Stop building and building, and start digging into [purchase stories][purchase-story].
 

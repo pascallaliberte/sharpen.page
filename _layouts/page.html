@@ -10,7 +10,7 @@ class: page
     <div class="service-slug">
       {% for part in parts %}
         {% if forloop.last == true %}
-          {{ part }} /
+          {{ part }}
         {% else %}
           <a href="/{{ part }}">{{ part }}</a> /
         {% endif %}
