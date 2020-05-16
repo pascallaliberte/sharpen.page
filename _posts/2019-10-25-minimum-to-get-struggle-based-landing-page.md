@@ -2,7 +2,7 @@
 layout: post
 title: What's the Minimum to Make My Landing Page Communicate I Understand the Struggle?
 categories: jtbd copywriting
-tags: consulting
+tags: consulting struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2019-10-25-minimum-to-get-struggle-based-landing-page.jpg
 published: true

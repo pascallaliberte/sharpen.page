@@ -2,6 +2,7 @@
 layout: post
 title: "How Can I Improve The Design Of This Landing Page Without Too Much Effort?"
 categories: jtbd copywriting
+tags: struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2019-06-14-how-can-i-improve-landing-page-without-too-much-effort.jpg
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Five Ways to Rejig a Product Page When It Doesn't Lead To Enough Sales"
 categories: jtbd
+tags: struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2019-04-18-five-ways-to-tweak-product-page-to-convert.jpg
 ---

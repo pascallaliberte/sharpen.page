@@ -2,7 +2,7 @@
 layout: post
 title: "Yeah but Apple and Intercom Design Their Pages Using Features and Benefits"
 categories: jtbd copywriting
-tags: showcase
+tags: showcase struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2019-12-06-yeah-but-apple-intercom-have-features-benefits-pages.jpg
 published: true

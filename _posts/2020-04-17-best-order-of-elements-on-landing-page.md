@@ -2,7 +2,7 @@
 layout: post
 title: "The Best Order of Elements For Your Landing Page"
 categories: jtbd optimize
-tags: copywriting
+tags: copywriting struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2020-04-17-best-order-of-elements-on-landing-page.jpg
 published: true
