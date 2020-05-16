@@ -492,3 +492,54 @@ ol.page-structure {
     }
   }
 }
+
+.img-zoom {
+  
+  img {
+    display: block;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
+  &.two-up {
+    @include clearfix;
+    
+    @media (min-width: $reference-width-xs-until) {
+      .left {
+        float: left;
+        width: 49.5%;
+      }
+      .right {
+        clear: none;
+        float: right;
+        width: 49.5%;
+        margin-left: 1%;
+      }
+    }
+  }
+  
+  @media (min-width: $reference-width-xs-until) {
+    margin-left: rem(-100px);
+    margin-right: rem(-120px);
+    background: transparentize(white, 0.5);
+    padding: rem(6px);
+    
+    figcaption {
+      margin: rem(6px);
+    }
+  }
+  
+  @media (max-width: $reference-width-md-until) {
+    margin-left: rem(-60px);
+    margin-right: rem(-150px);
+  }
+  
+  @media (max-width: $reference-width-xs-until) {
+    margin-left: rem(-30px);
+    margin-right: rem(-30px);
+    background: transparentize(white, 0.5);
+    padding: rem(6px 0);
+  }
+}
