@@ -4,9 +4,9 @@ layout: page
 title: Creating Struggle-First Pages
 show_breadcrumb: true
 articles_example_sites:
-  - 2020-04-24-sharp-example-palabra-forms
-  - 2019-11-01-sharp-example-applicationemail
   - 2019-06-28-an-example-unconventional-landing-page
+  - 2019-11-01-sharp-example-applicationemail
+  - 2020-04-24-sharp-example-palabra-forms
 articles_structuring_page:
   - 2020-04-17-best-order-of-elements-on-landing-page
   - 2019-11-08-pain-dream-fix-and-jtbd
@@ -89,7 +89,9 @@ If that's the case, it's a safe bet that you'll benefit from a Struggle-First pa
 
 ---
 
-So here are some articles from this site that are a good starting point to learn about this Struggle-First page. Just so you know, every [/offerings](/offerings) page I've got on this site is an example of a Struggle-First page.
+So here are some articles from this site that are a good starting point to learn about this Struggle-First page. Just so you know, [every](/understand) [service](/stepitup) [page](/visualize) I've got on this site is an example of a Struggle-First page.
+
+**What does a Struggle-First page look like?** Well, spoiler alert, you start the page by **showing the visitor you understand their struggle** so they react by saying "I feel understood!" That's it? Well, actually, you continue showing the visitor you understand their struggle some more... Check these articles, and you'll see.
 
 ## Articles with Example Sites
 
