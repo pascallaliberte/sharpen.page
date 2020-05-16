@@ -1,8 +1,8 @@
 ---
-permalink: services/
+permalink: offerings/
 layout: page
 title: What I Offer
-class: services
+class: offerings
 ---
 
 **I help sharpen your understanding of the buyer, and sharpen how it's presented**.

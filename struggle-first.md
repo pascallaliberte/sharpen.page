@@ -89,7 +89,7 @@ If that's the case, it's a safe bet that you'll benefit from a Struggle-First pa
 
 ---
 
-So here are some articles from this site that are a good starting point to learn about this Struggle-First page. Just so you know, every [/services](/services) page I've got on this site is an example of a Struggle-First page.
+So here are some articles from this site that are a good starting point to learn about this Struggle-First page. Just so you know, every [/offerings](/offerings) page I've got on this site is an example of a Struggle-First page.
 
 ## Articles with Example Sites
 
