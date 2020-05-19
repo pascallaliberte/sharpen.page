@@ -35,6 +35,8 @@ articles_improving:
 
 Well: **a Struggle-First page is what you'll likely be making.**
 
+_([Skip directly to some articles to learn more](#learn) or read here for why you'd consider a Struggle-First page)_
+
 ---
 
 ## Your Generic "Features and Benefits" Page Doesn't Seem to Work
@@ -84,6 +86,7 @@ But now that Intercom has _created_ the market, **there's an established mindset
 See what I mean? Established mindset. Do you have it for your product?
 
 ## I Don't Think There's an Established Mindset for My Product
+{: #learn }
 
 If that's the case, it's a safe bet that you'll benefit from a Struggle-First page for your product or service.
 
