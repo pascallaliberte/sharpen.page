@@ -35,7 +35,7 @@ articles_improving:
 
 Well: **a Struggle-First page is what you'll likely be making.**
 
-_([Skip directly to some articles to learn more](#learn) or read here for why you'd consider a Struggle-First page)_
+_([Skip down to the goods](#learn) or read here for why you'd consider a Struggle-First page)_
 
 ---
 
@@ -111,6 +111,16 @@ So here are some articles from this site that are a good starting point to learn
 ## Articles on Improving a Struggle-First Page
 
 {% include adhoc-post-list.html post_ids=page.articles_improving %}
+
+## Videos
+
+Coming soon, I'm going to start making **videos on creating these Struggle-First pages**.
+
+* Using Squarespace
+* Using Wix
+* Using Webflow
+* Using WordPress with Divi
+* ...
 
 ---
 
