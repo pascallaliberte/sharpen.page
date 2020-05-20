@@ -126,7 +126,7 @@ It's now time for deeper research into your buyers.
 
 This is based on the **Jobs-to-be-done Theory of Buyer Behavior**, pioneered by Clayton Christensen, Bob Moesta and Chris Spiek from the Re-Wired group, Alan Klement and others, **which states that**:
 
-{% include components/aside-note.html text="I'm assuming here you'd rather do this work yourself. But if you just want to get it done by someone like me, [skip down to the questionnaire to get started](#start)" %}
+{% include components/aside-note.html text="I'm assuming here you're curious about how to do this work yourself. But if you just want to get it done by someone like me, [skip down to the questionnaire to get started](#start)" %}
 
 ### Your Buyers Just Wanted to Make Progress
 
