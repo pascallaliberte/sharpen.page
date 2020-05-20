@@ -39,6 +39,22 @@ See: [When Struggle-First Pages Beat "Features and Benefits" Pages](/struggle-fi
 
 ---
 
+## Videos
+
+Coming soon, I'm going to start making **videos on creating these Struggle-First pages**.
+
+* Using Squarespace
+* Using Wix
+* Using Webflow
+* Using WordPress with Divi
+* ...
+
+I'll be posting these on [YouTube][youtube], [Twitter][twitter] and I'll mention them in my [newsletter](#be-notified) too.
+
+[youtube]: https://www.youtube.com/channel/UCo2CttXwSgcaEmrTsALqS-A
+
+## Articles
+
 Here are some articles from this site that are a good starting point to learn about this Struggle-First page. Just so you know, [every](/understand) [service](/stepitup) [page](/visualize) I've got on this site is an example of a Struggle-First page.
 
 **What does a Struggle-First page look like?** Well, spoiler alert, you start the page by **showing the visitor you understand their struggle** so they react by saying "I feel understood!" That's it? Well, actually, you continue showing the visitor you understand their struggle some more... Check these articles, and you'll see.
@@ -59,16 +75,6 @@ Here are some articles from this site that are a good starting point to learn ab
 
 {% include adhoc-post-list.html post_ids=page.articles_improving %}
 
-## Videos
-
-Coming soon, I'm going to start making **videos on creating these Struggle-First pages**.
-
-* Using Squarespace
-* Using Wix
-* Using Webflow
-* Using WordPress with Divi
-* ...
-
 ---
 
 Hope that helps!
@@ -80,6 +86,5 @@ Ottawa, Ontario, Canada
 Find me on [Twitter][twitter] or sign-up to be notified of new articles:
 
 [twitter]: https://twitter.com/pascallaliberte
-[linkedin]: https://www.linkedin.com/in/pascallaliberte/ 
 
 {% include email-sign-up-form.html %}
