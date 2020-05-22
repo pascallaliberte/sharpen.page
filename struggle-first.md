@@ -43,7 +43,7 @@ See: [When Struggle-First Pages Beat "Features and Benefits" Pages](/struggle-fi
 
 Coming soon, I'm going to start making **videos on creating these Struggle-First pages**.
 
-* Using Squarespace
+* [Using Squarespace](https://www.youtube.com/watch?v=wdAUs5TZohY)
 * Using Wix
 * Using Webflow
 * Using WordPress with Divi
