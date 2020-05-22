@@ -3,6 +3,14 @@ layout: post
 title: A Bunch of Example Landing Pages With (Mostly) Just Text
 categories: jtbd
 tags: showcase struggle-first
+showcased:
+  - megcumby.com
+  - fixmyfuckingproject.com
+  - applicationemail.com
+  - 30x500.com
+  - freelance.camp
+  - codewithjason.com
+  - clean-ruby.com
 author: Pascal Laliberté
 image: /assets/images/posts/2020-05-22-bunch-of-example-landing-pages-with-mostly-just-text.jpg
 published: true
