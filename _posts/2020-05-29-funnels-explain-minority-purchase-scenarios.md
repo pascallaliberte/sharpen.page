@@ -143,4 +143,4 @@ With those insights, you'll be itching to go back to modelling, back to analytic
 
 Stay Sharp!
 
-_P.S. Want to see what it's like to be interviewed for a purchase story interview? I'm on the lookout for [recent purchasers to interview for the blog](/your-purchase-story)._
+_P.S. Want to see what it's like to be interviewed for a purchase story interview? I'm on the lookout for [recent purchasers to interview](/your-purchase-story) for the blog._
