@@ -53,11 +53,13 @@ You dig into your analytics, but you can't find the answers.
 [confidence]: {% post_url 2019-04-04-product-ready-to-launch %}
 [not-yet-product]: {% post_url 2019-11-29-product-yes-no-or-not-yet %}
 
-In a way, you [don't have enough traffic to run experiments][how-much-traffic], and your analytics alone can't be modelled to give you the whole story.
+Multiple funnels describing multiple pathways? Behavorial analytics and heat maps? You know you could go in that direction.
+
+But at the stage you're at, your analytics alone can't be modelled to give you the whole story, not with your constraints. You [don't have enough traffic to run experiments][how-much-traffic]. You can't wait months to get behavorial analytics to show some clues.
 
 [how-much-traffic]: {% post_url 2019-07-05-how-much-traffic-needed-to-start-ab-testing %}
 
-And there's a reason you've stayed in analytics-land. That's because you've seen mixed results going to the other side: the qualitative side didn't have enough hard truths.
+But there's a reason you've stayed in analytics-land, up till now. That's because you've seen mixed results going to the other side: the qualitative side didn't have enough hard truths.
 
 ## Getting Qualitative, Only With Actual _Reality_
 
@@ -137,6 +139,8 @@ No need to try to feed each interaction into that one funnel. No need to minimiz
 
 Just make sure you know the job-to-be-done each thing you have is hired to do, make them solidly answer those jobs, and boom. [Value-ladder](/stepitup).
 
-Stay Sharp.
+With those insights, you'll be itching to go back to modelling, back to analytics. This time, you'll come back with a new dose of reality.
+
+Stay Sharp!
 
 _P.S. Want to see what it's like to be interviewed for a purchase story interview? I'm on the lookout for [recent purchasers to interview for the blog](/your-purchase-story)._
