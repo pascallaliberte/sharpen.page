@@ -46,7 +46,7 @@ CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the
 
 ## [/struggle-first](/struggle-first)
 
-**Free**, a collection of articles on creating a Struggle-First marketing/landing page for your product or service. The kind of page that your visitor responds to by saying "I feel understood!". Useful when your thing helps a real struggle, but your audience doesn't have an established mindset about the solution yet.
+**Free**, a collection of videos and articles on creating a Struggle-First marketing/landing page for your product or service. The kind of page that your visitor responds to by saying "I feel understood!". Useful when your thing helps a real struggle, but your audience doesn't have an established mindset about the solution yet.
 
 ## [/your-purchase-story](/your-purchase-story)
 
