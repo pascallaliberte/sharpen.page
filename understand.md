@@ -23,7 +23,9 @@ articles_on_adjusting:
 
 <div class="situation-quotes" markdown="1">
 
-> "We've been tweaking our product, our site, our marketing, **but we don't know if it makes a difference for the buyer**. We're a little bit in the dark, despite trying to understand our buyers."
+> "We've been tweaking our product, our site, our marketing, **but we don't know if it makes a difference for the buyer**. [Our funnel only explains a fraction of purchase behaviors][funnel]. We're a little bit in the dark, despite trying to understand our buyers."
+
+[funnel]: {% post_url 2020-05-29-funnels-explain-minority-purchase-scenarios %}
 
 > "**Things aren’t selling as much as I’m hoping.** I interviewed some people but nothing really comes out of my research. I’m tempted to change my marketing, but I’ve tried that before and haven’t found an approach that works. I’ve been wasting my time and my attention trying to change my marketing approach, and I’d like to get some help with my research. **I know there’s something here, but I just can’t uncover it.**"
 
@@ -42,7 +44,9 @@ articles_on_adjusting:
 <div class="pitch-lead-up-block" markdown="1">
 <div class="situation-quotes" markdown="1">
 
-> "This current downturn is no joke, but people are **buying our product for surprising new use cases**. And they don't seem to be motivated about the same things. **Should we change our pitch**, adjust our support channels too? Are they 'hiring' our product for a new 'job'?"
+> "This current downturn is no joke, but people are **buying our product for [surprising new use cases][new-use-cases]**. And they don't seem to be motivated about the same things. **Should we change our pitch**, adjust our support channels too? Are they 'hiring' our product for a new 'job'?"
+
+[new-use-cases]: {% post_url 2020-03-27-when-my-product-is-purchased-for-new-use-cases %}
 
 </div>
 </div>
