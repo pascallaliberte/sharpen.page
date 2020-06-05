@@ -123,6 +123,8 @@ Here's what I have to offer:
 
 **[/stepitup](/stepitup#details) -- For your service business, a monthly retainer to evolve your site to include a value-ladder of options** (a bit like these options I'm listing here). Each month, we sharpen your site in one meaningful way, and we sharpen your understanding of your buyers via some research. Plus you get my availability to get answers to your questions, learn what I'm finding on the web, hang out in your Slack. If you've already got a good idea of the struggle of your buyer and just need one page done, I've got a one-pager option too.
 
+**[/struggle-first](/struggle-first)** - **Free**, a collection of videos and articles on creating a Struggle-First marketing/landing page for your product or service. The kind of page that your visitor responds to by saying "I feel understood!". Useful when your thing helps a real struggle, but your audience doesn't have an established mindset about the solution yet.
+
 **[/articles](/articles)** - **Free**, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Sign-up below.
 
 **[/your-purchase-story](/your-purchase-story)** - **I pay _you_ USD $60** for you to tell me a recent purchase story. I'm looking for a time you hesitated a lot, purchased it for yourself, and a few other things I'm looking for. I might blog about your story too (names and details removed), but that's basically the deal.

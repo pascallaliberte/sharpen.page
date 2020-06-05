@@ -40,13 +40,13 @@ CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the
 
 ---
 
-## [/articles](/articles)
-
-**Free**, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Be sure to filter by topics.
-
 ## [/struggle-first](/struggle-first)
 
 **Free**, a collection of videos and articles on creating a Struggle-First marketing/landing page for your product or service. The kind of page that your visitor responds to by saying "I feel understood!". Useful when your thing helps a real struggle, but your audience doesn't have an established mindset about the solution yet.
+
+## [/articles](/articles)
+
+**Free**, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Be sure to filter by topics.
 
 ## [/your-purchase-story](/your-purchase-story)
 
