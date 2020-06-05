@@ -45,7 +45,7 @@ Coming soon, I'm going to start making **videos on creating these Struggle-First
 
 * [Using Squarespace](https://www.youtube.com/watch?v=wdAUs5TZohY)
 * [Using Wordpress.com with the New Block Editor](https://www.youtube.com/watch?v=cRBYcimpR3w)
-* **Up next:** Using Carrd.co
+* [Using Carrd.co](https://www.youtube.com/watch?v=a0GP_M3U6-g)
 * Using Webflow
 * Using Wix
 * Using WordPress with Divi
