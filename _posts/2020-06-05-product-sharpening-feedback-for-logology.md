@@ -160,3 +160,7 @@ So all in all a product that starts off by addressing some core Forces of Progre
 _Itself_.
 
 Stay Sharp!
+
+_Update: I'm having a [chat with the app designers in this thread][thread] if you'd like to chime in._
+
+[thread]: https://discuss.bootstrapped.fm/t/logology-co-the-logo-maker-for-design-lovers/6952
