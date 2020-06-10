@@ -5,6 +5,20 @@ categories: jtbd
 tags: jtbd-basics
 author: Pascal Laliberté
 image: /assets/images/posts/2018-12-06-forces-of-progress-in-purchase-decision.jpg
+related_posts:
+  - 2020-04-17-best-order-of-elements-on-landing-page
+  - 2019-12-13-four-ways-to-say-theres-a-better-way
+  - 2019-11-22-bounce-rate-overrated
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2019-09-20-focus-on-just-one-struggle
+  - 2019-09-06-hard-struggle-required
+  - 2019-06-28-an-example-unconventional-landing-page
+  - 2019-06-20-i-dont-know-if-my-page-is-good
+  - 2019-04-18-five-ways-to-tweak-product-page-to-convert
+  - 2018-12-17-universal-competitor
+  - 2019-01-10-changing-orbit-selling-your-idea
+  - 2019-01-25-industry-standard-pricing-no-such-thing
+  - 2019-02-15-when-a-feature-is-not-a-feature
 ---
 
 Ever wonder what happens in the mind of a person right before they decide to buy something?
