@@ -24,69 +24,173 @@ layout: empty
     position: absolute;
     top: 28.5%; bottom: 28.5%;
     left: 30.4%; right: 30.4%;
+    z-index: 0;
+    pointer-events: none;
     
     --x-offset: 9.375%;
     --x-gap: 3.7946%;
     --y-offset: 5%;
   }
   
-  div.force-struggle svg {
+  div.force .scalable {
     position: absolute;
+    z-index: 10;
+    pointer-events: auto;
+  }
+  
+  div.force-struggle .scalable {
     right: calc(50% - var(--x-offset) + var(--x-gap));
     bottom: calc(50% + var(--y-offset));
   }
   
-  div.force-attraction svg {
-    position: absolute;
+  div.force-attraction .scalable {
     left: calc(50% + var(--x-offset) + var(--x-gap));
     bottom: calc(50% + var(--y-offset));
   }
   
-  div.force-anxieties svg {
-    position: absolute;
+  div.force-anxieties .scalable {
     left: calc(50% - var(--x-offset) + var(--x-gap));
     top: calc(50% + var(--y-offset));
   }
   
-  div.force-habits svg {
-    position: absolute;
+  div.force-habits .scalable {
     right: calc(50% + var(--x-offset) + var(--x-gap));
     top: calc(50% + var(--y-offset));
   }
   
-  div.force svg {
+  div.force .scalable {
     transition: transform 0.2s ease;
   }
   
-  div.force-struggle   svg { transform-origin: bottom right; }
-  div.force-attraction svg { transform-origin: bottom left; }
-  div.force-anxieties  svg { transform-origin: top left; }
-  div.force-habits     svg { transform-origin: top right; }
+  div.force-struggle   .scalable { transform-origin: bottom right; }
+  div.force-attraction .scalable { transform-origin: bottom left; }
+  div.force-anxieties  .scalable { transform-origin: top left; }
+  div.force-habits     .scalable { transform-origin: top right; }
   
-  div.force[data-size="1"] svg { transform: scale(1.1) }
-  div.force[data-size="2"] svg { transform: scale(1.2) }
-  div.force[data-size="3"] svg { transform: scale(1.3) }
-  div.force[data-size="4"] svg { transform: scale(1.4) }
+  div.force .scalable[data-size="1"] { transform: scale(1.1) }
+  div.force .scalable[data-size="2"] { transform: scale(1.2) }
+  div.force .scalable[data-size="3"] { transform: scale(1.3) }
+  div.force .scalable[data-size="4"] { transform: scale(1.4) }
   
-  div.force[data-size="-1"] svg { transform: scale(0.9) }
-  div.force[data-size="-2"] svg { transform: scale(0.8) }
-  div.force[data-size="-3"] svg { transform: scale(0.7) }
-  div.force[data-size="-4"] svg { transform: scale(0.6) }
+  div.force .scalable[data-size="-1"] { transform: scale(0.9) }
+  div.force .scalable[data-size="-2"] { transform: scale(0.8) }
+  div.force .scalable[data-size="-3"] { transform: scale(0.7) }
+  div.force .scalable[data-size="-4"] { transform: scale(0.6) }
+  
+  .btn {
+    padding: 0;
+    margin: 0;
+    border: none;
+  }
+  
+  .btn-invisible {
+    background: none;
+  }
+  
+  .full-size {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .p-abs {
+    position: absolute;
+  }
+  
+  .p-abs.full-size {
+    top: 0; right: 0; bottom: 0; left: 0;
+  }
+  
+  .no-btn-div {
+    z-index: 1;
+  }
+  
+  .btn-decrease {
+    width: 40%;
+    height: 45%;
+    z-index: 2;
+  }
+  
+  div.force-struggle   .btn-decrease { right: 0; bottom: 0; }
+  div.force-attraction .btn-decrease { left: 0; bottom: 0; }
+  div.force-anxieties  .btn-decrease { left: 0; top: 0; }
+  div.force-habits     .btn-decrease { right: 0; top: 0; }
+  
+  div.force-struggle   .no-btn-div, div.force-struggle   .btn-decrease { border-top-left-radius: 100%; }
+  div.force-attraction .no-btn-div, div.force-attraction .btn-decrease { border-top-right-radius: 100%; }
+  div.force-anxieties  .no-btn-div, div.force-anxieties  .btn-decrease { border-bottom-right-radius: 100%; }
+  div.force-habits     .no-btn-div, div.force-habits     .btn-decrease { border-bottom-left-radius: 100%; }
 </style>
 
 <div class="diagram-container">
   <div class="diagram">
-    <div class="force force-struggle" data-size="">
-      {% include_relative force-struggle.svg %}
+    <div class="force force-struggle">
+      <div class="scalable full-size" data-behavior="scalable" data-size="">
+        {% include_relative force-struggle.svg %}
+      </div>
     </div>
-    <div class="force force-attraction" data-size="">
-      {% include_relative force-attraction.svg %}
+    <div class="force force-attraction">
+      <div class="scalable full-size" data-behavior="scalable" data-size="">
+        {% include_relative force-attraction.svg %}
+      </div>
     </div>
-    <div class="force force-anxieties" data-size="">
-      {% include_relative force-anxieties.svg %}
+    <div class="force force-anxieties">
+      <div class="scalable full-size" data-behavior="scalable" data-size="">
+        {% include_relative force-anxieties.svg %}
+      </div>
     </div>
-    <div class="force force-habits" data-size="">
-      {% include_relative force-habits.svg %}
+    <div class="force force-habits">
+      <div class="scalable full-size" data-behavior="scalable" data-size="">
+        {% include_relative force-habits.svg %}
+      </div>
     </div>
   </div>
 </div>
+
+<script>
+  (function(document) {
+    const scalableItemsSelector = '[data-behavior="scalable"]'
+    const increaseButtonSelector = '[data-behavior="increase-size"]'
+    const decreaseButtonSelector = '[data-behavior="decrease-size"]'
+    const scalableItems = document.querySelectorAll(scalableItemsSelector)
+    
+    scalableItems.forEach(function(item) {
+      item.appendChild(createIncreaseButton())
+      item.appendChild(createNoButtonDiv())
+      item.appendChild(createDecreaseButton())
+    })
+    
+    document.addEventListener('click', function(event) {
+      const el = event.target
+      
+      if (el.matches(increaseButtonSelector) && +el.parentNode.dataset.size < 4) {
+        el.parentNode.dataset.size = +el.parentNode.dataset.size + 1
+        return
+      }
+      
+      if (el.matches(decreaseButtonSelector) && +el.parentNode.dataset.size > -4) {
+        el.parentNode.dataset.size = +el.parentNode.dataset.size - 1
+        return
+      }
+    })
+    
+    function createIncreaseButton() {
+      let btn = document.createElement('button')
+      btn.className = 'btn btn-invisible btn-increase full-size p-abs'
+      btn.dataset.behavior = 'increase-size'
+      return btn
+    }
+    
+    function createNoButtonDiv() {
+      let div = document.createElement('div')
+      div.className = 'full-size p-abs no-btn-div'
+      return div
+    }
+    
+    function createDecreaseButton() {
+      let btn = document.createElement('button')
+      btn.className = 'btn btn-invisible btn-decrease p-abs'
+      btn.dataset.behavior = 'decrease-size'
+      return btn
+    }
+  })(document)
+</script>
