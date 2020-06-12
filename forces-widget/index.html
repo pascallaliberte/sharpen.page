@@ -67,20 +67,11 @@ layout: empty
   div.force-anxieties  .scalable { transform-origin: top left; }
   div.force-habits     .scalable { transform-origin: top right; }
   
-  div.force .scalable[data-size="1"] { transform: scale(1.1) }
-  div.force .scalable[data-size="2"] { transform: scale(1.2) }
-  div.force .scalable[data-size="3"] { transform: scale(1.3) }
-  div.force .scalable[data-size="4"] { transform: scale(1.4) }
-  
-  div.force .scalable[data-size="-1"] { transform: scale(0.9) }
-  div.force .scalable[data-size="-2"] { transform: scale(0.8) }
-  div.force .scalable[data-size="-3"] { transform: scale(0.7) }
-  div.force .scalable[data-size="-4"] { transform: scale(0.6) }
-  
   .btn {
     padding: 0;
     margin: 0;
     border: none;
+    cursor: pointer;
   }
   
   .btn-invisible {
@@ -101,6 +92,8 @@ layout: empty
   }
   
   .no-btn-div {
+    width: 92%;
+    height: 90%;
     z-index: 1;
   }
   
@@ -110,15 +103,25 @@ layout: empty
     z-index: 2;
   }
   
-  div.force-struggle   .btn-decrease { right: 0; bottom: 0; }
-  div.force-attraction .btn-decrease { left: 0; bottom: 0; }
-  div.force-anxieties  .btn-decrease { left: 0; top: 0; }
-  div.force-habits     .btn-decrease { right: 0; top: 0; }
+  div.force-struggle   .no-btn-div, div.force-struggle   .btn-decrease { right: 0; bottom: 0; }
+  div.force-attraction .no-btn-div, div.force-attraction .btn-decrease { left: 0; bottom: 0; }
+  div.force-anxieties  .no-btn-div, div.force-anxieties  .btn-decrease { left: 0; top: 0; }
+  div.force-habits     .no-btn-div, div.force-habits     .btn-decrease { right: 0; top: 0; }
   
   div.force-struggle   .no-btn-div, div.force-struggle   .btn-decrease { border-top-left-radius: 100%; }
   div.force-attraction .no-btn-div, div.force-attraction .btn-decrease { border-top-right-radius: 100%; }
   div.force-anxieties  .no-btn-div, div.force-anxieties  .btn-decrease { border-bottom-right-radius: 100%; }
   div.force-habits     .no-btn-div, div.force-habits     .btn-decrease { border-bottom-left-radius: 100%; }
+  
+  div.force .scalable[data-size="1"] { transform: scale(1.1) }
+  div.force .scalable[data-size="2"] { transform: scale(1.2) }
+  div.force .scalable[data-size="3"] { transform: scale(1.3) }
+  div.force .scalable[data-size="4"] { transform: scale(1.4) }
+  
+  div.force .scalable[data-size="-1"] { transform: scale(0.9) }
+  div.force .scalable[data-size="-2"] { transform: scale(0.8) }
+  div.force .scalable[data-size="-3"] { transform: scale(0.7) }
+  div.force .scalable[data-size="-4"] { transform: scale(0.6) }
 </style>
 
 <div class="diagram-container">
@@ -182,7 +185,7 @@ layout: empty
     
     function createNoButtonDiv() {
       let div = document.createElement('div')
-      div.className = 'full-size p-abs no-btn-div'
+      div.className = 'p-abs no-btn-div'
       return div
     }
     
