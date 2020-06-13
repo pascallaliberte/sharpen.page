@@ -20,6 +20,11 @@ layout: empty
     top: 0; right: 0; bottom: 0; left: 0;
   }
   
+  .diagram {
+    z-index: 1;
+    pointer-events: none;
+  }
+  
   div.force {
     position: absolute;
     top: 28.5%; bottom: 28.5%;
@@ -59,7 +64,7 @@ layout: empty
   }
   
   div.force .scalable {
-    transition: transform 0.2s ease;
+    transition: transform 0.1s ease;
   }
   
   div.force-struggle   .scalable { transform-origin: bottom right; }
@@ -101,6 +106,15 @@ layout: empty
     width: 40%;
     height: 45%;
     z-index: 2;
+  }
+  
+  .btn-reset {
+    width: 200px;
+    height: 150px;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 0;
   }
   
   div.force-struggle   .no-btn-div, div.force-struggle   .btn-decrease { right: 0; bottom: 0; }
@@ -178,7 +192,7 @@ layout: empty
   div.nudgeable[data-nudge-y="-8"] { transform: translateY(-16%) }
 </style>
 
-<div class="diagram-container">
+<div class="diagram-container" data-behavior="diagram-container">
   <div class="diagram zoomable" data-zoom="">
     <div class="nudgeable nudge-x" data-nudge-x="">
       <div class="nudgeable nudge-y" data-nudge-y="">
@@ -209,9 +223,11 @@ layout: empty
 
 <script>
   (function(document) {
+    const diagramContainerSelector = '[data-behavior="diagram-container"]'
     const scalableItemsSelector = '[data-behavior="scalable"]'
     const increaseButtonSelector = '[data-behavior="increase-size"]'
     const decreaseButtonSelector = '[data-behavior="decrease-size"]'
+    const resetButtonSelector = '[data-behavior="reset-size"]'
     const scalableItems = document.querySelectorAll(scalableItemsSelector)
     
     scalableItems.forEach(function(item) {
@@ -219,6 +235,10 @@ layout: empty
       item.appendChild(createNoButtonDiv())
       item.appendChild(createDecreaseButton())
     })
+    
+    const diagramContainer = document.querySelector(diagramContainerSelector)
+    
+    diagramContainer.appendChild(createResetButton())
     
     document.addEventListener('click', function(event) {
       const el = event.target
@@ -231,6 +251,12 @@ layout: empty
       if (el.matches(decreaseButtonSelector) && +el.parentNode.dataset.size > -4) {
         el.parentNode.dataset.size = +el.parentNode.dataset.size - 1
         return
+      }
+      
+      if (el.matches(resetButtonSelector)) {
+        scalableItems.forEach(function(item) {
+          item.dataset.size = ''
+        })
       }
     })
     
@@ -251,6 +277,13 @@ layout: empty
       let btn = document.createElement('button')
       btn.className = 'btn btn-invisible btn-decrease p-abs'
       btn.dataset.behavior = 'decrease-size'
+      return btn
+    }
+    
+    function createResetButton() {
+      let btn = document.createElement('button')
+      btn.className = 'btn btn-invisible btn-reset p-abs'
+      btn.dataset.behavior = 'reset-size'
       return btn
     }
   })(document)
