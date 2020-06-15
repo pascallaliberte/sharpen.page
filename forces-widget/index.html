@@ -227,8 +227,9 @@ layout: empty
       if (el.matches(resetButtonSelector)) {
         scalableItems.forEach(function(item) {
           item.dataset.size = ''
-          fit()
         })
+        fit()
+        return
       }
     })
     
