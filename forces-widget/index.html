@@ -184,16 +184,20 @@ layout: empty
     const resetButtonSelector = '[data-behavior="reset-size"]'
     
     const zoomableSelector = '[data-behavior="zoom"]'
-    // const nudgeXSelector = '[data-behavior="nudge-x"]'
-    // const nudgeYSelector = '[data-behavior="nudge-y"]'
+    const nudgeXSelector = '[data-behavior="nudge-x"]'
+    const nudgeYSelector = '[data-behavior="nudge-y"]'
     
     const scalableItems = document.querySelectorAll(scalableItemsSelector)
     let zoomEl = document.querySelector(zoomableSelector)
-    // let nudgeXEl = document.querySelector(nudgeXSelector)
-    // let nudgeYEl = document.querySelector(nudgeYSelector)
+    let nudgeXEl = document.querySelector(nudgeXSelector)
+    let nudgeYEl = document.querySelector(nudgeYSelector)
     
-    const scales = readScalesFromCss();
-    const originalHeight = getHeight();
+    const scales = readScalesFromCss()
+    
+    const w = 240
+    const h = 160
+    const originalHeight = getHeight()
+    const originalWidth = getWidth()
     
     scalableItems.forEach(function(item) {
       item.appendChild(createIncreaseButton())
@@ -210,20 +214,20 @@ layout: empty
       
       if (el.matches(increaseButtonSelector) && +el.parentNode.dataset.size < 4) {
         el.parentNode.dataset.size = +el.parentNode.dataset.size + 1
-        adjustZoom()
+        fit()
         return
       }
       
       if (el.matches(decreaseButtonSelector) && +el.parentNode.dataset.size > -4) {
         el.parentNode.dataset.size = +el.parentNode.dataset.size - 1
-        adjustZoom()
+        fit()
         return
       }
       
       if (el.matches(resetButtonSelector)) {
         scalableItems.forEach(function(item) {
           item.dataset.size = ''
-          adjustZoom()
+          fit()
         })
       }
     })
@@ -256,41 +260,71 @@ layout: empty
     }
     
     function readScalesFromCss() {
-      return [
-        +getComputedStyle(document.documentElement).getPropertyValue('--scale-1'),
-        +getComputedStyle(document.documentElement).getPropertyValue('--scale-2'),
-        +getComputedStyle(document.documentElement).getPropertyValue('--scale-3'),
-        +getComputedStyle(document.documentElement).getPropertyValue('--scale-4')
-      ]
+      let scales = {
+        0: 1,
+        1: +getComputedStyle(document.documentElement).getPropertyValue('--scale-1'),
+        2: +getComputedStyle(document.documentElement).getPropertyValue('--scale-2'),
+        3: +getComputedStyle(document.documentElement).getPropertyValue('--scale-3'),
+        4: +getComputedStyle(document.documentElement).getPropertyValue('--scale-4')
+      }
+      scales[-1] = 1 / scales[1]
+      scales[-2] = 1 / scales[2]
+      scales[-3] = 1 / scales[3]
+      scales[-4] = 1 / scales[4]
+      
+      return scales
     }
     
     function getMaxScaleValue(halfName) {
-      let maxSize = 0;
+      let maxSize = null;
       scalableItems.forEach(function(item) {
         if (item.dataset.quadrant.includes(halfName)) {
-          if (item.dataset.size > maxSize) {
-            maxSize = item.dataset.size
+          size = item.dataset.size === ''? 0: +item.dataset.size
+          if (maxSize === null || size > maxSize) {
+            maxSize = size
           }
         }
       })
       
-      if (maxSize === 0) { return 1 }
-      return scales[maxSize - 1]
+      return scales[maxSize]
     }
     
     function getScaleToRecenter() {
       return (1 / (getHeight() / originalHeight))
     }
     
+    function getTranslateXToRecenter() {
+      const delta = (w * +getMaxScaleValue('left')) - (w * +getMaxScaleValue('right'))
+      return `${(delta / originalWidth) * 100 / 2 * getScaleToRecenter()}%`
+    }
+    
+    function getTranslateYToRecenter() {
+      const delta = (w * +getMaxScaleValue('top')) - (w * +getMaxScaleValue('bottom'))
+      return `${(delta / originalHeight) * 100 / 2 * getScaleToRecenter()}%`
+    }
+    
     function getHeight() {
       const g = 16
-      const h = 160
-      
       return (h * +getMaxScaleValue('top')) + g + (h * +getMaxScaleValue('bottom'))
+    }
+    
+    function getWidth() {
+      const g = 17
+      return (w * +getMaxScaleValue('left')) + g + (w * +getMaxScaleValue('right'))
     }
     
     function adjustZoom() {
       zoomEl.style.transform = `scale(${getScaleToRecenter()})`
+    }
+    
+    function recenter() {
+      nudgeXEl.style.transform = `translateX(${getTranslateXToRecenter()})`
+      nudgeYEl.style.transform = `translateY(${getTranslateYToRecenter()})`
+    }
+    
+    function fit() {
+      adjustZoom()
+      recenter()
     }
     
   })(document)
