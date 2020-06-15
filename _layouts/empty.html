@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  </head>
+
+  <body class="{{ page.class | default: layout.class | default: '' }}">
+    <main id="#top">
+      <div class="main-content">
+        {{ content }}
+      </div>
+    </main>
+  </body>
+</html>

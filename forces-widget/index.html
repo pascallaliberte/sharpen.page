@@ -1,0 +1,331 @@
+---
+layout: empty
+---
+
+<style>
+  :root {
+    --x-offset: 9.375%;
+    --x-gap: 3.7946%;
+    --y-gap: 5%;
+    
+    --scale-1: 1.1;
+    --scale-2: 1.2;
+    --scale-3: 1.3;
+    --scale-4: 1.4;
+  }
+  
+  .diagram svg {
+    width: 100%;
+    height: auto;
+  }
+  
+  .diagram-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 65%;
+  }
+  
+  .diagram, .zoomable, .nudgeable {
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+  }
+  
+  .diagram {
+    z-index: 1;
+    pointer-events: none;
+  }
+  
+  div.force {
+    position: absolute;
+    top: 28.5%; bottom: 28.5%;
+    left: 30.4%; right: 30.4%;
+    z-index: 0;
+    pointer-events: none;
+  }
+  
+  div.force .scalable {
+    position: absolute;
+    z-index: 10;
+    pointer-events: auto;
+  }
+  
+  div.force-struggle .scalable {
+    right: calc(50% - var(--x-offset) + var(--x-gap));
+    bottom: calc(50% + var(--y-gap));
+  }
+  
+  div.force-attraction .scalable {
+    left: calc(50% + var(--x-offset) + var(--x-gap));
+    bottom: calc(50% + var(--y-gap));
+  }
+  
+  div.force-anxieties .scalable {
+    left: calc(50% - var(--x-offset) + var(--x-gap));
+    top: calc(50% + var(--y-gap));
+  }
+  
+  div.force-habits .scalable {
+    right: calc(50% + var(--x-offset) + var(--x-gap));
+    top: calc(50% + var(--y-gap));
+  }
+  
+  .smooth {
+    transition: transform 0.1s ease;
+  }
+  
+  div.force-struggle   .scalable { transform-origin: bottom right; }
+  div.force-attraction .scalable { transform-origin: bottom left; }
+  div.force-anxieties  .scalable { transform-origin: top left; }
+  div.force-habits     .scalable { transform-origin: top right; }
+  
+  .btn {
+    padding: 0;
+    margin: 0;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn-invisible {
+    background: none;
+  }
+  
+  .full-size {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .p-abs {
+    position: absolute;
+  }
+  
+  .p-abs.full-size {
+    top: 0; right: 0; bottom: 0; left: 0;
+  }
+  
+  .no-btn-div {
+    width: 92%;
+    height: 90%;
+    z-index: 1;
+  }
+  
+  .btn-decrease {
+    width: 40%;
+    height: 45%;
+    z-index: 2;
+  }
+  
+  .btn-reset {
+    width: 200px;
+    height: 150px;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 0;
+  }
+  
+  div.force-struggle   .no-btn-div, div.force-struggle   .btn-decrease { right: 0; bottom: 0; }
+  div.force-attraction .no-btn-div, div.force-attraction .btn-decrease { left: 0; bottom: 0; }
+  div.force-anxieties  .no-btn-div, div.force-anxieties  .btn-decrease { left: 0; top: 0; }
+  div.force-habits     .no-btn-div, div.force-habits     .btn-decrease { right: 0; top: 0; }
+  
+  div.force-struggle   .no-btn-div, div.force-struggle   .btn-decrease { border-top-left-radius: 100%; }
+  div.force-attraction .no-btn-div, div.force-attraction .btn-decrease { border-top-right-radius: 100%; }
+  div.force-anxieties  .no-btn-div, div.force-anxieties  .btn-decrease { border-bottom-right-radius: 100%; }
+  div.force-habits     .no-btn-div, div.force-habits     .btn-decrease { border-bottom-left-radius: 100%; }
+  
+  div.force .scalable[data-size="1"] { transform: scale(var(--scale-1)) }
+  div.force .scalable[data-size="2"] { transform: scale(var(--scale-2)) }
+  div.force .scalable[data-size="3"] { transform: scale(var(--scale-3)) }
+  div.force .scalable[data-size="4"] { transform: scale(var(--scale-4)) }
+  
+  div.force .scalable[data-size="-1"] { transform: scale(calc(1 / var(--scale-1))) }
+  div.force .scalable[data-size="-2"] { transform: scale(calc(1 / var(--scale-2))) }
+  div.force .scalable[data-size="-3"] { transform: scale(calc(1 / var(--scale-3))) }
+  div.force .scalable[data-size="-4"] { transform: scale(calc(1 / var(--scale-4))) }
+</style>
+
+<div class="diagram-container" data-behavior="diagram-container">
+  <div class="diagram zoomable smooth" data-behavior="zoom">
+    <div class="nudgeable nudge-x smooth" data-behavior="nudge-x">
+      <div class="nudgeable nudge-y smooth" data-behavior="nudge-y">
+        <div class="force force-struggle">
+          <div class="scalable full-size smooth" data-behavior="scalable" data-quadrant="top left" data-size="">
+            {% include_relative force-struggle.svg %}
+          </div>
+        </div>
+        <div class="force force-attraction">
+          <div class="scalable full-size smooth" data-behavior="scalable" data-quadrant="top right" data-size="">
+            {% include_relative force-attraction.svg %}
+          </div>
+        </div>
+        <div class="force force-anxieties">
+          <div class="scalable full-size smooth" data-behavior="scalable" data-quadrant="bottom right" data-size="">
+            {% include_relative force-anxieties.svg %}
+          </div>
+        </div>
+        <div class="force force-habits">
+          <div class="scalable full-size smooth" data-behavior="scalable" data-quadrant="bottom left" data-size="">
+            {% include_relative force-habits.svg %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  (function(document) {
+    const diagramContainerSelector = '[data-behavior="diagram-container"]'
+    const scalableItemsSelector = '[data-behavior="scalable"]'
+    
+    const increaseButtonSelector = '[data-behavior="increase-size"]'
+    const decreaseButtonSelector = '[data-behavior="decrease-size"]'
+    const resetButtonSelector = '[data-behavior="reset-size"]'
+    
+    const zoomableSelector = '[data-behavior="zoom"]'
+    const nudgeXSelector = '[data-behavior="nudge-x"]'
+    const nudgeYSelector = '[data-behavior="nudge-y"]'
+    
+    const scalableItems = document.querySelectorAll(scalableItemsSelector)
+    let zoomEl = document.querySelector(zoomableSelector)
+    let nudgeXEl = document.querySelector(nudgeXSelector)
+    let nudgeYEl = document.querySelector(nudgeYSelector)
+    
+    const scales = readScalesFromCss()
+    
+    const w = 240
+    const h = 160
+    const originalHeight = getHeight()
+    const originalWidth = getWidth()
+    
+    scalableItems.forEach(function(item) {
+      item.appendChild(createIncreaseButton())
+      item.appendChild(createNoButtonDiv())
+      item.appendChild(createDecreaseButton())
+    })
+    
+    const diagramContainer = document.querySelector(diagramContainerSelector)
+    
+    diagramContainer.appendChild(createResetButton())
+    
+    document.addEventListener('click', function(event) {
+      const el = event.target
+      
+      if (el.matches(increaseButtonSelector) && +el.parentNode.dataset.size < 4) {
+        el.parentNode.dataset.size = +el.parentNode.dataset.size + 1
+        fit()
+        return
+      }
+      
+      if (el.matches(decreaseButtonSelector) && +el.parentNode.dataset.size > -4) {
+        el.parentNode.dataset.size = +el.parentNode.dataset.size - 1
+        fit()
+        return
+      }
+      
+      if (el.matches(resetButtonSelector)) {
+        scalableItems.forEach(function(item) {
+          item.dataset.size = ''
+          fit()
+        })
+      }
+    })
+    
+    function createIncreaseButton() {
+      let btn = document.createElement('button')
+      btn.className = 'btn btn-invisible btn-increase full-size p-abs'
+      btn.dataset.behavior = 'increase-size'
+      return btn
+    }
+    
+    function createNoButtonDiv() {
+      let div = document.createElement('div')
+      div.className = 'p-abs no-btn-div'
+      return div
+    }
+    
+    function createDecreaseButton() {
+      let btn = document.createElement('button')
+      btn.className = 'btn btn-invisible btn-decrease p-abs'
+      btn.dataset.behavior = 'decrease-size'
+      return btn
+    }
+    
+    function createResetButton() {
+      let btn = document.createElement('button')
+      btn.className = 'btn btn-invisible btn-reset p-abs'
+      btn.dataset.behavior = 'reset-size'
+      return btn
+    }
+    
+    function readScalesFromCss() {
+      let scales = {
+        0: 1,
+        1: +getComputedStyle(document.documentElement).getPropertyValue('--scale-1'),
+        2: +getComputedStyle(document.documentElement).getPropertyValue('--scale-2'),
+        3: +getComputedStyle(document.documentElement).getPropertyValue('--scale-3'),
+        4: +getComputedStyle(document.documentElement).getPropertyValue('--scale-4')
+      }
+      scales[-1] = 1 / scales[1]
+      scales[-2] = 1 / scales[2]
+      scales[-3] = 1 / scales[3]
+      scales[-4] = 1 / scales[4]
+      
+      return scales
+    }
+    
+    function getMaxScaleValue(halfName) {
+      let maxSize = null;
+      scalableItems.forEach(function(item) {
+        if (item.dataset.quadrant.includes(halfName)) {
+          size = item.dataset.size === ''? 0: +item.dataset.size
+          if (maxSize === null || size > maxSize) {
+            maxSize = size
+          }
+        }
+      })
+      
+      return scales[maxSize]
+    }
+    
+    function getScaleToRecenter() {
+      return (1 / (getHeight() / originalHeight))
+    }
+    
+    function getTranslateXToRecenter() {
+      const delta = (w * +getMaxScaleValue('left')) - (w * +getMaxScaleValue('right'))
+      return `${(delta / originalWidth) * 100 / 2 * getScaleToRecenter()}%`
+    }
+    
+    function getTranslateYToRecenter() {
+      const delta = (w * +getMaxScaleValue('top')) - (w * +getMaxScaleValue('bottom'))
+      return `${(delta / originalHeight) * 100 / 2 * getScaleToRecenter()}%`
+    }
+    
+    function getHeight() {
+      const g = 16
+      return (h * +getMaxScaleValue('top')) + g + (h * +getMaxScaleValue('bottom'))
+    }
+    
+    function getWidth() {
+      const g = 17
+      return (w * +getMaxScaleValue('left')) + g + (w * +getMaxScaleValue('right'))
+    }
+    
+    function adjustZoom() {
+      zoomEl.style.transform = `scale(${getScaleToRecenter()})`
+    }
+    
+    function recenter() {
+      nudgeXEl.style.transform = `translateX(${getTranslateXToRecenter()})`
+      nudgeYEl.style.transform = `translateY(${getTranslateYToRecenter()})`
+    }
+    
+    function fit() {
+      adjustZoom()
+      recenter()
+    }
+    
+  })(document)
+</script>
