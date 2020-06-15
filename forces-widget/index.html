@@ -3,6 +3,17 @@ layout: empty
 ---
 
 <style>
+  :root {
+    --x-offset: 9.375%;
+    --x-gap: 3.7946%;
+    --y-gap: 5%;
+    
+    --scale-1: 1.1;
+    --scale-2: 1.2;
+    --scale-3: 1.3;
+    --scale-4: 1.4;
+  }
+  
   .diagram svg {
     width: 100%;
     height: auto;
@@ -31,10 +42,6 @@ layout: empty
     left: 30.4%; right: 30.4%;
     z-index: 0;
     pointer-events: none;
-    
-    --x-offset: 9.375%;
-    --x-gap: 3.7946%;
-    --y-offset: 5%;
   }
   
   div.force .scalable {
@@ -45,25 +52,25 @@ layout: empty
   
   div.force-struggle .scalable {
     right: calc(50% - var(--x-offset) + var(--x-gap));
-    bottom: calc(50% + var(--y-offset));
+    bottom: calc(50% + var(--y-gap));
   }
   
   div.force-attraction .scalable {
     left: calc(50% + var(--x-offset) + var(--x-gap));
-    bottom: calc(50% + var(--y-offset));
+    bottom: calc(50% + var(--y-gap));
   }
   
   div.force-anxieties .scalable {
     left: calc(50% - var(--x-offset) + var(--x-gap));
-    top: calc(50% + var(--y-offset));
+    top: calc(50% + var(--y-gap));
   }
   
   div.force-habits .scalable {
     right: calc(50% + var(--x-offset) + var(--x-gap));
-    top: calc(50% + var(--y-offset));
+    top: calc(50% + var(--y-gap));
   }
   
-  div.force .scalable {
+  .smooth {
     transition: transform 0.1s ease;
   }
   
@@ -127,92 +134,38 @@ layout: empty
   div.force-anxieties  .no-btn-div, div.force-anxieties  .btn-decrease { border-bottom-right-radius: 100%; }
   div.force-habits     .no-btn-div, div.force-habits     .btn-decrease { border-bottom-left-radius: 100%; }
   
-  div.force .scalable[data-size="1"] { transform: scale(1.1) }
-  div.force .scalable[data-size="2"] { transform: scale(1.2) }
-  div.force .scalable[data-size="3"] { transform: scale(1.3) }
-  div.force .scalable[data-size="4"] { transform: scale(1.4) }
+  div.force .scalable[data-size="1"] { transform: scale(var(--scale-1)) }
+  div.force .scalable[data-size="2"] { transform: scale(var(--scale-2)) }
+  div.force .scalable[data-size="3"] { transform: scale(var(--scale-3)) }
+  div.force .scalable[data-size="4"] { transform: scale(var(--scale-4)) }
   
-  div.force .scalable[data-size="-1"] { transform: scale(0.9) }
-  div.force .scalable[data-size="-2"] { transform: scale(0.8) }
-  div.force .scalable[data-size="-3"] { transform: scale(0.7) }
-  div.force .scalable[data-size="-4"] { transform: scale(0.6) }
-  
-  div.diagram[data-zoom="1"] { transform: scale(1.1) }
-  div.diagram[data-zoom="2"] { transform: scale(1.2) }
-  div.diagram[data-zoom="3"] { transform: scale(1.3) }
-  div.diagram[data-zoom="4"] { transform: scale(1.4) }
-  div.diagram[data-zoom="5"] { transform: scale(1.5) }
-  div.diagram[data-zoom="6"] { transform: scale(1.6) }
-  div.diagram[data-zoom="7"] { transform: scale(1.7) }
-  div.diagram[data-zoom="8"] { transform: scale(1.8) }
-  
-  div.diagram[data-zoom="-1"] { transform: scale(0.9) }
-  div.diagram[data-zoom="-2"] { transform: scale(0.8) }
-  div.diagram[data-zoom="-3"] { transform: scale(0.7) }
-  div.diagram[data-zoom="-4"] { transform: scale(0.6) }
-  div.diagram[data-zoom="-5"] { transform: scale(0.5) }
-  div.diagram[data-zoom="-6"] { transform: scale(0.4) }
-  div.diagram[data-zoom="-7"] { transform: scale(0.3) }
-  div.diagram[data-zoom="-8"] { transform: scale(0.2) }
-  
-  div.nudgeable[data-nudge-x="1"] { transform: translateX( 2%) }
-  div.nudgeable[data-nudge-x="2"] { transform: translateX( 4%) }
-  div.nudgeable[data-nudge-x="3"] { transform: translateX( 6%) }
-  div.nudgeable[data-nudge-x="4"] { transform: translateX( 8%) }
-  div.nudgeable[data-nudge-x="5"] { transform: translateX(10%) }
-  div.nudgeable[data-nudge-x="6"] { transform: translateX(12%) }
-  div.nudgeable[data-nudge-x="7"] { transform: translateX(14%) }
-  div.nudgeable[data-nudge-x="8"] { transform: translateX(16%) }
-  
-  div.nudgeable[data-nudge-x="-1"] { transform: translateX( -2%) }
-  div.nudgeable[data-nudge-x="-2"] { transform: translateX( -4%) }
-  div.nudgeable[data-nudge-x="-3"] { transform: translateX( -6%) }
-  div.nudgeable[data-nudge-x="-4"] { transform: translateX( -8%) }
-  div.nudgeable[data-nudge-x="-5"] { transform: translateX(-10%) }
-  div.nudgeable[data-nudge-x="-6"] { transform: translateX(-12%) }
-  div.nudgeable[data-nudge-x="-7"] { transform: translateX(-14%) }
-  div.nudgeable[data-nudge-x="-8"] { transform: translateX(-16%) }
-  
-  div.nudgeable[data-nudge-y="1"] { transform: translateY( 2%) }
-  div.nudgeable[data-nudge-y="2"] { transform: translateY( 4%) }
-  div.nudgeable[data-nudge-y="3"] { transform: translateY( 6%) }
-  div.nudgeable[data-nudge-y="4"] { transform: translateY( 8%) }
-  div.nudgeable[data-nudge-y="5"] { transform: translateY(10%) }
-  div.nudgeable[data-nudge-y="6"] { transform: translateY(12%) }
-  div.nudgeable[data-nudge-y="7"] { transform: translateY(14%) }
-  div.nudgeable[data-nudge-y="8"] { transform: translateY(16%) }
-  
-  div.nudgeable[data-nudge-y="-1"] { transform: translateY( -2%) }
-  div.nudgeable[data-nudge-y="-2"] { transform: translateY( -4%) }
-  div.nudgeable[data-nudge-y="-3"] { transform: translateY( -6%) }
-  div.nudgeable[data-nudge-y="-4"] { transform: translateY( -8%) }
-  div.nudgeable[data-nudge-y="-5"] { transform: translateY(-10%) }
-  div.nudgeable[data-nudge-y="-6"] { transform: translateY(-12%) }
-  div.nudgeable[data-nudge-y="-7"] { transform: translateY(-14%) }
-  div.nudgeable[data-nudge-y="-8"] { transform: translateY(-16%) }
+  div.force .scalable[data-size="-1"] { transform: scale(calc(1 / var(--scale-1))) }
+  div.force .scalable[data-size="-2"] { transform: scale(calc(1 / var(--scale-2))) }
+  div.force .scalable[data-size="-3"] { transform: scale(calc(1 / var(--scale-3))) }
+  div.force .scalable[data-size="-4"] { transform: scale(calc(1 / var(--scale-4))) }
 </style>
 
 <div class="diagram-container" data-behavior="diagram-container">
-  <div class="diagram zoomable" data-zoom="">
-    <div class="nudgeable nudge-x" data-nudge-x="">
-      <div class="nudgeable nudge-y" data-nudge-y="">
+  <div class="diagram zoomable smooth" data-behavior="zoom">
+    <div class="nudgeable nudge-x smooth" data-behavior="nudge-x">
+      <div class="nudgeable nudge-y smooth" data-behavior="nudge-y">
         <div class="force force-struggle">
-          <div class="scalable full-size" data-behavior="scalable" data-size="">
+          <div class="scalable full-size smooth" data-behavior="scalable" data-quadrant="top left" data-size="">
             {% include_relative force-struggle.svg %}
           </div>
         </div>
         <div class="force force-attraction">
-          <div class="scalable full-size" data-behavior="scalable" data-size="">
+          <div class="scalable full-size smooth" data-behavior="scalable" data-quadrant="top right" data-size="">
             {% include_relative force-attraction.svg %}
           </div>
         </div>
         <div class="force force-anxieties">
-          <div class="scalable full-size" data-behavior="scalable" data-size="">
+          <div class="scalable full-size smooth" data-behavior="scalable" data-quadrant="bottom right" data-size="">
             {% include_relative force-anxieties.svg %}
           </div>
         </div>
         <div class="force force-habits">
-          <div class="scalable full-size" data-behavior="scalable" data-size="">
+          <div class="scalable full-size smooth" data-behavior="scalable" data-quadrant="bottom left" data-size="">
             {% include_relative force-habits.svg %}
           </div>
         </div>
@@ -225,10 +178,22 @@ layout: empty
   (function(document) {
     const diagramContainerSelector = '[data-behavior="diagram-container"]'
     const scalableItemsSelector = '[data-behavior="scalable"]'
+    
     const increaseButtonSelector = '[data-behavior="increase-size"]'
     const decreaseButtonSelector = '[data-behavior="decrease-size"]'
     const resetButtonSelector = '[data-behavior="reset-size"]'
+    
+    const zoomableSelector = '[data-behavior="zoom"]'
+    // const nudgeXSelector = '[data-behavior="nudge-x"]'
+    // const nudgeYSelector = '[data-behavior="nudge-y"]'
+    
     const scalableItems = document.querySelectorAll(scalableItemsSelector)
+    let zoomEl = document.querySelector(zoomableSelector)
+    // let nudgeXEl = document.querySelector(nudgeXSelector)
+    // let nudgeYEl = document.querySelector(nudgeYSelector)
+    
+    const scales = readScalesFromCss();
+    const originalHeight = getHeight();
     
     scalableItems.forEach(function(item) {
       item.appendChild(createIncreaseButton())
@@ -245,17 +210,20 @@ layout: empty
       
       if (el.matches(increaseButtonSelector) && +el.parentNode.dataset.size < 4) {
         el.parentNode.dataset.size = +el.parentNode.dataset.size + 1
+        adjustZoom()
         return
       }
       
       if (el.matches(decreaseButtonSelector) && +el.parentNode.dataset.size > -4) {
         el.parentNode.dataset.size = +el.parentNode.dataset.size - 1
+        adjustZoom()
         return
       }
       
       if (el.matches(resetButtonSelector)) {
         scalableItems.forEach(function(item) {
           item.dataset.size = ''
+          adjustZoom()
         })
       }
     })
@@ -286,5 +254,44 @@ layout: empty
       btn.dataset.behavior = 'reset-size'
       return btn
     }
+    
+    function readScalesFromCss() {
+      return [
+        +getComputedStyle(document.documentElement).getPropertyValue('--scale-1'),
+        +getComputedStyle(document.documentElement).getPropertyValue('--scale-2'),
+        +getComputedStyle(document.documentElement).getPropertyValue('--scale-3'),
+        +getComputedStyle(document.documentElement).getPropertyValue('--scale-4')
+      ]
+    }
+    
+    function getMaxScaleValue(halfName) {
+      let maxSize = 0;
+      scalableItems.forEach(function(item) {
+        if (item.dataset.quadrant.includes(halfName)) {
+          if (item.dataset.size > maxSize) {
+            maxSize = item.dataset.size
+          }
+        }
+      })
+      
+      if (maxSize === 0) { return 1 }
+      return scales[maxSize - 1]
+    }
+    
+    function getScaleToRecenter() {
+      return (1 / (getHeight() / originalHeight))
+    }
+    
+    function getHeight() {
+      const g = 16
+      const h = 160
+      
+      return (h * +getMaxScaleValue('top')) + g + (h * +getMaxScaleValue('bottom'))
+    }
+    
+    function adjustZoom() {
+      zoomEl.style.transform = `scale(${getScaleToRecenter()})`
+    }
+    
   })(document)
 </script>
