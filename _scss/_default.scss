@@ -475,3 +475,51 @@ ol.page-structure {
     padding: rem(6px 0);
   }
 }
+
+.video-list {
+  li {
+    margin: 0.8em;
+  }
+  
+  .video-link-wrapper {
+    display: inline-block;
+    margin-left: rem(10px);
+    position: relative;
+    
+    &:before {
+      content: '';
+      position: absolute;
+      left: rem(-10px);
+      top: rem(-5px);
+      bottom: rem(-5px);
+      width: rem(10px);
+      background: white;
+    }
+  }
+  .video-link {
+    color: $color-secondary;
+    display: inline;
+    padding: rem(5px 10px 5px 0);
+    background: white;
+    line-height: 1.1;
+    
+    a {
+      font-weight: bold;
+      &, &:hover, &:active {
+        background: none;
+      }
+    }
+    
+    .i {
+      width: auto;
+      height: 1em;
+      stroke-width: rem(3px);
+      transform: translateY(rem(4px));
+      margin-left: 0.1em;
+      
+      @media only screen and (max-width: $reference-width-xs-until) {
+        stroke-width: rem(2px);
+      }
+    }
+  }
+}

@@ -41,17 +41,17 @@ See: [When Struggle-First Pages Beat "Features and Benefits" Pages](/struggle-fi
 
 ## Videos
 
-Coming soon, I'm going to start making **videos on creating these Struggle-First pages**.
+I started making **videos on creating these Struggle-First pages**.
 
-* [Using Squarespace](https://www.youtube.com/watch?v=wdAUs5TZohY)
-* [Using Wordpress.com with the New Block Editor](https://www.youtube.com/watch?v=cRBYcimpR3w)
-* [Using Carrd.co](https://www.youtube.com/watch?v=a0GP_M3U6-g)
-* Using Webflow
-* Using Wix
-* Using WordPress with Divi
-* ...
+{% include adhoc-video-list.html videos=site.data.struggle-first-videos %}
 
-I'll be posting these on [YouTube][youtube], [Twitter][twitter] and I'll mention them in my [newsletter](#be-notified) too.
+For the next ones, I'm thinking about:
+
+* Wix
+* WordPress using Divi
+* Webflow
+
+I'm posting these on [YouTube][youtube], [Twitter][twitter] and I'll mention them in my [newsletter](#be-notified) too.
 
 [youtube]: https://www.youtube.com/channel/UCo2CttXwSgcaEmrTsALqS-A
 

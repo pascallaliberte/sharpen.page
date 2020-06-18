@@ -1,0 +1,17 @@
+{% if include.videos and include.videos.size %}
+<ol class="video-list">
+{% for video in include.videos -%}
+  <li>
+    <span class="video-link-wrapper">
+      <span class="video-link">
+        {% if video.url %}
+          <a href="{{ video.url }}">{{ video.title }}</a> {% include svg/external.svg.html %}
+        {% else %}
+          <strong>Up next:</strong> {{ video.title }}
+        {% endif %}
+      </span>
+    </span>
+  </li>
+{% endfor %}
+</ol>
+{% endif %}
