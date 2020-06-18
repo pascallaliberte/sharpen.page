@@ -83,4 +83,4 @@ Stay Sharp!
 
 ---
 
-_If you'd like to experience what a purchase story interview feels like, [send me a note](mailto:pascal@pascallaliberte.me) and we'll set up a call_
+_If you'd like to experience what a purchase story interview feels like, [send me a note](mailto:pascal@hey.com) and we'll set up a call_

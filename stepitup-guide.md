@@ -136,7 +136,7 @@ You just want more _lift_ happening. You want to help your customers lift themse
 Stay Sharp!
 
 {% include avatar.html %} Pascal Laliberté  
-[pascal@pascallaliberte.me](mailto:pascal@pascallaliberte.me)  
+[pascal@hey.com](mailto:pascal@hey.com)  
 Ottawa, Ontario, Canada
 
 Find me on [Twitter][twitter] or sign-up to be notified of new articles:

@@ -55,4 +55,4 @@ Long landing pages give you plenty of opportunities to show you understand your 
 
 Stay Sharp!
 
-_P.S. While reading this article, are you by chance picturing how your own landing page could be rejigged into a long landing page? And maybe you're thinking: "I want this but I'd like to build this alongside Pascal, so I can learn as I do it". If so, [here's an email link to contact me](mailto:pascal@pascallaliberte.me?subject=Read+your+piece+on+long+landing+pages)._
+_P.S. While reading this article, are you by chance picturing how your own landing page could be rejigged into a long landing page? And maybe you're thinking: "I want this but I'd like to build this alongside Pascal, so I can learn as I do it". If so, [here's an email link to contact me](mailto:pascal@hey.com?subject=Read+your+piece+on+long+landing+pages)._

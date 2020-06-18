@@ -83,4 +83,4 @@ Stay Sharp!
 
 _If you have a product for which you have a wide audience (like ebooks), purchase interviews like these help understand some typical life situations that drove the purchase. These stories make for concrete material to help you sharpen your story and your marketing. [Reach out to tell me about your product][reach-out] and we can plan out some interviews with your recent buyers._
 
-[reach-out]: mailto:pascal@pascallaliberte.me?subject=Inquiry%20About%20Purchase%20Interviews
+[reach-out]: mailto:pascal@hey.com?subject=Inquiry%20About%20Purchase%20Interviews

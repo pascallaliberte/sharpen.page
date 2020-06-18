@@ -128,6 +128,6 @@ These forces are at play not only when selling a product, but when selling just 
 
 Even if your product is free, there are still forces at play, pushing and pulling in the mind of the person making that decision to go ahead with what you're offering.
 
-If you'd like to uncover the forces that were at play in the purchase of your own product or service. [Reach out](mailto:pascal@pascallaliberte.me?subject=JTBD%20Interviews). I've got a special interview technique to use when talking to your recent buyers.
+If you'd like to uncover the forces that were at play in the purchase of your own product or service. [Reach out](mailto:pascal@hey.com?subject=JTBD%20Interviews). I've got a special interview technique to use when talking to your recent buyers.
 
 Stay sharp.

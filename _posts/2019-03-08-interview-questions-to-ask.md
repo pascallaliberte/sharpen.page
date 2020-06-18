@@ -102,4 +102,4 @@ Stay Sharp!
 
 ---
 
-_Want to have a run through an interview formatted with these questions? If you have a recent buyer whose story surprised you a bit who'd be ready for a 1 hour phone interview, (or you, yourself, purchased a product in the last three months), [send me an email](mailto:pascal@pascallaliberte.me) and we'll setup the interview._
+_Want to have a run through an interview formatted with these questions? If you have a recent buyer whose story surprised you a bit who'd be ready for a 1 hour phone interview, (or you, yourself, purchased a product in the last three months), [send me an email](mailto:pascal@hey.com) and we'll setup the interview._

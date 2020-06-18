@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "private": true,
   "repository": "git@github.com:pascallaliberte/sharpen.page.git",
-  "author": "Pascal Laliberté <pascal@pascallaliberte.me>",
+  "author": "Pascal Laliberté <pascal@hey.com>",
   "license": "MIT",
   "scripts": {
     "start": "npm run-script clean:project && webpack --env=dev --progress --profile --colors && concurrently \"webpack-dev-server --env=dev\" \"bundle exec jekyll serve --drafts --future\"",

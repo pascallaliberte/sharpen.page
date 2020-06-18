@@ -79,6 +79,6 @@ Hope you beat that universal competitor.
 
 Stay sharp.
 
-[email]: mailto:pascal@pascallaliberte.me?subject=Help%20finding%20the%20job
+[email]: mailto:pascal@hey.com?subject=Help%20finding%20the%20job
 [fourforces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
 [jtbd]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}

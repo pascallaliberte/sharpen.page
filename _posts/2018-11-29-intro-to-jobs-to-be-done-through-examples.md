@@ -67,7 +67,7 @@ When you get a sense of the job for which people hire your product, you realize 
 - Once you realize a job for which your product was hired, you can decide whether to keep making it, whether to sell it beside other products that do the same job, or whether to modify the product to nail the job even better.
 - Once you realize the few jobs for which your product gets hired, you can create other offerings around it that cater to the connected jobs. Think of the job your newsletter gets hired for, or what your consulting services get hired for, and how they're a stepping stone toward your product.
 
-So how do you find out the Job-To-Be-Done of your product? There's an interview technique that aims to trace back the story of the purchase. After talking with five to ten buyers, you get a pretty clear picture of the types of jobs your product was hired to do. [Reach out](mailto:pascal@pascallaliberte.me?subject=JTBD%20Interviews) if you'd like to learn more about that interview technique.
+So how do you find out the Job-To-Be-Done of your product? There's an interview technique that aims to trace back the story of the purchase. After talking with five to ten buyers, you get a pretty clear picture of the types of jobs your product was hired to do. [Reach out](mailto:pascal@hey.com?subject=JTBD%20Interviews) if you'd like to learn more about that interview technique.
 
 Be on the lookout for articles in the next weeks for a deeper look at the Jobs-To-Be-Done theory. We'll look at the **one universal competitor** for all of your products, the **forces at play in the mind** of your buyer, and what your buyer is **firing** when they're hiring your product.
 

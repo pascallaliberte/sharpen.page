@@ -4,7 +4,7 @@
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
 title: "sharpen.page: A Product Sharpening Service"
-email: pascal@pascallaliberte.me
+email: pascal@hey.com
 description: "I help modest online companies understand their buyers, sharpen the product."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://sharpen.page # the base hostname & protocol for your site, e.g. http://example.com

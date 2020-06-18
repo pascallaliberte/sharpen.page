@@ -47,7 +47,7 @@ Here's how I can help:
 
 ## <small>Option #1</small><br>Public Review
 
-If you have a post in [#landing-page-feedback on IndieHackers][ih-landing-page-feedback], please [send me a link to your post](mailto:pascal@pascallaliberte.me?Landing+Page+Feedback). If I think I can help, I'll be glad to leave a public comment.
+If you have a post in [#landing-page-feedback on IndieHackers][ih-landing-page-feedback], please [send me a link to your post](mailto:pascal@hey.com?Landing+Page+Feedback). If I think I can help, I'll be glad to leave a public comment.
 
 **If you've got the original .sketch or .xd file** of the design, I could record a screencast of some changes I'd propose making and share that on YouTube. I'd be up for that if you're game.
 
@@ -62,7 +62,7 @@ I offer a [**/visualize**](/visualize) consultation call for CDN$&nbsp;250. A on
 If you'd like me to provide a quote for custom work, we can discuss that too.
 
 **If you'd rather skip the call**, and you'd like to discuss options to work together, here's my email address:  
-[{% include svg/mail.svg.html %} pascal@pascallaliberte.me](mailto:pascal@pascallaliberte.me){: .cta-btn }
+[{% include svg/mail.svg.html %} pascal@hey.com](mailto:pascal@hey.com){: .cta-btn }
 
 ---
 
@@ -91,6 +91,6 @@ Here are some articles you might find useful for sharpening your own product's l
 Hope those articles can be helpful. To be the first to get new articles, published each Friday, check out the form below to sign up.
 
 {% include avatar.html %} Pascal Laliberté  
-[pascal@pascallaliberte.me](mailto:pascal@pascallaliberte.me)
+[pascal@hey.com](mailto:pascal@hey.com)
 
 {% include email-sign-up-form.html context="articles-list" %}

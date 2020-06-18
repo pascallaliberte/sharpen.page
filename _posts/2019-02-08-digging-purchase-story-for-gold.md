@@ -82,4 +82,4 @@ All that will help solidify, add confidence to, and clarify, your understanding 
 
 Stay Sharp!
 
-_Pssst. Curious how an interview plays out? It's roughly a 50-minute conversation, and if you've got a recent buyer of your product who's up for it, or if you yourself have purchased something recently and want to be interviewed, [send me an email](mailto:pascal@pascallaliberte.me) and we'll setup the call._
+_Pssst. Curious how an interview plays out? It's roughly a 50-minute conversation, and if you've got a recent buyer of your product who's up for it, or if you yourself have purchased something recently and want to be interviewed, [send me an email](mailto:pascal@hey.com) and we'll setup the call._

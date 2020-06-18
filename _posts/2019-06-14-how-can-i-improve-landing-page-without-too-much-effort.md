@@ -103,4 +103,4 @@ With this new structure, with just a little bit more writing, the page could **m
 
 Stay Sharp!
 
-_P.S. If you've got a page of your own that you'd like to have looked at, please [reach out](mailto:pascal@pascallaliberte.me). I'll be glad to help._
+_P.S. If you've got a page of your own that you'd like to have looked at, please [reach out](mailto:pascal@hey.com). I'll be glad to help._
