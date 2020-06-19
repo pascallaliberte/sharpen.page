@@ -119,7 +119,7 @@ To get some attention for your product, you want to:
 
 A mini struggle-solver is anything that's small, solves a problem for those who "hire" it, and ideally, gets people to tell others about it:
 
-* **An article** is a mini struggle-solver. People hire articles to get a quick answer on a specific question. Just like this article is hired for a different struggle that very similarly-written articles written on this blog.
+* **An article** is a mini struggle-solver. People hire articles to get a quick answer on a specific question. Just like this article is hired for a different struggle than very similarly-written articles written on this blog.
 * **A newsletter** is a mini struggle-solver. People [hire newsletters][newsletter] to stay on top of industry news, for aspiration, to be reminded of evergreen truths when they're on a journey.
 * **An ebook** is a mini struggle-solver. People [hire ebooks for accountability on learning][two-ebooks]. It's a concrete way to make a promise to themselves.
 * **An email sequence** is a mini struggle-solver. People hire email sequences to apply new knowledge at a steady pace.
