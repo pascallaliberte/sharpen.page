@@ -125,7 +125,7 @@ A mini struggle-solver is anything that's small, solves a problem for those who 
 * **An email sequence** is a mini struggle-solver. People hire email sequences to apply new knowledge at a steady pace.
 * **A guide on adopting the new process your product is advocating** is a mini struggle-solver. People [hire a new process before they hire software to streamline that process][different-process].
 * **A consulting engagement** is a mini struggle-solver. People [hire an external specialist][applicationemail] when they don't want to become an expert in solving that hard problem they're experiencing.
-* **A sharper, pared down version of your product** is a mini struggle-solver. Your full-featured version of your app should be a last resort pitch, because [your product's many features might be causing your buyer's anxiety][feature-anxiety].
+* **A sharper, pared down version of your product** is a mini struggle-solver. Your full-featured version of your app should be a last resort pitch, because [your product's many features might be causing your buyer anxiety][feature-anxiety].
 
 [two-ebooks]: {% post_url 2019-03-01-two-ebooks-purchased-together %}
 [newsletter]: {% post_url 2019-07-26-increase-newsletter-signups-without-being-pushy %}
