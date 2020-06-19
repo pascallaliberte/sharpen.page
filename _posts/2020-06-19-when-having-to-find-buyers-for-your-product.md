@@ -45,7 +45,7 @@ You now have to **do the work to find buyers**. Find who your target market is. 
 
 There's a super huge chance none of that will work.
 
-[If your product doesn't address a hard struggle][struggle], there **won't be enough momentum** to carry a buyer from "I have to move away from my situation" to "this beats my current mish-mash of solutions by a mile". There won't be enough moment to [clear the gravitational well][changing-orbit] of [_non-consumption_, your biggest competitor][non-consumption].
+[If your product doesn't address a hard struggle][struggle], there **won't be enough momentum** to carry a buyer from "I have to move away from my situation" to "this beats my current mish-mash of solutions by a mile". There won't be enough momentum to [clear the gravitational well][changing-orbit] of [_non-consumption_, your biggest competitor][non-consumption].
 
 [struggle]: {% post_url 2019-09-06-hard-struggle-required %}
 [non-consumption]: {% post_url 2018-12-17-universal-competitor %}
