@@ -143,6 +143,29 @@ layout: empty
   div.force .scalable[data-size="-2"] { transform: scale(calc(1 / var(--scale-2))) }
   div.force .scalable[data-size="-3"] { transform: scale(calc(1 / var(--scale-3))) }
   div.force .scalable[data-size="-4"] { transform: scale(calc(1 / var(--scale-4))) }
+  
+  .jtbd {
+    font-size: 4vw;
+  }
+  
+  .jtbd-part {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    margin-bottom: 1em;
+    line-height: 1.2;
+  }
+  
+  .jtbd-part label {
+    font-weight: bold;
+  }
+  
+  .jtbd-part .jtbd-part-input {
+    min-height: 2.4em;
+    background-color: #fff;
+    background-image:
+    linear-gradient(#eee .1em, transparent .1em);
+    background-size: 100% 1.2em;
+    background-position-y: -0.2em;
+  }
 </style>
 
 <div class="diagram-container" data-behavior="diagram-container">
@@ -171,6 +194,21 @@ layout: empty
         </div>
       </div>
     </div>
+  </div>
+</div>
+
+<div class="jtbd">
+  <div class="jtbd-part">
+    <label>When</label>
+    <div contenteditable="true" class="jtbd-part-input"></div>
+  </div>
+  <div class="jtbd-part">
+    <label>I want to</label>
+    <div contenteditable="true" class="jtbd-part-input"></div>
+  </div>
+  <div class="jtbd-part">
+    <label>So I can</label>
+    <div contenteditable="true" class="jtbd-part-input"></div>
   </div>
 </div>
 
