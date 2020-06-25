@@ -147,6 +147,8 @@ layout: empty
   .jtbd {
     font-size: 4vw;
     margin-top: 1em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
   }
   
   .jtbd-part {
@@ -163,16 +165,24 @@ layout: empty
     left: 0;
     z-index: 1;
     display: inline-block;
+    color: #38365E;
   }
   
   .jtbd-part .jtbd-part-input {
     min-height: 1.2em;
     background-color: #fff;
     background-image:
-    linear-gradient(#eee .1em, transparent .1em);
+    linear-gradient(#E7E6F6 .1em, transparent .1em);
     background-size: 100% 1.2em;
     background-position-y: -0.2em;
     padding-left: 3em;
+    color: #38365E;
+  }
+  
+  .jtbd-part .jtbd-part-input:focus {
+    outline: none;
+    background-image:
+    linear-gradient(#C2C0DB .1em, transparent .1em);
   }
   
   #jtbd-part-when    { text-indent: 0; }
