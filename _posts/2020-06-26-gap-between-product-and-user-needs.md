@@ -48,7 +48,7 @@ You might think you're helping your product get more sales by having more featur
 
 It's a gamble. Your job is to build a product. Not building, that feels like going backwards.
 
-**So how can you decide whether that gap is gap to fill or a gap to ignore?**
+**So how can you decide whether that gap is a gap to fill or a gap to ignore?**
 
 ## Listening Until You Hear Trade-offs
 
