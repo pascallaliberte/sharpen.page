@@ -64,7 +64,7 @@ We'll address those two problems one-by-one.
 
 **In short:** you'll need to get to Level 3 sharpening, and you'll need a constellation of mini struggle-solvers.
 
-{% include components/aside-note.html text="Note: I hope you're not on some kind of a runway with a deadline to make this product work, because this approach will require depth of understanding and patience." %}
+{% include components/aside-note.html text="I hope you're not on some kind of a runway with a deadline to make this product work, because this approach will require depth of understanding and patience." %}
 
 ## Level 3 Sharpening of Your Understanding of the Buyer
 
