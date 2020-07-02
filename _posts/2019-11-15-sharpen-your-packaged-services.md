@@ -38,7 +38,7 @@ That behaviour is called "[non-consumption][non-consumption]", the default thing
 
 **So help them with that.** You'll solidy your position as an authority, and [when][try-when] they feel they've tried enough times, **they'll come to you for help finishing up the job**.
 
-[try-when]: [try-when]: {% post_url 2019-02-21-try-when %}
+[try-when]: {% post_url 2019-02-21-try-when %}
 
 Concrete Ways to Apply This Strategy:
 
