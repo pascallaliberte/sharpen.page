@@ -121,7 +121,9 @@ This is essentially the struggle around which the site is currently built. Does 
 * **{% include components/icon-habits.html %} Habits:** I'll just continue searching for something unique, on my own.
 {: .forces }
 
-As you can see, these folks will likely leave, **despite the fact they already understand what affiliate marketing means**. It hinges completely on the quality of the product/keyword, and cynicism might be high on what's on offer. They're looking for exclusivity + quality. Plus, their "I'll just" statement is pulling strongly back toward a "Not this, not now".
+As you can see, these folks will likely leave, **despite the fact they already understand what affiliate marketing means**. It hinges completely on the quality of the product/keyword, and cynicism might be high on what's on offer. They're looking for exclusivity + quality. Plus, their "I'll just" statement is [pulling strongly back toward a "Not this, not now"][non-consumption].
+
+[non-consumption]: {% post_url 2018-12-17-universal-competitor %}
 
 Other note: This search for exclusivity + quality (for people experiencing this situation) creates a strong interest in not telling the world about this site. This hurts word-of-mouth.
 
