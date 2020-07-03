@@ -22,14 +22,14 @@ related_posts:
   - 2019-06-28-an-example-unconventional-landing-page
   - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
 excerpt:
-  You have a product that's hard to explain. Try moving away from being "concise-yet-widely-understandable" (which didn't work so far), and instead go for "obvious-to-those-with-the-strugle". But first, you got to understand your visitor's key struggle. Let's check out an example.
+  You have a product that's hard to explain. Try moving away from being "concise-yet-widely-understandable" (which didn't work so far), and instead go for "obvious-to-those-with-the-struggle". But first, you got to understand your visitor's key struggle. Let's check out an example.
 ---
 
 They say you need a website to be concise. Few words. Concentrate on what it does, show the benefits, make it quick.
 
 But you've tried concise. You've tried to make it quick, and your site isn't communicating the product like it needs to. **You're suspecting people are leaving because they don't understand your product**, what it does and how it could help.
 
-The trick is to quit trying to be **concise-yet-widely-understandable** and instead go for **obvious-to-those-with-the-strugle**.
+The trick is to quit trying to be **concise-yet-widely-understandable** and instead go for **obvious-to-those-with-the-struggle**.
 
 Let's take an example.
 
@@ -184,6 +184,6 @@ We can confidently write conversational sentences (or [whatever writing style yo
 
 [writing-tone]: {% post_url 2020-02-07-ballsy-or-corporate-tone %}
 
-Explaining the product is now easy-peasy. No need to try to be **concise-yet-widely-understandable**. You now have what you need to be **obvious-to-those-with-the-strugle**.
+Explaining the product is now easy-peasy. No need to try to be **concise-yet-widely-understandable**. You now have what you need to be **obvious-to-those-with-the-struggle**.
 
 Stay Sharp!
