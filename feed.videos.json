@@ -15,7 +15,7 @@
   {% endif %}
   "items": [
     
-    {% for post in site.videos limit:10 %}
+    {% for post in site.videos reversed limit:10 %}
     {
       "id": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
       {% if post.link %}
