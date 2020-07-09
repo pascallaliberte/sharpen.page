@@ -19,7 +19,8 @@ social:
   links:
     - https://twitter.com/pascallaliberte
     - https://github.com/pascallaliberte
-
+collections:
+  - videos
 defaults:
   - scope:
       path: ""
