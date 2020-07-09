@@ -12,7 +12,7 @@ description: For one hour of your time (Amazon gift card if chosen), can I inter
 
 ## The Fine Print:
 
-For your help, and if I select your purchase story, I'll offer **a gift certificate for Amazon for USD $60**. I'll be recording the interview for my own records (not for the public), but I reverse the right to use your story as an example in an article (with your name and sensitive bits removed).
+For your help, and if I select your purchase story, I'll offer **a gift certificate for Amazon for USD $60**. I'll be recording the interview for my own records (not for the public), but I reserve the right to use your story as an example in an article (with your name and sensitive bits removed).
 
 ## Thanks for your interest. Can I ask for some details abour your purchase?
 
