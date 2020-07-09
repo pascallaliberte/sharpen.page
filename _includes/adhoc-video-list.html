@@ -4,8 +4,8 @@
   <li>
     <span class="video-link-wrapper">
       <span class="video-link">
-        {% if video.url %}
-          <a href="{{ video.url }}">{{ video.title }}</a> {% include svg/external.svg.html %}
+        {% if video.link %}
+          <a href="{{ video.link }}">{{ video.title }}</a> {% include svg/external.svg.html %}
         {% else %}
           <strong>Up next:</strong> {{ video.title }}
         {% endif %}

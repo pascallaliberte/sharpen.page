@@ -43,7 +43,7 @@ See: [When Struggle-First Pages Beat "Features and Benefits" Pages](/struggle-fi
 
 I started making **videos on creating these Struggle-First pages**.
 
-{% include adhoc-video-list.html videos=site.data.struggle-first-videos %}
+{% include adhoc-video-list.html videos=site.videos %}
 
 For the next ones, I'm thinking about:
 
