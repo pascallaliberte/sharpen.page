@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Visitors Will Excuse Your Unstyled Landing Page
+title: Visitors Will Excuse Your Un-styled Landing Page
 categories: jtbd
 tags: optimize copywriting showcase struggle-first
 author: Pascal Laliberté
