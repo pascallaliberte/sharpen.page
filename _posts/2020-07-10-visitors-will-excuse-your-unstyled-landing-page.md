@@ -47,7 +47,7 @@ And then you launch your site, ask for feedback on IndieHackers or r/design_crit
 
 ---
 
-**This beauty of site**, on the other hand, **works**.
+**This beauty a of site**, on the other hand, **works**.
 
 [productlistings]: https://productlistings.app
 
@@ -86,6 +86,8 @@ Then the visitor will type something like "html eBay product listing" into Googl
 
 "Sure, let's see how it works." The forces check out. **No anxieties (despite the unstyled look!).** _The visitor scrolls._ **This right there, is why this page works.**
 
+{% include components/aside-note.html text="A caveat: the struggle must be something that is annoying enough to cause the visitor to part with the past and seek something better. There's a good chance this struggle isn't felt hardly enough for most. The page may work, but **the struggle might not bring people to this page**." %}
+
 ## What About the Look?
 
 **Despite the unstyled look, the site does create trust.** There's something familiar and honest about the words and the choices.
@@ -94,7 +96,7 @@ For example, look at those adjectives in the yellow boxes ("Clean Effective Trus
 
 [![Photo of those familiar words](/assets/images/posts/2020-07-10-visitors-will-excuse-your-unstyled-landing-page-01b.jpg)][productlistings]
 
-Most designers would balk at that styling, but they've got the style of a familiar neighborhood handyman advertisement. **Nothing fancy. Straight-talking. Midwestern-style no-nonsense.**
+Most designers would balk at that styling, but those elements have the style of a familiar neighborhood handyman advertisement. **Nothing fancy. Straight-talking. Midwestern-style no-nonsense.**
 
 ## But Will They Buy (Sign up to Get Notified)?
 
