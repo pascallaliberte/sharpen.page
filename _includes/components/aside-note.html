@@ -1,6 +1,7 @@
-<aside title="Note">
+{%- if include.title %}{% assign title = include.title %}{% else %}{% assign title = "Note" %}{% endif -%}
+<aside title="{{ title }}">
 <div class="note">
-  <strong>Note</strong><br>
+  <strong>{{ title }}:</strong><br>
   {{ include.text | markdownify }}
 </div>
 </aside>
