@@ -36,9 +36,9 @@ You've covered the basics:
 
 ## Most Products Don't Clear This Next Hurdle
 
-Another basic: [your product needs to address a hard struggle][struggle].
+Another basic: **your product needs to address a hard struggle**.
 
-That's the realization that Andrew Glaser made after creating a product that failed.
+That's the [realization that Andrew Glaser made after creating a product that failed][struggle].
 
 > He had a product concept. He showed it to people. They “predicted” that they’d buy it. He even won an award for the concept! He thought he had a good idea.
 >
