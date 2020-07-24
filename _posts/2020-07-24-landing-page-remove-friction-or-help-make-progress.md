@@ -134,7 +134,7 @@ I know I don't need to change my website too much to put a subscription form, bu
 
 Big anxiety.
 
-The "No credit card required" does not provide any re-assurance for my situation. It's a cliché that doesn't help me make any progress. That note, which was supposed to friction remover, actually contributes to my hesitations.
+The "No credit card required" does not provide any re-assurance for my situation. It's a cliché that doesn't help me make any progress. That note, which was supposed to be a friction remover, actually _contributes_ to my hesitations.
 
 > There's no way I'm trying the product without getting an answer for this question.
 
