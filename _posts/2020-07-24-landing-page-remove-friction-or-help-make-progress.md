@@ -126,7 +126,7 @@ When going down the page, I'm experiencing these forces.
 
 * **{% include components/icon-attraction.html %} Attraction:** Nice, a way for me to put some content behind a paywall.
 * **{% include components/icon-attraction.html %} Attraction:** Nice, recurring payments, people seem to use this and they seem to like it.
-* **{% include components/icon-anxieties.html %} Anxiety:** But how do I secure my content? **Do I have to host it behind they're thing?**
+* **{% include components/icon-anxieties.html %} Anxiety:** But how do I secure my content? **Do I have to host it behind their thing?**
 
 Here, the page creates a big anxiety for the situation I'm in. I've already got ideas about how I'll host this content. I've already got a site. The page tells me I can install a subscription form on any website, but **where will my paid content be hosted?**
 
