@@ -144,7 +144,7 @@ I scroll a bit. I don't see anything re-assuring regarding this problem. **I lea
 
 [bullettrain]: https://bullettrain.co
 
-Conclustion: the landing page has a hole! **Maybe your site has no friction, but if there's a hole, people will slide right into it and leave.**
+Conclusion: the landing page has a hole! **Maybe your site has no friction, but if there's a hole, people will slide right into it and leave.**
 
 ## The Opportunity
 
