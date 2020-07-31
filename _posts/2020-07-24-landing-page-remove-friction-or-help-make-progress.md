@@ -86,10 +86,10 @@ What's friction translated into visitor feelings? Here it's probably anxieties a
 
 1. When a visitor comes to a site, they've got a [job they want to get done][jtbd-intro].
 2. The thing that started them on that journey was that they experienced some struggle, some moment when they said "enough is enough". [No hard struggle, no momentum for a yes][struggle].
-3. The <mark>struggle</mark> is one of the [Forces of Progress][four-forces], the forces at play in the mind of the visitor and she weighs the choices and the [trade-offs][trade-offs].
-4. There's also the <mark>attraction</mark> force, pulling them toward a "yes, this will do the job".
-5. There's also the <mark>anxieties</mark> force, pushing them back toward "not this". Hesitations, any anxieties like [pricing][price-anxiety] (not always the main anxiety), but also things like "will I have to learn something new?" and "how will this [fit in my current setup][different-process]?"
-6. And then there's the <mark>habits</mark> force, the strongest one, the "I'll just" statements in the mind of the visitor, pulling back toward "not now."
+3. The {% include components/badge-struggle.html short=true %} is one of the [Forces of Progress][four-forces], the forces at play in the mind of the visitor and she weighs the choices and the [trade-offs][trade-offs].
+4. There's also the {% include components/badge-attraction.html short=true %} force, pulling them toward a "yes, this will do the job".
+5. There's also the {% include components/badge-anxieties.html short=true %} force, pushing them back toward "not this". Hesitations, any anxieties like [pricing][price-anxiety] (not always the main anxiety), but also things like "will I have to learn something new?" and "how will this [fit in my current setup][different-process]?"
+6. And then there's the {% include components/badge-habits.html short=true %} force, the strongest one, the "I'll just" statements in the mind of the visitor, pulling back toward "not now."
 
 [jtbd-intro]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
 [struggle]: {% post_url 2019-09-06-hard-struggle-required %} 
