@@ -24,6 +24,7 @@ title: Step It Up - When You're About to Get Some Attention for Your Services...
 * Practicing conversations;
 * Thinking up ways you could package your services.
 
+</div>
 
 <div class="pitch-lead-up-block" markdown="1">
 
