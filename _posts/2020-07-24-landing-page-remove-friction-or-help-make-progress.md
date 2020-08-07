@@ -127,6 +127,7 @@ When going down the page, I'm experiencing these forces.
 * **{% include components/icon-attraction.html %} Attraction:** Nice, a way for me to put some content behind a paywall.
 * **{% include components/icon-attraction.html %} Attraction:** Nice, recurring payments, people seem to use this and they seem to like it.
 * **{% include components/icon-anxieties.html %} Anxiety:** But how do I secure my content? **Do I have to host it behind their thing?**
+{: .forces }
 
 Here, the page creates a big anxiety for the situation I'm in. I've already got ideas about how I'll host this content. I've already got a site. The page tells me I can install a subscription form on any website, but **where will my paid content be hosted?**
 
@@ -141,6 +142,7 @@ The "No credit card required" does not provide any re-assurance for my situation
 I scroll a bit. I don't see anything re-assuring regarding this problem. **I leave.**
 
 * **{% include components/icon-habits.html %} Habits:** I'll just build an app in Rails with the [Bullet Train][bullettrain] starter kit (which has Stripe integration) to host my content and charge my visitors.
+{: .forces }
 
 [bullettrain]: https://bullettrain.co
 
