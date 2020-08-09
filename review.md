@@ -6,19 +6,18 @@ title: A Service to Review Your Landing Page or Draft
 
 <div class="pitch-lead-up" markdown="1">
 
-You're pretty sure that your landing page...
+**You're pretty sure that your landing page...**
 
 *  isn't clear enough,
 *  isn't connecting with your visitor's struggle enough,
-*  isn't focused enough on being helpful
-
-And you're looking for someone to sharpen it up.
+*  isn't focused enough on being helpful maybe,
+*  isn't selling enough, converting enough, _working_ enough.
 
 <div class="pitch-lead-up-block" markdown="1">
 
 **Maybe you've been making edits, following some best practices and some conventions.**
 
-Maybe you even followed some of my own advice on copywriting or own creating struggle-first pages.
+Maybe you even followed some of [my own advice on copywriting](/articles) or [my advice on creating struggle-first pages](/struggle-first).
 
 </div>
 
@@ -48,7 +47,7 @@ You've asked for feedback on online forums (IndieHackers, Reddit, Facebook), and
 {: #details }
 
 <div class="tagline pitch-solution-tagline pull-up" markdown="1">
-{% include tagline-service.html %}
+{% include tagline-product.html %}
 </div>
 
 I offer three options for the /review service.
@@ -88,17 +87,19 @@ Here are a couple public video reviews I did recently. Yours will be a little mo
 **My advice will be about making the wrong visitors leave early so the best visitors scroll down and feel like they're being understood.**
 
 * If you're here because you want a page that convinces and sells above all else, we won't be a good match either. People smell that from a mile away.  
-**I'll help you make pages that create a ton of trust, the hard to get, hard to lose type of trust.** If we're not a good fit for this one, then maybe you can check out Olly's page roasting service.
+**I'll help you make pages that create a ton of trust, the hard to get, hard to lose type of trust.**
 
-* If I can't detect that your product or service addresses a hard struggle, I won't be able to help.  
+* If I can't detect that your product or service addresses a [hard struggle][struggle], I won't be able to help.  
 **People hardly ever buy nifty products, mere time savers or enterprise products unless there's an ambition, a context for switching away from a situation and toward a new one, a hard struggle creating the momentum to switch to something new. We need to find something close to that before I can help.**
+
+[struggle]: {% post_url 2019-09-06-hard-struggle-required %}
 
 ## If I Were You
 
 If you'd like to try improving your site or draft some more before our call, here are a few articles I recommend:
 
 
-But if that's not going to be quick enough, I'd love to help you speed things up with these options:
+**But if that's not going to be quick enough**, I'd love to help you speed things up with these options:
 
 ---
 
