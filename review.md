@@ -6,20 +6,21 @@ title: A Service to Review Your Landing Page or Draft
 
 <div class="pitch-lead-up" markdown="1">
 
-**You're pretty sure that your landing page isn't _clear_ enough.**
+**<mark>Your landing page isn't <em>clear</em> enough</mark>.**
 
 You've been doing a fair bit on your own...
 
-* you've started a page, got somewhere good,
-* you've followed some best practices,
-* you've tested with some people maybe,
+* you've started a page, got somewhere good...
+* **could be for a product, could be for a service offering...**
+* you've followed some best practices...
+* you've tested with some people maybe...
 * you've made some more edits...
 
-Maybe you even followed some of [my own advice on copywriting](/articles) or [my advice on creating struggle-first pages](/struggle-first).
-
-Could be for a product, could be for a service offering.
+Maybe you even followed some of [my own advice on copywriting](/articles) or on [creating struggle-first pages](/struggle-first).
 
 <div class="pitch-lead-up-block" markdown="1">
+
+<aside markdown="1">
 
 Maybe you've asked for feedback on online forums (IndieHackers, Reddit, Facebook), and **people give you some silly feedback**... "too much text", "here's some more clever text", "add some testimonials", "follow this template".
 
@@ -29,7 +30,9 @@ You're not interested in that kind of feedback.
 
 **Instead**, you're looking for a run-through of your page, to see where there are some holes that will make the visitors leave.
 
-**Instead**, you've looking for ways to change your page to make your visitor say, with enthusiasm, "I feel seen!".
+**Instead**, you've looking for ways to change your page to make your visitor say, with _enthusiasm_, "I feel seen!", "Yes, this, now".
+
+</aside>
 
 </div>
 
@@ -47,20 +50,20 @@ You want your page to be more clear than clever, more helpful that pushy, more b
 
 <div class="pitch-solution" markdown="1">
 
-# <span class="service-slug">review</span> A Professional Review of Your Landing Page or Draft
+# <span class="service-slug">review</span> A Professional Review of Your Landing Page (or of Your Draft)
 {: #details }
 
 <div class="tagline pitch-solution-tagline pull-up" markdown="1">
 {% include tagline-product.html %}
 </div>
 
-I offer three options for the /review service.
+I offer three options:
 
 1. **A private video review** (Paid)
 2. **A public review** (Free)
 3. **A week of edits** (Paid)
 
-See below for more details on these three options, or read on to get a sense of what you'll be getting.
+[Skip to the details {% include svg/caret-bottom.svg.html %}](#options){: .cta-btn } on these three options, or read on to get a sense of what you'll be getting.
 
 </div>
 
@@ -105,13 +108,14 @@ If you'd like to try improving your site or draft some more before our call, her
 
 **But if that's not going to be quick enough**, I'd love to help you speed things up with these options:
 
----
-
 ## My Three Options
+{: #options }
+
+---
 
 ### Option #1 - A Private Video Review
 
-**CDN $265** - A private video where I comment on your page or a draft of a page. Roughly 30-45 minutes.
+**CDN $265** - A private video where I comment on your page or a draft of a page. Roughly 30-45 minutes, bit more detailed what my public ones as in the examples above, and private.
 
 By the end you'll get:
 
@@ -121,22 +125,47 @@ By the end you'll get:
 * The holes I see in your page: the spots that will create unexpected anxieties that might throw people away.
 * More confidence in the parts of your page that you don't need to touch just yet.
 
-To proceed, fill out the form below. Paid in advance. I'll be making your video on Tuesday mornings, given my availability and a minimum 12 hours of heads up from you. You'll get the video by mid-afternoon Eastern Time on Tuesday.
+**To proceed:**
+
+[Fill out the questionnaire below {% include svg/caret-bottom.svg.html %}](#questionnaire){: .cta-btn } and specify Option #1. I'll get back to you to confirm availability before we proceed.
+
+Paid in advance. I'll be making your video on Tuesday mornings, given my availability and a minimum 12 hours of heads up from you. You'll get the video by mid-afternoon Eastern Time on Tuesday.
+
+---
 
 ### Option #2 - A Public Review
 
 **Free**, but a little less detailed, a little less in-depth. Might not be a video.
 
-Here's how it works: Create a post on IndieHackers or Reddit, mention me in the description to invite me to comment, and I'll receive the notification. Could be fun to exchange about your site with other people.
+Here's how it works: 
 
-### Option #3 - A Week of Edits
+1. **Create a post on [IndieHackers](https://www.indiehackers.com/group/landing-page-feedback) or Reddit** ([r/design_critiques](https://www.reddit.com/r/design_critiques/), [r/SideProject](https://www.reddit.com/r/SideProject/) or [r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)),
+2. Mention me in the description to invite me to comment (I'm @pascallaliberte),
+3. and I'll receive the notification.
 
-**CDN $1450** - A video review to kick things off on Monday, giving you an idea about what I'll change about your site, a draft of some edits, and a deploy-ready version of the new page in your CMS by Friday, with instructions on making it live. Done part-time over a week. I'll need your availability throughout the week to go deep in understanding your visitor's struggle. Paid the week before, given my availability.
-
-To proceed, fill out the form below. Currently not available until mid-September 2020.
+Could be fun to exchange about your site with other people. Will depend on my availability.
 
 ---
 
-Alternatively, if you'd just like to have a consultation call, please check out the /visualize package which goes **CDN $250**, which includes an email back and forth ahead of the call, and a recording of our call.
+### Option #3 - A Week of Edits
+
+**CDN $1450** - Part-time hands-on availability over a week to **concretely evolve your page**:
+
+* We'll start on Monday with **a video review to kick things off**, giving you an idea about what I'll change about your site;
+* Througout the week, I'll **evolve to a new version of your landing page**, keeping you in the loop;
+* By Friday, you'll have a **deploy-ready version of the new page in your CMS**, with instructions on making it live.
+
+I'll need your availability throughout the week to go deep in understanding your visitor's struggle. **Paid the week before**, given my availability.
+
+**To proceed:**
+
+[Fill out the questionnaire below {% include svg/caret-bottom.svg.html %}](#questionnaire){: .cta-btn } and be sure to click Option #3. I'll get back to you to confirm availability before we proceed.
+
+---
+
+Alternatively, if you'd just like to have a consultation call, please check out the **[/visualize](/visualize#details)** package which goes **CDN $250**, which includes an email back and forth ahead of the call, and a recording of our call.
+
+I also offer a more in-depth service to peer into the minds of your buyers through purchase interviews, useful when you've gotten enough sales to know that you can go sharper with your product/service offering. That's the **[/understand](/understand#details)** package.
 
 ## Questionnaire for the /review package
+{: #start }
