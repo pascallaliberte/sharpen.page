@@ -18,6 +18,18 @@ You've been doing a fair bit on your own...
 
 Maybe you even followed some of [my own advice on copywriting](/articles) or on [creating struggle-first pages](/struggle-first).
 
+Maybe you've got a launch coming up. Or maybe you've got an existing page that's underperforming and you're revamping it.
+
+<div class="situation-quotes" markdown="1">
+
+> "Is it good? I'm trying _not_ to match everybody else's style and make something that helps my visitors decide on what to do next."
+
+> "Is it clear? Will people _get_ it?"
+
+> "**I don't want to an expert in making landing pages**. I've gone far enough on my own."
+
+</div>
+
 <div class="pitch-lead-up-block" markdown="1">
 
 <aside markdown="1">
@@ -30,7 +42,9 @@ You're not interested in that kind of feedback.
 
 **Instead**, you're looking for a run-through of your page, to see where there are some holes that will make the visitors leave.
 
-**Instead**, you've looking for ways to change your page to make your visitor say, with _enthusiasm_, "I feel seen!", "Yes, this, now".
+**Instead**, you're looking for ways to change your page to make your visitor say, with _enthusiasm_, "I feel seen!", "Yes, this, now".
+
+**Instead**, you're looking to learn more about _your_ visitors and their decisional back-and-forth.
 
 </aside>
 
@@ -101,12 +115,13 @@ Here are a couple public video reviews I did recently. Yours will be a little mo
 
 [struggle]: {% post_url 2019-09-06-hard-struggle-required %}
 
-## If I Were You...
+## The Foundation on Which I'll Give You Advice
 
-If you'd like to try improving your site or draft some more before our call, here are a few articles I recommend:
+If you'd like to try improving your site or draft some more before our call, here are a few articles I recommend, to give you a sense of the lenses I'm using to build pages that _work_:
 
 
-**But if that's not going to be quick enough**, I'd love to help you speed things up with these options:
+
+**But if that's not going to be quick enough**, or **if now's not the time to learn from articles**, I'd love to help you speed things up with these options:
 
 ## My Three Options
 {: #options }
@@ -152,7 +167,7 @@ Could be fun to exchange about your site with other people. Will depend on my av
 **CDN $1450** - Part-time hands-on availability over a week to **concretely evolve your page**:
 
 * We'll start on Monday with **a video review to kick things off**, giving you an idea about what I'll change about your site;
-* Througout the week, I'll **evolve to a new version of your landing page**, keeping you in the loop;
+* Througout the week, I'll **evolve to a new version of your landing page**, keeping you in the loop so we can **learn more about your visitors together**;
 * By Friday, you'll have a **deploy-ready version of the new page in your CMS**, with instructions on making it live.
 
 I'll need your availability throughout the week to go deep in understanding your visitor's struggle. **Paid the week before**, given my availability.
@@ -166,6 +181,22 @@ I'll need your availability throughout the week to go deep in understanding your
 Alternatively, if you'd just like to have a consultation call, please check out the **[/visualize](/visualize#details)** package which goes **CDN $250**, which includes an email back and forth ahead of the call, and a recording of our call.
 
 I also offer a more in-depth service to peer into the minds of your buyers through purchase interviews, useful when you've gotten enough sales to know that you can go sharper with your product/service offering. That's the **[/understand](/understand#details)** package.
+
+## Common Hesitations
+
+<div class="situation-quotes" markdown="1">
+
+> "Am I going to have to re-write my entire page?"
+
+No, a few tweaks might do the trick. Take for example this video here. Typical Features and Benfits page, but there was a hard-to-see hole in the page.
+
+> "What if I can't identify a single hard struggle?"
+
+Here's some good news: hard struggles are more generic than unique. I'll give you an example. Maybe the struggle is that your customer what movement in their career. They want to be seen as a good boss, or they aspire to get a promotion, and your product or service gets hired for the job of helping an executive shine. Maybe that's the most likely "job" for which your product is "hired", maybe it's a "maybe" job. But it _is_ a hard struggle your niche product is hired to do. We can work that into the backdrop understanding of your visitor, and make your page resonate to _them_.
+
+But there's a chance your product doesn't solve a hard enough problem, and is just a nifty idea. In that case, I'll let you know right away if that's my hunch.
+
+</div>
 
 ## Questionnaire for the /review package
 {: #start }
