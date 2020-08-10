@@ -6,34 +6,38 @@ title: A Service to Review Your Landing Page or Draft
 
 <div class="pitch-lead-up" markdown="1">
 
-**You're pretty sure that your landing page...**
+**You're pretty sure that your landing page isn't _clear_ enough.**
 
-*  isn't clear enough,
-*  isn't connecting with your visitor's struggle enough,
-*  isn't focused enough on being helpful maybe,
-*  isn't selling enough, converting enough, _working_ enough.
+You've been doing a fair bit on your own...
 
-<div class="pitch-lead-up-block" markdown="1">
-
-**Maybe you've been making edits, following some best practices and some conventions.**
+* you've started a page, got somewhere good,
+* you've followed some best practices,
+* you've tested with some people maybe,
+* you've made some more edits...
 
 Maybe you even followed some of [my own advice on copywriting](/articles) or [my advice on creating struggle-first pages](/struggle-first).
 
-</div>
+Could be for a product, could be for a service offering.
 
 <div class="pitch-lead-up-block" markdown="1">
 
-You've asked for feedback on online forums (IndieHackers, Reddit, Facebook), and people give you some silly feedback... "too much text", "here's some more clever text", "add some testimonials", "follow this template". **You're not interested in that kind of silly feedback.**
+Maybe you've asked for feedback on online forums (IndieHackers, Reddit, Facebook), and **people give you some silly feedback**... "too much text", "here's some more clever text", "add some testimonials", "follow this template".
 
-</div>
-
-<div class="pitch-lead-up-block" markdown="1">
+You're not interested in that kind of feedback.
 
 **Instead**, you're looking for someone who understands your visitors and their mental back and forth.
 
 **Instead**, you're looking for a run-through of your page, to see where there are some holes that will make the visitors leave.
 
 **Instead**, you've looking for ways to change your page to make your visitor say, with enthusiasm, "I feel seen!".
+
+</div>
+
+<div class="pitch-lead-up-block" markdown="1">
+
+You want your page to be more clear than clever, more helpful that pushy, more bold than generic, more sharp than safe.
+
+**And you've gone far enough on your own for this round of edits.** You'd like to bring someone in.
 
 </div>
 
@@ -94,7 +98,7 @@ Here are a couple public video reviews I did recently. Yours will be a little mo
 
 [struggle]: {% post_url 2019-09-06-hard-struggle-required %}
 
-## If I Were You
+## If I Were You...
 
 If you'd like to try improving your site or draft some more before our call, here are a few articles I recommend:
 
@@ -133,6 +137,6 @@ To proceed, fill out the form below. Currently not available until mid-September
 
 ---
 
-Alternatively, if you'd just like to have a consultation call, please check out the /visualize package at **CDN $250**, which includes an email back and forth ahead of the call, and a recording of our call.
+Alternatively, if you'd just like to have a consultation call, please check out the /visualize package which goes **CDN $250**, which includes an email back and forth ahead of the call, and a recording of our call.
 
 ## Questionnaire for the /review package
