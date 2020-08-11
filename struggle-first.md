@@ -57,7 +57,7 @@ I'm posting these on [YouTube][youtube], [Twitter][twitter] and I'll mention the
 
 ## Articles
 
-Here are some articles from this site that are a good starting point to learn about this Struggle-First page. Just so you know, [every](/understand) [service](/stepitup) [page](/visualize) I've got on this site is an example of a Struggle-First page.
+Here are some articles from this site that are a good starting point to learn about this Struggle-First page. Just so you know, [every](/understand) [service](/review) [page](/visualize) I've got on this site is an example of a Struggle-First page.
 
 **What does a Struggle-First page look like?** Well, spoiler alert, you start the page by **showing the visitor you understand their struggle** so they react by saying "I feel understood!" That's it? Well, actually, you continue showing the visitor you understand their struggle some more... Check these articles, and you'll see.
 
