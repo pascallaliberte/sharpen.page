@@ -117,11 +117,11 @@ The Jobs-To-Be-Done theory of buyer behaviour ([here's an intro with some exampl
 
 Here's what I have to offer:
 
-**[/visualize](/visualize#details) -- A consulting call**. Preceded by an email exchange to learn how I can help, the focus of the call (the main value to you) will be about consulting you on what to do next. Additionally, our discussion will give me the information I need to put together a proposal for further work for you, if that'd be helpful (I won't try to upsell you). CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the call itself (about an hour). I'll wave the fee if you choose to go with the next package:
+**[/review](/review#details) -- A professional review of your landing page (or of your draft).** You've got a landing page, you went far enough on your own, sought feedback, made tweaks, but now's the time to bring someone in for a review. You don't want to be an expert in landing page writing, and you'd rather spend your time being an expert on your work. Three options, including one free option.
+
+**[/visualize](/visualize#details) -- A consulting call**. Preceded by an email exchange to learn how I can help, the focus of the call (the main value to you) will be about consulting you on what to do next. Additionally, our discussion will give me the information I need to put together a proposal for further work for you, if that'd be helpful (I won't try to upsell you). CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the call itself (about an hour). I'll wave the fee if you choose to go with another paid package.
 
 **[/understand](/understand) -- A research boost to focus your product priorities.** When you've got to take a pause and dig into what motivated your buyers to "hire" your product. Maybe you're getting cancellations, or people aren't using the features you've developed, and you're left a little surprised. You can't continue building and building, and need to start questioning a little bit more.
-
-**[/stepitup](/stepitup#details) -- For your service business, a monthly retainer to evolve your site to include a value-ladder of options** (a bit like these options I'm listing here). Each month, we sharpen your site in one meaningful way, and we sharpen your understanding of your buyers via some research. Plus you get my availability to get answers to your questions, learn what I'm finding on the web, hang out in your Slack. If you've already got a good idea of the struggle of your buyer and just need one page done, I've got a one-pager option too.
 
 **[/struggle-first](/struggle-first)** - **Free**, a collection of videos and articles on creating a Struggle-First marketing/landing page for your product or service. The kind of page that your visitor responds to by saying "I feel understood!". Useful when your thing helps a real struggle, but your audience doesn't have an established mindset about the solution yet.
 

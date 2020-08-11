@@ -107,6 +107,8 @@ Here are a couple public video reviews I did recently. Yours will be a little mo
 * If you're here because you want a page that converts more people by adding slimy tactics, we won't be a good fit.  
 **My advice will be about making the wrong visitors leave early so the best visitors scroll down and feel like they're being understood.**
 
+{% include components/aside-note.html text="Or maybe we definitely are a good fit! [Skip down for details on the options and pricing below](#options)" %}
+
 * If you're here because you want a page that convinces and sells above all else, we won't be a good match either. People smell that from a mile away.  
 **I'll help you make pages that create a ton of trust, the hard to get, hard to lose type of trust.**
 
@@ -130,7 +132,7 @@ If you'd like to try improving your site or draft some more before our call, her
 
 ### Option #1 - A Private Video Review
 
-**CDN $265** - A private video where I comment on your page or a draft of a page. Roughly 30-45 minutes, bit more detailed what my public ones as in the examples above, and private.
+**CDN $265** - A private video where I comment on your page or a draft of a page. Roughly 30-45 minutes, bit more detailed than my public ones as in the examples above, and private.
 
 By the end you'll get:
 
@@ -188,11 +190,11 @@ I also offer a more in-depth service to peer into the minds of your buyers throu
 
 > "Am I going to have to re-write my entire page?"
 
-No, a few tweaks might do the trick. Take for example this video here. Typical Features and Benfits page, but there was a hard-to-see hole in the page.
+No, a few tweaks might do the trick. Take for example this video here. Typical Features and Benefits page, but there was a hard-to-see hole in the page.
 
 > "What if I can't identify a single hard struggle?"
 
-Here's some good news: hard struggles are more generic than unique. I'll give you an example. Maybe the struggle is that your customer what movement in their career. They want to be seen as a good boss, or they aspire to get a promotion, and your product or service gets hired for the job of helping an executive shine. Maybe that's the most likely "job" for which your product is "hired", maybe it's a "maybe" job. But it _is_ a hard struggle your niche product is hired to do. We can work that into the backdrop understanding of your visitor, and make your page resonate to _them_.
+Here's some good news: hard struggles are more generic than unique. I'll give you an example. Maybe the struggle is that your customer wants movement in their career. They want to be seen as a good boss, or they aspire to get a promotion, and your product or service gets hired for the job of helping an executive shine. Maybe that's the most likely "job" for which your product is "hired", or the second likeliest. But it _is_ a hard struggle your niche product is hired to do. We can work that into the backdrop understanding of your visitor, and make your page resonate to _them_.
 
 But there's a chance your product doesn't solve a hard enough problem, and is just a nifty idea. In that case, I'll let you know right away if that's my hunch.
 

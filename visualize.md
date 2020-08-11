@@ -130,7 +130,7 @@ As you're switching to a new way of introducing what you do, you've had a couple
 ## "Ok, I'm Ready to Get Moving"
 {: #start }
 
-Please fill the questionnaire below, and I'll write back with some follow-up questions. A reminder that the CDN$&nbsp;250 fee for the call and email exchange is waved if you decide you want to go with the **[/understand](/understand)** package or the **[/stepitup](/stepitup)** package.
+Please fill the questionnaire below, and I'll write back with some follow-up questions. A reminder that the CDN$&nbsp;250 fee for the call and email exchange is waved if you decide you want to go with the **[/understand](/understand)** package or the **[/review](/review)** service.
 
 ## Questionnaire for the /visualize call
 

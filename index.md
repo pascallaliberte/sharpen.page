@@ -24,7 +24,7 @@ articles_on_page_sharpening:
 
 ---
 
-**Or maybe you're running a service business in a field that's on the up and up.** Maybe you're past creating deliverables and you're more into coaching your clients. Maybe you do very cutom design or animation work and you want to go for the best of the best. Maybe it's a technical field, like in DevOps, AI/ML, Cybersecurity, Cloud orchestration, SwiftUI, plugin development for e-commerce shops.
+**Or maybe you're running a service business in a field that's on the up and up.** Maybe you're past creating deliverables and you're more into coaching your clients. Maybe you do very custom design or animation work and you want to go for the best of the best. Maybe it's a technical field, like in DevOps, AI/ML, Cybersecurity, Cloud orchestration, SwiftUI, plugin development for e-commerce shops.
 
 > "I'm in a specialty that I know there's a niche for. And my site is starting to get visited, **but the services I'm advertising are unremarkable**, a little too scattershot, a little too generic. **Better clients, that's what I'm after.** But I know I'm not making the case on what I can do for them."
 
@@ -63,7 +63,7 @@ Something happened and you're starting to be noticed. People _get it_. You get l
 
   {% include adhoc-post-list.html post_ids=page.articles_on_page_sharpening %}
 
-Enough is enough. **Time to sharpen your marketing pages.**
+Enough is enough. **Time to [sharpen your marketing pages](/review).**
 
 ## Imagining When It'll All Be Done
 
@@ -85,7 +85,7 @@ Enough is enough. **Time to sharpen your marketing pages.**
 
 **[/understand](/understand) -- A research boost to focus your product priorities.** When you've got to take a pause and dig into what motivated your buyers to "hire" your product. Maybe you're getting cancellations, or people aren't using the features you've developed, and you're left a little surprised. You can't continue building and building, and need to start questioning a little bit more.
 
-**[/stepitup](/stepitup#details) -- For your service business, a monthly retainer to evolve your site to include a value-ladder of options** (a bit like these options I'm listing here). Each month, we sharpen your site in one meaningful way, and we sharpen your understanding of your buyers via some research. Plus you get my availability to get answers to your questions, learn what I'm finding on the web, hang out in your Slack. If you've already got a good idea of the struggle of your buyer and just need one page done, I've got a one-pager option too.
+**[/review](/review#details) -- A professional review of your landing page (or of your draft).** You've got a landing page, you went far enough on your own, sought feedback, made tweaks, but now's the time to bring someone in for a review. You don't want to be an expert in landing page writing, and you'd rather spend your time being an expert on your work. Three options, including one free option. For products and service businesses. Don't miss the sample videos.
 
 **[/visualize](/visualize#details) -- A consulting call**. Preceded by an email exchange to learn how I can help, the focus of the call (the main value to you) will be about consulting you on what to do next. Additionally, our discussion will give me the information I need to put together a proposal for further work for you, if that'd be helpful (I won't try to upsell you). CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the call itself (about an hour). I'll wave the fee if you choose to go with one of the above packages.
 
@@ -99,14 +99,15 @@ Enough is enough. **Time to sharpen your marketing pages.**
 
 ### How do I go about doing the buyer research, like you do?
 
-It starts with a messy process of understanding the buyer's vocabulary, the options she considers, and mostly, knowing that "doing it myself" is your primary competitor here. What will people do in-house, on their own, or learn how to to build? Go hang out in forums and Slack communities, and listen for the pains and struggles. Then your research might take you to conduct [purchase interviews][purchase-story], a specific technique that retroactively looks at the story of a purchase (of a competitor, of a piece of software to do it themselves, or a hire). What's needed: that the buyer went through a good amount of deliberation before the purchase. Here's a list of [questions you could use during this Purchase Interview][interview-questions].
+It starts with a messy process of understanding the buyer's vocabulary, the options she considers, and mostly, knowing that "doing it myself" is your primary competitor here. What will people do in-house, on their own, or learn how to to build? [Go hang out in forums and Slack communities][deep-listening], and listen for the pains and struggles. Then your research might take you to conduct [purchase interviews][purchase-story], a specific technique that retroactively looks at the story of a purchase (of a competitor, of a piece of software to do it themselves, or a hire). What's needed: that the buyer went through a good amount of deliberation before the purchase. Here's a list of [questions you could use during this Purchase Interview][interview-questions].
 
 [purchase-story]: {% post_url 2019-02-08-digging-purchase-story-for-gold %}
 [interview-questions]: {% post_url 2019-03-08-interview-questions-to-ask %}
+[deep-listening]: {% post_url 2020-04-03-where-to-listen-when-deluge-of-information %}
 
 ### Do you do all the copywriting, including blog posts?
 
-I only write the copy for the marketing pages of your site. I know of a good writer for your blog posts and your guides that I can refer to you, if you'd like.
+I only [write the copy for the marketing pages of your site](/review). I know of a [good writer for your blog posts and your guides](https://www.andrewmonro.ca), if that's something you'd like some help with.
 
 ### Do you also do any data analysis, or data infrastructure work?
 
