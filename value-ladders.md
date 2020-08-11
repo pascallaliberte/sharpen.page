@@ -1,11 +1,35 @@
 ---
-permalink: stepitup/guide/
+permalink: value-ladders/
 layout: page
-title: A guide to help you create a value-ladder of offerings...
+title: A guide to create a value-ladder of offerings...
 show_breadcrumb: true
 ---
 
-**Here's how I'd Do It if I Were in Your Place...**
+> "I've been evolving toward my current situation for a couple years, and it's been good. **But now I'm starting to get attention**, and I don't want to be offering a generic pitch on my site anymore. Everybody else is pitching an approach. I want to pitch a sharp result."
+
+**You've got a variety of skills as a freelancer.** And you know you can package them up to make something happen for you clients that's beyond just performing work. You can sell your insights, you can [take risks on your side so they take less risk on their side for the same benefits][risk].
+
+[risk]: {% post_url 2019-09-13-pitching-an-edgy-consulting-engagement %}
+
+One option is to have a [sprawling list of all the things you can do][variety-of-skills]. "But can she help me achieve this results with these skills?" See what I mean? Not clear.
+
+[variety-of-skills]: {% post_url 2020-01-31-productized-services-variety-of-skills-to-value-ladder %}
+
+**Or another option, you can have a value-ladder of options.**
+
+Here's how a value ladder looks like.
+
+* **Big Custom Work** - Highest price, variable scope, big problem you fix;
+* **A Big, Defined, Service Offering** - High price, but defined scope, maybe a fixed price, something done-for-you;
+* **A Smaller, Defined, Service Offering** - Accessibly priced (fixed), very defined scope and process;
+* **A Guide or Ebook or Course or Group Session** - Accessibly priced, self-serve product of group engagements;
+* **Free Stuff, like articles, podcasts, a newsletter**.
+
+The trick here is to have these offerings come and help for similar (but sharply understood) jobs-to-be-done (more on that below), and the **options end up competing against one-another**, instead of having you and your services compete with other people.
+
+{% include components/aside-note.html title="Question" text="**Can this work with a value-ladder of products?** You bet. This is a great strategy to consider for your product. Instead of one big product with lots of features, you can create a sub-product, a consulting service, same idea." %}
+
+## The Ground Work of Understanding the "Jobs"
 
 Think of those moments [_when_][try-when] your customers will be wanting to say "enough is enough", where they'll start to look for something different. Same-old got too old.
 
@@ -31,9 +55,7 @@ So you know you'll make a [page that highlights the pain][minimum-struggle], and
 
 The Home page highlights one meta struggle.
 
-You make sure you've got a _[value-ladder][value-ladder]_, a way for people to jump in at the stage they're at, regardless of their level of sophistication. One way to do that is to offer services, smaller one-offs or subscriptions that land on different "steps" of the ladder.
-
-[value-ladder]: {% post_url 2020-01-31-productized-services-variety-of-skills-to-value-ladder %}
+You make sure you've got a value-ladder, a way for people to jump in at the stage they're at, regardless of their level of sophistication. One way to do that is to offer services, smaller one-offs or subscriptions that land on different "steps" of the ladder.
 
 Newsletters are a great risk-free way for people to try you out. Make sure you're tending to the [forces of progress pushing back][four-forces] in the visitor's mind, and make sure you find the ["job" for which people will gladly "hire"][jtbd-intro] your newsletter. Make sure it delivers.
 
@@ -65,7 +87,7 @@ But it's about some principles that are underused, but work:
 1. **A long landing page, although optional**, gives you multiple chances at making your case, using different words, [multiple takes at showing you understand][long-pages], and still helps those who'll freely scroll your page anyway;
 1. [**It's not about being sales-y**, it's about being helpful][forces-freelancer]. People just want to make progress, and to get help from someone they can trust;
 1. **Know that you're mostly [in competition with people continuing with their own self-made mish-mash][non-consumption] of habits**, and in your case specifically, you're in competition with them doing it themselves. At some point though, the struggle will get stronger. If you sowed trust, they'll have bookmarked you for later. They'll be back when it's time;
-1. Speaking of competition, **you might as well offer multiple options to your visitor**. Make each option compete against each other (the main idea behind having a [value-ladder][value-ladder]), instead of trying to compete with other people. They're on _your_ site. Help them through their own back-and-forth. Help them make a decision. Even if it's to go with your free guide [or for your newsletter][newsletter];
+1. Speaking of competition, **you might as well offer multiple options to your visitor**. Make each option compete against each other (the main idea behind having a value-ladder, instead of trying to compete with other people. They're on _your_ site. Help them through their own back-and-forth. Help them make a decision. Even if it's to go with your free guide [or for your newsletter][newsletter];
 1. Speaking of newsletters and free stuff, **consider everything you write as mini struggle-solvers**. You'll then be able to weave a web of links between what you write and what you offer. That'll help people vet you, but also, it'll help them learn it themselves. By the time they hire you (or your product) with money, you'll have a common language.
 
 [struggle]: {% post_url 2019-09-06-hard-struggle-required %}
@@ -74,29 +96,17 @@ But it's about some principles that are underused, but work:
 [non-consumption]: {% post_url 2018-12-17-universal-competitor %}
 [newsletter]: {% post_url 2019-07-26-increase-newsletter-signups-without-being-pushy %}
 
-## "Whoa, I believe you, and also, I'm swamped with work right now, and I'm not great at writing and understanding the buyer like that."
-
-One way I can help is to take all that over for you. 
-
-**I could take care of crafting those pages for you**, and my process involves deeply understanding those situations which cause _your_ buyers to want to create some movement towards something new. Those situations can be uncovered through just discussing between the two of us, but better if you'd have previous buyers I can interview, or we can find them through buyer research, which I'll take care of. 
-
-**We're talking a few months where I'm working for you part-time on retainer**, helping you sharpen your product: you and your services. At the end of our time together, you'll also have sharpened your understanding of your buyers in a new way.
-
-Or if you already have a good sense of your buyer's struggles, **I could just take care of rewriting a single page**.
-
-If you're interested, that's the [**/stepitup**](/stepitup) package ([see below for my full list of packages](#services)).
-
 ## Doing It Yourself: Q&A
 
 ### Can I write those kinds of pages through WordPress or Squarespace or Wix?
 
-Sure thing. We're talking here about longer-style pages with mostly text, so WordPress's new editor will work well, page builder plugins will work great too, and of course Squarespace and Wix offer page builder UIs of their own.
+[Sure thing](/struggle-first). We're talking here about longer-style pages with mostly text, so WordPress's new editor will work well, page builder plugins will work great too, and of course Squarespace and Wix offer page builder UIs of their own.
 
-What helps your page pop out is to sprinkle a little bit of styling to your text to help with visual hierarchy: headings of different sizes, blockquotes that stand out, a couple different types of bulleted lists. I offer the styling as part of my **[/stepitup](/stepitup)** package, but any good designer could help with the CSS work on that.
+What helps your page pop out is to sprinkle a little bit of styling to your text to help with visual hierarchy: headings of different sizes, blockquotes that stand out, a couple different types of bulleted lists. I offer the styling as part of my **[/review](/review)** package, but any good designer could help with the CSS work on that.
 
-### Do you do all the copywriting, including blog posts?
+### Do you do sell some copywriting services, including blog posts?
 
-I only write the copy for the marketing pages of your site. I know of a good writer for your blog posts and your guides that I can refer to you, if you'd like.
+[I only write the copy for the marketing pages of your site](/review), and I only offer to review the work you've started on. For help writing your blog posts and guides, I know of a [good writer](https://andrewmonro.ca).
 
 ### How do I go about doing the buyer research, like you do?
 
