@@ -137,4 +137,4 @@ Stay Sharp!
 
 ---
 
-_P.S. If you're in a similar situation with your productized services, I've put together a [guide to creating a value-ladder of service offerings](/stepitup/guide/). Hope that helps._
+_P.S. If you're in a similar situation with your productized services, I've put together a [guide to creating a value-ladder of service offerings](/value-ladders). Hope that helps._

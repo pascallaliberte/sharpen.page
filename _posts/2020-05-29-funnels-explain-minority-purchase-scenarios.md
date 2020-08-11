@@ -137,7 +137,7 @@ So no need to count on home-runs. Have several at-bats.
 
 No need to try to feed each interaction into that one funnel. No need to minimize drop-offs at all costs.
 
-Just make sure you know the job-to-be-done each thing you have is hired to do, make them solidly answer those jobs, and boom. [Value-ladder](/stepitup).
+Just make sure you know the job-to-be-done each thing you have is hired to do, make them solidly answer those jobs, and boom. [Value-ladder](/value-ladders).
 
 With those insights, you'll be itching to go back to modelling, back to analytics. This time, you'll come back with a new dose of reality.
 

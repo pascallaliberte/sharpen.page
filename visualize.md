@@ -77,7 +77,7 @@ Right now though, you feel that the **clock is ticking**. Time to get some advic
 * Obtained an idea of what I could do to help out, if a proposal from me would be a useful next step (I won't try to upsell you);
 * Obtained a recording of the call or screen share (up to you, it's _your call_).
 
-**CDN$&nbsp;250**, after a back-and-forth over email before the call to get to know your situation a little bit more. I'll send you an invoice after the call, and the call will be _discounted_ if you choose to go through the **[/understand](/understand)** package for sharpening your understanding of your buyer, or the **[/stepitup](/stepitup)** for your service business website.
+**CDN$&nbsp;250**, after a back-and-forth over email before the call to get to know your situation a little bit more. I'll send you an invoice after the call, and the call will be _discounted_ if you choose to go through the **[/understand](/understand)** package for sharpening your understanding of your buyer, or the **[/review](/review)** service for reviewing your landing pages.
 
 **To go ahead with the call:**
 

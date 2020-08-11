@@ -67,7 +67,7 @@ If that's the case, here are a few ways to "fire" that type of website and what 
 1. **Be remarkably helpful on forums.** Invest all the time you'd spend building a website into reading comments and threads and helping out people online.
 1. **Point to other people so _they_ get the attention.** Use your website to highlight other people's work you respect. Be a curator for other people's "art". Don't make it a blog format, just change the "art" on a regular basis and make people type in your address to not miss out.
 
-Or, if you really want to stick with a freelancer website, consider making your website [intentionally showcase a sharp value-ladder of offerings](/stepitup), targetting a global market.
+Or, if you really want to stick with a freelancer website, consider making your website [intentionally showcase a sharp value-ladder of offerings](/value-ladders), targetting a global market.
 
 **While you get enough work from word-of-mouth** from your current (local) clients, now's a good time to make website that'll attract a certain **global but very niche market** that'll pay off over the long run.
 
