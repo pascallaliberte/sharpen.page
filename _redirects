@@ -1,4 +1,6 @@
 # Redirect with a 301
-/jtbd         /              301
-/prioritize   /understand    301
-/services     /offerings     301
+/jtbd            /              301
+/prioritize      /understand    301
+/services        /offerings     301
+/stepitup        /review        301
+/stepitup/guide  /value-ladders 301
