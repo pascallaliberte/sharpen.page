@@ -25,7 +25,7 @@ Nassim Nicholas Taleb is getting a lot of attention for his ideas about randomne
 
 He also famously talks about fragility. It's a property of a system, a relationship between a system and an aspect of its environment.
 
-A system is fragile when it breaks under stress. A system is robust when it _stays the same_ under stress. **But a system is antifragile when it benefits from stress**.
+A system is fragile when it breaks under stress. A system is robust when it _stays the same_ under stress. **But a system is antifragile when it _benefits_ from stress**.
 
 He made the concept of _antifragility_ popular, and wrote a whole book about it.
 
@@ -53,7 +53,9 @@ And that's where _discouraging your clients from hiring you_ comes from.
 
 When having a conversation with the client, you want to dig for the _value_.
 
-To understand the value of a piece of work for a client, you first have to understand the intensity of their struggle, the urgency, the alternatives and the deeper motivations.
+To understand the value of a piece of work for a client, you first have to understand the intensity of their [struggle][struggle], the urgency, the alternatives and the deeper motivations.
+
+[struggle]: {% post_url 2019-09-06-hard-struggle-required %}
 
 Those are risky things to be talking about. "The client will be turned off by my questions." Maybe. We'll see.
 
@@ -115,7 +117,7 @@ These questions are low stakes for you. You already communicated that you're oka
 
 But asking those questions communicates that you're ready to listen, that you're ready to invest, and that you're ready to take some risk with relationships.
 
-More than that, you're helping the client understand what they value. And that adds value.
+More than that, you're helping the client understand what they value. **And that adds value.**
 
 ---
 
