@@ -36,7 +36,7 @@ Some of these metrics are on your list. **Are they helpful?**
 * Number of followers, newsletter subscribers
 * Number of retweets, likes, mentions
 
-I could add some more, like the number of new clients through referrals, the satisfaction rate of new clients, your effective hourly rate...
+I could add some more, like the number of new clients through referrals, the satisfaction rate of new clients, the number of new leads per month, your effective hourly rate...
 
 Personally, I keep an eye on profits. I check out the number of newsletter subscribers. I notice retweets, likes and mentions. None of my websites have trackers for now.
 
@@ -70,7 +70,7 @@ I took that advice to heart for my life, and for my freelancing business.
 
 ## A Few Things I Find Important
 
-For my freelance business, I'm not tracking results much (besides profits), but I am keeping an eye on these _inputs_:
+For my freelance business, I'm not tracking results much (besides profits), but I am taking these _inputs_ very seriously:
 
 * **Am I keeping my commitments?** Am I saying no to things I shouldn't commit to?
 * Have I been **writing an article every week?**
