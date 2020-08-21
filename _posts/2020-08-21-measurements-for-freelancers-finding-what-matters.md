@@ -74,7 +74,7 @@ For my freelance business, I'm not tracking results much (besides profits), but 
 
 * **Am I keeping my commitments?** Am I saying no to things I shouldn't commit to?
 * Have I been **writing an article every week?**
-* **Am I creating work that makes me scared**, that triggers what Steven Pressfield in the _War of Art_ calls "The Resistance"
+* **Am I creating work that makes me scared**, that triggers what Steven Pressfield in the _War of Art_ calls "The Resistance"?
 * **Am I creating value for my clients?** Am I doing the hard work of discovering the real value for my clients, [at the cost of not working with them if I can't discover the value?][discouraging-clients]. Am I delivering on  my clients' [job-to-be-done][jtbd-intro]?
 * **Am I true to my values?** Am I working with people that don't express my counter-values?
 * **Am I working for clients that I'd recommend to others?**
