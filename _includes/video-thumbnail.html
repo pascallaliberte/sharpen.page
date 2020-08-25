@@ -1,0 +1,10 @@
+{%- assign slug = include.video_id | slice: 11, include.video_id.size -%}
+{%- assign video = site.videos | where:"slug", slug -%}
+{%- assign video = video[0] -%}
+
+{%- assign video-thumbnail-url = "https://img.youtube.com/vi/" | append: video.youtube_video_id | append: "/hq720.jpg" -%}
+<span class="video-thumbnail-box">
+  <a class="video-thumbnail-link" href="{{ video.link }}" target="_blank" title="{{ video.title }}">
+    <img class="video-thumbnail-img" src="{{ video-thumbnail-url }}" width="1280" height="720" />
+  </a>
+</span>

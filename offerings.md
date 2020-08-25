@@ -9,9 +9,9 @@ class: offerings
 
 If you're going through situations like these...
 
+* You're communicating your offerings in a way that's **not sharp enough.** Not communicating you understand your buyer's struggle enough...
 * **You're getting some surprising new buyers purchasing your product**, or hiring you for your services, amid these changing markets...
 * You realize you **built too much product**. Those features haven't helped like you hoped so...
-* You're communicating your offerings in a way that's **not sharp enough.** Not communicating you understand your buyer's struggle enough...
 
 More importantly: **you're busy running your business**. No time to adjust your sails, sharpen your pitch.
 
@@ -26,10 +26,11 @@ So here are a couple packages to help you speed things up:
 When you've got to take a pause and dig into what motivated your buyers to "hire" your product. Maybe you're getting cancellations, or people aren't using the features you've developed, or that market change brought you some new types of buyers. **Overall, you're a little surprised**. You can't continue building and building, and need to start questioning a little bit more, to **understand your buyer** a little deeper.  
 [Learn more about the **/understand** package](/understand#details)
 
-## [/stepitup](/stepitup)
+## [/review](/review)
 
-**For your service business (freelance/consulting)**, a monthly retainer to evolve your site to include a value-ladder of options (a bit like these options I'm listing here).  
-[Read more about the **/stepitup** for service businesses](/stepitup#details)
+**A professional review of your landing page (or of your draft)**. Three options, including one free, for when you've done enough landing page writing and design on your side, got feedback, made tweaks. You want a page that makes the visitor say "I feel understood!", and you don't want to learn the nitty gritty on how to do that. It's time to bring someone in so you can concentrate on your actual work. For products and service businesses. Don't miss the sample videos.
+
+[Read more about the **/review** service](/review#details)
 
 ## [/visualize](/visualize)
 
@@ -43,6 +44,10 @@ CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the
 ## [/struggle-first](/struggle-first)
 
 **Free**, a collection of videos and articles on creating a Struggle-First marketing/landing page for your product or service. The kind of page that your visitor responds to by saying "I feel understood!". Useful when your thing helps a real struggle, but your audience doesn't have an established mindset about the solution yet.
+
+## [/value-ladders](/value-ladders)
+
+**Free**, a guide on creating a value-ladder of offerings for your solo consulting business. Move away from "here are my skills", and toward "here are valuable things I offer", all serving an overall struggle, all helping your visitor make progress, and each option competing with the others.
 
 ## [/articles](/articles)
 

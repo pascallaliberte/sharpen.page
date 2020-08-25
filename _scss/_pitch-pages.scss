@@ -100,3 +100,80 @@
     width: rem(620px);
   }
 }
+
+.away-from-towards {
+  list-style: none;
+  
+  .away-from, .towards {
+    display: block;
+    position: relative;
+    
+    &:before, &:after {
+      position: absolute;
+      content: '';
+    }
+    
+    &:after {
+      left: -1.5em;
+      top: 0;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+    }
+  }
+  
+  .away-from:after {
+    width: rem(27px);
+    height: rem(27px);
+    background-image: url(/assets/images/icons/icon-x.svg);
+  }
+  
+  .away-from:before {
+    top: 1em;
+    bottom: -0.9em;
+    left: -0.9em;
+    width: rem(1px);
+    border-left: rem(2px) dashed transparentize($color-primary, 0.6);
+  }
+  
+  .towards:after {
+    width: rem(28px);
+    height: rem(29px);
+    top: -0.1em;
+    background-image: url(/assets/images/icons/icon-checkmark-tertiary.svg);
+  }
+  
+  .away-from {
+    margin-bottom: 0.6em;
+  }
+  
+  .towards {
+    &, strong {
+      color: $color-tertiary;  
+    }
+    margin-bottom: 1.5em;
+  }
+}
+
+.youll-get {
+  list-style: none;
+  
+  li {
+    position: relative;
+    
+    &:before {
+      position: absolute;
+      content: '';
+      left: -1.7em;
+      top: 0;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      
+      width: rem(28px);
+      height: rem(29px);
+      top: -0.1em;
+      background-image: url(/assets/images/icons/icon-checkmark-primary.svg);
+    }
+  }
+}

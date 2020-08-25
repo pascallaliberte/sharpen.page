@@ -30,7 +30,7 @@ Hi, I'm Pascal Laliberté. Thanks for following the link from my [IndieHackers][
 
 [ih-profile]: https://www.indiehackers.com/pascallaliberte
 
-I do Product Sharpening, helping modest online companies sharpen what they have to offer. Also, if you're a freelancer, I can help you sharpen your own service offerings too. **I do this by understanding your buyer, and then by sharpening your pitch pages.** Check out my [list of services](offerings/) to learn more.
+I do Product Sharpening, helping modest online companies sharpen what they have to offer. Also, if you're a freelancer, I can help you sharpen your own service offerings too. **I do this by understanding your buyer, and then by sharpening your pitch pages.** Check out my [list of services](/offerings) to learn more.
 
 Specifically, if you're a product team and you've hit a point where more features don't equate with more sales, please check out my [**/understand**](/understand) package. Stop building and building, and start digging into [purchase stories][purchase-story].
 
@@ -55,14 +55,9 @@ If you have a post in [#landing-page-feedback on IndieHackers][ih-landing-page-f
 
 ---
 
-## <small>Option #2</small><br>Custom Work
+## <small>Option #2</small><br>Private Review or Writing Services
 
-I offer a [**/visualize**](/visualize) consultation call for CDN$&nbsp;250. A one-hour call preceded by an email exchange. By the end of the call you'll obtain some of my recommendations, some concrete ways to go forward, and a recording of our conversation.
-
-If you'd like me to provide a quote for custom work, we can discuss that too.
-
-**If you'd rather skip the call**, and you'd like to discuss options to work together, here's my email address:  
-[{% include svg/mail.svg.html %} pascal@hey.com](mailto:pascal@hey.com){: .cta-btn }
+I offer a [**/review**](/review) service for a private review of your landing page or one week of edits.
 
 ---
 
