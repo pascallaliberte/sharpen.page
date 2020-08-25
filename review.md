@@ -107,14 +107,34 @@ Here are a couple public video reviews I did recently. Yours will be a little mo
 
 **You'll notice that my feedback is different** than what you'll get from other people. It goes deeper than the surface stuff:
 
-* Other reviewers will give you their first impressions.  
-**I'll simulate a likely visitor's mental back and forth, starting from understanding their struggle, what they want progress on, and what will _cause_ them to go forward.**
-
-* Other reviewers will rely heavily on best practices like "remove friction", "less is more", "make it more visually appealing".  
-**I'll encourage you to stay concentrated on the task of helping your visitor through a problem they're experiencing.**
-
-* Other reviewers will "roast" your site.  
-**I'm not sure what "roasting your site" means, but I won't do that. I'll be straight with you, but I won't play feedback theatre.**
+<ul class="away-from-towards">
+  <li>
+    <div class="away-from">
+      Other reviewers will give you their first impressions.  
+    </div>
+    <div class="towards">
+      <strong>I'll simulate a likely visitor's mental back and forth</strong>, starting from understanding their struggle, what they want progress on, and what will <em>cause</em> them to go forward.
+    </div>
+  </li>
+  
+  <li>
+    <div class="away-from">
+      Other reviewers will rely heavily on best practices like "remove friction", "less is more", "make it more visually appealing", "drive more conversions"
+    </div>
+    <div class="towards">
+      I'll encourage you to stay concentrated on the task of <strong>helping your visitor through a problem they're experiencing</strong> so you can <strong>build trust</strong>.
+    </div>
+  </li>
+  
+  <li>
+    <div class="away-from">
+      Other reviewers will "roast" your site.  
+    </div>
+    <div class="towards">
+      I'm not sure what "roasting your site" means, but I won't do that. <strong>I'll be straight with you, but I won't play feedback theatre</strong>.
+    </div>
+  </li>
+</ul>
 
 ## We Might Not Be a Good Fit
 
