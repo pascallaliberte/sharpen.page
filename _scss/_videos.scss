@@ -1,0 +1,30 @@
+.video-thumbnail-box {
+  display: inline-block;
+  padding: rem(10px);
+  background: rgba(255, 255, 255, 0.7);
+  margin-right: rem(5px);
+}
+
+.video-thumbnail-link {
+  display: block;
+  position: relative;
+  width: rem(360px);
+  height: rem(225px);
+  overflow: hidden;
+}
+
+.video-thumbnail-img {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  display: block;
+  max-height: 100%;
+  width: auto;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.video-thumbnail-two-up {
+  margin-right: rem(-120px);
+  margin-left: rem(-10px);
+}
