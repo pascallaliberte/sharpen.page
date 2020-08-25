@@ -158,7 +158,7 @@ By the end you'll get:
 
 **To proceed:**
 
-[Fill out the questionnaire below {% include svg/caret-bottom.svg.html %}](#questionnaire){: .cta-btn } and let me know you'd like Option #1. I'll get back to you to confirm availability before we proceed.
+[Fill out the questionnaire below {% include svg/caret-bottom.svg.html %}](#start){: .cta-btn } and let me know you'd like Option #1. I'll get back to you to confirm availability before we proceed.
 
 Paid in advance. I'll be making your video on Tuesday mornings, given my availability and a minimum 12 hours of heads up from you. You'll get the video by mid-afternoon Eastern Time on Tuesday.
 
@@ -190,13 +190,15 @@ I'll need your availability throughout the week to go deep in understanding your
 
 **To proceed:**
 
-[Fill out the questionnaire below {% include svg/caret-bottom.svg.html %}](#questionnaire){: .cta-btn } and be sure mention you're thinking of Option #3. I'll get back to you to confirm availability before we proceed.
+[Fill out the questionnaire below {% include svg/caret-bottom.svg.html %}](#start){: .cta-btn } and be sure mention you're thinking of Option #3. I'll get back to you to confirm availability before we proceed.
 
 ---
 
 Alternatively, if you'd just like to have a consultation call, please check out the **[/visualize](/visualize#details)** package which goes **CDN $250**, which includes an email back and forth ahead of the call, and a recording of our call.
 
 I also offer a more in-depth service to peer into the minds of your buyers through purchase interviews, useful when you've gotten enough sales to know that you can go sharper with your product/service offering. That's the **[/understand](/understand#details)** package.
+
+---
 
 ## Common Hesitations
 
