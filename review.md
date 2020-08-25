@@ -175,6 +175,7 @@ By the end you'll get:
 * My take of the dynamics of the Forces of Progress, the back and forth in their mind, as visitors wanting progress on those struggles will likely experience... Attraction, Anxieties, what they'll default back to;
 * The holes I see in your page: the spots that will create unexpected anxieties that might throw people away.
 * More confidence in the parts of your page that you don't need to touch just yet.
+{: .youll-get }
 
 **To proceed:**
 
