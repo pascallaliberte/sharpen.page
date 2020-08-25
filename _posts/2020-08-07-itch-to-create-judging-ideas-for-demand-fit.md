@@ -21,7 +21,7 @@ related_posts:
   - 2019-04-04-product-ready-to-launch
   - 2018-12-17-universal-competitor
 excerpt:
-  
+  Let's go through a hunch for a product idea and see if there's something there. Part 4 of a series on The Itch to Create.
 ---
 
 _This is Part 4 of a series on The Itch to Create. See [Part 1 (Clarity on Why)][part1], [Part 2 (Making it Inevitable)][part2] and [Part 3 (Taking Outside Advice)][part3]._

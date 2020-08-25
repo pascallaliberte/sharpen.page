@@ -2,6 +2,7 @@
 layout: post
 title: Isn't Jobs-to-be-Done Just a Subjective Interpretation?
 categories: jtbd
+tags: research
 author: Pascal Laliberté
 image: /assets/images/posts/2020-07-31-is-jtbd-subjective-interpretation.jpg
 published: true
