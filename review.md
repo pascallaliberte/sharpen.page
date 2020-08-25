@@ -139,15 +139,15 @@ Here are a couple public video reviews I did recently. Yours will be a little mo
 ## We Might Not Be a Good Fit
 
 * If you're here because you want a page that converts more people by adding slimy tactics, we won't be a good fit.  
-**My advice will be about making the wrong visitors leave early so the best visitors scroll down and feel like they're being understood.**
+**My advice will be about making the wrong visitors leave early** so the best visitors scroll down and feel like they're being understood.
 
 {% include components/aside-note.html text="Or maybe we definitely are a good fit! [Skip down for details on the options and pricing below](#options)" %}
 
 * If you're here because you want a page that convinces and sells above all else, we won't be a good match either. People smell that from a mile away.  
-**I'll help you make pages that create a ton of trust, the hard to get, hard to lose type of trust.**
+**I'll help you make pages that create a ton of trust**, the hard to get, hard to lose type of trust.
 
 * If I can't detect that your product or service addresses a [hard struggle][struggle], I won't be able to help.  
-**People hardly ever buy nifty products, mere time savers or enterprise products unless there's an ambition, a context for switching away from a situation and toward a new one, a hard struggle creating the momentum to switch to something new. We need to find something close to that before I can help.**
+**People hardly ever buy nifty products, mere time savers or enterprise products _unless_** there's an ambition, a context for switching away from a situation and toward a new one, a hard struggle creating the momentum to switch to something new. We need to find something close to that before I can help.
 
 [struggle]: {% post_url 2019-09-06-hard-struggle-required %}
 
@@ -192,6 +192,7 @@ Paid in advance. I'll be making your video on Tuesday mornings, given my availab
 * We'll start on Monday with **a video review to kick things off**, giving you an idea about what I'll change about your site;
 * Througout the week, I'll **evolve to a new version of your landing page**, keeping you in the loop so we can **learn more about your visitors together**;
 * By Friday, you'll have a **deploy-ready version of the new page in your CMS**, with instructions on making it live.
+{: .youll-get }
 
 I'll need your availability throughout the week to go deep in understanding your visitor's struggle. **Paid the week before**, given my availability.
 
