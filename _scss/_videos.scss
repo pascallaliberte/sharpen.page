@@ -28,3 +28,21 @@
   margin-right: rem(-120px);
   margin-left: rem(-10px);
 }
+
+@media (max-width: $reference-width-xs-until) {
+  .video-thumbnail-link {
+    width: rem(320px);
+    height: rem(200px);
+  }
+  
+  .video-thumbnail-two-up {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+  .video-thumbnail-box {
+    margin-right: 0;
+    margin-bottom: rem(10px);
+  }
+  
+}
