@@ -2,6 +2,16 @@
 permalink: review/
 layout: service
 title: A Service to Review Your Landing Page or Draft
+articles_learn_basics:
+  - 2019-09-06-hard-struggle-required
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2020-04-17-best-order-of-elements-on-landing-page
+  - 2020-07-03-communicating-your-product-when-hard-to-explain
+  - 2020-07-10-visitors-will-excuse-your-unstyled-landing-page
+  - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
+  - 2020-07-24-landing-page-remove-friction-or-help-make-progress
+  - 2019-11-08-pain-dream-fix-and-jtbd
+  - 2020-05-08-too-much-text-what-to-do-about-that-feedback
 ---
 
 <div class="pitch-lead-up" markdown="1">
@@ -125,7 +135,7 @@ Here are a couple public video reviews I did recently. Yours will be a little mo
 
 If you'd like to try improving your site or draft some more before our call, here are a few articles I recommend, to give you a sense of the lenses I'm using to build pages that _work_:
 
-
+{% include adhoc-post-list.html showcase=true post_ids=page.articles_learn_basics %}
 
 **But if that's not going to be quick enough**, or **if now's not the time to learn from articles**, I'd love to help you speed things up with these options:
 
