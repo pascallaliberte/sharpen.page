@@ -84,8 +84,8 @@ You want your page to be more clear than clever, more helpful that pushy, more b
 I offer three options:
 
 1. **A private video review** (Paid)
-2. **A public review** (Free)
-3. **A week of edits** (Paid)
+2. **A week of edits** (Paid)
+3. **A public review** (Free)
 
 [Skip to the details {% include svg/caret-bottom.svg.html %}](#options){: .cta-btn } on these three options, or read on to get a sense of what you'll be getting.
 
@@ -164,21 +164,7 @@ Paid in advance. I'll be making your video on Tuesday mornings, given my availab
 
 ---
 
-### Option #2 - A Public Review
-
-**Free**, but a little less detailed, a little less in-depth. Might not be a video.
-
-Here's how it works: 
-
-1. **Create a post on [IndieHackers](https://www.indiehackers.com/group/landing-page-feedback) or Reddit** ([r/design_critiques](https://www.reddit.com/r/design_critiques/), [r/SideProject](https://www.reddit.com/r/SideProject/) or [r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)),
-2. Mention me in the description to invite me to comment (I'm @pascallaliberte),
-3. and I'll receive the notification.
-
-Could be fun to exchange about your site with other people. Will depend on my availability.
-
----
-
-### Option #3 - A Week of Edits
+### Option #2 - A Week of Edits
 
 **CDN $1450** - Part-time hands-on availability over a week to **concretely evolve your page**:
 
@@ -190,7 +176,21 @@ I'll need your availability throughout the week to go deep in understanding your
 
 **To proceed:**
 
-[Fill out the questionnaire below {% include svg/caret-bottom.svg.html %}](#start){: .cta-btn } and be sure mention you're thinking of Option #3. I'll get back to you to confirm availability before we proceed.
+[Fill out the questionnaire below {% include svg/caret-bottom.svg.html %}](#start){: .cta-btn } and be sure mention you're thinking of Option #2. I'll get back to you to confirm availability before we proceed.
+
+---
+
+### Option #3 - A Public Review
+
+**Free**, but a little less detailed, a little less in-depth. Might not be a video.
+
+Here's how it works: 
+
+1. **Create a post on [IndieHackers](https://www.indiehackers.com/group/landing-page-feedback) or Reddit** ([r/design_critiques](https://www.reddit.com/r/design_critiques/), [r/SideProject](https://www.reddit.com/r/SideProject/) or [r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)),
+2. Mention me in the description to invite me to comment (I'm @pascallaliberte),
+3. and I'll receive the notification.
+
+Could be fun to exchange about your site with other people. Will depend on my availability.
 
 ---
 
