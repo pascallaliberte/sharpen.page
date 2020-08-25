@@ -1,7 +1,7 @@
 ---
 permalink: value-ladders/
 layout: page
-title: A guide to create a value-ladder of offerings...
+title: A guide on creating a value-ladder of offerings...
 show_breadcrumb: true
 ---
 
