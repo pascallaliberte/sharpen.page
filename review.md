@@ -22,11 +22,11 @@ Maybe you've got a launch coming up. Or maybe you've got an existing page that's
 
 <div class="situation-quotes" markdown="1">
 
-> "Is it good? I'm trying _not_ to match everybody else's style and make something that helps my visitors decide on what to do next."
+> "Is it good? I'm trying _not_ to match everybody else's style. I want to make something that helps my visitors decide on what to do next."
 
 > "Is it clear? Will people _get_ it?"
 
-> "**I don't want to an expert in making landing pages**. I've gone far enough on my own."
+> "**I don't want to become an expert in making landing pages**. I've gone far enough on my own."
 
 </div>
 
@@ -87,7 +87,11 @@ I offer three options:
 
 Here are a couple public video reviews I did recently. Yours will be a little more in depth, and it'll be private.
 
-[Video 1] [Video 2]
+<div class="video-thumbnail-two-up">
+{% include video-thumbnail.html video_id="2020-07-01-yourdailyniche" %}
+
+{% include video-thumbnail.html video_id="2020-07-09-productlistings" %}
+</div>
 
 ## Feedback that Goes Deeper
 
