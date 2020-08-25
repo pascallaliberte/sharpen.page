@@ -79,6 +79,12 @@ Here are some articles from this site that are a good starting point to learn ab
 
 ---
 
+## If You'd Like A Review of Your Landing Page
+
+I offer a **[/review](/review)** service to help you evolve your landing page. If **you think you've gone far enough on your own with your landing page** and would like my help, [please check out the three options for the /review service](/review#details) (two paid options, one free).
+
+---
+
 Hope that helps!
 
 {% include avatar.html %} Pascal Laliberté  
