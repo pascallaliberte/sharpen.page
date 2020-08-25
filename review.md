@@ -114,7 +114,7 @@ Here are a couple public video reviews I did recently. Yours will be a little mo
 **I'll encourage you to stay concentrated on the task of helping your visitor through a problem they're experiencing.**
 
 * Other reviewers will "roast" your site.  
-**I'm not sure what that means, but I won't do that. I'll be straight with you, but I won't play feedback theatre.**
+**I'm not sure what "roasting your site" means, but I won't do that. I'll be straight with you, but I won't play feedback theatre.**
 
 ## We Might Not Be a Good Fit
 
@@ -158,7 +158,7 @@ By the end you'll get:
 
 **To proceed:**
 
-[Fill out the questionnaire below {% include svg/caret-bottom.svg.html %}](#questionnaire){: .cta-btn } and specify Option #1. I'll get back to you to confirm availability before we proceed.
+[Fill out the questionnaire below {% include svg/caret-bottom.svg.html %}](#questionnaire){: .cta-btn } and let me know you'd like Option #1. I'll get back to you to confirm availability before we proceed.
 
 Paid in advance. I'll be making your video on Tuesday mornings, given my availability and a minimum 12 hours of heads up from you. You'll get the video by mid-afternoon Eastern Time on Tuesday.
 
@@ -190,7 +190,7 @@ I'll need your availability throughout the week to go deep in understanding your
 
 **To proceed:**
 
-[Fill out the questionnaire below {% include svg/caret-bottom.svg.html %}](#questionnaire){: .cta-btn } and be sure to click Option #3. I'll get back to you to confirm availability before we proceed.
+[Fill out the questionnaire below {% include svg/caret-bottom.svg.html %}](#questionnaire){: .cta-btn } and be sure mention you're thinking of Option #3. I'll get back to you to confirm availability before we proceed.
 
 ---
 
@@ -216,3 +216,5 @@ But there's a chance your product doesn't solve a hard enough problem, and is ju
 
 ## Questionnaire for the /review package
 {: #start }
+
+{% include service-sign-up-form-review.html %}
