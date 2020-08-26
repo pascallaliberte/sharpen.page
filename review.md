@@ -2,6 +2,7 @@
 permalink: review/
 layout: service
 title: A Service to Review Your Landing Page or Draft
+image: /assets/images/landing-page-review-service.jpg
 articles_learn_basics:
   - 2019-09-06-hard-struggle-required
   - 2019-10-25-minimum-to-get-struggle-based-landing-page
