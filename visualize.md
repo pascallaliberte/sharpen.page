@@ -2,6 +2,7 @@
 permalink: visualize/
 layout: service
 title: Visualize - Let's have a call
+image: /assets/images/call-to-visualize-next-steps.jpg
 articles_on_optimizing:
   - 2019-03-08-interview-questions-to-ask
   - 2020-03-27-when-my-product-is-purchased-for-new-use-cases
