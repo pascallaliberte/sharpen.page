@@ -49,6 +49,10 @@ CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the
 
 **Free**, a guide on creating a value-ladder of offerings for your solo consulting business. Move away from "here are my skills", and toward "here are valuable things I offer", all serving an overall struggle, all helping your visitor make progress, and each option competing with the others.
 
+## [/interviews](/interviews)
+
+**Free**, a collection of articles on conducting Jobs-to-be-done purchase interviews. You've heard of the benefits, so here's a place to bookmark for when you set out to run those interviews.
+
 ## [/articles](/articles)
 
 **Free**, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Be sure to filter by topics.

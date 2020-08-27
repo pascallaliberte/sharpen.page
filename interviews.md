@@ -66,7 +66,7 @@ So here's a **collection of articles** from this here site on the topic of purch
 
 ---
 
-Hope this helps. If you'd like a hand with those, be sure to check out the **[/understand](/understand)** package or we can start with a **[/visualize](/visualize)** exploration call.
+Hope this helps. If you'd like a hand with those, be sure to check out the **[/understand](/understand)** service or we can start with a **[/visualize](/visualize)** exploration call.
 
 **If you'd like a PDF of these articles to take with you**, just drop me an email (address below).
 

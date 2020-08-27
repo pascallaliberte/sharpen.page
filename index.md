@@ -93,6 +93,8 @@ Enough is enough. **Time to [sharpen your marketing pages](/review).**
 
 **[/value-ladders](/value-ladders)** - **Free**, a guide on creating a value-ladder of offerings for your solo consulting business. Move away from "here are my skills", and toward "here are valuable things I offer", all serving an overall struggle, all helping your visitor make progress, and each option competing with the others.
 
+**[/interviews](/interviews)** - **Free**, a collection of articles on conducting Jobs-to-be-done purchase interviews. You've heard of the benefits, so here's a place to bookmark for when you set out to run those interviews.
+
 **[/articles](/articles)** - **Free**, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Sign-up below.
 
 **[/your-purchase-story](/your-purchase-story)** - **I pay _you_ USD $60** for you to tell me a recent purchase story. I'm looking for a time you hesitated a lot, purchased it for yourself, and a few other things I'm looking for. I might blog about your story too (names and details removed), but that's basically the deal.

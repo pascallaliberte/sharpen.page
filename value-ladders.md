@@ -135,6 +135,8 @@ Here's what I have to offer:
 
 **[/struggle-first](/struggle-first)** - **Free**, a collection of videos and articles on creating a Struggle-First marketing/landing page for your product or service. The kind of page that your visitor responds to by saying "I feel understood!". Useful when your thing helps a real struggle, but your audience doesn't have an established mindset about the solution yet.
 
+**[/interviews](/interviews)** - **Free**, a collection of articles on conducting Jobs-to-be-done purchase interviews. You've heard of the benefits, so here's a place to bookmark for when you set out to run those interviews.
+
 **[/articles](/articles)** - **Free**, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Sign-up below.
 
 **[/your-purchase-story](/your-purchase-story)** - **I pay _you_ USD $60** for you to tell me a recent purchase story. I'm looking for a time you hesitated a lot, purchased it for yourself, and a few other things I'm looking for. I might blog about your story too (names and details removed), but that's basically the deal.
