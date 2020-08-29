@@ -89,11 +89,7 @@ Enough is enough. **Time to [sharpen your marketing pages](/review).**
 
 **[/visualize](/visualize#details) -- A consulting call**. Preceded by an email exchange to learn how I can help, the focus of the call (the main value to you) will be about consulting you on what to do next. Additionally, our discussion will give me the information I need to put together a proposal for further work for you, if that'd be helpful (I won't try to upsell you). CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the call itself (about an hour). I'll wave the fee if you choose to go with one of the above packages.
 
-**[/struggle-first](/struggle-first)** - **Free**, a collection of videos and articles on creating a Struggle-First marketing/landing page for your product or service. The kind of page that your visitor responds to by saying "I feel understood!". Useful when your thing helps a real struggle, but your audience doesn't have an established mindset about the solution yet.
-
-**[/value-ladders](/value-ladders)** - **Free**, a guide on creating a value-ladder of offerings for your solo consulting business. Move away from "here are my skills", and toward "here are valuable things I offer", all serving an overall struggle, all helping your visitor make progress, and each option competing with the others.
-
-**[/interviews](/interviews)** - **Free**, a collection of articles on conducting Jobs-to-be-done purchase interviews. You've heard of the benefits, so here's a place to bookmark for when you set out to run those interviews.
+**[/diy](/diy)** - **Free**, a collection of starting points on conducting **[/interviews](/interviews)**, on creating **[/struggle-first](/struggle-first)** landing pages, and on using the idea of **[/value-ladders](/value-ladders)**.
 
 **[/articles](/articles)** - **Free**, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Sign-up below.
 

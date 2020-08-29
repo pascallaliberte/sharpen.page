@@ -41,17 +41,9 @@ CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the
 
 ---
 
-## [/struggle-first](/struggle-first)
+## [/diy](/diy)
 
-**Free**, a collection of videos and articles on creating a Struggle-First marketing/landing page for your product or service. The kind of page that your visitor responds to by saying "I feel understood!". Useful when your thing helps a real struggle, but your audience doesn't have an established mindset about the solution yet.
-
-## [/value-ladders](/value-ladders)
-
-**Free**, a guide on creating a value-ladder of offerings for your solo consulting business. Move away from "here are my skills", and toward "here are valuable things I offer", all serving an overall struggle, all helping your visitor make progress, and each option competing with the others.
-
-## [/interviews](/interviews)
-
-**Free**, a collection of articles on conducting Jobs-to-be-done purchase interviews. You've heard of the benefits, so here's a place to bookmark for when you set out to run those interviews.
+**Free**, a collection of starting points on conducting **[/interviews](/interviews)**, on creating **[/struggle-first](/struggle-first)** landing pages, and on using the idea of **[/value-ladders](/value-ladders)**.
 
 ## [/articles](/articles)
 
