@@ -33,6 +33,10 @@ Some other places will try to pimp you to buy their services. [Increase conversi
 
 Articles out [every Friday](/articles).
 
+---
+
+And when you're at the point that you've done enough on your own **and need a hand going further**, I hope you'll [consider asking me to help you out](/offerings).
+
 Stay Sharp!
 
 {% include avatar.html %} Pascal Laliberté  
