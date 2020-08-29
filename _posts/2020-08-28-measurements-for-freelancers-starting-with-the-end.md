@@ -87,7 +87,7 @@ You believe in starting small, but you'd like to get moving. You want to impleme
 
 Suppose you're at the end of the week, and you're looking back.
 
-> I'm imagining a the end of the week and I'm celebrating. It was a different week. For a change, I got stuff done you previously found difficult to get to.
+> I'm imagining the end of the week and I'm celebrating. It was a different week. For a change, I got stuff done you previously found difficult to get to.
 
 Let's thinking about the end, and let's write statements that complete the following heading:
 
