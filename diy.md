@@ -3,6 +3,7 @@ permalink: diy/
 layout: page
 title: Starting Points to Do it Yourself
 class: offerings
+show_breadcrumb: true
 ---
 
 Some pages with articles lined up, sometimes videos, on where to start to do these things yourself. **You can do this.**
