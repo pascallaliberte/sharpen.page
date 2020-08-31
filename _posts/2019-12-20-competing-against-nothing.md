@@ -7,7 +7,7 @@ author: Pascal Laliberté
 image: /assets/images/posts/2019-12-20-competing-against-nothing.jpg
 published: true
 showcased:
-  - sendhoney.com
+  - scheduleflowers.com
 related_posts:
   - 2019-01-25-industry-standard-pricing-no-such-thing
   - 2019-02-21-try-when
@@ -26,9 +26,9 @@ In the book [_Competing Against Luck_][book], Clayton Christensen makes the case
 
 [book]: https://www.competingagainstluck.com
 
-To serve as an example, here's [SendHoney][sendhoney]. It competes against "nothing".
+To serve as an example, here's [SendHoney (Update: now _ScheduleFlowers_)][sendhoney]. It competes against "nothing".
 
-[sendhoney]: https://www.sendhoney.com
+[sendhoney]: https://www.scheduleflowers.com
 [thread]: https://www.indiehackers.com/post/sendhoney-com-part-duex-5ee3e8be58
 
 [![SendHoney is a product which competes against 'nothing'](/assets/images/posts/2019-12-20-competing-against-nothing-01.jpg)][sendhoney]
