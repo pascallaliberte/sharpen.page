@@ -97,6 +97,10 @@ And this last one:
 
 > Avoid building a product **that nobody is going to want to use**.
 
+And on finding out what people want:
+
+> Don't listen to what customers say **when they're making stuff up**.
+
 ---
 
 Those negative statements sound obvious. Avoiding the worst sounds simplistic.
