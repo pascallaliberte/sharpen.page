@@ -49,7 +49,7 @@ The thing is, **people who give advice mean well.** There's an impending economi
 
 But all advice is, eventually, incomplete. Every metaphor has a hole.
 
-All statements are, in some sense, wrong.
+In some sense, all statements are wrong.
 
 But at the very least, we can say this: **_positive_ statements are more susceptible to being wrong.**
 
