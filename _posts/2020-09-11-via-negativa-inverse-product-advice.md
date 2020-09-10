@@ -34,8 +34,8 @@ You've been keeping tabs on the advice about building a product. And, well, some
 * Some say you should use this framework or that framework.
 * Some say you should listen to your customers.
 * Some say you should mostly ignore your customers.
-* Some say you should build a product for yourself first.
 * Some say you should build a product for others first.
+* Some say you should build a product for yourself first.
 
 Some say "it depends" and then the discussion grows and grows.
 
