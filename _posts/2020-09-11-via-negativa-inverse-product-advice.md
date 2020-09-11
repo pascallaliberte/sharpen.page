@@ -73,7 +73,7 @@ Using _Via Negativa_, let's rewrite, in the negative, some of the most common pr
 
 ## Inverse Product Advice (Let's Start a List)
 
-Should we start by building an audience or no? **Well, we don't know. Some built an audience first. Some announced a product and got a ton of word of mouth.** 
+Should we start by building an audience or not? **Well, we don't know. Some built an audience first. Some announced a product and got a ton of word of mouth.** 
 
 Should we enter a mature market or should we start a new product category? **Who knows? Some have created entirely new product categories. Some have found a space in a market with competitors. Some were first to market. Some became the best of a market.**
 
@@ -93,7 +93,7 @@ And how about this one:
 
 > Avoid **relying too much on persuasion** to sell your products.
 
-And this last one:
+And how about this:
 
 > Avoid building a product **that nobody is going to want to use**.
 
