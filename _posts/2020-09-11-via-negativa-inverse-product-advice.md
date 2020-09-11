@@ -105,7 +105,7 @@ And on finding out what people want:
 
 Those negative statements sound obvious. Avoiding the worst sounds simplistic.
 
-And yet, you're probably going to build a product no matter what people tell you. You're probably going to cling to your pre-determined ideas and ignore people's advice.
+And yet, you're probably going to build a product no matter what people tell you.
 
 But I bet you're glad you're getting those reminders, aren't you?
 
