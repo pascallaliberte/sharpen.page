@@ -229,7 +229,9 @@ I also offer a more in-depth service to peer into the minds of your buyers throu
 
 > "Am I going to have to re-write my entire page?"
 
-No, a few tweaks might do the trick. Take for example this video here. Typical Features and Benefits page, but there was a hard-to-see hole in the page.
+No, a few tweaks might do the trick. Take for example [this page review][removing-friction]. It's a typical _Features and Benefits_ page, but there's a hole in the page that's hard to see. Sometimes it's just a small tweak that's needed.
+
+[removing-friction]: {% post_url 2020-07-24-landing-page-remove-friction-or-help-make-progress %}
 
 > "What if I can't identify a single hard struggle?"
 
