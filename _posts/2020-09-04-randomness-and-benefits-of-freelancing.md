@@ -53,7 +53,7 @@ As a freelancer, you want to position your practice to benefit from such bi-moda
 
 You can find the wisdom of avoiding risks of ruin is some of these popular statements:
 
-Charles Munger is often quoted that **"it's better to avoid stupidity than seeking brilliance"**. You get more benefits, over the long run, to **simply avoid the worst**, than to seek the highs of the best. The worst thing you can do with a client is to be insulting, to make them feel like fools. So do the opposite of that, always: be mindful to make your clients feel honored when working with you.
+Charlie Munger is often quoted that **"it's better to avoid stupidity than seeking brilliance"**. You get more benefits, over the long run, to **simply avoid the worst**, than to seek the highs of the best. The worst thing you can do with a client is to be insulting, to make them feel like fools. So do the opposite of that, always: be mindful to make your clients feel honored when working with you.
 
 His partner, the famous Warren Buffet, stresses this rule: **"you can never have enough reputation"**. You can build a reputation over a lifetime, and lose it in a minute. Your reputation is fragile, and without a good reputation, you don't have a freelance business. Keep your word. Honor your commitments. Prevent being at fault.
 
