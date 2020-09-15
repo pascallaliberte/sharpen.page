@@ -83,7 +83,7 @@ So let's jump to the other end of that spectrum. Let's take risks with known cos
 
 As a freelancer, you're set up with more freedom to move around, allocate your time differently, work from anywhere, make small bets without asking for permission.
 
-You're got room to **add more randomness:**
+You've got room to **add more randomness:**
 
 * **Block a half-day to learn something or to master a skill.** You know the cost of losing a half-day's work. But that half-day might add a lot to your ability to drive value for your clients. A skill that's mastered is worth more than a skill half-mastered. That includes meta skills like [learning to sell (helping the client make progress)][sell].
 * **Show your work publicly.** The known cost to you: you've spent time publishing an example, a demo, a draft, a short video. The benefits: you might attract a new client.
