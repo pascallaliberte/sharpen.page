@@ -69,9 +69,7 @@ And yet, in the mix, **we might be missing the essential**.
 
 [randomness-freelancing]: {% post_url 2020-09-04-randomness-and-benefits-of-freelancing %}
 
-Let's write those in Via Negativa statements:
-
-> **Avoid what will bring you ruin**.
+Let's write those into _Via Negativa_ statements.
 
 On the fragility of your reputation:
 
@@ -95,7 +93,7 @@ Should you specialize, or should you generalize? Market my skills or build a [va
 
 > Don't **paint yourself into a corner**.
 
-On the use of social media to amass an audience, or on the use of freelancer marketplaces, or on advertising:
+On the use of social media to amass an audience, or on the use of freelancer marketplaces, or on advertising, or on the idea of building an email list:
 
 > Avoid **relying on other people for finding work**.
 
@@ -103,15 +101,15 @@ On the use of social media to amass an audience, or on the use of freelancer mar
 
 > Avoid **working for dead-end clients**.
 
-Or how about a little symmetry. You want clients to recommend you?
+You want clients to recommend you? How about a little symmetry:
 
-> Avoid working for clients that **you wouldn't recommend to other freelancers**.
+> Avoid working for clients that **you wouldn't recommend to other freelancers in return**.
 
 "Find clients that match your values" sounds sophisticated. But you might get a client that matches your values, but does something you despise. Instead, how about this one:
 
 > Avoid working with **clients who value something you oppose**.
 
-Should you play it safe or should you take some risks? We're back to the avoiding stupidity statement:
+Should you play it safe or should you take some risks?
 
 > Avoid risking stuff that could lead to your ruin.
 
