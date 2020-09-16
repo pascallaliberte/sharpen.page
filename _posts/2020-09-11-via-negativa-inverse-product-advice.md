@@ -99,7 +99,7 @@ And how about this:
 
 And on finding out what people want:
 
-> Don't listen to what customers say **when they're making stuff up**.
+> Don't give too much attention to what customers say **when they're making stuff up**.
 
 ---
 
