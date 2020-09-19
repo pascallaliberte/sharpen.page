@@ -113,7 +113,7 @@ Should you play it safe or should you take some risks?
 
 > Avoid risking stuff that could lead to your ruin.
 
-[Then take of the risk you want][randomness-freelancing].
+[Then take all of the risk you want][randomness-freelancing].
 
 ---
 
