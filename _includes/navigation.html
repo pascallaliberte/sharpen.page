@@ -7,7 +7,15 @@
     </a>
     {% if page.layout == "service" %}
     <div class="navigation__service-slug service-slug">
-      {{ page.permalink | replace: "/", "" }}
+      {% assign parts = page.permalink | split: "/" %}
+      
+      {% for part in parts %}
+        {% if forloop.last == true %}
+          {{ part }}
+        {% else %}
+          <a href="/{{ part }}" class="text-link">{{ part }}</a> /
+        {% endif %}
+      {% endfor %}
     </div>
     {% endif %}
     <a href="{{ "/" | relative_url }}" class="navigation__tagline tagline on-{{ page.layout }}" data-behavior="navigation__tagline">
