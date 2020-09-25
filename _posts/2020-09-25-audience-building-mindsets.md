@@ -56,12 +56,14 @@ In his book _Antifragile_, Nassim Nicholas Taleb tells about his experience bein
 * Entities that **aren't affected** by increases in volatility (**robust**), and
 * Entities that **benefit** from increases in volatility (**antifragile**).
 
-As we've seen [in another article, Taleb suggest that there's an easy way][randomness-freelancing] to benefit from randomness, **to create antifragility**, even when not knowing the future:
+As we've seen [in another article, Taleb suggests that there's an easy way][randomness-freelancing] to benefit from randomness, **to create antifragility**, even when not knowing the future:
 
 [randomness-freelancing]: {% post_url 2020-09-04-randomness-and-benefits-of-freelancing %}
 
-* Prevent catastrophes by **identifying and removing your exposure to what can ruin you** (e.g. ruining your reputation), and;
+* Prevent catastrophes by **identifying and removing your exposure to what can ruin you** ([e.g. ruining your reputation][via-negativa-freelancing]), and;
 * **Invest small amounts** in areas with known costs (limited downside risk) and **unlimited potential for gain**.
+
+[via-negativa-freelancing]: {% post_url 2020-09-18-via-negativa-inverse-freelancing-advice %}
 
 Rendered visually, fragility looks like an above-ground plateau that falls below ground with bad news, and robust stays the same.
 
@@ -84,7 +86,9 @@ But the antifragile situation looks like this: you start below zero for a while,
 
 That shape is called _convexity_.
 
-**This mindset applied to audience building:** You spend a half-day a week publishing stuff for your audience. You don't get any benefits from what you publish for a while. Every time you publish, it's a cost. And then things start to pay-off through some random event.
+**This mindset applied to audience building:** You spend a half-day a week publishing [mini struggle-solvers][mini-struggle-solvers] for your audience. You don't get any benefits from what you publish for a while. Every time you publish, it's a cost. And then things start to pay-off through some random event.
+
+[mini-struggle-solvers]: {% post_url 2020-06-19-when-having-to-find-buyers-for-your-product %}
 
 ---
 
