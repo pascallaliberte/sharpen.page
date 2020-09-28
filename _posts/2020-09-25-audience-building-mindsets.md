@@ -32,7 +32,7 @@ Should you invest the time, the energy and the attention? Everything about it is
 * Maybe you're starting a solo service business.
 * Maybe you're launching a course or an informational product soon.
 
-Here are three lenses that can help anchor your decision either way.
+Here are two lenses that can help anchor your decision either way.
 
 ## The Dependence, Independence, Interdependence Mindset
 
