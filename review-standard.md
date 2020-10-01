@@ -13,13 +13,7 @@ articles_learn_basics:
 
 Only $15
 
----
-
-[ Enter your page URL here for the intro video ]
-
-_Note: I don't track you or any visitors to this site, not even what you'll type in that box. But I've got fonts hosted on Adobe's servers._
-
----
+{% include review-standard-preview-player.html %}
 
 ## Have a Standard Layout?<br> My Standard Video Review Will Fit Your Site.
 
@@ -43,7 +37,7 @@ A layout like this will also work:
 1. _(something else)_
 {: .page-structure }
 
-## You Plug Your Url and Purchase the Review (it's $15)
+## You Plug Your URL and Purchase the Review (it's $15)
 
 The video is pre-recorded.
 
@@ -64,6 +58,17 @@ After you watch the video, you'll have:
 * **Learned a few things on how you can build more trust** for those who aren't ready just yet, but might want to get help on making progress right now on something smaller;
 * **Got help spotting one or two holes** in your landing page;
 * **Got more confidence to know whether your product has a shot at going further**, based on this new lens.
+
+## "You Can't Deliver on All that with the Same Video for Everybody Using a Standard Layout"
+
+Well, _I can_, because in my video, I'm talking about subjects that nobody's talking about:
+
+* Nobody's talking about the progression of the mental back-and-forth a visitor has when experiencing the site, but my video will;
+* Nobody's talking about crafting your site for situations causing people to switch, but my video will;
+* Nobody's talking about the role the Forces of Progress plays in knowing whether the different parts of a landing page (listed above) work or not, but my video will;
+* Nobody's talking about the importance of helping your visitor make some progress on a struggle, even if that means not converting everyone to your main product, and the power to rescue those that were about to leave anyway, your biggest opportunity for the bottom of your page, but my video will.
+
+And I won't just tell you theories. You'll see your own site on display while I tell you what's going on in the visitor's mind.
 
 ## Maybe This Is Your Situation...
 
@@ -93,7 +98,7 @@ And because you'll have been one of the early customers, I'll send you a quick e
 
 I also offer a custom [/review](/review) service. This is a custom video review of your site, where I go in-depth with the struggle your product helps solve, and then I go through the mental back-and-forth of the visitors coming to your site who want progress on that struggle.
 
-And if that's not the right time, consider checking out my [/articles](/articles) and [/diy](/diy) section for things you can learn on your own.
+**And if that's not the right time**, no sweat. Consider checking out my [/articles](/articles) and [/diy](/diy) section for things you can learn on your own. Make that landing page work!
 
 Hope that helps.
 
