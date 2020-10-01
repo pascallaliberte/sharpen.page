@@ -37,8 +37,45 @@
   bottom: 0;
   left: 0;
   right: 0;
-  input[type="range"] {
-    width: 100%;
+  display: flex;
+  flex-direction: row;
+  
+  button {
+    flex: 0;
+    width: rem(70px);
+    padding: rem(5px 15px);
+    border: none;
+    background: black;
+    color: white;
+    svg {
+      stroke: white;
+      width: auto;
+      height: rem(25px);
+    }
+  }
+  
+  .progress-rail {
+    flex: 1;
+    position: relative;
+    
+    &:before {
+      position: absolute;
+      content: '';
+      top: 50%;
+      left: rem(10px);
+      right: rem(10px);
+      background: transparentize(white, 0.5);
+      height: rem(2px);
+    }
+    
+    input[type="range"] {
+      position: absolute;
+      top: 50%;
+      left: 0;
+      right: 0;
+      width: 100%;
+      transform: translateY(-50%);
+    }
   }
 }
 
@@ -89,4 +126,14 @@
   width: 100%;
   height: auto;
   transform: translateY(0);
+}
+
+.review-player-wrapper[data-status="paused"] button {
+  .i-play { display: block; }
+  .i-pause { display: none; }
+}
+
+.review-player-wrapper[data-status="playing"] button {
+  .i-play { display: none; }
+  .i-pause { display: block; }
 }

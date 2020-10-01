@@ -14,7 +14,7 @@ export default class extends Controller {
   togglePlayback(event) {
     if (event.target == this.progressbarTarget) { return }
     
-    if (this.videoTarget.dataset.status == 'playing') {
+    if (this.element.dataset.status == 'playing') {
       this.pause()
     } else {
       this.play()
@@ -22,11 +22,11 @@ export default class extends Controller {
   }
   
   setAsPlaying(event) {
-    this.videoTarget.dataset.status = 'playing'
+    this.element.dataset.status = 'playing'
   }
   
   setAsPaused(event) {
-    this.videoTarget.dataset.status = 'paused'
+    this.element.dataset.status = 'paused'
   }
   
   seekVideo(event) {
