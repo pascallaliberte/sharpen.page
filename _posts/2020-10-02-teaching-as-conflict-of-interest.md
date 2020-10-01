@@ -3,7 +3,7 @@ layout: post
 title: "Teaching Your Clients: a Conflict of Interest?"
 categories: consulting
 author: Pascal Laliberté
-image: /assets/images/posts/2020-10-01-teaching-as-conflict-of-interest.jpg
+image: /assets/images/posts/2020-10-02-teaching-as-conflict-of-interest.jpg
 published: true
 related_posts:
   - 2020-08-14-discouraging-clients-more-antifragility
@@ -37,7 +37,7 @@ Maybe not. Here's a story of something I went through. In this one, I was the cl
 
 At the end of August, we needed to make a decision about the apple tree in our backyard. It was sprawling onto the neighbour's fence, we had too many low-hanging branches. What do we do?
 
-![Our apple tree back in August](/assets/images/posts/2020-10-01-teaching-as-conflict-of-interest-01.jpg)
+![Our apple tree back in August](/assets/images/posts/2020-10-02-teaching-as-conflict-of-interest-01.jpg)
 
 We got the help of an expert from a tree servicing company.
 
