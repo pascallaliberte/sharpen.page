@@ -1,7 +1,7 @@
 import { Controller } from "stimulus"
 
 export default class extends Controller {
-  static targets = [ "progressbar", "video", "play-pause-button" ]
+  static targets = [ "progressbar", "video", "playPauseButton", "toggleLayoutButton" ]
   
   play(event) {
     this.videoTarget.play()
@@ -13,6 +13,7 @@ export default class extends Controller {
   
   togglePlayback(event) {
     if (event.target == this.progressbarTarget) { return }
+    if (event.target == this.toggleLayoutButtonTarget) { return }
     
     if (this.element.dataset.status == 'playing') {
       this.pause()
@@ -41,5 +42,13 @@ export default class extends Controller {
     const percentage = this.videoTarget.currentTime / this.videoTarget.duration
     
     this.progressbarTarget.value = percentage * this.progressbarTarget.getAttribute('max')
+  }
+  
+  toggleLayout(event) {
+    if (this.element.dataset.layout == "thumbnail") {
+      this.element.dataset.layout = "bigger-video"
+    } else {
+      this.element.dataset.layout = "thumbnail"
+    }
   }
 }

@@ -1,9 +1,14 @@
 .review-player-wrapper {
   background: $link-underline-color;
+  // background: $color-highlight;
+  // background: transparentize($color-primary, 0.7);
+  // background: transparentize($color-grey, 0.7);
   width: 100%;
   height: auto;
   position: relative;
-  cursor: pointer;
+  &, * {
+    cursor: pointer;
+  }
 }
 
 @media (min-width: $reference-width-md-until) {
@@ -32,7 +37,7 @@
 }
 
 .review-player-controls {
-  background: black;
+  background: $color-secondary;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -43,9 +48,11 @@
   button {
     flex: 0;
     width: rem(70px);
+    margin: rem(5px);
     padding: rem(5px 15px);
     border: none;
-    background: black;
+    background: $color-primary;
+    border-radius: rem(3px);
     color: white;
     svg {
       stroke: white;
@@ -57,6 +64,7 @@
   .progress-rail {
     flex: 1;
     position: relative;
+    margin: auto rem(10px);
     
     &:before {
       position: absolute;
@@ -84,6 +92,7 @@
   height: 0;
   padding-bottom: 22%;
   background: gray;
+  transition: all 0.4s;
   position: absolute;
   top: 5%;
   right: 3%;
@@ -94,8 +103,8 @@
 
 .review-player-site-preview {
   width: 70%;
-  height: 0;
-  padding-bottom: 47%;
+  height: 84%;
+  transition: all 0.4s;
   background: white;
   position: absolute;
   top: 5%;
@@ -136,4 +145,26 @@
 .review-player-wrapper[data-status="playing"] button {
   .i-play { display: none; }
   .i-pause { display: block; }
+}
+
+.review-player-customize {
+  position: absolute;
+  bottom: 10%;
+  right: 3%;
+  display: inline-block;
+  
+  button {
+    
+  }
+}
+
+.review-player-wrapper[data-layout="bigger-video"] {
+  .review-player-thumbnail {
+    width: 42%;
+    height: 72%;
+  }
+  
+  .review-player-site-preview {
+    width: 50%;
+  }
 }

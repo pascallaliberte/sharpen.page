@@ -9,9 +9,9 @@ articles_learn_basics:
   - 2020-07-24-landing-page-remove-friction-or-help-make-progress
 ---
 
-# A Standard Review<br> for your Standard Landing Page
+# A Video Review<br> for your Standard Landing Page
 
-Only $15
+<!-- Only $15 -->
 
 {% include review-standard-preview-player.html %}
 
