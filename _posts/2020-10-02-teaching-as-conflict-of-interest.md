@@ -47,7 +47,7 @@ The kids agreed: cutting it down wasn't so bad.
 
 But then we had a great idea: if we’re going to chop it down for a fee, **how about we just play-prune it, for fun?**. Worse case, we chop it all the way down. **Best case, we learn a thing or two about pruning.**
 
-We contact the pruning company (it wasn’t just a freelancer, but apparently a small family-owned company) wanting to offer to pay for their time since we decided not to go with them, but we valued their time. **"Is fifty bucks okay?"" We tell them our plan.**
+We contact the pruning company (it wasn’t just a freelancer, but apparently a small family-owned company) wanting to offer to pay for their time since we decided not to go with them, but we valued their time. **"Is fifty bucks okay?" We tell them our plan.**
 
 We got back a tirade in reply (separate person from the same company).
 
