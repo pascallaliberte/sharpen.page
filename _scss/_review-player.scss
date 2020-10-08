@@ -90,6 +90,10 @@
       color: transparentize($text-color, 0.8);
     }
   }
+  
+  .page-demo-iframe-wrapper {
+    display: none;
+  }
 }
 
 .review-player-site-preview-image {
@@ -306,6 +310,26 @@
           padding-bottom: rem(90px);
         }
       }
+    }
+    
+    .page-demo-iframe-wrapper {
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 10;
+      width: rem(787px);
+      height: rem(2218px);
+    }
+    
+    .page-demo-iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: rem(1200px);
+      height: rem(4800px);
+      transform: scale(0.6558333333);
+      transform-origin: top left;
     }
   }
   
