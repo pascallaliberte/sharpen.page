@@ -81,6 +81,8 @@
   background: white;
   position: absolute;
   overflow: hidden;
+  border-top-left-radius: rem(10px);
+  border-top-right-radius: rem(10px);
   
   ol.page-structure {
     max-width: 100%;
@@ -93,6 +95,55 @@
   
   .page-demo-iframe-wrapper {
     display: none;
+  }
+
+  .review-player-site-preview-controls {
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    padding: rem(4px 50px);
+    background: mix($color-secondary, white, 70%);
+    border-top-left-radius: rem(10px);
+    border-top-right-radius: rem(10px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .review-player-site-preview-url {
+    background: transparentize(white, 0.1);
+    font-size: rem(14px);
+    width: rem(430px);
+    padding: rem(5px);
+    padding-left: rem(20px);
+    padding-right: rem(100px);
+    border-radius: rem(3px);
+    border: none;
+    font-family: $secondary-font-family;
+    display: inline-block;
+    
+    &:focus {
+      background: white;
+    }
+  }
+  
+  .review-player-site-preview-field-group {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .review-player-site-preview-load-button {
+    border: none;
+    background: transparentize($color-secondary, 0.8);
+    color: transparentize($color-secondary, 0.5);
+    font-family: $secondary-font-family;
+    font-size: rem(14px);
+    text-transform: uppercase;
+    border-radius: rem(3px);
+    position: absolute;
+    right: rem(5px);
+    top: rem(3px);
   }
 }
 
@@ -115,6 +166,10 @@
 .review-player-customize {
   position: absolute;
   display: inline-block;
+
+  .cta-btn {
+    border: none;
+  }
 }
 
 @media (max-width: $reference-width-xs-until) {
@@ -298,6 +353,7 @@
     
     ol.page-structure {
       margin: rem(15px);
+      margin-top: rem(50px);
       border-width: rem(15px);
       border-radius: rem(15px);
       
@@ -313,19 +369,23 @@
     }
     
     .page-demo-iframe-wrapper {
-      display: block;
       position: absolute;
-      top: 0;
+      top: rem(50px);
       left: 0;
       z-index: 10;
       width: rem(787px);
       height: rem(2218px);
+      
+      &.show {
+        display: block;
+      }
     }
     
     .page-demo-iframe {
       position: absolute;
       top: 0;
       left: 0;
+      transition: all 0.4s;
       width: rem(1200px);
       height: rem(4800px);
       transform: scale(0.6558333333);
@@ -378,6 +438,10 @@
     
     .review-player-site-preview {
       width: rem(584px);
+    }
+    
+    .page-demo-iframe {
+      width: rem(890px);
     }
   }
 }

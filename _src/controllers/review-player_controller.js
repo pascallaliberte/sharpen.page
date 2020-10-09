@@ -2,7 +2,7 @@ import { Controller } from "stimulus"
 import SitePreviewTimeline from "../review-player/site-preview-timeline.js"
 
 export default class extends Controller {
-  static targets = [ "progressbar", "video", "playPauseButton", "toggleLayoutButton" ]
+  static targets = [ "progressbar", "video", "playPauseButton", "toggleLayoutButton", "sitePreviewURL", "sitePreviewFrame", "sitePreviewFrameWrapper", "sitePreviewLoadButton" ]
   
   initialize() {
     SitePreviewTimeline.init()
@@ -19,6 +19,9 @@ export default class extends Controller {
   togglePlayback(event) {
     if (event.target == this.progressbarTarget) { return }
     if (event.target == this.toggleLayoutButtonTarget) { return }
+    if (event.target == this.sitePreviewFrameTarget) { return }
+    if (event.target == this.sitePreviewURLTarget) { return }
+    if (event.target == this.sitePreviewLoadButton) { return }
     
     if (this.element.dataset.status == 'playing') {
       this.pause()
@@ -56,5 +59,11 @@ export default class extends Controller {
     } else {
       this.element.dataset.layout = "thumbnail"
     }
+  }
+  
+  loadSitePreview(event) {
+    event.preventDefault();
+    this.sitePreviewFrameTarget.setAttribute('src', this.sitePreviewURLTarget.value)
+    this.sitePreviewFrameWrapperTarget.classList.add('show')
   }
 }

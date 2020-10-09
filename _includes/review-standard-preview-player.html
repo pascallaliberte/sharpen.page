@@ -29,14 +29,20 @@
       </div>
     </div>
     <div class="review-player-site-preview">
+      <form class="review-player-site-preview-controls" data-action="submit->review-player#loadSitePreview">
+        <div class="review-player-site-preview-field-group">
+          <input class="review-player-site-preview-url" type="text" placeholder="Enter your site URL here..." data-target="review-player.sitePreviewURL" />
+          <button class="review-player-site-preview-load-button" data-target="review-player.sitePreviewLoadButton" data-action="submit->review-player#loadSitePreview">Preview</button>
+        </div>
+      </form>
       <ol class="page-structure" data-behavior="site-preview">
         <li>Your Site Goes Hero</li>
         <li>Features</li>
         <li>Testimonials</li>
         <li>Signup/Pricing</li>
       </ol>
-      <div class="page-demo-iframe-wrapper" data-behavior="site-preview">
-        <iframe class="page-demo-iframe" src="https://www.wickedtemplates.com" frameborder="0"></iframe>
+      <div class="page-demo-iframe-wrapper" data-behavior="site-preview" data-target="review-player.sitePreviewFrameWrapper">
+        <iframe class="page-demo-iframe" data-target="review-player.sitePreviewFrame" src="" frameborder="0"></iframe>
       </div>
     </div>
     
