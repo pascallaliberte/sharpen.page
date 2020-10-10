@@ -54,6 +54,10 @@ export default class extends Controller {
     if (event.code === "ArrowRight") { event.preventDefault(); event.stopPropagation(); this.skipForward() }
   }
   
+  stopPropagation(event) {
+    event.stopPropagation();
+  }
+  
   skipBack() {
     if (this.videoTarget.currentTime < 10) { this.videoTarget.currentTime = 0; return }
     this.videoTarget.currentTime = this.videoTarget.currentTime - 10;
@@ -83,5 +87,6 @@ export default class extends Controller {
     event.preventDefault();
     this.sitePreviewFrameTarget.setAttribute('src', this.sitePreviewURLTarget.value)
     this.sitePreviewFrameWrapperTarget.classList.add('show')
+    this.sitePreviewURLTarget.blur();
   }
 }

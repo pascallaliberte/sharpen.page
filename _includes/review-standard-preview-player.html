@@ -31,8 +31,8 @@
     <div class="review-player-site-preview">
       <form class="review-player-site-preview-controls" data-action="submit->review-player#loadSitePreview">
         <div class="review-player-site-preview-field-group">
-          <input class="review-player-site-preview-url" type="text" placeholder="Enter your site URL here..." data-target="review-player.sitePreviewURL" />
-          <button class="review-player-site-preview-load-button" data-target="review-player.sitePreviewLoadButton" data-action="submit->review-player#loadSitePreview">Preview</button>
+          <input class="review-player-site-preview-url" type="text" placeholder="Enter your site URL here..." data-target="review-player.sitePreviewURL" data-action="keydown->review-player#stopPropagation" />
+          <button class="review-player-site-preview-load-button" data-target="review-player.sitePreviewLoadButton" data-action="click->review-player#loadSitePreview click->review-player#stopPropagation">Preview</button>
         </div>
       </form>
       <ol class="page-structure" data-behavior="site-preview">
