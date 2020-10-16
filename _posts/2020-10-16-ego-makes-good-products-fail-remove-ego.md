@@ -35,7 +35,7 @@ There are three stages _above_ a certain developmental ceiling, and we'll take a
 * _Developmental Ceiling_
 * Two levels beneath the developmental ceiling
 
-### The Expert - Beneath the developmental ceiling
+### The Expert - Beneath the Developmental Ceiling
 
 1. _(Third level above)_
 2. _(Second level above)_
@@ -45,7 +45,7 @@ There are three stages _above_ a certain developmental ceiling, and we'll take a
 
 The Expert is characterized by their knowledge of the material, of a technique, or processes, of a solution. In fact, they _identify_ with their knowledge. Their person and their abilities, in their mind, are one. You attack the knowledge, you attack the person. There's a defense mechanism, a hoarding of the knowledge.
 
-### The Achiever - Beneath the developmental ceiling
+### The Achiever - Beneath the Developmental Ceiling
 
 1. _(Third level above)_
 2. _(Second level above)_
@@ -55,7 +55,7 @@ The Expert is characterized by their knowledge of the material, of a technique, 
 
 The Achiever operates like an expert that organizes processes around that expertise to achieve more. Their identity is entangled into their level of achievement, of hustling hard, of besting others, of producing results.
 
-### Beneath the developmental ceiling, The Heroic Stages
+### Beneath the Developmental Ceiling, The Heroic Stages
 
 Both The Expert and The Achiever operate in what Joiner calls the "Heroic" or "Egoic" stages. They achieve results, they provide value, they represent the majority of leaders, the majority of the time.
 
