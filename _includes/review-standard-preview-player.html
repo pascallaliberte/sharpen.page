@@ -13,7 +13,7 @@
       </video>
     </div>
     <div class="review-player-controls">
-      <button data-target="playPauseButton" data-action="click->review-player#togglePlayback">
+      <button data-target="review-player.playPauseButton" data-action="click->review-player#togglePlayback">
         <svg class="i-play" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
             <path d="M10 2 L10 30 24 16 Z" />
         </svg>
@@ -48,6 +48,14 @@
     
     <div class="review-player-customize">
       <button data-action="click->review-player#toggleLayout" data-target="review-player.toggleLayoutButton" class="cta-btn">Toggle layout</button>
+    </div>
+    
+    <div class="review-player-paused-overlay" data-target="review-player.pausedOverlay">
+      <button data-action="click->review-player#play">
+        <svg class="i-play" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <path d="M10 2 L10 30 24 16 Z" />
+        </svg>
+      </button>
     </div>
   </div>
 </div>
