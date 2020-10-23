@@ -86,7 +86,7 @@ Popularized by Bob Moesta and Chris Spiek from the _Re-wired Group_, the [Four F
 [price-anxiety]: {% post_url 2019-01-25-industry-standard-pricing-no-such-thing %}
 [feature-anxiety]: {% post_url 2019-02-15-when-a-feature-is-not-a-feature %}
 
-### The Forces of Progress for the Portable Radio 
+### The Portable Radio: its Forces of Progress
 
 * **{% include components/icon-struggle.html %} Struggle:** When I want to listen to music and I want to listen to the music I like, I'm stuck at home, and everybody in my house has to suffer through the radio channels I want to listen to.
 * **{% include components/icon-struggle.html %} Struggle:** If I crank the music I like on the radio in the living room, my parent's are going to bite my head off.
