@@ -89,7 +89,7 @@ Popularized by Bob Moesta and Chris Spiek from the _Re-wired Group_, the [Four F
 ### The Portable Radio: its Forces of Progress
 
 * **{% include components/icon-struggle.html %} Struggle:** When I want to listen to music and I want to listen to the music I like, I'm stuck at home, and everybody in my house has to suffer through the radio channels I want to listen to.
-* **{% include components/icon-struggle.html %} Struggle:** If I crank the music I like on the radio in the living room, my parent's are going to bite my head off.
+* **{% include components/icon-struggle.html %} Struggle:** If I crank the music I like on the radio in the living room, my parents are going to bite my head off.
 * **{% include components/icon-attraction.html %} Attraction:** This portable radio thing is nice. It'll let me listen to music when I'm outside of the home.
 * **{% include components/icon-attraction.html %} Attraction:** I can lower the volume to listen to music in my room. Sit right next to it.
 * **{% include components/icon-attraction.html %} Attraction:** It's not that expensive.
