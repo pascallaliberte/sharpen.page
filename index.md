@@ -14,7 +14,7 @@ articles_on_page_sharpening:
   - 2019-10-25-minimum-to-get-struggle-based-landing-page
 ---
 
-## <mark>I help software product owners</mark> who find themselves in situations like these…
+## <mark>I help software product people</mark> get into the minds of their buyers, make products that sell…
 
 <div class="situation-quotes" markdown="1">
 
@@ -23,12 +23,6 @@ articles_on_page_sharpening:
 > "I’ve just realized that **the page describing my product doesn’t do it justice**. It focuses too much on the benefits. I know I can make it communicate more sharply **the problem it can help solve for my customers**. People finding our site should feel like shouting '**I feel understood!**'"
 
 [See What I Offer](/offerings){: .cta-btn }
-
----
-
-**Or maybe you're running a service business in a field that's on the up and up.** Maybe you're past creating deliverables and you're more into coaching your clients. Maybe you do very custom design or animation work and you want to go for the best of the best. Maybe it's a technical field, like in DevOps, AI/ML, Cybersecurity, Cloud orchestration, SwiftUI, plugin development for e-commerce shops.
-
-> "I'm in a specialty that I know there's a niche for. And my site is starting to get visited, **but the services I'm advertising are unremarkable**, a little too scattershot, a little too generic. **Better clients, that's what I'm after.** But I know I'm not making the case on what I can do for them."
 
 </div>
 
