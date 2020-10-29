@@ -2,7 +2,7 @@
 layout: post
 title: Evaluating a Product Opportunity
 categories: jtbd
-tags: research
+tags: research discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2020-07-17-evaluating-a-product-opportunity.jpg
 published: true

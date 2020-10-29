@@ -29,13 +29,13 @@ Let's highlight some ideas from the book to see how ego works, how it kills good
 
 Joiner presents some stages that describe the development of a leader.
 
-There are three stages _above_ a certain development ceiling, and we'll take a look at two levels _beneath_ the developmental ceiling.
+There are three stages _above_ a certain developmental ceiling, and we'll take a look at two levels _beneath_ the developmental ceiling.
 
 * Three levels above the developmental ceiling
 * _Developmental Ceiling_
 * Two levels beneath the developmental ceiling
 
-### The Expert - Beneath the Development Ceiling
+### The Expert - Beneath the Developmental Ceiling
 
 1. _(Third level above)_
 2. _(Second level above)_
@@ -45,7 +45,7 @@ There are three stages _above_ a certain development ceiling, and we'll take a l
 
 The Expert is characterized by their knowledge of the material, of a technique, or processes, of a solution. In fact, they _identify_ with their knowledge. Their person and their abilities, in their mind, are one. You attack the knowledge, you attack the person. There's a defense mechanism, a hoarding of the knowledge.
 
-### The Achiever - Beneath the Development Ceiling
+### The Achiever - Beneath the Developmental Ceiling
 
 1. _(Third level above)_
 2. _(Second level above)_
@@ -55,13 +55,13 @@ The Expert is characterized by their knowledge of the material, of a technique, 
 
 The Achiever operates like an expert that organizes processes around that expertise to achieve more. Their identity is entangled into their level of achievement, of hustling hard, of besting others, of producing results.
 
-### Beneath the Development Ceiling, The Heroic Stages
+### Beneath the Developmental Ceiling, The Heroic Stages
 
 Both The Expert and The Achiever operate in what Joiner calls the "Heroic" or "Egoic" stages. They achieve results, they provide value, they represent the majority of leaders, the majority of the time.
 
 But they're not operating at levels that Joiner calls "Post-Heroic". For that, they'd need to surpass the Developmental Ceiling.
 
-### Above the Development Ceiling, The Post-Heroic Stages
+### Above the Developmental Ceiling, The Post-Heroic Stages
 
 1. **The Synergist - Post-Heroic**
 2. **The Co-creator - Post-Heroic**
@@ -69,16 +69,16 @@ But they're not operating at levels that Joiner calls "Post-Heroic". For that, t
 4. The Achiever - Heroic (or Egoic)
 5. The Expert - Heroic (or Egoic)
 
-Leaders operate at Post-Heroic stages (The Catalyst, The Co-creator, The Synergist) when they surpass their development ceiling.
+Leaders operate at Post-Heroic stages when they surpass their developmental ceiling.
 
-* They're able to disassociate themselves from their achievements and their expertise
-* They're able to adopt new ways of thinking
-* They're able to be mentally agile
-* They're able to remove their egos on the spot
+* They're able to disassociate themselves from their achievements and their expertise;
+* They're able to adopt new ways of thinking;
+* They're able to be mentally agile;
+* They're able to remove their egos on the spot.
 
-## Ego Detection, The Development Ceiling
+## Ego Detection, The Developmental Ceiling
 
-What marks those operating beneath the development ceiling from those operating above the development ceiling?
+What marks those operating beneath the developmental ceiling from those operating above the developmental ceiling?
 
 Ego detection.
 
@@ -88,7 +88,7 @@ Ego detection.
 
 ## Real-Time Ego Detection
 
-When operating at a Post-Heroic stage, you can spot thoughts that come from the ego. They usually have "If's", "Unless's", "Either's", "Surely's", "Should's", "Or else's"...
+When operating at a Post-Heroic stage, you can spot thoughts that come from the ego. They usually have "if's", "unless's", "either's", "surely's", "should's", "or else's"...
 
 * **If** only I...
 * **Unless** I... I'll never be able to...
@@ -105,11 +105,11 @@ Before we go further into ego removal, let's look at its effect on leading produ
 
 A lot of the advice you get when you're building a product looks like this:
 
-* Stick with it
-* Start small
-* Quit if you're not seeing the numbers
-* If you don't get a conversion rate of X, there's something wrong
-* Sharpen your positioning, go for your ideal buyer
+* Stick with it;
+* Start small;
+* Quit if you're not seeing the numbers;
+* If you don't get a conversion rate of X, there's something wrong;
+* Sharpen your positioning, go for your ideal buyer.
 
 Those are high-level statements. But along the timeline of a product's development, tons of small decisions need to be made. Over the long haul, the ego has plenty of occasions to creep in, to surface thoughts with some "surely's and some "either's".
 
@@ -126,7 +126,7 @@ Because of ego, discernment was swayed by thoughts that weren't caught and re-wr
 
 Or maybe you know a founder or two with a lot of ego. They tout their ability to get top investment money. They push hard toward a vision. They bark back at dissent. They demand high levels of work ethic, of efficiency, of hustling long hours.
 
-These leaders are totally blind to the mental lenses operating subconsciously. They never notice when their ego is coloring their judgement, they just push through. Textbook _achiever/heroic/egoic_ profile.
+These leaders are totally blind to the mental lenses operating subconsciously. They never notice when their ego is colouring their judgment, they just push through. Textbook _achiever/heroic/egoic_ profile.
 
 This is the reality they risk being blind to: their product [never had what it took to work][your-product-will-fail].
 
@@ -139,13 +139,13 @@ Because of ego, thoughts weren't re-written when they should have been.
 [your-product-will-fail]: {% post_url 2020-10-09-your-product-is-going-to-fail %}
 [overserving]: {% post_url 2019-08-23-how-to-know-if-built-too-much-product-overserving %}
 
-## Re-Writing Thoughts
+## Re-writing Thoughts
 
-There are two big lenses to look out for, one basic way to re-write a thought, and I'll share my favourite in-depth thought re-writing method.
+Ego removal is about catching and re-writing thoughts. There are two big lenses to look out for, one basic way to re-write a thought, and I'll share my favourite method of actively re-writing my thoughts.
 
 ### Two Big Lenses to Spot
 
-1. **The identity (labelling) lens:** You'll know your thought is colored by this lens when you spot an **is a** in your mind. "This person is a". Re-write with "This person has a" or "This person can" or "This person prefers".
+1. **The identity (labelling) lens:** You'll know your thought is coloured by this lens when you spot an **"is a"** in your mind. "This person is a". Re-write with "This person has a" or "This person can" or "This person prefers";
 2. **The opposition lens:** "Either", "Or". This lens creates a choice, a duality, restricts your view to two possible outcomes. Re-write with "Maybe there's a way to have a third option" and "Maybe there's a way to do both."
 
 ### One Basic Way to Re-write a Thought
@@ -155,17 +155,17 @@ When spotting a thought that the ego is clinging to, one basic way to re-write t
 * **Surely** it'll take way too long to get traction.
 {: .thoughts }
 
-Maybe.
+"Maybe."
 
 * It's **either** I overhaul the product **or** I tank it.
 {: .thoughts }
 
-Maybe.
+"Maybe."
 
 * I have to start seeing some results, **or else** my reputation will be tarnished.
 {: .thoughts }
 
-Maybe.
+"Maybe."
 
 "Maybe" takes the edge off. It acquieces that the ego had a hold on a thought, and disassociates the thought from the reaction.
 
@@ -173,12 +173,12 @@ Then you can re-write the thought with something else.
 
 ### Active Thought Re-writing
 
-Here's how I actively re-write my thoughts. I do this pre-emptively, or anytime I sense a reaction coming, a duality, a labelling, a "surely", an "unless", etc.
+Here's how I actively re-write my thoughts. I do this pre-emptively, or anytime I sense a reaction swelling, a duality, a labelling, a "surely", an "unless", etc.
 
-1. I open a TaskPaper document (it lets me indent)
-2. I make a heading called "Mental models:" (another word for those subconscious lenses, those certitudes, biases, etc)
-3. I write each of the thoughts I'm able to dig up
-4. I answer myself with a corrected, re-written, closer-to-reality statement.
+1. I open a [TaskPaper](https://www.taskpaper.com) document (it lets me indent);
+2. I make a heading called "Mental models:" (another word for those subconscious lenses, those certitudes, biases, etc);
+3. I write each of the thoughts I'm able to dig up;
+4. I answer myself with a corrected, re-written, closer-to-reality statement;
 5. Repeat.
 
 <pre class="mental-models" markdown="block">
@@ -194,18 +194,18 @@ Here's how I actively re-write my thoughts. I do this pre-emptively, or anytime 
       That will be too much work, (surely) it'll be an overhaul
       **- Maybe I can just rejig the landing page to focus on those
         [situations when][try-when] the product is most useful**
-      **- Maybe I only need to [hide a few features][feature-anxiety] and it
-        won't be such an overhaul.**
+      **- Maybe I only need to [test hiding a few features][feature-anxiety] and it
+        won't be such an overhaul**
   I have to start seeing some results, or else my reputation
   will be tarnished.
     **- Maybe**
-    **- Maybe my reputation will be strengthened by my ability
+    **- Maybe my reputation will be strengthened by my ability to
       remove my ego and see reality**
 </pre>
 
 [try-when]: {% post_url 2019-02-21-try-when %}
 [feature-anxiety]: {% post_url 2019-02-15-when-a-feature-is-not-a-feature %}
 
-Removing your ego to see reality. That's a good way to build the right product (and strengthen your reputation).
+Removing your ego to see reality. That's a good way to build the right product.
 
 Stay sharp!

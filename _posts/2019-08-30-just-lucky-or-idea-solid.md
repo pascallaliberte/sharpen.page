@@ -2,7 +2,7 @@
 layout: post
 title: "Was I Just Lucky or Is My Idea Solid?"
 categories: jtbd
-tags: consulting
+tags: consulting discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2019-08-30-just-lucky-or-idea-solid.jpg
 ---

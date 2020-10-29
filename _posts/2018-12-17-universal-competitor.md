@@ -2,7 +2,7 @@
 layout: post
 title: The Number One Competitor of Your Product
 categories: jtbd
-tags: jtbd-basics
+tags: jtbd-basics discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2018-12-06-forces-of-progress-in-purchase-decision.jpg
 ---

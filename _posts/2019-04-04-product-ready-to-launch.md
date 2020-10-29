@@ -2,6 +2,7 @@
 layout: post
 title: "How Do I Know My Product Is Ready To Launch? I Want It To Be Perfect!"
 categories: jtbd
+tags: discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2019-04-04-product-ready-to-launch.jpg
 ---

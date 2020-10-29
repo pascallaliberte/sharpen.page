@@ -2,7 +2,7 @@
 layout: post
 title: "When You Have to Find Buyers for Your Product"
 categories: jtbd
-tags: research starting-up
+tags: research starting-up discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2020-06-19-when-having-to-find-buyers-for-your-product.jpg
 published: true
