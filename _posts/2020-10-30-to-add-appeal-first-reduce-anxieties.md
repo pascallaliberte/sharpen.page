@@ -2,7 +2,7 @@
 layout: post
 title: To Add Appeal, First Reduce Anxieties
 categories: jtbd
-tags: optimizing discerning
+tags: optimizing discerning jtbd-basics
 author: Pascal Laliberté
 image: /assets/images/posts/2020-10-30-to-add-appeal-first-reduce-anxieties.jpg
 published: true
