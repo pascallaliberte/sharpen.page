@@ -18,9 +18,11 @@ articles_on_page_sharpening:
 
 <div class="situation-quotes" markdown="1">
 
-> "We're getting cancellations, unused features. Our buyers are using the product for purposes that surprise us. We thought we knew what problem our product was hired to solve, but we no longer do. We need to stop building and building and **we need to start digging and digging.**"
+> "**Our buyers are using the product for purposes that surprise us.** We're getting cancellations, unused features. We thought we knew what problem our product was hired to solve, but we no longer do. We need to stop building and building and **we need to start digging and digging.**"
 
 > "I’ve just realized that **the page describing my product doesn’t do it justice**. It focuses too much on the benefits. I know I can make it communicate more sharply **the problem it can help solve for my customers**. People finding our site should feel like shouting '**I feel understood!**'"
+
+[See What I Offer](/offerings){: .cta-btn }
 
 ---
 
@@ -45,7 +47,7 @@ Previously, you were concentrating on a generic profile of buyers. But all of a 
 
   {% include adhoc-post-list.html post_ids=page.articles_on_adjusting %}
 
-You'd like to move fast, but not waste your efforts on running experiments. You've talked to some recent buyers, but something still doesn't add up. **You want to [_understand_ what's going on](/understand).**
+You'd like to move fast, but not waste your efforts on running experiments. You've talked to some recent buyers, but something still doesn't add up. **You want to [_understand_ what's going on](/understand){: .cta-btn }.**
 
 ## _Maybe it's that_ <mark>Your Product Offers Too Much</mark> and Those Features Don't Sell Like You Hoped
 {: .maybe-heading }
@@ -63,7 +65,7 @@ Something happened and you're starting to be noticed. People _get it_. You get l
 
   {% include adhoc-post-list.html post_ids=page.articles_on_page_sharpening %}
 
-Enough is enough. **Time to [sharpen your marketing pages](/review).**
+Enough is enough. **Time to [sharpen your marketing pages](/review){: .cta-btn }.**
 
 ## Imagining When It'll All Be Done
 
