@@ -2,6 +2,7 @@
 layout: post
 title: "Sadly Found A Competitor For My Product. How Do I Make Mine Better?"
 categories: jtbd
+tags: discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2019-04-12-competitor-found-make-mine-better.jpg
 ---

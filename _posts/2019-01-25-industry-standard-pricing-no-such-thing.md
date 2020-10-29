@@ -2,7 +2,7 @@
 layout: post
 title: "Industry Standard Pricing (No Such Thing)"
 categories: jtbd
-tags: consulting
+tags: consulting discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2019-01-25-industry-standard-pricing-no-such-thing.jpg
 ---

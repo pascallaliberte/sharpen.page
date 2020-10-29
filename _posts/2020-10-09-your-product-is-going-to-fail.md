@@ -2,6 +2,7 @@
 layout: post
 title: Your Product Is Going to Fail
 categories: jtbd
+tags: discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2020-10-09-your-product-is-going-to-fail.jpg
 published: true

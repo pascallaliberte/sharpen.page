@@ -2,7 +2,7 @@
 layout: post
 title: "I Don't Know If My Page Is Any Good"
 categories: jtbd copywriting
-tags: struggle-first
+tags: struggle-first discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2019-06-20-i-dont-know-if-my-page-is-good.jpg
 ---
