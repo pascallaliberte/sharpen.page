@@ -14,7 +14,7 @@ articles_on_page_sharpening:
   - 2019-10-25-minimum-to-get-struggle-based-landing-page
 ---
 
-## <mark>I help online businesses</mark> who find themselves in situations like these…
+## <mark>I help software product owners</mark> who find themselves in situations like these…
 
 <div class="situation-quotes" markdown="1">
 
