@@ -183,4 +183,4 @@ So address anxieties, _then_ discover the surprising product that will emerge. Y
 
 Stay sharp!
 
-_Hey, I realize this will cause you to wonder "well, that means I have to change my landing page completely then." Maybe, maybe not. Check out the [/review](/review) service I offer, or be on the lookout for a **more affordable (yet fairly-priced) landing page review "product" coming soon**._
+_Hey, I realize this will cause you to wonder "well, that means I have to change my landing page completely then." Maybe, maybe not. Check out the [/review](/review) service I offer, or be on the lookout for a **[more affordable (yet fairly-priced) landing page review "product" coming soon](https://twitter.com/pascallaliberte/status/1322146027760177154)**._
