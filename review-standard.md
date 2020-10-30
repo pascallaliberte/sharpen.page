@@ -9,7 +9,8 @@ articles_learn_basics:
   - 2020-07-24-landing-page-remove-friction-or-help-make-progress
 ---
 
-# A Video Review<br> for your Standard Landing Page
+# <small>The Missing, Official</small><br> <strong>Standard Review</strong> for<br> <strong>All Landing Pages</strong> with a<br> <strong>Standard Layout</strong>
+{: .review-standard-title }
 
 {% include review-standard-preview-player.html %}
 
@@ -39,11 +40,18 @@ A layout like this will also work:
 
 **[Purchase the Video](#purchase). Provide your site URL.<br>Press Play. Replay as often as you like.<br>Change the URL as often as you life.**
 
-Everyone who purchases this video review gets the same video. And you'll see, if your site has that standard, popular layout, you'll see where your page can be improved.
+Everyone who purchases this video review gets the same "video". And you'll see, **if your site has that standard, popular layout**, you'll see where your page can be improved.
 
-You'll be able to tweak how the video plays with your landing page so it scrolls to the right parts. And then you let it play, pause, continue, review.
+_Your landing page,  
+center stage!_
+{: .punchy-copy }
 
-If you want, nothing stopping you from making a version of your landing page that just has those sections and plug that secret URL into this standard review. After you pay, change the URL as often as you like.
+**After you pay, change the URL as often as you like.**  
+Don't have a URL yet? Just upload a screenshot (no joke).
+
+## Know Whether Your Landing Page Works,<br>Before You Show it To People.
+
+That's my promise. This is how I'll do that:
 
 ## You'll Leave with a New Lens on How Visitors Experience Your Landing Page
 
@@ -57,6 +65,10 @@ After you watch the video, you'll have:
 * **Got help spotting one or two holes** in your landing page;
 * **Got more confidence to know whether your product has a shot at going further**, based on this new lens.
 
+_All that in one single review.  
+To be replayed after a tweak or two._
+{: .punchy-copy }
+
 ## "You Can't Deliver on All that with the Same Video for Everybody Using a Standard Layout"
 
 Yep, I sure can. That's because in my video, I'm talking about subjects that **nobody's talking about**:
@@ -67,6 +79,10 @@ Yep, I sure can. That's because in my video, I'm talking about subjects that **n
 * Nobody's talking about the **importance of helping your visitor make some progress on a struggle**, even if that means not converting everyone to your main product, and the power to rescue those that were about to leave anyway, your biggest opportunity for the bottom of your page, but my video will.
 
 And I won't just tell you theories. You'll see your own site on display while I tell you what's going on in the visitor's mind. **No need to connect the dots between demo sites and your sites.**
+
+_Before that feature list grows in size  
+For the visitor's side you'll grow wise._
+{: .punchy-copy }
 
 And besides, the "standard layout" assumes you just need to find a clever title, follow a template, add features and benefits, and you're done. I'll go deeper with stuff you can use to **judge your own work**.
 

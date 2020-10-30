@@ -488,3 +488,38 @@
     }
   }
 }
+
+.punchy-copy {
+  font-family: $tertiary-font-family;
+  color: $link-color;
+  font-size: 2em;
+  line-height: 1em;
+  position: relative;
+  display: inline;
+  background-color: #E3DCE1;
+  margin-top: rem(15px);
+  margin-bottom: rem(15px);
+  
+  &:before {
+    position: absolute;
+    content: '';
+    right: 100%;
+    width: rem(15px);
+    top: 0;
+    bottom: 0;
+    background-color: #E3DCE1;
+  }
+}
+
+.main-content h1.review-standard-title {
+  font-weight: normal;
+  color: $color-secondary;
+  line-height: 1;
+  small {
+    font-family: $secondary-font-family;
+    font-size: 0.6em;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+}
