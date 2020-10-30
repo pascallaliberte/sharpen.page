@@ -122,7 +122,7 @@ Help them feel you've got them covered, to start something brand new with you, a
 
 > This is going to take **a lot of effort to change myself** in the next year, based on this new material.
 
-Maybe you can make it super progressive. **Make "Module 1" will fulfil the majority of the course's value** very quickly. And there's going to be more learning material when you're ready.
+Maybe you can make it super progressive. **Make sure "Module 1" will fulfil the majority of the course's value** very quickly. And there's going to be more learning material when you're ready.
 
 Or maybe cut your course down in length. No FOMO. Just deliver on that one thing they're trying to get movement on, and no more.
 
