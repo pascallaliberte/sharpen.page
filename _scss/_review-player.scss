@@ -153,14 +153,56 @@
   transform: translateY(0);
 }
 
+
+
+.review-player-paused-overlay {
+  position: absolute;
+  z-index: 20;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  pointer-events: none;
+
+  .review-player-main-play-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    white-space: nowrap;
+    display: inline-block;
+    border: 0;
+    transform: translateX(-50%) translateY(-50%);
+    pointer-events: visible;
+    border-radius: rem(35px 20px 35px 20px);
+    padding: rem(15px 25px);
+    font-family: $secondary-font-family;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    opacity: 0.85;
+    transition: all 0.1s ease-in;
+    
+    &:hover, &:focus {
+      opacity: 1;
+    }
+  }
+}
+
 .review-player-wrapper[data-status="paused"] button {
   .i-play { display: block; }
   .i-pause { display: none; }
 }
 
-.review-player-wrapper[data-status="playing"] button {
-  .i-play { display: none; }
-  .i-pause { display: block; }
+.review-player-wrapper[data-status="playing"] {
+  button {
+    .i-play { display: none; }
+    .i-pause { display: block; }
+  }
+  
+  .review-player-main-play-button {
+    transform: translateX(-50%) translateY(-35%);
+    opacity: 0;
+    pointer-events: none;
+  }
 }
 
 .review-player-customize {

@@ -11,8 +11,6 @@ articles_learn_basics:
 
 # A Video Review<br> for your Standard Landing Page
 
-<!-- Only $15 -->
-
 {% include review-standard-preview-player.html %}
 
 ## Have a Standard Layout?<br> My Standard Video Review Will Fit Your Site.
@@ -37,9 +35,9 @@ A layout like this will also work:
 1. _(something else)_
 {: .page-structure }
 
-## You Plug Your URL and Purchase the Review (it's $15)
+## It's just ~~27$~~ _$19!_ That's Because It's Pre-Recorded.
 
-The video is pre-recorded.
+**[Purchase the Video](#purchase). Provide your site URL.<br>Press Play. Replay as often as you like.<br>Change the URL as often as you life.**
 
 Everyone who purchases this video review gets the same video. And you'll see, if your site has that standard, popular layout, you'll see where your page can be improved.
 
@@ -47,11 +45,11 @@ You'll be able to tweak how the video plays with your landing page so it scrolls
 
 If you want, nothing stopping you from making a version of your landing page that just has those sections and plug that secret URL into this standard review. After you pay, change the URL as often as you like.
 
-## You'll Leave with a New Lens on how Visitors Experience Your Landing Page
+## You'll Leave with a New Lens on How Visitors Experience Your Landing Page
 
 After you watch the video, you'll have:
 
-* **Learned about the lens of the Jobs-to-be-done Forces of Progress**, and how your visitor will experience your site, their mental back and forth in determining whether to give your product a shot or not;
+* **Learned about the lens of the Jobs-to-be-done Forces of Progress**, and how your visitor will experience your site, their **mental back and forth** in determining whether to give your product a shot or not. You won't be able to unlearn it, and because it'll be your site, you'll be able to **self-judge your site as if you're a visitor**;
 * **Learned what you can do to punch up the top of your landing page** so your visitors say "I feel understood" and "I'm in the right spot";
 * **Learned about feature anxiety** and how to communicate just the features that'll help your visitor advance on their job-to-be-done;
 * **Helped you decide whether you're charging the right amount for your product**, and whether a "Sign up for free" really does the job for your product's landing page;
@@ -61,28 +59,27 @@ After you watch the video, you'll have:
 
 ## "You Can't Deliver on All that with the Same Video for Everybody Using a Standard Layout"
 
-Well, _I can_, because in my video, I'm talking about subjects that nobody's talking about:
+Yep, I sure can. That's because in my video, I'm talking about subjects that **nobody's talking about**:
 
-* Nobody's talking about the progression of the mental back-and-forth a visitor has when experiencing the site, but my video will;
-* Nobody's talking about crafting your site for situations causing people to switch, but my video will;
-* Nobody's talking about the role the Forces of Progress plays in knowing whether the different parts of a landing page (listed above) work or not, but my video will;
-* Nobody's talking about the importance of helping your visitor make some progress on a struggle, even if that means not converting everyone to your main product, and the power to rescue those that were about to leave anyway, your biggest opportunity for the bottom of your page, but my video will.
+* Nobody's talking about the **progression of the mental back-and-forth a visitor has when experiencing the site**, but my video will;
+* Nobody's talking about **crafting your site for situations causing people to switch**, but my video will;
+* Nobody's talking about **the role that the Forces of Progress plays** in knowing whether the different parts of a landing page (listed above) work or not, but my video will;
+* Nobody's talking about the **importance of helping your visitor make some progress on a struggle**, even if that means not converting everyone to your main product, and the power to rescue those that were about to leave anyway, your biggest opportunity for the bottom of your page, but my video will.
 
-And I won't just tell you theories. You'll see your own site on display while I tell you what's going on in the visitor's mind.
+And I won't just tell you theories. You'll see your own site on display while I tell you what's going on in the visitor's mind. **No need to connect the dots between demo sites and your sites.**
+
+And besides, the "standard layout" assumes you just need to find a clever title, follow a template, add features and benefits, and you're done. I'll go deeper with stuff you can use to **judge your own work**.
 
 ## Maybe This Is Your Situation...
 
 * Maybe you've tried **asking for feedback on IndieHackers or Reddit**. The feedback you got was the UX-y type: change fonts, tweak graphics, or people telling you your page has too much text. Stuff like that. Hasn't been that helpful.
 * Maybe you've been avoiding asking for feedback **because you don't know if it's ready yet**.
 * Maybe you're not sure the advice you're getting **will make a different for _your_ visitors**.
+* Maybe **you'd like to veer from the standard layout**, but you're not sure you should.
 
 The thing is, most people who give you feedback use the wrong part of their brain. They use the creative part of their brain to give you feedback, **whereas your visitors are coming to your site using their problem-solving part of their brain**. They don't care about your fonts or your graphics or your turn of phrases. They don't care that you removed "friction".
 
 **Your visitors care about making progress on the thing they want to make progress on.**
-
-## A Few Articles on What I Mean
-
-{% include adhoc-post-list.html showcase=true post_ids=page.articles_learn_basics %}
 
 ## Now Accepting Pre-orders
 
