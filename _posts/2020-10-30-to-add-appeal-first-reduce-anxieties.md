@@ -112,7 +112,7 @@ Visitors might look for answers for these questions:
 * Is the **author's own blog built with** this platform?
 * Is there some way to know how to **extract all of my posts if I want to leave**?
 * Is there some way to **pay for a full year, one shot**? Maybe that's going to be well-received by your buyers. Make them feel like there's **a full year guarantee**.
-* Is it going to help me produce a list of URLs of all of my post **so I can create redirects if I move my domain**?
+* Is it going to help me produce a list of URLs of all of my posts **so I can create redirects if I move my domain**?
 
 Help them feel you've got them covered, to start something brand new with you, and that you'll be around for a while.
 
