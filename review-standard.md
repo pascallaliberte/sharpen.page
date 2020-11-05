@@ -24,20 +24,22 @@ You got a version of your product's landing page. You know, standard layout:
 1. Signup/Pricing
 {: .page-structure }
 
-This will also work: Hero, something else, Features, something else, Testimonials, something else, Signup/Pricing.
+_(**This will also work:** Hero, something else, Features, something else, Testimonials, something else, Signup/Pricing.)_
+
+Don't have a landing page yet? **A mockup will work too**. That's right, you'll be able to upload the picture into the video. Or if you want, I'll have some sample landing pages you can load up while you create yours.
 
 ## It's just ~~27$~~ _$19!_ That's Because It's Pre-Recorded.
 
-**[Purchase the Video](#purchase). Provide your site URL.<br>Press Play. Replay as often as you like.<br>Change the URL as often as you like.**
+**[Purchase the Video](#purchase).  
+Provide your site URL. Upload a mockup.  
+Press Play. Replay as often as you like.  
+Change the URL as often as you like.**
 
 Everyone who purchases this video review gets the same "video". And you'll see, **if your site has that standard, popular layout**, you'll see where your page can be improved.
 
 _Your landing page,  
 center stage!_
 {: .punchy-copy }
-
-**After you pay, change the URL as often as you like.**  
-Don't have a URL yet? Just upload a screenshot (no joke).
 
 ## Know Whether Your Landing Page Works,<br>Before You Show it To People.
 
