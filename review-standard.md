@@ -24,21 +24,11 @@ You got a version of your product's landing page. You know, standard layout:
 1. Signup/Pricing
 {: .page-structure }
 
-A layout like this will also work:
-
-1. Hero
-1. _(something else)_
-1. Features
-1. _(something else)_
-1. Testimonials
-1. _(something else)_
-1. Signup/Pricing
-1. _(something else)_
-{: .page-structure }
+This will also work: Hero, something else, Features, something else, Testimonials, something else, Signup/Pricing.
 
 ## It's just ~~27$~~ _$19!_ That's Because It's Pre-Recorded.
 
-**[Purchase the Video](#purchase). Provide your site URL.<br>Press Play. Replay as often as you like.<br>Change the URL as often as you life.**
+**[Purchase the Video](#purchase). Provide your site URL.<br>Press Play. Replay as often as you like.<br>Change the URL as often as you like.**
 
 Everyone who purchases this video review gets the same "video". And you'll see, **if your site has that standard, popular layout**, you'll see where your page can be improved.
 
@@ -65,13 +55,13 @@ After you watch the video, you'll have:
 * **Got help spotting one or two holes** in your landing page;
 * **Got more confidence to know whether your product has a shot at going further**, based on this new lens.
 
-_All that in one single review.  
-To be replayed after a tweak or two._
+_All in a single review.  
+Replay after a tweak or two._
 {: .punchy-copy }
 
 ## "You Can't Deliver on All that with the Same Video for Everybody Using a Standard Layout"
 
-Yep, I sure can. That's because in my video, I'm talking about subjects that **nobody's talking about**:
+_Watch me_. Literally. That's because in my video, I'm talking about subjects that **nobody's talking about**:
 
 * Nobody's talking about the **progression of the mental back-and-forth a visitor has when experiencing the site**, but my video will;
 * Nobody's talking about **crafting your site for situations causing people to switch**, but my video will;
@@ -81,7 +71,7 @@ Yep, I sure can. That's because in my video, I'm talking about subjects that **n
 And I won't just tell you theories. You'll see your own site on display while I tell you what's going on in the visitor's mind. **No need to connect the dots between demo sites and your sites.**
 
 _Before that feature list grows in size  
-For the visitor's side you'll grow wise._
+View it through the visitor's own eyes._
 {: .punchy-copy }
 
 And besides, the "standard layout" assumes you just need to find a clever title, follow a template, add features and benefits, and you're done. I'll go deeper with stuff you can use to **judge your own work**.
