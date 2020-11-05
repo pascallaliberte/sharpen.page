@@ -20,11 +20,11 @@ You got a version of your product's landing page. You know, standard layout:
 
 1. Hero
 1. Features
-1. Testimonials
+1. Benefits/How it works/Testimonials
 1. Signup/Pricing
 {: .page-structure }
 
-_(**This will also work:** Hero, something else, Features, something else, Testimonials, something else, Signup/Pricing.)_
+_(**This will also work:** Hero, something else, Features, something else, Benefits/How it works/Testimonials, something else, Signup/Pricing.)_
 
 Don't have a landing page yet? **A mockup will work too**. That's right, you'll be able to upload the picture into the video. Or if you want, I'll have some sample landing pages you can load up while you create yours.
 
