@@ -13,36 +13,30 @@ const init = function() {
   tl
   .add({
     targets: selector,
-    translateY: '-30%',
-    delay: 300,
-    duration: 200
+    translateY: '-25%', // scroll to 2
+    delay: 255,
+    duration: 5 // at 260
   })
   .add({
     targets: selector,
-    translateY: '-60%',
-    delay: 700,
-    duration: 300
+    translateY: '-50%', // scroll to 3
+    delay: 16, // at 276
+    duration: 6 // at 282
   })
   .add({
     targets: selector,
-    translateY: '0',
-    delay: 100,
-    duration: 100
+    translateY: '-70%', // scroll to 4
+    delay: 60, // at 342
+    duration: 9 // at 351
   })
   .add({
     targets: selector,
-    translateY: '-60%',
-    delay: 200,
-    duration: 200
+    translateY: '0%', // scroll back to 
+    delay: 17, // at 378
+    duration: 4 // at 382
   })
   .add({
-    targets: selector,
-    translateY: '-80%',
-    delay: 500,
-    duration: 300
-  })
-  .add({
-    duration: 300
+    duration: 1046
   })
 }
 
