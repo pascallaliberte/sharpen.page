@@ -50,12 +50,12 @@
     flex: 1;
     position: relative;
     
-    &:before {
-      position: absolute;
-      content: '';
-      top: 50%;
-      background: transparentize(white, 0.5);
-    }
+    // &:before {
+    //   position: absolute;
+    //   content: '';
+    //   top: 50%;
+    //   background: transparentize(white, 0.5);
+    // }
     
     input[type="range"] {
       position: absolute;
@@ -521,5 +521,29 @@
     font-weight: 200;
     text-transform: uppercase;
     letter-spacing: 0.05em;
+  }
+}
+
+.review-player-forces-widget-container {
+  position: absolute;
+  bottom: rem(120px);
+  right: rem(15px);
+  width: rem(280px);
+  height: rem(188px);
+  z-index: 100;
+  
+  > iframe {
+    background: white;
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    opacity: 0;
+    transform: translateY(rem(10px));
+    pointer-events: none;
   }
 }

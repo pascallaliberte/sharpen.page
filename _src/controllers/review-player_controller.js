@@ -1,11 +1,13 @@
 import { Controller } from "stimulus"
 import SitePreviewTimeline from "../review-player/site-preview-timeline.js"
+import ForcesWidgetTimeline from "../review-player/forces-widget-timeline.js"
 
 export default class extends Controller {
   static targets = [ "progressbar", "video", "playPauseButton", "toggleLayoutButton", "sitePreviewURL", "sitePreviewFrame", "sitePreviewFrameWrapper", "sitePreviewLoadButton" ]
   
-  initialize() {
+  connect() {
     SitePreviewTimeline.init()
+    ForcesWidgetTimeline.init()
   }
   
   play(event) {
@@ -73,6 +75,7 @@ export default class extends Controller {
     
     this.progressbarTarget.value = percentage * this.progressbarTarget.getAttribute('max')
     SitePreviewTimeline.setProgress(percentage)
+    ForcesWidgetTimeline.setProgress(percentage)
   }
   
   toggleLayout(event) {
