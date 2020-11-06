@@ -181,7 +181,7 @@ _Note: Visit the post on the website to get "Pick one at random" buttons to help
 
 ---
 
-**Situation to hook into**:
+### Situation your product could hook into:
 
 <div markdown="block"
   data-controller="random-pick-summary"
@@ -196,7 +196,7 @@ _Note: Visit the post on the website to get "Pick one at random" buttons to help
 <div style="padding-left: 2em; font-size: 0.8em;" data-target="random-pick-summary.invitation"></div>
 </div>
 
-**Aspiration to nail**:
+### Aspiration your product should nail:
 
 <div markdown="block"
   data-controller="random-pick-summary"
@@ -211,7 +211,7 @@ _Note: Visit the post on the website to get "Pick one at random" buttons to help
 <div style="padding-left: 2em; font-size: 0.8em;" data-target="random-pick-summary.invitation"></div>
 </div>
 
-**Anxiety to reduce**:
+### Anxiety to reduce about your product:
 
 <div markdown="block"
   data-controller="random-pick-summary"
@@ -226,7 +226,7 @@ _Note: Visit the post on the website to get "Pick one at random" buttons to help
 <div style="padding-left: 2em; font-size: 0.8em;" data-target="random-pick-summary.invitation"></div>
 </div>
 
-**"I'll just" statement you're competing with**:
+### "I'll just" statement your product is competing with:
 
 <div markdown="block"
   data-controller="random-pick-summary"
