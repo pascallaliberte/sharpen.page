@@ -13,6 +13,7 @@ related_posts:
   - 2020-06-19-when-having-to-find-buyers-for-your-product
   - 2019-12-27-itch-to-create-getting-clarity-on-why
   - 2019-11-29-product-yes-no-or-not-yet
+  - 2020-01-24-level-3-sharpening-xebel-app-for-course-creators
   - 2019-09-06-hard-struggle-required
   - 2019-05-24-wasting-time-going-after-idea-with-competitors
   - 2019-04-12-competitor-found-make-mine-better
