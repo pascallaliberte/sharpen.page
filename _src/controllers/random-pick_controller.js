@@ -20,6 +20,11 @@ export default class extends Controller {
     
     const randomIndex = this.getRandomInt(elements.length)
     elements[randomIndex].classList.add(this.data.get('class'))
+    
+    this.element.dispatchEvent(new CustomEvent('update', { detail: { 
+      name: this.data.get('name'),
+      pick: elements[randomIndex].textContent
+    } }))
   }
   
   addButton() {

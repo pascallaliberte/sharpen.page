@@ -26,6 +26,8 @@ excerpt:
   I won't tell you the hot trends or get you on the hype train. But I will help you see some underserved situations, recurring aspirations, anxities that no one's reducing and landing page techniques you probably never considered. Hope it sparks some product ideas.
 ---
 
+<div data-controller="random-picks" data-random-picks-hide-instructions-class="hidden" markdown="block">
+
 A popular way to get product ideas is to search for demand, look for industries, look for roles within companies, or look for problems worth fixing.
 
 But if you dig deeper, you'll find some pretty **common motivations, aspirations, struggling moments, anxieties, and alternatives**. Some solid, recurring yet underserved trends from which to generate some new product ideas.
@@ -54,7 +56,9 @@ Below are some example situations that you're probably not thinking of, aspirati
   data-controller="random-pick"
   data-random-pick-class="highlight"
   data-random-pick-selector="li"
+  data-random-pick-name="situation"
   data-target="random-picks.pick"
+  data-action="update->random-picks#updatePick pick-new->random-pick#pickRandom"
 >
 
 <div data-target="random-pick.invitation"></div>
@@ -86,7 +90,9 @@ Being thrust into searching for a solution, your buyer will nurture an aspiratio
   data-controller="random-pick"
   data-random-pick-class="highlight"
   data-random-pick-selector="li"
+  data-random-pick-name="aspiration"
   data-target="random-picks.pick"
+  data-action="update->random-picks#updatePick pick-new->random-pick#pickRandom"
 >
 
 <div data-target="random-pick.invitation"></div>
@@ -116,7 +122,9 @@ Being thrust into searching for a solution, your buyer will nurture an aspiratio
   data-controller="random-pick"
   data-random-pick-class="highlight"
   data-random-pick-selector="li"
+  data-random-pick-name="anxiety"
   data-target="random-picks.pick"
+  data-action="update->random-picks#updatePick pick-new->random-pick#pickRandom"
 >
 
 <div data-target="random-pick.invitation"></div>
@@ -146,7 +154,9 @@ Your product's main competitor is going to be **something you're not thinking ab
   data-controller="random-pick"
   data-random-pick-class="highlight"
   data-random-pick-selector="li"
+  data-random-pick-name="habit"
   data-target="random-picks.pick"
+  data-action="update->random-picks#updatePick pick-new->random-pick#pickRandom"
 >
 
 <div data-target="random-pick.invitation"></div>
@@ -165,15 +175,71 @@ Here's what I suggest: pick one situation, one aspiration, one anxiety to reduce
 
 Pick one of each at random. Then see what comes up.
 
+<div data-target="random-picks.instructions" markdown="block">
+_Note: Visit the post on the website to get "Pick one at random" buttons to help with this._
+</div>
+
 ---
 
 **Situation to hook into**:
 
+<div markdown="block"
+  data-controller="random-pick-summary"
+  data-random-pick-summary-name="situation"
+  data-random-pick-summary-class="highlight"
+  data-target="random-picks.summary"
+  data-action="request-new-pick->random-picks#requestNewPick update-pick->random-pick-summary#updatePick"
+>
+<ul>
+  <li data-target="random-pick-summary.pick"></li>
+</ul>
+<div style="padding-left: 2em; font-size: 0.8em;" data-target="random-pick-summary.invitation"></div>
+</div>
+
 **Aspiration to nail**:
+
+<div markdown="block"
+  data-controller="random-pick-summary"
+  data-random-pick-summary-name="aspiration"
+  data-random-pick-summary-class="highlight"
+  data-target="random-picks.summary"
+  data-action="request-new-pick->random-picks#requestNewPick update-pick->random-pick-summary#updatePick"
+>
+<ul>
+  <li data-target="random-pick-summary.pick"></li>
+</ul>
+<div style="padding-left: 2em; font-size: 0.8em;" data-target="random-pick-summary.invitation"></div>
+</div>
 
 **Anxiety to reduce**:
 
+<div markdown="block"
+  data-controller="random-pick-summary"
+  data-random-pick-summary-name="anxiety"
+  data-random-pick-summary-class="highlight"
+  data-target="random-picks.summary"
+  data-action="request-new-pick->random-picks#requestNewPick update-pick->random-pick-summary#updatePick"
+>
+<ul>
+  <li data-target="random-pick-summary.pick"></li>
+</ul>
+<div style="padding-left: 2em; font-size: 0.8em;" data-target="random-pick-summary.invitation"></div>
+</div>
+
 **"I'll just" statement you're competing with**:
+
+<div markdown="block"
+  data-controller="random-pick-summary"
+  data-random-pick-summary-name="habit"
+  data-random-pick-summary-class="highlight"
+  data-target="random-picks.summary"
+  data-action="request-new-pick->random-picks#requestNewPick update-pick->random-pick-summary#updatePick"
+>
+<ul>
+  <li data-target="random-pick-summary.pick"></li>
+</ul>
+<div style="padding-left: 2em; font-size: 0.8em;" data-target="random-pick-summary.invitation"></div>
+</div>
 
 ---
 
@@ -206,3 +272,5 @@ You came here looking for some potential product ideas. [Most product ideas fail
 But with that [Level 3 understanding of the buyer][level-3-sharpening], you'll likely find some fresh new product ideas you hadn't thought about, and a remarkable new way to write product landing pages to go with that new understanding.
 
 Stay sharp!
+
+</div><!-- [data-controller="random-picks"] -->
