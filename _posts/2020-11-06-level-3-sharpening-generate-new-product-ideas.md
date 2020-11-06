@@ -50,6 +50,15 @@ Below are some example situations that you're probably not thinking of, aspirati
 
 [try-when]: {% post_url 2019-02-21-try-when %}
 
+<div markdown="block"
+  data-controller="random-pick"
+  data-random-pick-class="highlight"
+  data-random-pick-selector="li"
+  data-target="random-picks.pick"
+>
+
+<div data-target="random-pick.invitation"></div>
+
 * When I'm trying to get a promotion
 * When I'm considering a change in career
 * When I'm struggling to learn things on my own
@@ -67,9 +76,20 @@ Below are some example situations that you're probably not thinking of, aspirati
 * When I've got to keep more people accountable for the work
 * When things start piling up and nobody's picking the ball
 
+</div>
+
 ## Aspirations That Keep Coming Up
 
 Being thrust into searching for a solution, your buyer will nurture an aspiration, **a _dream_, a deeper wish** that they're not necessarily putting words to. This list should include something your buyer is aspiring, something you can make sure your product delivers on.
+
+<div markdown="block"
+  data-controller="random-pick"
+  data-random-pick-class="highlight"
+  data-random-pick-selector="li"
+  data-target="random-picks.pick"
+>
+
+<div data-target="random-pick.invitation"></div>
 
 * So I can say I'll have organized my system
 * So I can be associated with the right crowd
@@ -84,11 +104,22 @@ Being thrust into searching for a solution, your buyer will nurture an aspiratio
 * So I can take the high road
 * So I can get moving on the bigger goals
 
+</div>
+
 ## Anxieties That Are Not Reduced Enough
 
 **Your visitors are excited, but then they hit reality**. Hesitations, anxieties creep into their thoughts. **What if's and what about's** that you're probably not addressing. So far you've been concentrating on adding appeal, when [you should probably focus instead on reducing these anxieties][reduce-anxieties].
 
 [reduce-anxieties]: {% post_url 2020-10-30-to-add-appeal-first-reduce-anxieties %}
+
+<div markdown="block"
+  data-controller="random-pick"
+  data-random-pick-class="highlight"
+  data-random-pick-selector="li"
+  data-target="random-picks.pick"
+>
+
+<div data-target="random-pick.invitation"></div>
 
 * The price is too low, how will this be around forever?
 * The price is too low, there must be a catch
@@ -103,17 +134,30 @@ Being thrust into searching for a solution, your buyer will nurture an aspiratio
 * I'm not sure how I'll explain this to other people
 * The price is too high
 
+</div>
+
 ## Habits That You'll Be Competing With
 
 Your product's main competitor is going to be **something you're not thinking about**. You're competing against people's ["I'll just" statements][non-consumption] more than you're competing against other offerings in your industry. **Make sure your product is massively better than these, and you've got a shot.**
 
 [non-consumption]: {% post_url 2018-12-17-universal-competitor %}
 
+<div markdown="block"
+  data-controller="random-pick"
+  data-random-pick-class="highlight"
+  data-random-pick-selector="li"
+  data-target="random-picks.pick"
+>
+
+<div data-target="random-pick.invitation"></div>
+
 * I'll just do it myself
 * I'll just cobbled a system together with the tools I have
 * I'll just continue doing it the way I've always done
 * I'll just ask around for advice
 * I'll just research some more next time I get a chance
+
+</div>
 
 ## Generate a New Product Idea
 
@@ -155,7 +199,7 @@ With this new information, you can **craft a landing page with some unusually co
 
 ---
 
-You came here looking for some potential product ideas. [But your idea will probably fail unless][your-product-will-fail] it addresses a hard struggle, feeds into an aspiration, surmounts your buyer's anxieties and is way better than their current "I'll just" alternatives.
+You came here looking for some potential product ideas. [Most product ideas fail unless][your-product-will-fail] they address a hard struggle, feed into an aspiration, surmount your buyer's anxieties and are way better than their current "I'll just" alternatives.
 
 [your-product-will-fail]: {% post_url 2020-10-09-your-product-is-going-to-fail %}
 
