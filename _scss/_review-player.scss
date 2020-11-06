@@ -547,3 +547,26 @@
     pointer-events: none;
   }
 }
+
+.main-content .review-standard-cta {
+  small {
+    font-size: 0.9em;
+    text-transform: uppercase;
+    font-family: $secondary-font-family;
+    color: $color-tertiary;
+    font-weight: 300;
+  }
+  
+  .cta-btn {
+    font-size: 1.2em;
+    padding: 0.2em 0.7em 0.25em 0.7em;
+    border-radius: rem(3px);
+    display: inline-block;
+    margin-right: 0.5em;
+    
+    &:hover, &:focus {
+      color: white;
+      text-shadow: none;
+    }
+  }
+} 

@@ -12,6 +12,10 @@ articles_learn_basics:
 # <small>The Missing, Official</small><br> <strong>Standard Review</strong> for<br> <strong>All Landing Pages</strong> with a<br> <strong>Standard Layout</strong>
 {: .review-standard-title }
 
+<div class="review-standard-cta" markdown="block">
+[{% include svg/credit-card.svg.html %} Pre-order ~~$27~~ $19][purchase]{: .cta-btn } <small>Available Dec. 1<sup>st</sup></small>
+</div>
+
 {% include review-standard-preview-player.html %}
 
 ## Have a Standard Layout?<br> My Standard Video Review Will Fit Your Site.
@@ -30,8 +34,8 @@ Don't have a landing page yet? **A mockup will work too**. That's right, you'll 
 
 ## It's just ~~27$~~ _$19!_ That's Because It's Pre-Recorded.
 
-**[Purchase the Video](#purchase).  
-Provide your site URL. Upload a mockup.  
+[{% include svg/credit-card.svg.html %} Pre-order the Video][purchase]{: .cta-btn }  
+**Provide your site URL. Upload a mockup.  
 Press Play. Replay as often as you like.  
 Change the URL as often as you like.**
 
@@ -70,6 +74,10 @@ _Watch me_. Literally. That's because in my video, I'm talking about subjects th
 * Nobody's talking about **the role that the Forces of Progress plays** in knowing whether the different parts of a landing page (listed above) work or not, but my video will;
 * Nobody's talking about the **importance of helping your visitor make some progress on a struggle**, even if that means not converting everyone to your main product, and the power to rescue those that were about to leave anyway, your biggest opportunity for the bottom of your page, but my video will.
 
+<div class="review-standard-cta" markdown="block">
+[All right, take me to the pre-order page][purchase]{: .cta-btn }
+</div>
+
 And I won't just tell you theories. You'll see your own site on display while I tell you what's going on in the visitor's mind. **No need to connect the dots between demo sites and your sites.**
 
 _Before that feature list grows in size  
@@ -91,13 +99,13 @@ The thing is, most people who give you feedback use the wrong part of their brai
 
 ## Now Accepting Pre-orders
 
-The video is coming soon. 
-
-Purchase now and in the meantime, while I get the video ready, you'll get an exclusive series of instructional emails on how to improve your landing page.
+The video is coming soon.
 
 And because you'll have been one of the early customers, I'll send you a quick email commenting on your site: a word of encouragement, a note on something I notice, something helpful.
 
-[ stripe ]
+<div class="review-standard-cta" markdown="block">
+[{% include svg/credit-card.svg.html %} Pre-order ~~$27~~ $19][purchase]{: .cta-btn } <small>Available Dec. 1<sup>st</sup></small>
+</div>
 
 ## Or Purchase a Custom Review<br> (but that's More Expensive)
 
@@ -114,3 +122,4 @@ Stay Sharp!
 Ottawa, Ontario, Canada
 
 [twitter]: https://twitter.com/pascallaliberte
+[purchase]: https://gumroad.com/l/standard-review
