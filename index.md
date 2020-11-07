@@ -14,7 +14,7 @@ articles_on_page_sharpening:
   - 2019-10-25-minimum-to-get-struggle-based-landing-page
 ---
 
-## <mark>I help software product people</mark> get into the minds of their buyers, make products that sell…
+## <mark>I help technical entrepreneurs</mark> get into the minds of their buyers, make products that sell…
 
 <div class="situation-quotes" markdown="1">
 
