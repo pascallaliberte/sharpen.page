@@ -1,27 +1,17 @@
 ---
 layout: home
-articles_on_adjusting:
-  - 2020-03-27-when-my-product-is-purchased-for-new-use-cases
-  - 2020-01-17-level-3-sharpening-so-you-can-rely-less-on-sales
-articles_on_overserving:
-  - 2019-08-23-how-to-know-if-built-too-much-product-overserving
-  - 2019-02-15-when-a-feature-is-not-a-feature
-articles_on_page_sharpening:
-  - 2019-09-06-hard-struggle-required
-  - 2019-06-28-an-example-unconventional-landing-page
-  - 2019-12-13-four-ways-to-say-theres-a-better-way
-  - 2019-11-08-pain-dream-fix-and-jtbd
-  - 2019-10-25-minimum-to-get-struggle-based-landing-page
 ---
 
-## <mark>I help technical entrepreneurs</mark><br> get into the minds of their buyers…
+## <mark>I help software starters</mark><br> get into the minds of their buyers…
 
 * <span>&hellip;</span> when **there's a doubt** about a product idea working;
 * <span>&hellip;</span> when the product's **landing page** isn't quite right;
-* <span>&hellip;</span> when there's some cancellations and other **changes in buyer behavior**;
-* <span>&hellip;</span> when **new features** don't translate to increased sales;
-* <span>&hellip;</span> when you no longer know **how to talk to customers** to get to the good insights;
+* <span>&hellip;</span> when things are sort of working, but **there's something odd in the buyer's behavior**;
+* <span>&hellip;</span> when it's time to **start listening again within communities**;
+* <span>&hellip;</span> when it's time to revert to **sharpening your freelance service offerings**;
 {: .home-situations-summary }
+
+I'm {% include avatar.html %} Pascal Laliberté, one of you, a designer/developer, sharing what I know about buyer psychology through stuff I'm publishing and tools I'm building.
 
 Would you like **help solving these 5 problems**? I can send you a sequence of 5 emails for that.
 
