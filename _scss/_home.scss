@@ -132,3 +132,27 @@
     }
   }
 }
+
+.home-situations-summary {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+  padding-right: rem(80px);
+  font-size: 1.25em;
+  margin-top: rem(50px);
+  margin-bottom: rem(50px);
+  
+  li {
+    position: relative;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  
+  span {
+    position: absolute;
+    right: calc(100% + #{rem(5px)});
+    display: inline-block;
+    text-align: right;
+    white-space: nowrap;
+  }
+}
