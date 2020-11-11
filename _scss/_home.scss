@@ -6,6 +6,10 @@
   p, h2, h3 {
     hanging-punctuation: first;
   }
+  
+  .main-content {
+    padding-bottom: rem(300px);
+  }
 }
 
 .home-jobs {
@@ -137,10 +141,18 @@
   list-style: none;
   margin-left: 0;
   padding-left: 0;
-  padding-right: rem(80px);
   font-size: 1.25em;
   margin-top: rem(50px);
   margin-bottom: rem(50px);
+  
+  @media (max-width: $reference-width-xs-until) {
+    margin-left: rem(15px);
+    font-size: 1em;
+  }
+  
+  @media (min-width: $reference-width-md-until) {
+    padding-right: rem(80px);
+  }
   
   li {
     position: relative;
