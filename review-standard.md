@@ -57,7 +57,7 @@ After you watch the video, you'll have:
 * **Learned what you can do to punch up the top of your landing page** so your visitors say "I feel understood" and "I'm in the right spot";
 * **Learned about feature anxiety** and how to communicate just the features that'll help your visitor advance on their job-to-be-done;
 * **Helped you decide whether you're charging the right amount for your product**, and whether a "Sign up for free" really does the job for your product's landing page;
-* **Learned a few things on how you can build more trust** for those who aren't ready just yet, but might want to get help on making progress right now on something smaller;
+* **Learned about making a page that flows**, where from section to section, the momentum builds up;
 * **Got help spotting one or two holes** in your landing page;
 * **Got more confidence to know whether your product has a shot at going further**, based on this new lens.
 
