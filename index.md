@@ -120,4 +120,4 @@ Stay sharp!
 Ottawa, Ontario, Canada
 
 [twitter]: https://twitter.com/pascallaliberte
-[review-meetup-signup]: #
+[review-meetup-signup]: https://buttondown.email/sharpen.page
