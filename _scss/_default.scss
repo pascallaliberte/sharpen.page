@@ -132,6 +132,10 @@ a {
 
 li {
   margin-bottom: 0.5em;
+  
+  &.highlight {
+    background-color: $color-highlight;
+  }
 }
 
 .intro {
@@ -522,4 +526,8 @@ ol.page-structure {
       }
     }
   }
+}
+
+.hidden {
+  display: none;
 }

@@ -1,138 +1,123 @@
 ---
 layout: home
-articles_on_adjusting:
-  - 2020-03-27-when-my-product-is-purchased-for-new-use-cases
-  - 2020-01-17-level-3-sharpening-so-you-can-rely-less-on-sales
-articles_on_overserving:
-  - 2019-08-23-how-to-know-if-built-too-much-product-overserving
-  - 2019-02-15-when-a-feature-is-not-a-feature
-articles_on_page_sharpening:
-  - 2019-09-06-hard-struggle-required
-  - 2019-06-28-an-example-unconventional-landing-page
-  - 2019-12-13-four-ways-to-say-theres-a-better-way
-  - 2019-11-08-pain-dream-fix-and-jtbd
-  - 2019-10-25-minimum-to-get-struggle-based-landing-page
 ---
 
-## <mark>I help software product people</mark> get into the minds of their buyers, make products that sell…
+## <mark>I Help Software Starters</mark><br> Get Into the Minds of Their Buyers…
+
+* <span>&hellip;</span> when the product's **landing page** isn't quite right;
+* <span>&hellip;</span> when things are sort of working, but **there's something odd in the buyer's behavior**;
+* <span>&hellip;</span> when **there's a doubt** about a product idea working;
+{: .home-situations-summary }
+
+<div class="home-personal-intro" markdown="block">
+
+I'm {% include avatar.html %} Pascal Laliberté, one of you, a designer/developer, sharing what I know about buyer psychology through stuff I'm publishing and tools I'm building.
+
+**Quick way I can help:** I'm starting a landing page review workshop. Care to join?
+
+[Yes, notify me about landing page review workshops][review-meetup-signup]{: .cta-btn }
+
+</div>
+
+## _Maybe it's that_ <mark>Your product's landing page needs some work</mark> but you're not sure what to change first…
+{: .maybe-heading }
+
+<div class="situation-quotes" markdown="1">
+
+> "I've followed some of the norms, but it doesn't seem to be _converting_."
+
+</div>
+
+Maybe you used a template, or maybe you've built it all from scratch.
+
+**You did your best to explain what the software does**, why it would be beneficial. Target market, target problem. You've removed everything that wasn't helping, keep things simple and clean. But what's missing?
+
+**"Does it need a tweak or an overhaul?"** You're not sure how to answer that question.
+
+Maybe attending a [landing page review meetup][review-meetup-signup] could be helpful.
+
+## _Maybe it's that_ <mark>Buyers aren't responding</mark>, despite the new features you're building…
+{: .maybe-heading }
+
+You got there by doing the right thing. **You listened to your customers** and built what they asked for. But despite building the stuff people asked, buyers aren't buying like they used to.
+
+Your mountain of features is creating anxiety for new buyers. They look, they pause, they leave. Too much going on here. "I don't want to learn all this." They didn't even get to your product, **because something in how you present the product's features drew them away.**
+
+## _Maybe it's that_ <mark>So far, you got lucky</mark>, but for your next idea, luck isn't around…
+{: .maybe-heading }
+
+You're starting something new, and you don't know if it'll take off like other ideas have. Validation. Confirmation. Discernment.
+
+<div class="situation-quotes" markdown="1">
+
+> "Can I predict that this idea will work before I start?"
+
+You'd like to move fast, but not waste your efforts on running experiments. Running ads to validate your thing isn't what you're going for.
+
+You've done a bit of research: you picked an industry, some ideal buyers, found some problems. Maybe it's a problem you've been feeling yourself.
+
+But is it worth a shot? You're not looking for a pompous "yes" or "no" declaration, **you're looking to get deeper into the mind of the person feeling the struggle**. See the kind of progress they're trying to make, and see if your product is going to help them out. Make a difference. Be worth the price.
+
+</div>
+
+---
+
+Well, I'm glad you're about helping your buyers more than about extracting sales. Trust over flash. Serving good people over disrupting an industry.
+
+I'm starting a meetup where I'm going to talk about all of these things in the context of reviewing people's landing pages.
+
+Care to join the next landing page review meetup?
+
+[Let me know when the next meetup occurs][review-meetup-signup]{: .cta-btn }
+
+---
+
+## _Maybe it's that_ <mark>Your industry is changing real fast</mark> and you need your ear to the gound
+{: .maybe-heading }
+
+Previously, you were concentrating on a generic profile of buyers. But all of a sudden, those kinds of buyers are down (ie. market downturn, competition), but **surprisingly, other kinds of buyers are up**. What's that about? Sharper use cases, new stories. They're buying your thing _despite_ your generic marketing. Time to dig deeper.
 
 <div class="situation-quotes" markdown="1">
 
 > "**Our buyers are using the product for purposes that surprise us.** We're getting cancellations, unused features. We thought we knew what problem our product was hired to solve, but we no longer do. We need to stop building and building and **we need to start digging and digging.**"
 
-> "I’ve just realized that **the page describing my product doesn’t do it justice**. It focuses too much on the benefits. I know I can make it communicate more sharply **the problem it can help solve for my customers**. People finding our site should feel like shouting '**I feel understood!**'"
-
-[See What I Offer](/offerings){: .cta-btn }
-
 </div>
+
+You've started talking to your buyers. But you don't think you're getting the whole story. **You want to _understand_ what's going on.** And you no longer know which questions to ask.
+
+## Let's Say We're in the Future
+
+Imagine a situation like this, where you've worked on sharpening your product and your skills as a product person.
+
+You're in the future, you're celebrating that:
+
+* That marketing page has clearly been communicating **"we understand what you're going through"** and people are signing up, upgrading with confidence...
+* You've discovered what _causes_ someone to buy your product, **which of the features** is really supporting the _"job"_ your product is being _"hired"_ to do...
+* You've upgraded your strategic direction with **a new vocabulary** to describe how your customers need help getting _progress_ on their struggles...
+* You've grown to have a **deeper understanding of your buyers** because you heard some insightful purchase stories from some of your buyers...
+* You can now say you _understand_ your buyer's motivations, you _know_ what's going on, you _have_ what you need to prioritize the next steps in your product's development.
+
+That's what's in the books for you, once you learn to get in the mind of your buyers. **Let me help you with that.**
+
+## Getting Something Off the Ground
+
+So far, maybe you've done most of it on your own.  
+Maybe you read some books, followed a course.  
+Maybe you learned from copywriters, watching others.
+
+But now you gotta get moving with some new tools.
 
 ---
 
-<div class="home-personal-intro" markdown="1">
-**Hi, I'm {% include avatar.html %} Pascal.**
+I hope you'll be able to [join the next landing page review meetup][review-meetup-signup]. Meet some people, have your own page reviewed if you like. Learn from the process.
 
-I offer [services](/services) where **I enter the mind of your buyer**, and help you understand their motivations so you can sharpen what you sell; how it's presented, how you think about what you sell, and to know what to build and what to table.
-</div>
+Or maybe, if you're curious, here's [what else I offer](/offerings). I got my services listed there, some diy resources too, including articles I publish every Friday. You can also find me on [Twitter][twitter].
 
-## _Maybe it's that_ <mark>Your Industry Is Changing Real Fast</mark> and You Need Your Ear To the Gound
-{: .maybe-heading }
-
-Previously, you were concentrating on a generic profile of buyers. But all of a sudden, those kinds of buyers are down (ie. market downturn, competition), but **surprisingly, other kinds of buyers are up**. What's that about? Sharper use cases, new stories. They're buying your thing _despite_ your generic marketing. Time to dig deeper.
-
-  {% include adhoc-post-list.html post_ids=page.articles_on_adjusting %}
-
-You'd like to move fast, but not waste your efforts on running experiments. You've talked to some recent buyers, but something still doesn't add up. **You want to [_understand_ what's going on](/understand){: .cta-btn }.**
-
-## _Maybe it's that_ <mark>Your Product Offers Too Much</mark> and Those Features Don't Sell Like You Hoped
-{: .maybe-heading }
-
-Cancellations, unused features, tepid sales calls. **Your product _overserves_.**
-
-  {% include adhoc-post-list.html post_ids=page.articles_on_overserving %}
-
-You got there by doing the right thing. **You listened to your customers** and built what they asked for. But now your mountain of features is creating anxiety for new buyers. They look, they pause, they leave. Too much going on here. They didn't even get to your product, **because it's your home page that drew them away.**
-
-## _Maybe it's that_ <mark>You're Getting Attention</mark> and What You're Offering Isn't Sharp Enough
-{: .maybe-heading }
-
-Something happened and you're starting to be noticed. People _get it_. You get links sent your way, mentions everywhere. But your home page sells something _generic_, something comfortable, safe. It's certainly not producing that "Yes! I feel seen!" response from your visitors.
-
-  {% include adhoc-post-list.html post_ids=page.articles_on_page_sharpening %}
-
-Enough is enough. **Time to [sharpen your marketing pages](/review){: .cta-btn }.**
-
-## Imagining When It'll All Be Done
-
-* Those new [purchase stories][purchase-story] you'll have heard will be top of mind, offering you a **deeper understanding of your buyers**...
-* That marketing page will scream **"we understand what you're going through"**...
-* Your product team will know what _causes_ someone to buy your product, **which of the features** is really supporting the _"job"_ your product is being _"hired"_ to do...
-* Your strategic direction will have **a new vocabulary** to describe how your customers need help getting _progress_ on their struggles...
-
-[purchase-story]: {% post_url 2019-02-08-digging-purchase-story-for-gold %}
-
----
-
-## What I Offer
-
-<div class="situation-quotes" markdown="1">
-> "It'll take too long to figure it out if I do it myself, and I don't want to miss the boat. How can we team up?"
-</div>
-
-
-**[/understand](/understand) -- A research boost to focus your product priorities.** When you've got to take a pause and dig into what motivated your buyers to "hire" your product. Maybe you're getting cancellations, or people aren't using the features you've developed, and you're left a little surprised. You can't continue building and building, and need to start questioning a little bit more.
-
-**[/review](/review#details) -- A professional review of your landing page (or of your draft).** You've got a landing page, you went far enough on your own, sought feedback, made tweaks, but now's the time to bring someone in for a review. You don't want to be an expert in landing page writing, and you'd rather spend your time being an expert on your work. Three options, including one free option. For products and service businesses. Don't miss the sample videos.
-
-**[/visualize](/visualize#details) -- A consulting call**. Preceded by an email exchange to learn how I can help, the focus of the call (the main value to you) will be about consulting you on what to do next. Additionally, our discussion will give me the information I need to put together a proposal for further work for you, if that'd be helpful (I won't try to upsell you). CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the call itself (about an hour). I'll wave the fee if you choose to go with one of the above packages.
-
-**[/diy](/diy)** - **Free**, a collection of starting points on conducting **[/interviews](/interviews)**, on creating **[/struggle-first](/struggle-first)** landing pages, and on using the idea of **[/value-ladders](/value-ladders)**.
-
-**[/articles](/articles)** - **Free**, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Sign-up below.
-
-**[/your-purchase-story](/your-purchase-story)** - **I pay _you_ USD $60** for you to tell me a recent purchase story. I'm looking for a time you hesitated a lot, purchased it for yourself, and a few other things I'm looking for. I might blog about your story too (names and details removed), but that's basically the deal.
-
-## Since You Were About to Ask...
-
-### How do I go about doing the buyer research, like you do?
-
-It starts with a messy process of understanding the buyer's vocabulary, the options she considers, and mostly, knowing that "doing it myself" is your primary competitor here. What will people do in-house, on their own, or learn how to to build? [Go hang out in forums and Slack communities][deep-listening], and listen for the pains and struggles. Then your research might take you to conduct [purchase interviews][purchase-story], a specific technique that retroactively looks at the story of a purchase (of a competitor, of a piece of software to do it themselves, or a hire). What's needed: that the buyer went through a good amount of deliberation before the purchase. Here's a list of [questions you could use during this Purchase Interview][interview-questions].
-
-[purchase-story]: {% post_url 2019-02-08-digging-purchase-story-for-gold %}
-[interview-questions]: {% post_url 2019-03-08-interview-questions-to-ask %}
-[deep-listening]: {% post_url 2020-04-03-where-to-listen-when-deluge-of-information %}
-
-### Do you do all the copywriting, including blog posts?
-
-I only [write the copy for the marketing pages of your site](/review). I know of a [good writer for your blog posts and your guides](https://www.andrewmonro.ca), if that's something you'd like some help with.
-
-### Do you also do any data analysis, or data infrastructure work?
-
-My focus is on qualitative research -- digging through messy anecdotes for clues, finding the trail of motivations that led a person to your door. But [I know a guy](https://www.lantrns.co/) who does the _quantitative_ part: setting up a data collection system that's replicable, producing insights from data. We can actually team up if that's what you're after: we could offer a complete solution from support channel trends to unearthing new Jobs-to-be-done through purchase interviews.
-
-### Do I have to understand the Jobs-To-Be-Done theory, which I see you talk about a lot in your articles?
-
-The Jobs-To-Be-Done theory of buyer behaviour ([here's an intro with some examples][jtbd-intro]) is pretty central to the practice I propose you take up. It insists on concepts like the ["struggling moment" being the requirement][try-when] for any start of a purchase journey, the main trigger for of all jobs-to-be-done. It talks about the [Four Forces of Progress][four-forces], "non-consumption" being your [major competition][non-consumption], and how you compete with surprising other alternatives. It's a strong lens you can use, and I highly recommend it.
-
-[try-when]: {% post_url 2019-02-21-try-when %}
-[four-forces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
-[jtbd-intro]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
-[non-consumption]: {% post_url 2018-12-17-universal-competitor %}
-
----
-
-## Drop by anytime
-
-You just want more _lift_ happening. You want to help your customers lift themselves to newer heights, and that's exactly what I want for you.
-
-Stay Sharp!
+Stay sharp!
 
 {% include avatar.html %} Pascal Laliberté  
 [pascal@hey.com](mailto:pascal@hey.com)  
 Ottawa, Ontario, Canada
 
-Find me on [Twitter][twitter] or sign-up to be notified of new articles:
-
 [twitter]: https://twitter.com/pascallaliberte
-[linkedin]: https://www.linkedin.com/in/pascallaliberte/ 
-
-{% include email-sign-up-form.html %}
+[review-meetup-signup]: https://buttondown.email/sharpen.page

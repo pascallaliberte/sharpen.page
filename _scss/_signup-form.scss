@@ -164,6 +164,23 @@
     display: inline;
 }
 
+#mc_embed_signup .mc-field-group.input-group ul li.checkbox-control {
+  padding-left: rem(20px);
+  position: relative;
+}
+
+#mc_embed_signup .mc-field-group.input-group label.checkbox-label {
+  text-transform: none;
+  display: inline-block;
+  margin: 0;
+}
+
+#mc_embed_signup .mc-field-group.input-group label.checkbox-label input {
+  position: absolute;
+  top: 0.7em;
+  left: 0;
+}
+
 #mc_embed_signup .mc-field-group.input-group input {
     display: inline;
     width: auto;

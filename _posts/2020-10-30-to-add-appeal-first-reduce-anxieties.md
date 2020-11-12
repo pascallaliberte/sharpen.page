@@ -112,7 +112,7 @@ Visitors might look for answers for these questions:
 * Is the **author's own blog built with** this platform?
 * Is there some way to know how to **extract all of my posts if I want to leave**?
 * Is there some way to **pay for a full year, one shot**? Maybe that's going to be well-received by your buyers. Make them feel like there's **a full year guarantee**.
-* Is it going to help me produce a list of URLs of all of my post **so I can create redirects if I move my domain**?
+* Is it going to help me produce a list of URLs of all of my posts **so I can create redirects if I move my domain**?
 
 Help them feel you've got them covered, to start something brand new with you, and that you'll be around for a while.
 
@@ -122,7 +122,7 @@ Help them feel you've got them covered, to start something brand new with you, a
 
 > This is going to take **a lot of effort to change myself** in the next year, based on this new material.
 
-Maybe you can make it super progressive. **Make "Module 1" will fulfil the majority of the course's value** very quickly. And there's going to be more learning material when you're ready.
+Maybe you can make it super progressive. **Make sure "Module 1" will fulfil the majority of the course's value** very quickly. And there's going to be more learning material when you're ready.
 
 Or maybe cut your course down in length. No FOMO. Just deliver on that one thing they're trying to get movement on, and no more.
 
@@ -183,4 +183,4 @@ So address anxieties, _then_ discover the surprising product that will emerge. Y
 
 Stay sharp!
 
-_Hey, I realize this will cause you to wonder "well, that means I have to change my landing page completely then." Maybe, maybe not. Check out the [/review](/review) service I offer, or be on the lookout for a **more affordable (yet fairly-priced) landing page review "product" coming soon**._
+_Hey, I realize this will cause you to wonder "well, that means I have to change my landing page completely then." Maybe, maybe not. Check out the [/review](/review) service I offer, or be on the lookout for a **[more affordable (yet fairly-priced) landing page review "product" coming soon](https://twitter.com/pascallaliberte/status/1322146027760177154)**._
