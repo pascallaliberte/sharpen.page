@@ -58,8 +58,9 @@ When picking your product's focus, make sure it nails the [Forces of Progress][f
 
 [four-forces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %} 
 
-On your landing page, the first words must help make the visitor say ["I feel understood, this is my situation"]. The features have to help connect with the aspiration. [Anxieties have be addressed][reduce-anxieties] ("Will I have to invest a lof of my time learning something new to use this?"). You're [competing mostly against people's habits][non-consumption], their "I'll just" statements.
+On your landing page, the first words must help make the visitor say ["I feel understood, this is my situation"][page-any-good]. The features have to help connect with the aspiration. [Anxieties have be addressed][reduce-anxieties] ("Will I have to invest a lof of my time learning something new to use this?"). You're [competing mostly against people's habits][non-consumption], their "I'll just" statements.
 
+[page-any-good]: {% post_url 2019-06-20-i-dont-know-if-my-page-is-good %}
 [reduce-anxieties]: {% post_url 2020-10-30-to-add-appeal-first-reduce-anxieties %}
 [non-consumption]: {% post_url 2018-12-17-universal-competitor %}
 [page-any-good]: {% post_url 2019-06-20-i-dont-know-if-my-page-is-good %}
