@@ -1,15 +1,10 @@
 ---
 permalink: review/standard/
 layout: service
-title: A Standard Review for your Standard Landing Page
-articles_learn_basics:
-  - 2018-12-17-universal-competitor
-  - 2019-09-06-hard-struggle-required
-  - 2020-07-03-communicating-your-product-when-hard-to-explain
-  - 2020-07-24-landing-page-remove-friction-or-help-make-progress
+title: Landing Page Sidekick - A Standard Review for Standard Layouts
 ---
 
-# <small>The Missing, Official</small><br> <strong>Standard Review</strong> for<br> <strong>All Landing Pages</strong> with a<br> <strong>Standard Layout</strong>
+# <small>"Your Landing Page Sidekick"</small><br>A <strong>Standard Review</strong> for<br> <strong>All Landing Pages</strong> with a<br> <strong>Standard Layout</strong>.
 {: .review-standard-title }
 
 <div class="review-standard-cta" markdown="block">
@@ -18,7 +13,7 @@ articles_learn_basics:
 
 {% include review-standard-preview-player.html %}
 
-## Have a Standard Layout?<br> My Standard Video Review Will Fit Your Site.
+## Run Your Standard Landing Page Layout<br> Through My "Standard" Video Review.
 
 You got a version of your product's landing page. You know, standard layout:
 
