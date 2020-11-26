@@ -103,12 +103,19 @@ The thing is, most people who give you feedback use the wrong part of their brai
 
 ## Now Accepting Pre-orders
 
-The video is coming soon.
-
-And because you'll have been one of the early customers, I'll send you a quick email commenting on your site: a word of encouragement, a note on something I notice, something helpful.
-
 <div class="review-standard-cta" markdown="block">
 [{% include svg/credit-card.svg.html %} Pre-order ~~$37~~ $29][purchase]{: .cta-btn } <small>Available Jan. 6<sup>th</sup></small>
+</div>
+
+<div class="home-personal-intro" markdown="block">
+
+**Spread the word, get up to another $10 off.**
+
+* If you include a link of this page in your newsletter, forward me a copy at [pascal@hey.com](mailto:pascal@hey.com) and I'll give you a promo code for $10 off.
+* If you tweet this page, send me a DM with the URL of the tweet and I'll give you a promo code for $5 off.
+
+<small>And for the first 5 who send me proof of newsletter mentions, I'll also offer a custom [/review](/review/) of one landing page, free of charge, good between January 6 and March 30, 2021.</small>
+
 </div>
 
 ## Or Purchase a Custom Review<br> (but that's More Expensive)
