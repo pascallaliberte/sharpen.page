@@ -29,9 +29,9 @@
       </div>
     </div>
     <div class="review-player-site-preview">
-      <form class="review-player-site-preview-controls" data-action="submit->review-player#loadSitePreview">
-        <div class="review-player-site-preview-field-group">
-          <input autofocus class="review-player-site-preview-url" type="text" placeholder="Enter your site URL here... (really)" data-target="review-player.sitePreviewURL" data-action="keydown->review-player#stopPropagation" />
+      <form class="review-player-site-preview-controls" style="min-height: 1.5em;" data-action="submit->review-player#loadSitePreview">
+        <div class="review-player-site-preview-field-group" style="display: none;">
+          <input class="review-player-site-preview-url" type="text" placeholder="Enter your site URL here... (really)" data-target="review-player.sitePreviewURL" data-action="keydown->review-player#stopPropagation" />
           <button class="review-player-site-preview-load-button" data-target="review-player.sitePreviewLoadButton" data-action="click->review-player#loadSitePreview click->review-player#stopPropagation">Preview</button>
         </div>
       </form>
@@ -42,7 +42,7 @@
         <li>Signup/Pricing</li>
       </ol>
       <div class="page-demo-iframe-wrapper" data-behavior="site-preview" data-target="review-player.sitePreviewFrameWrapper">
-        <iframe class="page-demo-iframe" data-target="review-player.sitePreviewFrame" style="background: white;" src="" frameborder="0" scrolling="no"></iframe>
+        <iframe class="page-demo-iframe" data-target="review-player.sitePreviewFrame" data-action="load->review-player#checkIframeLoaded" style="background: white;" src="" frameborder="0" scrolling="no"></iframe>
       </div>
     </div>
     

@@ -18,6 +18,10 @@ export default class extends Controller {
     this.videoTarget.pause()
   }
   
+  checkIframeLoaded(event) {
+    // show a little message
+  }
+  
   togglePlayback(event) {
     if (event !== undefined) {
       if (event.target == this.progressbarTarget) { return }
