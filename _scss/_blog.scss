@@ -453,6 +453,10 @@
     background-color: #DFDEEC;
     border: rem(2px) solid white;
     color: $color-secondary;
+    
+    @media (min-width: $reference-width-md-until) {
+      display: inline-block;
+    }
   }
   
   ul.forces {

@@ -531,3 +531,16 @@ ol.page-structure {
 .hidden {
   display: none;
 }
+
+.main-content h1.review-standard-title {
+  font-weight: normal;
+  color: $color-secondary;
+  line-height: 1;
+  small {
+    font-family: $secondary-font-family;
+    font-size: 0.6em;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+}
