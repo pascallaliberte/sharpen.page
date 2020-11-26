@@ -101,6 +101,7 @@
     position: absolute;
     z-index: 100;
     width: 100%;
+    height: rem(37px);
     padding: rem(4px 50px);
     background: mix($color-secondary, white, 70%);
     border-top-left-radius: rem(10px);
@@ -148,12 +149,17 @@
 }
 
 .review-player-site-preview-image {
+  display: none;
   width: 100%;
   height: auto;
   transform: translateY(0);
+  position: absolute;
+  top: rem(37px);
+  
+  &.show {
+    display: block;
+  }
 }
-
-
 
 .review-player-paused-overlay {
   position: absolute;
@@ -395,7 +401,7 @@
     
     ol.page-structure {
       margin: rem(15px);
-      margin-top: rem(50px);
+      margin-top: rem(37px);
       border-width: rem(15px);
       border-radius: rem(15px);
       

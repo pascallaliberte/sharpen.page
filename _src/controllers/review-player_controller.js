@@ -3,7 +3,7 @@ import SitePreviewTimeline from "../review-player/site-preview-timeline.js"
 import ForcesWidgetTimeline from "../review-player/forces-widget-timeline.js"
 
 export default class extends Controller {
-  static targets = [ "progressbar", "video", "playPauseButton", "toggleLayoutButton", "sitePreviewURL", "sitePreviewFrame", "sitePreviewFrameWrapper", "sitePreviewLoadButton" ]
+  static targets = [ "progressbar", "video", "playPauseButton", "toggleLayoutButton", "sitePreviewURL", "sitePreviewScreenshot", "sitePreviewFrameWrapper", "sitePreviewLoadButton" ]
   
   connect() {
     SitePreviewTimeline.init()
@@ -26,7 +26,7 @@ export default class extends Controller {
     if (event !== undefined) {
       if (event.target == this.progressbarTarget) { return }
       if (event.target == this.toggleLayoutButtonTarget) { return }
-      if (event.target == this.sitePreviewFrameTarget) { return }
+      if (event.target == this.sitePreviewScreenshotTarget) { return }
       if (event.target == this.sitePreviewURLTarget) { return }
       if (event.target == this.sitePreviewLoadButton) { return }
     }
@@ -92,8 +92,13 @@ export default class extends Controller {
   
   loadSitePreview(event) {
     event.preventDefault();
-    this.sitePreviewFrameTarget.setAttribute('src', this.sitePreviewURLTarget.value)
-    this.sitePreviewFrameWrapperTarget.classList.add('show')
+    this.sitePreviewScreenshotTarget.setAttribute('src', 
+      `https://api.apiflash.com/v1/urltoimage?access_key=c5c2ce4e413f42daad021dd0f001bf3c&format=jpeg&full_page=true&no_cookie_banners=true&no_tracking=true&response_type=image&scroll_page=true&url=${encodeURIComponent(this.sitePreviewURLTarget.value)}&width=1280`
+    )
+  }
+  
+  revealSitePreview(event) {
+    this.sitePreviewScreenshotTarget.classList.add('show')
     this.sitePreviewURLTarget.blur();
   }
 }
