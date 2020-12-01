@@ -2,7 +2,9 @@
 layout: post
 title: "Fail Predictions: My Own Product"
 categories: jtbd
-tags: discerning
+tags: discerning showcase copywriting struggle-first
+showcased:
+  - sharpen.page
 author: Pascal Laliberté
 image: /assets/images/posts/2020-11-27-fail-predictions-my-own-product.jpg
 published: true
