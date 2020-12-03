@@ -29,6 +29,11 @@
   margin-left: rem(-10px);
 }
 
+.post .main-content .video-thumbnail-img {
+  width: auto;
+  height: auto;
+}
+
 @media (max-width: $reference-width-xs-until) {
   .video-thumbnail-link {
     width: rem(320px);
