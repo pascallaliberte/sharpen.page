@@ -2,7 +2,9 @@
 layout: home
 ---
 
-## <mark>Intro to buyer psychology for software starters</mark>, and consulting services for software owners that are further along.
+## Intro to Buyer Psychology for Software Starters
+
+For sharpening your understanding of the buyer's motivation, your marketing copy and your feature set.
 
 [Join the next landing page review meetup][review-meetup-signup]{: .cta-btn }
 
