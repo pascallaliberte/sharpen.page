@@ -2,20 +2,20 @@
 layout: home
 ---
 
-## <mark>I Help Software Starters</mark><br> Get Into the Minds of Their Buyers…
+## <mark>Intro to buyer psychology for software starters</mark>, and consulting services for software owners that are further along.
+
+[Join the next landing page review meetup][review-meetup-signup]{: .cta-btn }
+
+---
+
+<div class="home-personal-intro" markdown="block">
+
+I'm {% include avatar.html %} Pascal Laliberté, and **I help software starters like you <mark>get into the minds of your buyers</mark>**.
 
 * <span>&hellip;</span> when the product's **landing page** isn't quite right;
 * <span>&hellip;</span> when things are sort of working, but **there's something odd in the buyer's behavior**;
 * <span>&hellip;</span> when **there's a doubt** about a product idea working;
 {: .home-situations-summary }
-
-<div class="home-personal-intro" markdown="block">
-
-I'm {% include avatar.html %} Pascal Laliberté, one of you, a designer/developer, sharing what I know about buyer psychology through stuff I'm publishing and tools I'm building.
-
-**Quick way I can help:** I'm starting a landing page review workshop. Care to join?
-
-[Yes, notify me about landing page review workshops][review-meetup-signup]{: .cta-btn }
 
 </div>
 
@@ -34,7 +34,7 @@ Maybe you used a template, or maybe you've built it all from scratch.
 
 **"Does it need a tweak or an overhaul?"** You're not sure how to answer that question.
 
-Maybe attending a [landing page review meetup][review-meetup-signup] could be helpful.
+Maybe attending a [landing page review meetup][review-meetup-signup]{: .cta-btn } could be helpful.
 
 ## _Maybe it's that_ <mark>Buyers aren't responding</mark>, despite the new features you're building…
 {: .maybe-heading }
@@ -111,7 +111,7 @@ But now you gotta get moving with some new tools.
 
 I hope you'll be able to [join the next landing page review meetup][review-meetup-signup]. Meet some people, have your own page reviewed if you like. Learn from the process.
 
-Or maybe, if you're curious, here's [what else I offer](/offerings). I got my services listed there, some diy resources too, including articles I publish every Friday. You can also find me on [Twitter][twitter].
+Or maybe, if you're curious, here's [what else I offer](/offerings). I got my services listed there, some diy resources too, including articles I publish every Friday. You can also find me on [Twitter][twitter] and on [IndieHackers][indiehackers].
 
 Stay sharp!
 
@@ -120,4 +120,5 @@ Stay sharp!
 Ottawa, Ontario, Canada
 
 [twitter]: https://twitter.com/pascallaliberte
+[indiehackers]: https://www.indiehackers.com/pascallaliberte
 [review-meetup-signup]: https://buttondown.email/sharpen.page
