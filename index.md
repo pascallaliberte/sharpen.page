@@ -103,17 +103,17 @@ That's what's in the books for you, once you learn to get in the mind of your bu
 
 ## Getting Something Off the Ground
 
-So far, maybe you've done most of it on your own.  
+**So far, maybe you've done most of it on your own.**  
 Maybe you read some books, followed a course.  
 Maybe you learned from copywriters, watching others.
 
-But now you gotta get moving with some new tools.
+But now you gotta **get moving with some new tools**.
 
 ---
 
-I hope you'll be able to [join the next landing page review meetup][review-meetup-signup]. Meet some people, have your own page reviewed if you like. Learn from the process.
+I hope you'll be able to [join the next landing page review meetup][review-meetup-signup]{: .cta-btn }. Meet some people, have your own page reviewed if you like. Learn from the process.
 
-Or maybe, if you're curious, here's [what else I offer](/offerings). I got my services listed there, some diy resources too, including articles I publish every Friday. You can also find me on [Twitter][twitter] and on [IndieHackers][indiehackers].
+Or maybe, if you're further along, here's [what else I offer](/offerings). I got my services listed there, some diy resources too, including articles I publish every Friday. You can also find me on [Twitter][twitter] and on [IndieHackers][indiehackers].
 
 Stay sharp!
 
