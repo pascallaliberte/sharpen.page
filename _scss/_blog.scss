@@ -475,6 +475,22 @@
     }
   }
   
+  ul.forces-badges {
+    list-style: none;
+    padding-left: 2.4em;
+    margin: 2em 0;
+    
+    li {
+      position: relative;
+      margin-bottom: 1em;
+    }
+    
+    .force-badge {
+      margin-left: -2.5em;
+      margin-right: 0.2em;
+    }
+  }
+  
   aside {
     position: relative;
     
