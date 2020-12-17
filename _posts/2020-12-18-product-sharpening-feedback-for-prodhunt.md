@@ -2,7 +2,7 @@
 layout: post
 title: "Product Sharpening: Feedback for ProdHunt"
 categories: jtbd
-tags: showcase consulting optimize
+tags: showcase optimize
 showcased:
   - prodhunt.com
 author: Pascal Laliberté
