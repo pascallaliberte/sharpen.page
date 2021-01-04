@@ -74,7 +74,7 @@ Care to join the next landing page review meetup?
 
 ---
 
-## _Maybe it's that_ <mark>Your industry is changing real fast</mark> and you need your ear to the gound
+## _Maybe it's that_ <mark>Your industry is changing real fast</mark> and you need your ear to the ground
 {: .maybe-heading }
 
 Previously, you were concentrating on a generic profile of buyers. But all of a sudden, those kinds of buyers are down (ie. market downturn, competition), but **surprisingly, other kinds of buyers are up**. What's that about? Sharper use cases, new stories. They're buying your thing _despite_ your generic marketing. Time to dig deeper.
