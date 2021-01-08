@@ -9,6 +9,7 @@ author: Pascal Laliberté
 image: /assets/images/posts/2021-01-08-copywriting-feedback-for-akord-getting-main-headline-right.jpg
 published: true
 related_posts:
+  - 2020-03-13-when-your-software-proposes-different-process
   - 2020-10-30-to-add-appeal-first-reduce-anxieties
   - 2020-05-22-bunch-of-example-landing-pages-with-mostly-just-text
   - 2020-05-08-too-much-text-what-to-do-about-that-feedback
@@ -24,7 +25,9 @@ excerpt:
   Akord does document sharing for those who don't trust the mainstream providers and their lack of end-to-end encryption. The author asked for feedback on his headlines. Here's my take.
 ---
 
-Akord is a startup that does document sharing. Its main angle: **unlike Dropbox, Google Drive and the other mainstream providers, Akord does end-to-end encryption of the documents**. Pascal (no relation), who works on Akord, [asked for feedback on the headlines he was considering][thread].
+[Akord][akord] is a startup that does document sharing. Its main angle: **unlike Dropbox, Google Drive and the other mainstream providers, Akord does end-to-end encryption of the documents**. Pascal (no relation), who works on Akord, [asked for feedback on the headlines he was considering][thread].
+
+[akord]: https://akord.com
 
 ## How Would You Rewrite These Headings?
 
@@ -51,24 +54,26 @@ Here are some more that Pascal was considering:
 
 It's tricky to get the main headline right.
 
-* Make them clear
-* Maybe make them clever
-* Keep them short
+* Make it clear
+* Maybe make it clever
+* Keep it short
 * Make every word count
 
 Those might be some good benchmarks to use for judging a headline, but I rely on something more fundamental: **how do you know a headline will connect with a visitor?**
 
 ## Struggle-First Headlines
 
-I've written about the Struggle-First copywriting style before. It's useful especially when your audience doesn't have a pre-established mindset about your product yet.
+I've written about the [Struggle-First copywriting style](/struggle-first) before. It's useful especially [when your audience doesn't have a pre-established mindset](/struggle-first/vs-features-benefits/) about your product yet.
 
-The trick: connect not so much with their aspiration (here's what you'll get), but more with what they're going through right before coming to the site (this is what you're going through, correct?)
+The trick: connect not so much with their [aspiration][level-3-sharpening] (here's what you'll get), but more **with what they're going through right before coming to the site** (this is what you're going through, correct?)
+
+[level-3-sharpening]: {% post_url 2020-01-17-level-3-sharpening-so-you-can-rely-less-on-sales %}
 
 Here's a struggle-first headline that could work:
 
-* **You don't trust the mainstream document-sharing services**<br> Dropbox, Box, Google Drive: you know they don't do end-to-end encryption. We do. You own the keys.
+* **You don't trust the mainstream document-sharing services**<br> Dropbox, Box, Google Drive: you know they don't do end-to-end encryption. We do. And you own the keys, not us.
 
-This goes straight to the core of the reason they'd even bother visiting a derivative product like Akord.
+**This goes straight to the core of the reason** they'd even bother visiting a derivative product like Akord.
 
 ## "When" Statements
 
@@ -80,7 +85,9 @@ To get even more inside the mind of the visitor, it pays to imagine some ["when"
 * **When** I've recently started a new company and I'm hiring my first collaborator...
 * **When** I see yet another data breach in the news...
 
-One of them will be a good suitor for the main headline. Maybe you can tap into all of them on your page, using different headlines.
+One of them will be a good suitor for the main headline. [Maybe you can tap into all of them on your page][just-one-struggle], using different headlines.
+
+[just-one-struggle]: {% post_url 2019-09-20-focus-on-just-one-struggle %}
 
 ## More than One Headline: "I feel understood"
 
@@ -100,6 +107,33 @@ Then they're presented with another headline:
 
 "I feel understood!". "Where can I learn more?"
 
-Using this build-up of struggle-first headlines gets the right kind of visitor to stay, and they wrong kind of visitor to leave. Then you can address all of the other elements that matter on a landing page, like reducing anxieties, tending to the mental back-and-forth going on in the mind of your visitor, and knowing what they'll revert to so you can end the page with a trust-building alternatives for those who were about to leave. Get the order right by having each section build on top of the previous section's momentum, and you'll get people talking with excitement and buying with confidence.
+Using this build-up of struggle-first headlines gets the right kind of visitor to stay, and they wrong kind of visitor to leave.
+
+## Then Create a Page That _Flows_
+
+Then you can address all of the other elements that matter on a landing page, like [reducing anxieties][reduce-anxieties], tending to the [mental back-and-forth going on in the mind of your visitor][four-forces], and knowing what they'll revert to so you can end the page with an alternative offering from you (that might be lower anxiety, [like a how-to document][heros-journey]) for those who were about to leave.
+
+[Get the order right][best-order] by having each section build on top of the previous section's momentum, and you'll get people talking with excitement and buying with confidence.
+
+[reduce-anxieties]: {% post_url 2020-10-30-to-add-appeal-first-reduce-anxieties %}
+[four-forces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
+[heros-journey]: {% post_url 2020-06-12-hero-journey-metaphor-multi-outcome-products %}
+[best-order]: {% post_url 2020-04-17-best-order-of-elements-on-landing-page %}
+
+## But Will the Product Sell?
+
+This is a huge question. [Akord will probably fail][your-product-will-fail]. The buyer momentum, it's not there.
+
+* I'm looking for a strong struggle. It's not there.
+* I'm looking for more attraction than anxieties. It's not there.
+* I'm looking for an overal equation of (struggle + attraction > anxieties + "I'll just alternatives"). "I'll just do whatever the other people I'm working prefers to use". "I'll just continue encrypting documents by hand".
+
+I'm not seeing a home run here, and products like these need a home-run when it comes to [buyer momentum][your-product-will-fail].
+
+I wrote an article on my advice for [pushing through when your product might fail][push-through]. In particular, maybe Akord could concentrate on a way sharper "when" statement that happens way more often (but would normally appear to be a [worse product][worse-product]), build trust, and in time offer the user base an offering that's a notch up. Maybe. One thing Akord has going for it is the collaboration aspect creates built-in word-of-mouth. Let's wish Pascal (no relation) the best of luck!
+
+[your-product-will-fail]: {% post_url 2020-10-09-your-product-is-going-to-fail %}
+[push-through]: {% post_url 2020-11-13-your-product-might-push-through-with-these-perspectives %}
+[worse-product]: {% post_url 2020-10-23-make-a-worse-product-to-save-it %}
 
 Stay Sharp!
