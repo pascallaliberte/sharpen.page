@@ -21,6 +21,7 @@ social:
     - https://github.com/pascallaliberte
 collections:
   - videos
+  - screenshots
 defaults:
   - scope:
       path: ""
