@@ -54,7 +54,9 @@ In a recent article, I covered how, when making a convincing landing page, [it's
 
 [reduce-anxieties]: {% post_url 2020-10-30-to-add-appeal-first-reduce-anxieties %}
 
-That's because as your visitor considers "hiring" your product for their job-to-be-done, hesitations will pile up, despite all the nice things you claim your app will do.
+That's because as your visitor considers "hiring" your product for their [job-to-be-done][jtbd-intro], hesitations will pile up, despite all the nice things you claim your app will do.
+
+[jtbd-intro]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
 
 No matter how many "my app is great because", **visitors will have "yeah but's"**:
 
@@ -101,10 +103,10 @@ But I'd go further.
 
 I'd re-assure the visitor by **disqualifying who the app isn't for**. Telling it up-front.
 
-* **If you're heavily invested in DBT**, you might as well continue using that.
+* **If you're heavily invested in dbt**, you might as well continue using that.
 * If your data is coming from systems like this one or that one, we're not setup to handle those unless you build your own separate preparation step.
 
-**But isn't that handing the visitor to the competition?** You'd think that DBT is ForLoop.ai's main competitor, but it's important to remember that [everybody's largest competitor (by far) is "I'll just"][non-consumption], the choice of not purchasing. It takes balls to go in this direction, but it's the way to go.
+**But isn't that handing the visitor to the competition?** You'd think that dbt is ForLoop.ai's main competitor, but it's important to remember that [everybody's largest competitor (by far) is "I'll just"][non-consumption], the choice of not purchasing.
 
 [non-consumption]: {% post_url 2018-12-17-universal-competitor %}
 
@@ -119,7 +121,7 @@ And judging by the intro video, it looks like it delivers.
 [![AppBuildy has a demo video that's pretty slick](/assets/images/posts/2021-01-22-product-too-good-to-be-true-08.jpg)][forloop]
 {: .img-zoom }
 
-But here's the problem. You know it doesn't do _everything_. But you don't know **if it'll help you make the app you envisioned.** Will it handle your edge cases and your special considerations. Surely not.
+But here's the problem. You know it doesn't do _everything_. And you don't know **if it'll help you make the app you envisioned.** Will it handle your edge cases and your special considerations. Surely not.
 
 > It's probably too good to be true. Skip.
 
@@ -152,13 +154,13 @@ _Maybe_. Maybe you should discourage them... _on purpose_.
 
 ## Being Bolder: Discouraging the Visitor, on Purpose
 
-[There's a technique when doing consulting work that works like a charm][discouraging-clients]. You start off by discouraging new leads from hiring you. It isn't to be coy or to be manipulative. You just want to get to understand the real value your service can provide them by addressing the topic of money or cultural right at the start. "I probably won't be a good fit for what you're looking for -- I won't be the cheapest option, and so if you've got other options that are affordable and do the job, I'd go with those. Or do you want to tell me a bit about what you're trying to achieve?"
+[There's a technique when doing consulting work that works like a charm][discouraging-clients]. You start off by discouraging new leads from hiring you. It isn't to be coy or to be manipulative. You just want to get to understand the real value your service can provide them by addressing the topic of money or cultural fit right at the start. "I probably won't be a good fit for what you're looking for -- I won't be the cheapest option, and so if you've got other options that are affordable and do the job, I'd go with those. Or do you want to tell me a bit about what you're trying to achieve?" Those who are looking for a cheap price will stop there. Those who are looking for results will sense that you're serious. You _serve_.
 
 [discouraging-clients]: {% post_url 2020-08-14-discouraging-clients-more-antifragility %}
 
 You can do something similar with a product page. Make it discourage your visitor from buying your product **unless it's a great fit**.
 
-Your product page has one job. It's _not_ to convince or to convert or to remove "friction". It's to [help your visitor make _progress_ on a struggle][removing-friction].
+Your product page has one job. It's _not_ to convince or to convert or to remove "friction". It's to [help your visitor make _progress_ on a struggle][removing-friction]. To help them decide that the past needs to be in the past and that there's a better future should they choose to move into it.
 
 [removing-friction]: {% post_url 2020-07-24-landing-page-remove-friction-or-help-make-progress %}
 
@@ -180,7 +182,7 @@ This sort of paragraph makes it clear that you're not there to help everyone. Ju
 
 > You just want to test a concept with some real people, if it works, you'll see about building something more robust.
 
-That's where AppBuildy comes in. Before introducing AppBuildy, you can even use an "Maybe you're looking for..." section to connect to the visitor's aspiration.
+That's where AppBuildy comes in. Before introducing AppBuildy, you can even use a "Maybe you're looking for..." section to connect to the visitor's aspiration.
 
 > Maybe you're looking for something that will let you build a prototype real quick, no coding required, which lets you take data from a spreadsheet, and where you can make small edits.
 
@@ -195,6 +197,8 @@ And then you're quick to say what it doesn't do.
 You're probably asking: "But what if I add social proof? That should help sales and I won't need to be open about what my app won't do."
 
 If you're going to add some testimonials, make sure they're not phony. [Make sure they communicate the job the app was hired to do][social-proof].
+
+[social-proof]: {% post_url 2021-01-15-no-you-dont-need-social-proof %}
 
 ---
 
