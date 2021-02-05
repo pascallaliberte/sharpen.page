@@ -38,7 +38,7 @@ You'd think that their home page would end with one more invitation to sign up. 
 
 It ends like this:
 
-[![The bottom of Payzip's home page doesn't end with another plea to try. It helps visitors make progress with something smaller: tips on managing club payments](/assets/images/posts/2021-02-05-let-visitors-leave-with-something-progressful-01.jpg)][payzip]
+[![The bottom of Payzip's home page doesn't end with another plea to try. It helps visitors make progress with something smaller: tips on managing club payments](/assets/images/posts/2021-02-05-let-visitors-leave-with-something-progressful-02.jpg)][payzip]
 {: .img-zoom }
 
 They're helping people who scrolled down, but probably won't buy it. Helping how? Helping them make progress anyway.
@@ -69,7 +69,7 @@ They're ready to get moving on solving their problem, they're just not ready to 
 
 But they're at the bottom of the page, and they're ready to make one small tweak. The Payzip landing page helps them with _that_. Make progress on this small bit. Brilliant use of the bottom of the page.
 
-[![You can see there's a call to action just above that final section. But this ending is for people who we're going to buy anyway, and were on their way out.](/assets/images/posts/2021-02-05-let-visitors-leave-with-something-progressful-01.jpg)][payzip]
+[![You can see there's a call to action just above that final section. But this ending is for people who we're going to buy anyway, and were on their way out.](/assets/images/posts/2021-02-05-let-visitors-leave-with-something-progressful-02.jpg)][payzip]
 {: .img-zoom }
 
 ---
