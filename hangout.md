@@ -10,7 +10,7 @@ open: true
 {% if page.open %}
 I currently have my chat open. Come and hang out, talk about what we're building. Today I'm trying out Hotwire.
 
-<a href="https://sharpen-page-office-hours.herokuapp.com/" class="cta-btn" target="_blank">Join the chat></a>
+<a href="https://sharpen-page-office-hours.herokuapp.com/" class="cta-btn" target="_blank">Join the chat</a>
 
 {% else %}
 The chat is curently closed. [Find me on Twitter][twitter] to reach out. I'll probably just announce hangouts there next time. Or maybe you'd like to [join the next Landing Page Review Meetup][review-meetup-signup]?
