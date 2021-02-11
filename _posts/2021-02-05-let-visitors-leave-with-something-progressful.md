@@ -2,7 +2,9 @@
 layout: post
 title: "Let Visitors Leave With Something Progress-ful"
 categories: jtbd
-tags: copywriting
+tags: copywriting showcase
+showcased:
+  - payzip.co.uk
 author: Pascal Laliberté
 image: /assets/images/posts/2021-02-05-let-visitors-leave-with-something-progressful.jpg
 published: true
