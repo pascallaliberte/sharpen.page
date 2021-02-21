@@ -4,11 +4,11 @@ layout: page
 title: Let's build and talk for an hour
 class: offerings
 show_breadcrumb: true
-open: false
+open: true
 ---
 
 {% if page.open %}
-I currently have my chat open. Come and hang out, talk about what we're building. Today I'm trying out Hotwire.
+I currently have my chat open. Come and hang out, talk about what we're building. Today I'm practicing Hotwire some more.
 
 <a href="https://sharpen-page-office-hours.herokuapp.com/" class="cta-btn" target="_blank">Join the chat</a>
 
