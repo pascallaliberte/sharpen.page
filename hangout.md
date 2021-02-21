@@ -4,7 +4,7 @@ layout: page
 title: Let's build and talk for an hour
 class: offerings
 show_breadcrumb: true
-open: true
+open: false
 ---
 
 {% if page.open %}
