@@ -294,6 +294,8 @@ layout: empty
       }
     })
     
+    window.addEventListener("message", setSizes, false);
+    
     function createIncreaseButton() {
       let btn = document.createElement('button')
       btn.className = 'btn btn-invisible btn-increase full-size p-abs'
@@ -387,6 +389,20 @@ layout: empty
     function fit() {
       adjustZoom()
       recenter()
+    }
+    
+    function setSizes(event) {
+      if (!event.data || ("sizes" in event.data) === false) {
+        return
+      }
+      
+      const sizes = event.data.sizes
+      const items = Array.prototype.slice.call(scalableItems);
+      
+      ['struggle', 'attraction', 'anxiety', 'habits'].forEach(function(property, index) {
+        items[index].dataset.size = sizes[property]
+      })
+      fit()
     }
     
   })(document)
