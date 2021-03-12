@@ -535,6 +535,10 @@
       
       @media (min-width: ($reference-width-md-until + 1px)) {
         transform: translateY(50%);
+        
+        &.pull-up {
+          transform: translateY(-25%);
+        }
       }
     }
   }
