@@ -34,11 +34,6 @@
     <div style="margin-bottom: 1em;">
       <a class="navigation__link navigation__link-articles text-link" href="/articles/"><strong>Articles</strong></a>
     </div>
-    {% if page.layout == "home" or page.layout == "blog" or page.layout =="post" %}
-      {% for post in site.posts limit:1 %}
-        <a class="navigation__link navigation__link-latest-article text-link" href="{{ post.url }}"><strong>Latest</strong><span class="navigation__link-latest-article-title"><br>{{ post.title }}</span></a>
-      {% endfor %}
-    {% endif %}
     
   </div>
   
