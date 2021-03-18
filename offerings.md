@@ -47,7 +47,7 @@ CDN$&nbsp;250, including our back-and-forth over email ahead of the call and the
 
 ## [/articles](/articles)
 
-**Free**, my articles are published every Friday. They cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Be sure to filter by topics.
+**Free**, they cover topics from buyer psychology through the lens of Jobs-To-Be-Done, to copywriting and sharpening your products and services. Be sure to filter by topics.
 
 ## [/your-purchase-story](/your-purchase-story)
 

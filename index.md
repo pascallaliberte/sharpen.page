@@ -113,7 +113,7 @@ But now you gotta **get moving with some new tools**.
 
 I hope you'll be able to [join the next landing page review meetup][review-meetup-signup]{: .cta-btn }. Meet some people, have your own page reviewed if you like. Learn from the process.
 
-Or maybe, if you're further along, here's [what else I offer](/offerings). I got my services listed there, some diy resources too, including articles I publish every Friday. You can also find me on [Twitter][twitter] and on [IndieHackers][indiehackers].
+Or maybe, if you're further along, here's [what else I offer](/offerings). I got my services listed there, some diy resources too, including articles I publish occasionally. You can also find me on [Twitter][twitter] and on [IndieHackers][indiehackers].
 
 Stay sharp!
 

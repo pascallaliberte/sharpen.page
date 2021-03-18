@@ -31,8 +31,6 @@ Some other places will try to pimp you to buy their services. [Increase conversi
 [removing-friction]: {% post_url 2020-07-24-landing-page-remove-friction-or-help-make-progress %}
 [bounce-rate]: {% post_url 2019-11-22-bounce-rate-overrated %}
 
-Articles out [every Friday](/articles).
-
 ---
 
 And when you're at the point that you've done enough on your own **and need a hand going further**, I hope you'll [consider asking me to help you out](/offerings).
@@ -44,5 +42,3 @@ Stay Sharp!
 Ottawa, Ontario, Canada
 
 [twitter]: https://twitter.com/pascallaliberte
-
-{% include email-sign-up-form.html %}

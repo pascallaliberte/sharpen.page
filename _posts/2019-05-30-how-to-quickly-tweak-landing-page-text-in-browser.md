@@ -45,8 +45,6 @@ Stay Sharp!
 
 _P.S. Be on the lookout for an upcoming article where we'll be tweaking some headings using this quick technique!_
 
-_P.P.S. **This week's post marks half a year** blogging about all the ways you can sharpen a product or service using a good knowledge of [what goes on in the mind of your buyer][four-forces], applying the [Jobs-To-Be-Done theory][jtbd-intro] to understanding your buyer, [tips on copywriting][copywriting] and more. I'll have plenty more material to cover, and so be sure to sign up below to be the first to know (before Twitter, before LinkedIn) when an article comes out each Friday._
-
 [jtbd-intro]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
 [four-forces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
 [copywriting]: {% post_url 2019-05-17-how-long-landing-pages-make-calls-to-action-work %}

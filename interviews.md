@@ -80,5 +80,3 @@ Find me on [Twitter][twitter] or sign-up to be notified of new articles:
 
 [twitter]: https://twitter.com/pascallaliberte
 [linkedin]: https://www.linkedin.com/in/pascallaliberte/ 
-
-{% include email-sign-up-form.html %}

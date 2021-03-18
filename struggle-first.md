@@ -94,5 +94,3 @@ Ottawa, Ontario, Canada
 Find me on [Twitter][twitter] or sign-up to be notified of new articles:
 
 [twitter]: https://twitter.com/pascallaliberte
-
-{% include email-sign-up-form.html %}

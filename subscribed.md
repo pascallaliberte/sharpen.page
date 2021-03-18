@@ -4,6 +4,6 @@ layout: page
 title: You're Signed up to Be Notified
 ---
 
-All set! You'll receive the latest article each Friday by email.
+All set. I'll let you know when I've got a new post up.
 
 [Back to **/articles**](/articles)
