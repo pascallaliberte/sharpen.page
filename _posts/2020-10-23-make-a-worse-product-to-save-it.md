@@ -122,7 +122,7 @@ A [sub-product][heros-journey] is the part of your product that gets "hired" for
 
 [heros-journey]: {% post_url 2020-06-12-hero-journey-metaphor-multi-outcome-products %}
 
-For example, [Overcast](https://overcast.fm/) is a podcast player that like. The app's main job is to help me listen to podcasts in the way I like: not waste any of my time, and support independent app-making. The developer of the app, Marco Arment, did a product that does that job super well.
+For example, [Overcast](https://overcast.fm/) is a podcast player that I like. The app's main job is to help me listen to podcasts in the way I like: not waste any of my time, and support independent app-making. The developer of the app, Marco Arment, did a product that does that job super well.
 
 And there are a few secondary jobs I experience when I use Overcast. Sometimes I want to share a URL to the podcast. Well Marco created a web player for every podcast, and it saves my listening progress in a web account.
 
