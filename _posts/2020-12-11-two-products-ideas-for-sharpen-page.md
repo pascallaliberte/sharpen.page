@@ -246,7 +246,7 @@ Let me visualize how this fits in the next few months:
     potential upside
       Published my progress (built in public)
       Started with the idea that will fit best with the rest
-      of [what I offer](/offerings)
+      of what I offer
         <mark>Worked on selling landing page reports</mark>
 </pre>
 

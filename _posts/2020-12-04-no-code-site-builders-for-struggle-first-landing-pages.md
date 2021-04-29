@@ -37,9 +37,9 @@ Let's see if we can reproduce one of my own struggle-first pages using the follo
 
 ## The Page We'll Be Reproducing And What I Was Looking For
 
-The page I wanted to reproduce was the one for my [**/understand** service offering](/understand).
+The page I wanted to reproduce was the one for my old **/understand** service offering.
 
-[![Full page screenshot of the /understand service offering page](/assets/images/posts/2020-12-04-no-code-site-builders-for-struggle-first-landing-pages-01.jpg)](/understand)
+![Full page screenshot of the /understand service offering page](/assets/images/posts/2020-12-04-no-code-site-builders-for-struggle-first-landing-pages-01.jpg)
 {: .img-zoom }
 
 Most no-code site builders are good at making typical three column layouts, a big hero at the top, fixed-width text, image+text sections.
