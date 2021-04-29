@@ -1,9 +1,23 @@
 # Redirect with a 301
+/understand      /              301
+/offerings       /              301
+/diy             /              301
+/interviews      /              301
+/articles        /              301
+/struggle-first  /              301
+/struggle-first/vs-features-benefits  /  301
+/review          /              301
+/subscribed      /              301
+/value-ladders   /              301
+/visualize       /              301
+/your-purchase-story  /         301
+/hangout         /              301
+
 /jtbd            /              301
-/prioritize      /understand    301
-/services        /offerings     301
-/stepitup        /review        301
-/stepitup/guide  /value-ladders 301
-/dyi             /diy           301
-/review/standard/ /review       301
+/prioritize      /              301
+/services        /              301
+/stepitup        /              301
+/stepitup/guide  /              301
+/dyi             /              301
+/review/standard/ /             301
 /hello-indiehackers/ /          301

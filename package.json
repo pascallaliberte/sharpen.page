@@ -1,7 +1,7 @@
 {
   "name": "sharpen.page",
   "version": "1.0.0",
-  "description": "A Product Sharpening Service",
+  "description": "A Product Sharpening Blog",
   "main": "src/index.js",
   "private": true,
   "repository": "git@github.com:pascallaliberte/sharpen.page.git",
