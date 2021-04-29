@@ -151,7 +151,3 @@ There's bound to be at least one way, one through-line to go through that will m
 And maybe that combination will seem like it'll make a worse product. But if the Forces of Progress clear out, you'll know you might be onto something.
 
 Stay sharp!
-
----
-
-_What "Worse Product" am I building? Something like a custom video review of your site, only, [it's the same video for everyone buying it](https://twitter.com/pascallaliberte/status/1316907874128482305). More on this soon._

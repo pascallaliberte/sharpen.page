@@ -145,7 +145,3 @@ You cap your downside risk to a set number of hours a week, you make sure you do
 [audience-building-mindsets]: {% post_url 2020-09-25-audience-building-mindsets %}
 
 Stay sharp!
-
-_Quick note: I'm launching a product soon, a small sidekick to help you sharpen your landing page. Keep an eye on [my twitter][twitter] feed for updates._
-
-[twitter]: https://twitter.com/pascallaliberte
