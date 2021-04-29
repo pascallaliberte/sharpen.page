@@ -89,7 +89,9 @@ When freelancing, you need to be good at many things at once. It's tough to know
 
 > Avoid doing stuff that's **not going to be worth your time**.
 
-Should you specialize, or should you generalize? Market my skills or build a [value-ladder](/value-ladders)? Good options! How about focusing on what you should avoid:
+Should you specialize, or should you generalize? Market my skills or build a [value-ladder][value-ladder]? Good options! How about focusing on what you should avoid:
+
+[value-ladder]: {% post_url 2020-01-31-productized-services-variety-of-skills-to-value-ladder %}
 
 > Don't **paint yourself into a corner**.
 

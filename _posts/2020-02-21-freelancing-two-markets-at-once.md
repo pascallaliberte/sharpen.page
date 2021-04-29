@@ -89,6 +89,8 @@ If, however, you are currently using your website to showcase a sharp set of ski
 
 You might as well keep your website for the people that find you online first. For the local folks who get to you by word-of-mouth, they probably won't even check your website before contacting you anyway.
 
-**So it's all good to be freelancing in two differeng markets.** Your best bet is to [keep that website sharp](/value-ladders) for the global visitors, and to take advantage of winning the local market by picking the right winner-take-all or "Open Gates" strategy there too.
+**So it's all good to be freelancing in two differeng markets.** Your best bet is to [keep that website sharp][value-ladder] for the global visitors, and to take advantage of winning the local market by picking the right winner-take-all or "Open Gates" strategy there too.
+
+[value-ladder]: {% post_url 2020-01-31-productized-services-variety-of-skills-to-value-ladder %}
 
 Stay Sharp!

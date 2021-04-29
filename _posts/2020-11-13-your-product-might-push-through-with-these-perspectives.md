@@ -112,7 +112,9 @@ When this will be all done, [you'll be celebrating][inevitable] you'll have lear
 
 But one thing will be guaranteed. You'll have something to show later.
 
-**You'll also have a new rung to add to your overall [value-ladder](/value-ladders)**, the series of differently-sized offerings you make available to your visitors.
+**You'll also have a new rung to add to your overall [value-ladder][value-ladder]**, the series of differently-sized offerings you make available to your visitors.
+
+[value-ladder]: {% post_url 2020-01-31-productized-services-variety-of-skills-to-value-ladder %}
 
 Then **fill the rest of your value-ladder** with things that bring people further along **(up the ladder, bigger price, more scope)**, and things that bring people to just start getting somewhere, with your help **(down the ladder, more approachable)**.
 
