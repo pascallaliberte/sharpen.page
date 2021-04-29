@@ -69,13 +69,13 @@ That lack of clarity [added too much anxiety][reduce-anxieties] to the visitor. 
 
 [reduce-anxieties]: {% post_url 2020-10-30-to-add-appeal-first-reduce-anxieties %}
 
-And so I set out to see if I could [salvage the product][your-product-will-fail]. See if I could pivot, re-arrange the landing page. Maybe use a [struggle-first](/struggle-first) layout instead.
+And so I set out to see if I could [salvage the product][your-product-will-fail]. See if I could pivot, re-arrange the landing page. Maybe use a struggle-first layout instead.
 
 [your-product-will-fail]: {% post_url 2020-10-09-your-product-is-going-to-fail %}
 
 ## Trying Out a Struggle-First Layout
 
-Since [nobody had an established mindset](/struggle-first/vs-features-benefits/) for a "standard review", the landing page layout of choice is a struggle-first layout. You start by mirroring back to the visitor the struggle they're going through. They respond by feeling "this person understands me", and they scroll. And then you intro the product.
+Since nobody had an established mindset for a "standard review", the landing page layout of choice is a struggle-first layout. You start by mirroring back to the visitor the struggle they're going through. They respond by feeling "this person understands me", and they scroll. And then you intro the product.
 
 So let's see what a struggle-first layout looks like for this product. First, I renamed it to an "Instant Review", and then continued by mirroring the visitor's struggle:
 

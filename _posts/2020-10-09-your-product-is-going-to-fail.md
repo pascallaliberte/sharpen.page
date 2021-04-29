@@ -67,7 +67,7 @@ It takes a ton of momentum to take a person through all that deliberation.
 [non-consumption]: {% post_url 2018-12-17-universal-competitor %}
 [changing-orbit]: {% post_url 2019-01-10-changing-orbit-selling-your-idea %}
 
-If your current product fundamentally doesn't catch that kind of momentum, it's not going to go anywhere. No matter how much ad money you put in. No matter how many people see your landing page. No matter the type of design you used for your landing page (although you might want to consider trying a [struggle-first landing page](/struggle-first)), your product needs to connect with real buyers having real momentum.
+If your current product fundamentally doesn't catch that kind of momentum, it's not going to go anywhere. No matter how much ad money you put in. No matter how many people see your landing page. No matter the type of design you used for your landing page (although you might want to consider trying a struggle-first landing page), your product needs to connect with real buyers having real momentum.
 
 ## "But Maybe I Can Pivot"
 

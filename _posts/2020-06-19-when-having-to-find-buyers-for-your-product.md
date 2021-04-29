@@ -100,7 +100,7 @@ But if you're in a pinch, you can try to see if you can come up with some [when 
 
 "**When** I've tried learning how to do it myself and suddenly have an urgency to make it happen, **I want** a tool that'll help me save time **so I can** look good in front of my boss."
 
-**This situation might look generic**, but imagine a [struggle-first landing page](/struggle-first) that starts with:
+**This situation might look generic**, but imagine a struggle-first landing page that starts with:
 
 > You've tried getting an [output of your product] by learning to do it. But now you're crunched for time.
 

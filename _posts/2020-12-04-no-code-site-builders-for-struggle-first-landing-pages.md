@@ -27,7 +27,7 @@ excerpt:
 
 We're fans here of creating landing pages that have a lot of text, that start off by mirroring to the visitor the struggle they're going through, and that use nice styling to make the page easy to scan, scroll, and read.
 
-I call this type of landing page [struggle-first](/struggle-first) pages.
+I call this type of landing page struggle-first pages.
 
 Let's see if we can reproduce one of my own struggle-first pages using the following no-code site builders. (We can.)
 
@@ -68,6 +68,6 @@ Overall all three tools did okay.
 
 ---
 
-So overall I was pretty impressed with these no-code tools. Hope you give a [struggle-first](/struggle-first) layout a shot for your next landing page.
+So overall I was pretty impressed with these no-code tools. Hope you give a struggle-first layout a shot for your next landing page.
 
 Stay sharp.
