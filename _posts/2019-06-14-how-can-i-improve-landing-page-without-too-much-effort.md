@@ -102,5 +102,3 @@ So what thoughts will your visitors experience as they scroll down the page? Whe
 With this new structure, with just a little bit more writing, the page could **make the visitor feel like their problem is understood**, that their own pushbacks are understood too, and allow them the space to think things through with multiple chances at absorbing the information as they scroll down the page.
 
 Stay Sharp!
-
-_P.S. If you've got a page of your own that you'd like to have looked at, please [reach out](mailto:pascal@hey.com). I'll be glad to help._

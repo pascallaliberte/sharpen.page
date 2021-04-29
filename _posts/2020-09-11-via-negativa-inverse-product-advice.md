@@ -110,7 +110,3 @@ And yet, you're probably going to build a product no matter what people tell you
 But I bet you're glad you're getting those reminders, aren't you?
 
 Stay Sharp.
-
-_P.S. What other Via Negativa statements am I missing? Let's add to the list. I'm [@pascallaliberte][twitter] on Twitter._
-
-[twitter]: https://twitter.com/pascallaliberte

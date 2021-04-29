@@ -166,7 +166,3 @@ By going deep on the struggling situation that would make InScheduler a no-brain
 We spotted some holes to fill, and in [Part 4][inscheduler-rewrite-part-4] we tweaked on how the product was presented to make more appealing for our best buyers. And in Part 5 above, we saw how the pricing and next steps could be made to reduce anxieties even more, and help the best buyer in their quest for progress.
 
 Stay Sharp!
-
-_P.S. If you'd like your own site reviewed, consider [joining the next landing page review meetup][review-meetup-signup] or check out my [/review](/review) service offering._
-
-[review-meetup-signup]: https://buttondown.email/sharpen.page

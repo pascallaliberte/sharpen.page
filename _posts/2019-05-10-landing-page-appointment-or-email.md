@@ -65,5 +65,3 @@ Maybe a simple email link will be enough. Maybe they need guidance on what infor
 **By imagining the back-and-forth in the mind of the visitor** as they get to that part of the page where thay can contact you, you'll gain the confidence to know which contact method will be most enticing, helpful, and welcome.
 
 Stay Sharp!
-
-_P.S. Be on the lookout for an article on how writing really long landing pages helps with the internal back-and-forth of your visitor._

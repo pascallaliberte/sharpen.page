@@ -156,5 +156,3 @@ You'll be able to sharpen your product to focus precisely on what made the diffe
 [overserving]: {% post_url 2019-08-23-how-to-know-if-built-too-much-product-overserving %}
 
 Stay Sharp!
-
-_P.S. Thanks [Merott][merott] for sharing about your product to help write this article. If you find yourself finding there's just not enough time in a day to both build great courses and help your students succeed, I hope you'll [check out Xebel][xebel]._

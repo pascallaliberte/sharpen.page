@@ -43,8 +43,6 @@ document.querySelector('body')
 
 Stay Sharp!
 
-_P.S. Be on the lookout for an upcoming article where we'll be tweaking some headings using this quick technique!_
-
 [jtbd-intro]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
 [four-forces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
 [copywriting]: {% post_url 2019-05-17-how-long-landing-pages-make-calls-to-action-work %}

@@ -124,5 +124,3 @@ You can always wait and see if this new trend becomes the new normal, but if you
 And when things change again in the future, you'll address the new struggles then too, with your ear to the ground.
 
 Stay Sharp!
-
-_P.S. Have you purchased something this past week that you've been hesitating on for a while and finally decided to go for it? [I'd like to know!](/your-purchase-story). And if you want help conducting some purchase interviews for your product, [please reach out](mailto:pascal@hey.com)._

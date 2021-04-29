@@ -133,5 +133,3 @@ So those are the [struggle-first](/struggle-first) tactics for validating a prod
 [best-order]: {% post_url 2020-04-17-best-order-of-elements-on-landing-page %}
 
 Stay Sharp!
-
-_P.S. If you'd like help with these purchase interviews, [please reach out](mailto:pascal@hey.com?subject=Purchase+Interviews)._

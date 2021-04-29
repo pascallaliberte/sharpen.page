@@ -142,5 +142,3 @@ Just make sure you know the job-to-be-done each thing you have is hired to do, m
 With those insights, you'll be itching to go back to modelling, back to analytics. This time, you'll come back with a new dose of reality.
 
 Stay Sharp!
-
-_P.S. Want to see what it's like to be interviewed for a purchase story interview? I'm on the lookout for [recent purchasers to interview](/your-purchase-story) for the blog._
