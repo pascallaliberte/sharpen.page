@@ -27,9 +27,9 @@ defaults:
       path: ""
     values:
       image: 
-        path: /assets/images/a-product-sharpening-service.jpg
-        height: 400
-        width: 400
+        path: /assets/images/articles-about-buyer-psychology.jpg
+        height: 315
+        width: 600
 
 permalink: /:categories/:title/
 
