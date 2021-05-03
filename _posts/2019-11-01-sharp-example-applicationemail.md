@@ -126,8 +126,4 @@ This is a really great page. It's without fluff, it's [confidently in a long for
 
 Well done Garrett!
 
-_If this approach looks familiar, and you've heard about the [Pain-Dream-Fix format for landing pages made popular by Amy Hoy at Stacking the Bricks][pain-dream-fix], you're onto something: Garrett probably used Pain-Dream-Fix! Check soon for an article on how the Jobs-To-Be-Done Theory and Pain-Dream-Fix format go hand-in-hand._
-
-[pain-dream-fix]: https://stackingthebricks.com/how-i-increased-conversion-2-4x-with-better-copywriting/
-
 Stay Sharp!

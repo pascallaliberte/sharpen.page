@@ -182,5 +182,3 @@ Don't fall into that trap.
 So address anxieties, _then_ discover the surprising product that will emerge. You'll be surprised of how many features you didn't have to build, of the healthy price you're able to charge, and the raving fans you'll be creating.
 
 Stay sharp!
-
-_Hey, I realize this will cause you to wonder "well, that means I have to change my landing page completely then." Maybe, maybe not. Check out the [/review](/review) service I offer, or be on the lookout for a **[more affordable (yet fairly-priced) landing page review "product" coming soon](https://twitter.com/pascallaliberte/status/1322146027760177154)**._

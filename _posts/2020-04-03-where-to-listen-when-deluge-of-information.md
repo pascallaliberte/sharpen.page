@@ -157,6 +157,6 @@ If you've found people who made a purchase after a lot of deliberation, consider
 [non-consumption]: {% post_url 2018-12-17-universal-competitor %}
 [four-forces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
 
-Conducting purchase interviews is perhaps the most deliberate, intentful listening technique, but gets you to the core of the motivations for people who made an _actual_ purchase, getting you the evidence you're after. And if you've made such a surprising purchase recently, [I'd love to hear your purchase story](/your-purchase-story/).
+Conducting purchase interviews is perhaps the most deliberate, intentful listening technique, but gets you to the core of the motivations for people who made an _actual_ purchase, getting you the evidence you're after.
 
 Stay Sharp!

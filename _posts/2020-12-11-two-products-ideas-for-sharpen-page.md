@@ -41,7 +41,7 @@ I'm going to evaluate those two product ideas right in this article (my first sh
 So these two ideas came up:
 
 1. **Reports on Landing Pages of Popular Products (`$$` price range).** Detailed analysis of why the landing page works, parts of it that probably don't. The buyer would trust that in buying the report, they'll be learning about the lens of the visitor's mental back-and-forth to sharpen their own landing pages. Maybe announce it, only write the report if I have some pre-orders.
-2. **Landing Page Starter Kits (`$$-$$$` price range).** Build a unique starter kit every week or two, put it up for sale. Each kit is exclusive to 5-10 buyers only, which promises uniqueness. Each starter kit gives the buyer a head start on styling and copywriting. The kit will be a static-built page ready to be published on a free Netlify account. Will probably use Tailwind CSS. Most kits will probably be built as a [struggle-first landing pages](/struggle-first).
+2. **Landing Page Starter Kits (`$$-$$$` price range).** Build a unique starter kit every week or two, put it up for sale. Each kit is exclusive to 5-10 buyers only, which promises uniqueness. Each starter kit gives the buyer a head start on styling and copywriting. The kit will be a static-built page ready to be published on a free Netlify account. Will probably use Tailwind CSS. Most kits will probably be built as a struggle-first landing pages.
 
 ## Will the Ideas Clear the Forces of Progress?
 
@@ -246,7 +246,7 @@ Let me visualize how this fits in the next few months:
     potential upside
       Published my progress (built in public)
       Started with the idea that will fit best with the rest
-      of [what I offer](/offerings)
+      of what I offer
         <mark>Worked on selling landing page reports</mark>
 </pre>
 

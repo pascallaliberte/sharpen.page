@@ -158,7 +158,3 @@ If you've got a product with some recent buyers, one way to dig deeper is to int
 You'll then be in a good position to cut what doesn't work before it's too late.
 
 Stay Sharp!
-
----
-
-_P.S. If you'd like a run through a purchase interview and you've recently made a purchase you hesitated on making, [please let me know about it](/your-purchase-story/) and we'll conduct the interview on your own purchase story. For your time, you'll receive a $60 gift certificate._

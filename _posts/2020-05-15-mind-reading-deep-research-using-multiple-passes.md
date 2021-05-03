@@ -302,7 +302,7 @@ To those of you in the e-commerce business, all of these insights might for you 
 Here are some of the more interesting bits that I got from this exercise:
 
 1. **Retail therapy:** Customers go shop online as a way to blow off steam, which could signal a kind of baseline of online activity will remain throughout downturns.
-1. **Exhaustion causes shop owners to delay improving logistics, [interviewing customers](/understand), or analyzing traffic:** This might be an opportunity for some specialty informational products coupled with consulting service offerings.
+1. **Exhaustion causes shop owners to delay improving logistics, interviewing customers, or analyzing traffic:** This might be an opportunity for some specialty informational products coupled with consulting service offerings.
 1. **Apps:** There might be some apps (and plugins) that would normally not get much attention, but that are now being tried for the new situation. I'd dig in the [Shopify community site][shopify-community] for online discussions of people describing struggles around customizing their stores with those apps. I'd look into payment options, installments, subscriptions and the site integration workflow around those.
 
 [shopify-community]: https://community.shopify.com/
@@ -311,6 +311,6 @@ Here are some of the more interesting bits that I got from this exercise:
 
 Whether you're just starting to get into research, or whether you want to up your mind-reading game, this multi-pass research style is what will get you insightful insights, deeper depths, and eventually, maybe some richer riches!
 
-To get good at these techniques, be sure to check out the [30x500 course][30x500] from Amy Hoy and Alex Hillman. Or if you're ready to do more research but you got too much on your plate, [maybe I can lend a hand](/understand).
+To get good at these techniques, be sure to check out the [30x500 course][30x500] from Amy Hoy and Alex Hillman.
 
 Stay sharp!

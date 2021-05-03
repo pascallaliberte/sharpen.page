@@ -27,7 +27,7 @@ excerpt:
 
 We're fans here of creating landing pages that have a lot of text, that start off by mirroring to the visitor the struggle they're going through, and that use nice styling to make the page easy to scan, scroll, and read.
 
-I call this type of landing page [struggle-first](/struggle-first) pages.
+I call this type of landing page struggle-first pages.
 
 Let's see if we can reproduce one of my own struggle-first pages using the following no-code site builders. (We can.)
 
@@ -37,9 +37,9 @@ Let's see if we can reproduce one of my own struggle-first pages using the follo
 
 ## The Page We'll Be Reproducing And What I Was Looking For
 
-The page I wanted to reproduce was the one for my [**/understand** service offering](/understand).
+The page I wanted to reproduce was the one for my old **/understand** service offering.
 
-[![Full page screenshot of the /understand service offering page](/assets/images/posts/2020-12-04-no-code-site-builders-for-struggle-first-landing-pages-01.jpg)](/understand)
+![Full page screenshot of the /understand service offering page](/assets/images/posts/2020-12-04-no-code-site-builders-for-struggle-first-landing-pages-01.jpg)
 {: .img-zoom }
 
 Most no-code site builders are good at making typical three column layouts, a big hero at the top, fixed-width text, image+text sections.
@@ -68,6 +68,6 @@ Overall all three tools did okay.
 
 ---
 
-So overall I was pretty impressed with these no-code tools. Hope you give a [struggle-first](/struggle-first) layout a shot for your next landing page.
+So overall I was pretty impressed with these no-code tools. Hope you give a struggle-first layout a shot for your next landing page.
 
 Stay sharp.

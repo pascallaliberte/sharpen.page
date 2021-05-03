@@ -65,7 +65,7 @@ Surprising response! Providing instructions/advice, that's a conflict of interes
 
 [non-consumption]: {% post_url 2018-12-17-universal-competitor %}
 
-But for me, I don’t expect every interested visitor to end up in a sale. I don’t want to jack those conversion numbers. I know that people will likely want to [do it themselves first](/diy).
+But for me, I don’t expect every interested visitor to end up in a sale. I don’t want to jack those conversion numbers. I know that people will likely want to do it themselves first.
 
 The value of hiring me, however, is different. “I don’t want to learn the finer details. Past a certain level, I want a professional”. “I don’t have time for this, I just want it done”. “There’s an urgency, can you help out?”
 

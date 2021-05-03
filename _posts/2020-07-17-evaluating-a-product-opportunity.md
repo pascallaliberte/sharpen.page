@@ -127,11 +127,9 @@ And if you find people **who cobbled-together a set of imperfect products to get
 
 ---
 
-So those are the [struggle-first](/struggle-first) tactics for validating a product idea. With that, you'll get [confidence][confidence] that you've got something solid, you'll be ahead of the competition because of your deep understanding of the buyer's true motivations, and you'll have what you need to [create a marketing page that makes visitors say "I feel understood"][best-order].
+So those are the struggle-first tactics for validating a product idea. With that, you'll get [confidence][confidence] that you've got something solid, you'll be ahead of the competition because of your deep understanding of the buyer's true motivations, and you'll have what you need to [create a marketing page that makes visitors say "I feel understood"][best-order].
 
 [confidence]: {% post_url 2019-04-04-product-ready-to-launch %}
 [best-order]: {% post_url 2020-04-17-best-order-of-elements-on-landing-page %}
 
 Stay Sharp!
-
-_P.S. If you'd like help with these purchase interviews, [please reach out](mailto:pascal@hey.com?subject=Purchase+Interviews)._

@@ -247,7 +247,3 @@ Which, really, should now become your first statement on the list:
 </pre>
 
 Stay sharp!
-
----
-
-P.S. Now that we've introduced [_Mental Models_ (Part 1)][part-1] and _Have-Done Lists_ (Part 2, above), we're set for the act of _tweaking_ our thoughts **so we can calibrate them against outside advice**. In Part 3, that's what we'll do: we'll be incorporating other people's sharp advice.

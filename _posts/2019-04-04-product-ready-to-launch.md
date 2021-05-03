@@ -103,7 +103,7 @@ So with a little bit of theory, you can more easily answer questions like these:
 * Should I charge right away or should I give my product for free?
 * Will my buyers pass the word about my product?
 
-This blog has [articles](/articles) to help illuminate a lot of the variables needed to answer these. They're all based around the Jobs-To-Be-Done Theory of Buyer Behavior.
+This blog has [articles](/) to help illuminate a lot of the variables needed to answer these. They're all based around the Jobs-To-Be-Done Theory of Buyer Behavior.
 
 **Here's what we're confident we can say about the buyer's behavior by applying the theory:**
 

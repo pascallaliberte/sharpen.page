@@ -85,9 +85,3 @@ Then you will...
 So be cool. And spot the hard struggles. That's the gold you're looking for.
 
 Stay Sharp!
-
----
-
-P.S. If you've got a few purchases of your product (or service) and you want to spot the _actual_ struggle that started it all, please be sure to check out [this interview technique on getting your buyer's purchase stories][purchase-story].
-
-[purchase-story]: {% post_url 2019-02-08-digging-purchase-story-for-gold %}

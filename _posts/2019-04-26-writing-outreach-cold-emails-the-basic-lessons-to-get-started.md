@@ -72,7 +72,7 @@ You'd be writing an email that's more like this:
 
 ---
 
-For those of you who've been reading the other posts on this blog, you know this user-first approach goes hand-in-hand with the [Jobs-To-Be-Done ideas (see all the articles written so far)](/articles). Specifically, this focus on the reader's perspective is a lot about [serving a specific situation they currently going through][try-when].
+For those of you who've been reading the other posts on this blog, you know this user-first approach goes hand-in-hand with the [Jobs-To-Be-Done ideas (see all the articles written so far)](/). Specifically, this focus on the reader's perspective is a lot about [serving a specific situation they currently going through][try-when].
 
 [try-when]: {% post_url 2019-02-21-try-when %}
 

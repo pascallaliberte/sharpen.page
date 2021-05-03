@@ -114,5 +114,3 @@ I didn't set out to become a better buyer by choosing to learn about Jobs-to-be-
 And buying right has this one extra benefit: I'm making tons of progress.
 
 Stay sharp!
-
-_P.S. If you've recently made a purchase for which you deliberated, [I'd love to hear about it](/your-purchase-story). I'll even pay you for your time. The reason behind the offer? I might blog about your story (names removed)._

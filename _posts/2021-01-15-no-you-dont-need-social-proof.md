@@ -124,7 +124,7 @@ The "when" exercice we covered above is surely one great use of your time for wh
 
 With that knowledge, there's something else you can add to your landing page that **does the job of testimonials**.
 
-**Include examples of struggle in your copy.** Make it a [struggle-first landing page](/struggle-first). It doesn't have to be citing anybody specifically. Just make it convey that you understand the visitor's struggle so they answer with "I feel understood!" and respond by scrolling to know more.
+**Include examples of struggle in your copy.** Make it a struggle-first landing page. It doesn't have to be citing anybody specifically. Just make it convey that you understand the visitor's struggle so they answer with "I feel understood!" and respond by scrolling to know more.
 
 > You've been burned by building a whole product, investing a ton of time, and now you've got to let it go. Not enough interest.
 
@@ -134,7 +134,7 @@ With that knowledge, there's something else you can add to your landing page tha
 
 > I see all these people selling small info products, selling them at $30 a pop, and making some good revenue. I want in.
 
-With a [struggle-first page](/struggle-first) like this, you'll get people talking, buying, reporting back and telling others. You'll then have plenty of material for displaying the good social proof on your site.
+With a struggle-first page like this, you'll get people talking, buying, reporting back and telling others. You'll then have plenty of material for displaying the good social proof on your site.
 
 In the meantime, no need to rush to get that "social proof" checkbox checked off. Just focus on the visitor's mental back and forth. There's plenty other things you can do to add appeal, reduce anxieties, and help your visitor make a decision to fix their struggle, with your thing.
 

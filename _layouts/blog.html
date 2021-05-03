@@ -6,9 +6,11 @@ class: blog
   
   <h1>{{ page.title }}</h1>
   
-  <p>Read how to <mark>sharpen your own stuff</mark> with these articles on the Jobs-to-be-done theory, copywriting, putting together service packages, conducting purchase interviews, and more.</p>
+  <p>Hey, thanks for dropping by. Here's an archive of the articles that were published on this blog, between November 2018 and March 2021. I decided to stop writing the blog for now and might start back up again later.</p>
+    
+  <p>&mdash; <a href="https://pascallaliberte.me/">Pascal</a></p>
   
-  <p>Published occasionally. <a href="#be-notified">Be notified</a> when new ones are out.</p>
+  <hr>
   
   <ol reversed start="{{ site.posts.size }}" style="margin-top: 1.5em;" class="post-list">
   {% for post in site.posts limit:5 %}
@@ -28,5 +30,3 @@ class: blog
   {% endfor %}
   </ol>
 </div>
-
-{% include email-sign-up-form.html context="articles-list" %}

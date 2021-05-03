@@ -97,7 +97,7 @@ And so, to show what I mean, here are more examples of wordy pages.
 
 ---
 
-These are also great examples of [Struggle-First pages](/struggle-first). See how the pages **start by telling the visitor how much they understand what they're going through?** If the thing your building respond to a real struggle, be confident about ditching those unecessary pictures, and go with a wordy page.
+These are also great examples of Struggle-First pages. See how the pages **start by telling the visitor how much they understand what they're going through?** If the thing your building respond to a real struggle, be confident about ditching those unecessary pictures, and go with a wordy page.
 
 People come to your page to [make progress][slimy-jerk], so help them do that.
 

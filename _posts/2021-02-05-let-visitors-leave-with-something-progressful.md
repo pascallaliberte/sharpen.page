@@ -81,7 +81,3 @@ If people visiting your site are tempted to figure out something on their own be
 [non-consumption]: {% post_url 2018-12-17-universal-competitor %}
 
 Stay Sharp!
-
-_P.S. I've been running a landing page review meetup. In fact, I found out about Payzip when Jaymie joined the first one. I hope you can [join one of the next meetups too][review-meetup-signup]._
-
-[review-meetup-signup]: https://buttondown.email/sharpen.page

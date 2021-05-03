@@ -137,10 +137,10 @@ So no need to count on home-runs. Have several at-bats.
 
 No need to try to feed each interaction into that one funnel. No need to minimize drop-offs at all costs.
 
-Just make sure you know the job-to-be-done each thing you have is hired to do, make them solidly answer those jobs, and boom. [Value-ladder](/value-ladders).
+Just make sure you know the job-to-be-done each thing you have is hired to do, make them solidly answer those jobs, and boom. [Value-ladder][value-ladder].
+
+[value-ladder]: {% post_url 2020-01-31-productized-services-variety-of-skills-to-value-ladder %}
 
 With those insights, you'll be itching to go back to modelling, back to analytics. This time, you'll come back with a new dose of reality.
 
 Stay Sharp!
-
-_P.S. Want to see what it's like to be interviewed for a purchase story interview? I'm on the lookout for [recent purchasers to interview](/your-purchase-story) for the blog._

@@ -112,7 +112,7 @@ Is there a way to build something different, **worse than what most people are e
 * **Instead of a software**, which will take a long time to build and get right, can you sell a pre-populated spreadsheet?
 * **Instead of a physical product** that will cost a lot to run for its numerous parts, can you build a small run that uses fewer components and still does the job well?
 * **Instead of a course**, which takes a while to watch through and even more effort to change my life from the teachings, can you build a very small learning delivery system that's meant to be replayed often, but always say the same basic, reinforced idea?
-* **Instead of building a nice, spiffy landing page like everybody else is doing**, can you build a [mostly-text landing page][mostly-text] that pushes away everyone that doesn't experience the struggle your product is there to serve, but [gets "I feel understood!" reactions](/struggle-first) from visistors who are experiencing the struggle?
+* **Instead of building a nice, spiffy landing page like everybody else is doing**, can you build a [mostly-text landing page][mostly-text] that pushes away everyone that doesn't experience the struggle your product is there to serve, but gets "I feel understood!" reactions from visistors who are experiencing the struggle?
 
 [mostly-text]: {% post_url 2020-05-08-too-much-text-what-to-do-about-that-feedback %}
 
@@ -151,7 +151,3 @@ There's bound to be at least one way, one through-line to go through that will m
 And maybe that combination will seem like it'll make a worse product. But if the Forces of Progress clear out, you'll know you might be onto something.
 
 Stay sharp!
-
----
-
-_What "Worse Product" am I building? Something like a custom video review of your site, only, [it's the same video for everyone buying it](https://twitter.com/pascallaliberte/status/1316907874128482305). More on this soon._

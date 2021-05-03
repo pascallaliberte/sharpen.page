@@ -77,8 +77,6 @@ Even if you don't have a freemium version of your product, this also applies if 
 
 [newsletter]: {% post_url 2019-01-17-product-and-newsletter-and-professional-services %}
 
-Be on the lookout soon for an article on **how to select which paid customer you talk to**.
-
 Stay Sharp!
 
 ---

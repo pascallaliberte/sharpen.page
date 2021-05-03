@@ -63,7 +63,7 @@ Those might be some good benchmarks to use for judging a headline, but I rely on
 
 ## Struggle-First Headlines
 
-I've written about the [Struggle-First copywriting style](/struggle-first) before. It's useful especially [when your audience doesn't have a pre-established mindset](/struggle-first/vs-features-benefits/) about your product yet.
+I've written about the Struggle-First copywriting style before ([see the list of articles](/)). It's useful especially when your audience doesn't have a pre-established mindset about your product yet.
 
 The trick: connect not so much with their [aspiration][level-3-sharpening] (here's what you'll get), but more **with what they're going through right before coming to the site** (this is what you're going through, correct?)
 
