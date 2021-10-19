@@ -1,0 +1,28 @@
+.announcement {
+  width: 100vw;
+  background: $color-quaternary;
+  text-align: center;
+  font-size: rem(20px);
+  color: black;
+  position: relative;
+  z-index: 10;
+  padding: rem(14px 25px 15px);
+  font-weight: bold;
+  
+  a {
+    &, &:hover, &:active {
+      color: white;
+    }
+    
+    display: inline-block;
+    padding: rem(0 10px);
+    background: $color-primary;
+    border-radius: rem(4px);
+    font-style: italic;
+  }
+  
+  @media (min-width: ($reference-width-xs-until + 1px)) {
+    margin-left: -1.5rem;
+    margin-right: -1.5rem;
+  }
+}

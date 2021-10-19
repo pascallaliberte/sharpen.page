@@ -6,6 +6,7 @@
   </head>
 
   <body class="{{ page.class | default: layout.class | default: '' }}">
+    {% include announcement.html %}
 
     <main id="#top">
     {% include navigation.html %}
