@@ -138,9 +138,8 @@ li {
   }
 }
 
-.intro {
-  font-family: $tertiary-font-family;
-  font-size: rem(40px);
+.page .main-content .intro {
+  font-size: rem(30px);
   @media only screen and (max-width: $reference-width-xs-until) {
     line-height: 1.05;
   }
