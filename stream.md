@@ -2,6 +2,7 @@
 title: Live Streams, Every Tuesday at 11am Eastern
 layout: page
 permalink: stream/
+image: /assets/images/live-stream-on-landing-pages.jpg
 ---
 
 [Join me on Twitch](https://twitch.tv/pascallaliberte) for live streams on buyer behavior, landing pages, and software product strategy, every Tuesday at 11am Eastern.
