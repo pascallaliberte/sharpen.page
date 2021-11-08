@@ -64,7 +64,7 @@ Here are some **example tweets** you can use to spread the word about these live
 
 ### Q: Am I too late to get my page reviewed?
 
-Every week, I look at some new pages. It's not too late to get your page in, and in fact, you're probably going to be one of the first ones ([I'm just starting](https://twitter.com/search?q=http%3A%2F%2Fsharpen.page%2Fstream&src=typed_query&f=live)).
+Every week, I look at some new pages. It's not too late to get your page in, and in fact, you're probably going to be one of the first ones ([I'm just starting](https://twitter.com/search?q=https%3A%2F%2Fsharpen.page%2Fstream&src=typed_query&f=live)).
 
 ### Q: Are you going to be doing these for a long time?
 
