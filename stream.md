@@ -70,7 +70,7 @@ Every week, I look at some new pages. It's not too late to get your page in, and
 
 For sure until mid-December, maybe have another one close to Christmas, maybe start again in January. Who knows.
 
-### Q: Does my page have to be finished for your review it?
+### Q: Does my page have to be finished for you to review it?
 
 If you'd like your page reviewed, it really doesn't have to be perfect. A skeleton of a page will do, some sample copy will do, an all-text version is fine too.
 
