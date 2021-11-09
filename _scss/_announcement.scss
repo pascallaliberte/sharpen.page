@@ -9,16 +9,33 @@
   padding: rem(14px 25px 15px);
   font-weight: bold;
   
-  a {
+  a.btn {
     &, &:hover, &:active {
       color: white;
     }
     
     display: inline-block;
-    padding: rem(0 10px);
     background: $color-primary;
-    border-radius: rem(4px);
     font-style: italic;
+    text-decoration: none;
+    
+    padding: 0 0.5em 0.05em 0.5em;
+    border-radius: rem(2px);
+    text-shadow: none;
+    box-shadow: -2px -2px 0px rgba(255, 255, 255, 1);
+    
+    &:hover, &:focus {
+      background-color: darken($color-primary, 10%);
+    }
+  }
+  
+  a {
+    color: darken($color-primary, 10%);
+    text-decoration: underline;
+    
+    &:hover, &:focus {
+      color: $color-primary;
+    }
   }
   
   @media (min-width: ($reference-width-xs-until + 1px)) {
