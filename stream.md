@@ -18,5 +18,9 @@ In season 1, I was doing landing page reviews and I'm thinking of making those r
 
 Thursdays at 11am Eastern, 30 minutes. Hope you can join.
 
+---
+
+**And I've got a second stream for Rails devs.** Tuesdays at 3:30pm, I'll be practicing getting better at Rails. [This other one will be on YouTube Live](https://www.youtube.com/channel/UCo2CttXwSgcaEmrTsALqS-A/live).
+
 Stay Sharp!  
 [@pascallaliberte](https://twitter.com/pascallaliberte)
