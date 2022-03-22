@@ -10,7 +10,7 @@ image: /assets/images/live-stream-on-landing-pages.jpg
 
 ---
 
-In Season 3 (Mar 24 - Aril 28), I'm **deliberating on whether I should finish and launch** a small book-reading (groups) app.
+In Season 3 (Mar 24 - Aril 28), I'm deliberating on whether I should finish and launch **a small book-reading (groups) app**.
 
 **Will the app work?** Will people buy? Is it the answer to a [hard struggle][struggle]? Does it clear the [Forces of Progress][four-forces]?
 
