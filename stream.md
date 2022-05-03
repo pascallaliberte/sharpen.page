@@ -1,28 +1,22 @@
 ---
-title: Live Streams, Every Thursday at 11am Eastern
+title: Live Streams
 layout: page
 permalink: stream/
-image: /assets/images/live-stream-on-landing-pages.jpg
+image: /assets/images/live-stream-on-landing-pages-offline.jpg
 ---
 
-[Join me on Twitch](https://twitch.tv/pascallaliberte) for live streams on crafting some landing pages, every Thursday at 11am Eastern.
+Thanks for dropping by. My live streams are currently off and I might resume them in the future. You can find me on [Twitter][twitter] to be notified if I start them again.
 {: .intro }
 
 ---
 
-In Season 3 (Mar 24 - Aril 28), I'm deliberating on whether I should finish and launch **a small book-reading (groups) app**.
+## Past seasons:
 
-**Will the app work?** Will people buy? Is it the answer to a [hard struggle][struggle]? Does it clear the [Forces of Progress][four-forces]?
-
-[struggle]: {% post_url 2019-09-06-hard-struggle-required %}
-[four-forces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
-
-Thursdays at 11am Eastern, 30 minutes.  
-It'll be good. Don't miss it.
-
----
-
-**And I've got a second stream for Rails devs.** Tuesdays at 3:30pm, I'll be practicing getting better at Rails, Hotwire. [This other one will be on YouTube Live](https://www.youtube.com/channel/UCo2CttXwSgcaEmrTsALqS-A/live). In this one, I'm actually building the book-reading (groups) app.
+* In Season 3 (Mar 24 - Apr 28, 2022), I worked on the landing page for [readwith.club](https://readwith.club), a small app to help sell your reading notes from a book you're reading.
+* In Season 2 (Jan 27 - Mar 3, 2022), I put together the langing page for [stimulus.pascal.works](https://stimulus.pascal.works), a consultancy for those building an app and struggling with a Stimulus JS problem.
+* In Season 1 (Fall of 2021), I was reviewing langing pages of other apps, **something I'm thinking of restarting soon.**
 
 Stay Sharp!  
-[@pascallaliberte](https://twitter.com/pascallaliberte)
+[@pascallaliberte][twitter]
+
+[twitter]: https://twitter.com/pascallaliberte
