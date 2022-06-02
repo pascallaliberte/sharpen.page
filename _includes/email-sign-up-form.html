@@ -13,7 +13,15 @@
       Get new articles like this one.
     </h2>
     
-    <p>To learn to <mark>sharpen your own stuff</mark>.</p>
+    <p>To learn to <mark>sharpen your own products</mark>.</p>
+    
+    {% elsif include.context == "home" %}
+    
+    <h2 style="text-transform: uppercase">
+      Get notified of new stuff: new services, new articles.
+    </h2>
+    
+    <p>To learn to <mark>sharpen your own products</mark>. Published occasionally.</p>
     
     {% elsif include.context == "articles-list" %}
     
@@ -21,7 +29,7 @@
       Be Notified for More Articles Like These...
     </h2>
     
-    <p>To learn to <mark>sharpen your own stuff</mark>. Published occasionally.</p>
+    <p>To learn to <mark>sharpen your own products</mark>. Published occasionally.</p>
     
     {% endif %}
     
