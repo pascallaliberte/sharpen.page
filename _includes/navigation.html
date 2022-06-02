@@ -19,12 +19,19 @@
     </div>
     {% endif %}
     <a href="{{ "/" | relative_url }}" class="navigation__tagline tagline on-{{ page.layout }}" data-behavior="navigation__tagline">
-      {% include tagline-product.html %}
+      {% include tagline-service.html %}
     </a>
     <div class="navigation__summary">
       <span class="desktop-only">For sharpening your understanding of the buyer's motivation, your marketing copy and your feature set.</span>
-      <span class="navigation__summary-byline desktop-only">by <a href="https://pascallaliberte.me/" class="text-link">Pascal Laliberté</a></span>
+      <span class="navigation__summary-byline desktop-only"><span class="desktop-only">A service</span> by <a href="https://pascallaliberte.me/" class="text-link">Pascal Laliberté</a></span>
     </div>
+  </div>
+  <div class="navigation__main">
+    
+    <div style="margin-bottom: 1em;">
+      <a class="navigation__link navigation__link-articles text-link" href="/articles/"><strong>Articles</strong></a>
+    </div>
+    
   </div>
   
 </nav>
