@@ -15,7 +15,7 @@ Hey {% include avatar.html %} Pascal here, and **I'm starting things up again wi
 
 And you'd like a **product strategy/positioning sidekick**.
 
-I'm going to make some services offerings available soon.
+I'm going to make some service offerings available soon.
 
 I publish [product tweets on Twitter][twitter], but if you don't want to miss an announcement or new articles as they (infrequently) come out, sign up below.
 
