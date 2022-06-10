@@ -92,16 +92,16 @@ That's what's in the books for you, once you **learn to get in the mind of your 
 
 <div markdown="1" class="home-service-offering-summary">
 
-### _Option #1_<br>Your Product Sharpening Lead
+### _Option #1_<br>Put the Product Back on Track
 
-I'll run product positioning and product leadership for you over multiple months part-time. I'll run customer interviews, form hypotheses, prepare changes to the app for your developers to implement and tweak the landing pages.
+I'll lead improvements to the product positioning over multiple months. I'll run customer interviews, form hypotheses, prepare changes to the app for your developers to implement and tweak the landing pages.
 
-USD $5,300 per month
+USD $10k+ with revenue share, multi-month project.
 
 _Start here:_{: .home-service-offering-start-here }  
 [Two-day Discovery Exercise, USD $425](#){: .cta-btn } 
 
-Over the next week, I'll initiate the discovery exercise using a ZipMessage thread (async video + text). Subject to the [Sharpen.page Master Agreement](#).
+Over the next week, I'll initiate the discovery exercise by creating a page where we'll have our discussion (async video + text). Subject to the [Sharpen.page Master Agreement](#).
 {: .home-service-offering-terms }
 
 </div>
@@ -123,26 +123,24 @@ We'll discuss your strategy over async video exchanges (using ZipMessage) and I'
 _Start here:_{: .home-service-offering-start-here }  
 [Start this week + 3 next weeks, USD $2,100](#){: .cta-btn }
 
-After pre-payment, you'll receive an invitation to a strategy thread over ZipMessage. Subject to the [Sharpen.page Master Agreement](#).
+After pre-payment, you'll receive an invitation to a page where we'll have hold our coaching discussion. Subject to the [Sharpen.page Master Agreement](#).
 {: .home-service-offering-terms }
 
 </div>
 
 <div markdown="1" class="home-service-offering-summary">
 
-### _Option #3_<br>Interview Review x4
+### _Option #3_<br>One Week for Your Landing Page
 
-**Over a week, I'll review 4 interview recordings** you conducted and provide feedback.
+**Over a week, I will:**
 
-* Feedback on the interview questions
-* Help interpret the buyer's responses
-* Uncover insights and potential next steps
-* **Plus: a short review of your landing page given the findings**
+* Help get a sense of what the product does for your buyers (help formulate some jobs-to-be-done)
+* Give feedback on your product landing page and marketing taglines
 
 _Start here:_{: .home-service-offering-start-here }  
 [Reserve Week of June 13-17, USD $800](#){: .cta-btn }
 
-After pre-payment, I'll create four separate ZipMessage threads where you'll be able to upload your interview recordings. Subject to the [Sharpen.page Master Agreement](#).
+After pre-payment, I'll create a page that will hold our discussion (messages and video screen shares). Subject to the [Sharpen.page Master Agreement](#).
 {: .home-service-offering-terms }
 
 </div>
