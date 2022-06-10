@@ -75,26 +75,76 @@ You've put in some effort, but you're stuck not knowing which `h1` to use.
 
 ## Let's Say We're in the Future
 
-Imagine a situation like this, where you've worked on sharpening your product and your skills as a product person.
+You're celebrating that:
 
-You're in the future, you're celebrating that:
-
-* That marketing page has clearly been communicating **"we understand what you're going through"** and people are signing up, upgrading with confidence, **keeping their subscription going for a long time**...
-* You've discovered what _causes_ someone to buy your product, **which of the features** is really supporting the _"job"_ your product is being _"hired"_ to do...
 * You've upgraded your strategic direction with **a new vocabulary** to describe how your customers need help getting _progress_ on their struggles...
 * You've grown to have a **deeper understanding of your buyers** because you heard some insightful purchase stories from some of your buyers...
-* You can now say you _understand_ your buyer's motivations, you _know_ what's going on, you _have_ what you need to prioritize the next steps in your product's development.
+* You've discovered what _causes_ someone to buy your product, **which of the features** is really supporting the _"job"_ your product is being _"hired"_ to do...
+* You can now say you _understand_ your buyer's motivations, you _know_ what's going on, you _have_ what you need to **prioritize the next steps** in your product's development.
+* Your marketing pages have clearly been communicating **"we understand what you're going through"** and people are signing up, upgrading with confidence, **keeping their subscription going for a longer time**...
 
-That's what's in the books for you, once you learn to get in the mind of your buyers. **Let me help you with that.**
+That's what's in the books for you, once you **learn to get in the mind of your buyers**. <mark>Let me help you with that</mark>.
 
 ---
 
-## Services I Offer
+## Services I Offer (3 Options)
 {: #services }
 
-Three services, with an up-front price for options #2 and #3
+<div markdown="1" class="home-service-offering-summary">
 
-### Option #1
+### _Option #1_<br>Your Product Sharpening Lead
+
+I'll run product feature sharpening and positioning experiments with you over multiple months. I'll run customer interviews, form hypotheses, tweak your app and landing pages (I develop in Rails), and track performance.
+
+**Minimum USD $10k + some revenue share.**
+
+_Start here:_{: .home-service-offering-start-here }  
+[Two-day Discovery Exercise, USD $425](#){: .cta-btn } 
+
+Over the next week, I'll initiate the exercise using a ZipMessage thread (async video + text). Subject to the [Sharpen.page Master Agreement](#).
+{: .home-service-offering-terms }
+
+</div>
+
+<div markdown="1" class="home-service-offering-summary">
+
+### _Option #2_<br>JTBD Coach for 3 weeks
+
+**Over 3 weeks, some part-time availability** to coach you on applying the Jobs-to-be-done Theory to your product strategy.
+
+I can help:
+* Review some interview recordings
+* Identify the struggling moments your software is hired to resolve
+* Hypothesize on the broader aspirations (the progress) your customers wish to attain
+* Map out the anxieties they experience while deliberating a purchase.
+
+We'll discuss your strategy over async video exchanges (using ZipMessage) and I'll provide a 2-working-day turnaround time on our exchanges over the 3 weeks.
+
+_Start here:_{: .home-service-offering-start-here }  
+[Start this week + 3 next weeks, USD $2,100](#){: .cta-btn }
+
+After pre-payment, you'll receive an invitation to a strategy thread over ZipMessage. Subject to the [Sharpen.page Master Agreement](#).
+{: .home-service-offering-terms }
+
+</div>
+
+<div markdown="1" class="home-service-offering-summary">
+
+### _Option #3_<br>Interview Review x4
+
+**Over a week, I'll review 4 interview recordings** you conducted and provide feedback.
+
+* Feedback on the interview questions
+* Help interpret the buyer's responses
+* Uncover insights and potential next steps
+
+_Start here:_{: .home-service-offering-start-here }  
+[Reserve Week of June 13-17, USD $800](#){: .cta-btn }
+
+After pre-payment, I'll create four separate ZipMessage threads where you'll be able to upload your interview recordings. Subject to the [Sharpen.page Master Agreement](#).
+{: .home-service-offering-terms }
+
+</div>
 
 Stay sharp!
 
