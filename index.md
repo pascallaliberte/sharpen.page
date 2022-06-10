@@ -94,14 +94,14 @@ That's what's in the books for you, once you **learn to get in the mind of your 
 
 ### _Option #1_<br>Your Product Sharpening Lead
 
-I'll run product feature sharpening and positioning experiments with you over multiple months. I'll run customer interviews, form hypotheses, tweak your app and landing pages (I develop in Rails), and track performance.
+I'll run product positioning and product leadership for you over multiple months part-time. I'll run customer interviews, form hypotheses, prepare changes to the app for your developers to implement and tweak the landing pages.
 
-**Minimum USD $10k + some revenue share.**
+USD $5,300 per month
 
 _Start here:_{: .home-service-offering-start-here }  
 [Two-day Discovery Exercise, USD $425](#){: .cta-btn } 
 
-Over the next week, I'll initiate the exercise using a ZipMessage thread (async video + text). Subject to the [Sharpen.page Master Agreement](#).
+Over the next week, I'll initiate the discovery exercise using a ZipMessage thread (async video + text). Subject to the [Sharpen.page Master Agreement](#).
 {: .home-service-offering-terms }
 
 </div>
@@ -137,6 +137,7 @@ After pre-payment, you'll receive an invitation to a strategy thread over ZipMes
 * Feedback on the interview questions
 * Help interpret the buyer's responses
 * Uncover insights and potential next steps
+* **Plus: a short review of your landing page given the findings**
 
 _Start here:_{: .home-service-offering-start-here }  
 [Reserve Week of June 13-17, USD $800](#){: .cta-btn }
