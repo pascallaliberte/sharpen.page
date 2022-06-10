@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Jobs-to-be-done Coaching
+# Jobs-to-be-done Consulting
 
 For sharpening your understanding of the buyer's motivation, your marketing copy and your feature set.
 
@@ -13,8 +13,8 @@ For sharpening your understanding of the buyer's motivation, your marketing copy
 I'm {% include avatar.html %} Pascal Laliberté, and **I help software founders like you <mark>get into the minds of your buyers</mark>**.
 
 * <span>&hellip;</span> when your buyers aren't responding, **despite your product's new features**;
-* <span>&hellip;</span> when your **customer interviews** are hit and miss;
 * <span>&hellip;</span> when your **landing page and your product positioning** aren't working;
+* <span>&hellip;</span> when your **customer interviews** are hit and miss;
 * <span>&hellip;</span> when your product just isn't sharp enough;
 {: .home-situations-summary }
 
@@ -26,17 +26,6 @@ I'm {% include avatar.html %} Pascal Laliberté, and **I help software founders 
 {: .maybe-heading }
 
 You got there by doing the right thing. **You listened to your customers** and built what they asked for. But despite building the stuff people asked, buyers aren't buying like they used to.
-
-
-
-## _Maybe it's that_ <mark>Your customer interviews</mark> are hit and miss…
-{: .maybe-heading }
-
-You've conducted some customer interviews, and you got some good points, but you just don't feel like you got to the good insights like you hoped.
-
-Maybe your buyers are different than what you originally thought they'd be. You'd like to dig deeper.
-
-You've started talking to your buyers. But you don't think you're getting the whole story. **You want to _understand_ what's going on.** And you no longer know which questions to ask.
 
 
 
@@ -58,6 +47,17 @@ You've put in some effort, but you're stuck not knowing which `h1` to use.
 </div>
 
 **You did your best to explain what the software does**, why it would be beneficial. Target market, target problem. You've removed everything that wasn't helping, keep things simple and clean. But what's missing?
+
+
+
+## _Maybe it's that_ <mark>Your customer interviews</mark> are hit and miss…
+{: .maybe-heading }
+
+You've conducted some customer interviews, and you got some good points, but you just don't feel like you got to the good insights like you hoped.
+
+Maybe your buyers are different than what you originally thought they'd be. You'd like to dig deeper.
+
+You've started talking to your buyers. But you don't think you're getting the whole story. **You want to _understand_ what's going on.** And you no longer know which questions to ask.
 
 
 
@@ -87,14 +87,16 @@ That's what's in the books for you, once you **learn to get in the mind of your 
 
 ---
 
-## Services I Offer (3 Options)
+## Services I Offer:
 {: #services }
+
+3 options...
 
 <div markdown="1" class="home-service-offering-summary">
 
 ### _Option #1_<br>Put the Product Back on Track
 
-I'll lead improvements to the product positioning over multiple months. I'll run customer interviews, form hypotheses, prepare changes to the app for your developers to implement and tweak the landing pages.
+I'll lead improvements to the product positioning over multiple months. I'll run customer interviews, form hypotheses, prepare changes to the app for your developers to implement, tweak the landing pages and track performance.
 
 USD $10k+ with revenue share, multi-month project.
 
@@ -113,15 +115,16 @@ Over the next week, I'll initiate the discovery exercise by creating a page wher
 **Over 3 weeks, some part-time availability** to coach you on applying the Jobs-to-be-done Theory to your product strategy.
 
 I can help:
-* Review some interview recordings
 * Identify the struggling moments your software is hired to resolve
 * Hypothesize on the broader aspirations (the progress) your customers wish to attain
 * Map out the anxieties they experience while deliberating a purchase.
+* Review your landing pages and taglines
+* Review some interview recordings
 
-We'll discuss your strategy over async video exchanges (using ZipMessage) and I'll provide a 2-working-day turnaround time on our exchanges over the 3 weeks.
+We'll discuss your strategy over async text and screen shares on a web page on which you'll be invite and I'll provide a 2-working-day turnaround time on our exchanges over the 3 weeks.
 
 _Start here:_{: .home-service-offering-start-here }  
-[Start this week + 3 next weeks, USD $2,100](#){: .cta-btn }
+[Start this week, over next 3 weeks, USD $2,100](#){: .cta-btn }
 
 After pre-payment, you'll receive an invitation to a page where we'll have hold our coaching discussion. Subject to the [Sharpen.page Master Agreement](#).
 {: .home-service-offering-terms }
