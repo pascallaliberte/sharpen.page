@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Jobs-to-be-done Consulting
+# Jobs-to-be-done Consultant
 
 For sharpening your understanding of the buyer's motivation, your marketing copy and your feature set.
 
@@ -12,33 +12,32 @@ For sharpening your understanding of the buyer's motivation, your marketing copy
 
 I'm {% include avatar.html %} Pascal Laliberté, and **I help software founders like you <mark>get into the minds of your buyers</mark>**.
 
-* <span>&hellip;</span> when your buyers aren't responding, **despite your product's new features**;
+* <span>&hellip;</span> when your customers continue to cancel, **despite your product's new features**;
 * <span>&hellip;</span> when your **landing page and your product positioning** aren't working;
 * <span>&hellip;</span> when your **customer interviews** are hit and miss;
 * <span>&hellip;</span> when your product just isn't sharp enough;
 {: .home-situations-summary }
 
+I offer three levels of engagement: **Product Rescue** (multi-month), **Product Coach for 3 weeks**, or **One Week for Your Landing Page**.
+
 [Jump down to Services I Offer](#services){: .cta-btn }
 
 </div>
 
-## _Maybe it's that_ <mark>Your buyers aren't responding</mark>, despite the new features you're building…
+## _Maybe it's that_ <mark>Your customers continue to cancel</mark>, despite the new features you're building…
 {: .maybe-heading }
 
 You got there by doing the right thing. **You listened to your customers** and built what they asked for. But despite building the stuff people asked, buyers aren't buying like they used to.
 
+You're getting churn. More churn than normal. **A sustained wave of cancellations**, and it's not just because of a market slowdown. Something needs to change _fast_.
+
+You were going to overhaul your product. Change your whole vision, risk it all. But **you decided instead to dig deeper into the minds of your customers**. That's why you're here: to slow down and to do things right.
 
 
 ## _Maybe it's that_ <mark>Your landing page and your product positioning</mark> aren't working…
 {: .maybe-heading }
 
-<div class="situation-quotes" markdown="1">
-
-> "I've followed some of the norms, but it doesn't seem to be _converting_."
-
-</div>
-
-You've put in some effort, but you're stuck not knowing which `h1` to use. 
+You've put in some effort, but you're stuck not knowing which `h1` to use, which features to highlight...
 
 <div class="situation-quotes" markdown="1">
 
@@ -48,7 +47,16 @@ You've put in some effort, but you're stuck not knowing which `h1` to use.
 
 **You did your best to explain what the software does**, why it would be beneficial. Target market, target problem. You've removed everything that wasn't helping, keep things simple and clean. But what's missing?
 
+<div class="situation-quotes" markdown="1">
 
+> "I've followed some of the norms, but it doesn't seem to be _converting_."
+
+</div>
+
+
+<br>  
+I can help you turn these problems around for you.  
+[Jump down to Services I Offer](#services){: .cta-btn }
 
 ## _Maybe it's that_ <mark>Your customer interviews</mark> are hit and miss…
 {: .maybe-heading }
@@ -73,17 +81,18 @@ You've started talking to your buyers. But you don't think you're getting the wh
 
 ---
 
-## Let's Say We're in the Future
+## What if This Was Your Future
 
-You're celebrating that:
+Let's transport you to a time in your future when your product is on track:
 
-* You've upgraded your strategic direction with **a new vocabulary** to describe how your customers need help getting _progress_ on their struggles...
-* You've grown to have a **deeper understanding of your buyers** because you heard some insightful purchase stories from some of your buyers...
-* You've discovered what _causes_ someone to buy your product, **which of the features** is really supporting the _"job"_ your product is being _"hired"_ to do...
-* You can now say you _understand_ your buyer's motivations, you _know_ what's going on, you _have_ what you need to **prioritize the next steps** in your product's development.
+* **You've made some new money** and you _know_ why the money happened.
 * Your marketing pages have clearly been communicating **"we understand what you're going through"** and people are signing up, upgrading with confidence, **keeping their subscription going for a longer time**...
+* You _have_ what you need to **prioritize the next steps** in your product's development. You can now say you _understand_ your buyer's motivations, you _know_ what's going on.
+* You've grown to have a deeper understanding of your buyers because **you heard some insightful purchase stories** from some of your buyers...
+* You've upgraded your strategic direction with **a new vocabulary** to describe how your customers need help getting _progress_ on their struggles...
+* You've discovered what _causes_ someone to buy your product, **which of the features** is really supporting the _"job"_ your product is being _"hired"_ to do...
 
-That's what's in the books for you, once you **learn to get in the mind of your buyers**. <mark>Let me help you with that</mark>.
+That's what's in the books for you, once you **learn to get in the mind of your buyers**. <mark>I can help you with that</mark>.
 
 ---
 
@@ -94,39 +103,41 @@ That's what's in the books for you, once you **learn to get in the mind of your 
 
 <div markdown="1" class="home-service-offering-summary">
 
-### _Option #1_<br>Put the Product Back on Track
+### _Option #1_<br>Product Rescue
 
-I'll lead improvements to the product positioning over multiple months. I'll run customer interviews, form hypotheses, prepare changes to the app for your developers to implement, tweak the landing pages and track performance.
+I'll lead improvements to the product positioning over multiple months. I'll run customer interviews, form hypotheses, prepare changes (Shape Up) to the app for your developers to implement, tweak the landing pages and track performance.
 
 USD $10k+ with revenue share, multi-month project.
 
 _Start here:_{: .home-service-offering-start-here }  
 [Two-day Discovery Exercise, USD $425](#){: .cta-btn } 
 
-Over the next week, I'll initiate the discovery exercise by creating a page where we'll have our discussion (async video + text). Subject to the [Sharpen.page Master Agreement](#).
+Over the next week, I'll initiate the discovery exercise by creating a page where we'll have our discussion (async video + text).
 {: .home-service-offering-terms }
 
 </div>
 
 <div markdown="1" class="home-service-offering-summary">
 
-### _Option #2_<br>JTBD Coach for 3 weeks
+### _Option #2_<br>Product Coach for 3 weeks
 
-**Over 3 weeks, some part-time availability** to coach you on applying the Jobs-to-be-done Theory to your product strategy.
+**Over 3 weeks, some part-time availability** to coach you on your product strategy. It'll be helpful if you're already introduced to the Jobs-to-be-done Theory of customer behavior, but we can cover that over the 3 weeks.
 
-I can help:
+I'll help:
+
 * Identify the struggling moments your software is hired to resolve
 * Hypothesize on the broader aspirations (the progress) your customers wish to attain
 * Map out the anxieties they experience while deliberating a purchase.
 * Review your landing pages and taglines
 * Review some interview recordings
+* Determine if your product needs an overhaul, a tweak, or if it won't end up working at all
 
-We'll discuss your strategy over async text and screen shares on a web page on which you'll be invite and I'll provide a 2-working-day turnaround time on our exchanges over the 3 weeks.
+We'll discuss your strategy over async text and screen shares on a page on which you'll be invite and I'll provide a 2-working-day turnaround time on our exchanges over the 3 weeks. No live calls, all async video and text.
 
 _Start here:_{: .home-service-offering-start-here }  
 [Start this week, over next 3 weeks, USD $2,100](#){: .cta-btn }
 
-After pre-payment, you'll receive an invitation to a page where we'll have hold our coaching discussion. Subject to the [Sharpen.page Master Agreement](#).
+After pre-payment, you'll receive an invitation to a page where we'll have hold our coaching discussion.
 {: .home-service-offering-terms }
 
 </div>
@@ -137,13 +148,14 @@ After pre-payment, you'll receive an invitation to a page where we'll have hold 
 
 **Over a week, I will:**
 
-* Help get a sense of what the product does for your buyers (help formulate some jobs-to-be-done)
 * Give feedback on your product landing page and marketing taglines
+* Help give you a sense of what the product really does for your buyers (help formulate some jobs-to-be-done)
+* Help understand who your best customers are
 
 _Start here:_{: .home-service-offering-start-here }  
 [Reserve Week of June 13-17, USD $800](#){: .cta-btn }
 
-After pre-payment, I'll create a page that will hold our discussion (messages and video screen shares). Subject to the [Sharpen.page Master Agreement](#).
+After pre-payment, I'll create a page that will hold our discussion (messages and video screen shares). No live calls.
 {: .home-service-offering-terms }
 
 </div>
