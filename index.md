@@ -135,7 +135,7 @@ I'll help:
 We'll discuss your strategy over async text and screen shares on a page on which you'll be invite and I'll provide a 2-working-day turnaround time on our exchanges over the 3 weeks. No live calls, all async video and text.
 
 _Start here:_{: .home-service-offering-start-here }  
-[Start this week, over next 3 weeks, USD $2,100](#){: .cta-btn }
+[Start this week, over next 3 weeks, USD $3,100](#){: .cta-btn }
 
 After pre-payment, you'll receive an invitation to a page where we'll have hold our coaching discussion.
 {: .home-service-offering-terms }
@@ -160,12 +160,30 @@ After pre-payment, I'll create a page that will hold our discussion (messages an
 
 </div>
 
+## Instead of...
+
+If you're hesitating, consider the alternatives...
+
+* **What's the impact of another month** with churn, with bounces on your site, with undecided visitors?
+* **What if the overhaul you're considering** doesn't change a thing to your sales?
+* **What if you were to put the same amout of money into ads**? Would you be better off on your goals?
+* **What if you take some investment money**? You know they'll ask you to shorten your runway to be more bold and daring.
+
+Instead of all this...
+
+* You could **start conducting customer interviews** next week. I hope you do!
+* You could **double down on the Jobs-to-be-done theory**.
+* You could try **putting evidence on your landing page that you understand the buyer's struggle**. Make them say "I feel understood!"
+* You could try changing your landing page copy to help **reduce anxieties, instead of adding appeal**.
+* You could try **changing the words you use in customer interviews**, like asking retroactive questions that activate recall instead of asking for hypotheticals that activate creativity.
+
+If you do any of this, I hope you'll tell me all about it. Just [drop me an email](mailto:pascal@hey.com) to share.
+
 Stay sharp!
 
 {% include avatar.html %} Pascal Laliberté  
 [pascal@hey.com](mailto:pascal@hey.com)  
+[@pascallaliberte][twitter]  
 Ottawa, Ontario, Canada
 
 [twitter]: https://twitter.com/pascallaliberte
-[indiehackers]: https://www.indiehackers.com/pascallaliberte
-[review-meetup-signup]: https://buttondown.email/sharpen.page
