@@ -18,7 +18,7 @@ I'm {% include avatar.html %} Pascal Laliberté, and **I help software founders 
 * <span>&hellip;</span> when your product just isn't sharp enough;
 {: .home-situations-summary }
 
-I offer three levels of engagement: **Product Rescue** (multi-month), **Product Coach for 3 weeks**, or **One Week for Your Landing Page**.
+I offer three levels of engagement: **Product Rescue** (multi-month), **Product Coach for 3 weeks**, or **Review of 8 Customer Interviews**.
 
 [Jump down to Services I Offer](#services){: .cta-btn }
 
@@ -125,12 +125,12 @@ Over the next week, I'll initiate the discovery exercise by creating a page wher
 
 I'll help:
 
-* Identify the struggling moments your software is hired to resolve
-* Hypothesize on the broader aspirations (the progress) your customers wish to attain
-* Map out the anxieties they experience while deliberating a purchase.
-* Review your landing pages and taglines
-* Review some interview recordings
-* Determine if your product needs an overhaul, a tweak, or if it won't end up working at all
+* **Identify the struggling moments** your software is hired to resolve
+* Hypothesize on the broader **aspirations (the progress) your customers wish to attain**
+* Map out the anxieties they experience **while deliberating a purchase**.
+* Review your **landing pages and taglines**
+* Review some **interview recordings**
+* Determine if your product needs **an overhaul, a tweak, or if it won't end up working** at all
 
 We'll discuss your strategy over async text and screen shares on a page on which you'll be invite and I'll provide a 2-working-day turnaround time on our exchanges over the 3 weeks. No live calls, all async video and text.
 
@@ -144,18 +144,17 @@ After pre-payment, you'll receive an invitation to a page where we'll have hold 
 
 <div markdown="1" class="home-service-offering-summary">
 
-### _Option #3_<br>One Week for Your Landing Page
+### _Option #3_<br>Review of 8 Customer Interviews
 
-**Over a week, I will:**
+**Over 2 weeks, I will provide feedback on 8 customer interview recordings you conducted**. Provide interpretation, highlight things I spot, include thoughts on product strategy. I'll also provide feedback on what to improve for you next customer interviews, so it's best to pick two weeks where you'll have some more interviews you'll be performing.
 
-* Give feedback on your product landing page and marketing taglines
-* Help give you a sense of what the product really does for your buyers (help formulate some jobs-to-be-done)
-* Help understand who your best customers are
+Additionally, at the end of the two weeks, I'll provide a one-pager summarizing the insights identified from the interviews. Useful for sharing what was learned with other members of the team.
 
 _Start here:_{: .home-service-offering-start-here }  
-[Reserve Week of June 13-17, USD $800](#){: .cta-btn }
+[Reserve Weeks of June 13 to 24, USD $1,295](#){: .cta-btn }  
+[Reserve Weeks of June 20 to July 1, USD $1,295](#){: .cta-btn }
 
-After pre-payment, I'll create a page that will hold our discussion (messages and video screen shares). No live calls.
+After pre-payment, I'll create 8 pages on which you can upload your customer interview recordings. That's where I'll share with you videos of me providing my feedback and showing my notes. Interview recordings must each be 1 hour or less.
 {: .home-service-offering-terms }
 
 </div>
