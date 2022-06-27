@@ -6,12 +6,6 @@ class: blog
   
   <h1>{{ page.title }}</h1>
   
-  <p>Hey, thanks for dropping by. Here's an archive of the articles that were published on this blog, between November 2018 and March 2021. I decided to stop writing the blog for now and might start back up again later.</p>
-    
-  <p>&mdash; <a href="https://pascallaliberte.me/">Pascal</a></p>
-  
-  <hr>
-  
   <ol reversed start="{{ site.posts.size }}" style="margin-top: 1.5em;" class="post-list">
   {% for post in site.posts limit:5 %}
   <li>
