@@ -186,3 +186,5 @@ Stay sharp!
 Ottawa, Ontario, Canada
 
 [twitter]: https://twitter.com/pascallaliberte
+
+{% include email-sign-up-form.html context="home" %}

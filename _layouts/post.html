@@ -73,3 +73,5 @@ class: post
 {% if jekyll.environment == "development" %}
   {% include post-helper.html %}
 {% endif %}
+
+{% include email-sign-up-form.html context="post" %}
