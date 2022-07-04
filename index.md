@@ -110,7 +110,7 @@ I'll lead improvements to the product positioning over multiple months. I'll run
 USD $10k+ with revenue share, multi-month project.
 
 _Start here:_{: .home-service-offering-start-here }  
-[Two-day Discovery Exercise, USD $425](#){: .cta-btn } 
+[Two-day Discovery Exercise, USD $425](mailto:pascal@hey.com?subject=Two-day%20Discovery%20Exercise&body=Hi%2C%0A%0AI'd%20like%20to%20start%20a%20Two-day%20Discovery%20Exercise%20as%20soon%20as%20you're%20available.){: .cta-btn } 
 
 Over the next week, I'll initiate the discovery exercise by creating a page where we'll have our discussion (async video + text).
 {: .home-service-offering-terms }
@@ -135,7 +135,9 @@ I'll help:
 We'll discuss your strategy over async text and screen shares on a page on which you'll be invite and I'll provide a 2-working-day turnaround time on our exchanges over the 3 weeks. No live calls, all async video and text.
 
 _Start here:_{: .home-service-offering-start-here }  
-[Start this week, over next 3 weeks, USD $3,100](#){: .cta-btn }
+[Inquire about next available 3-week block](mailto:pascal@hey.com?subject=Product%20Coach%20for%203%20weeks&body=Hi%2C%0A%0AI'd%20like%20to%20inquire%20about%20your%20next%20availability%20for%20a%203%20week%20Product%20Coach%20engagement.){: .cta-btn }
+
+**USD $3,100**
 
 After pre-payment, you'll receive an invitation to a page where we'll have hold our coaching discussion.
 {: .home-service-offering-terms }
@@ -151,8 +153,9 @@ After pre-payment, you'll receive an invitation to a page where we'll have hold 
 Additionally, at the end of the two weeks, I'll provide a one-pager summarizing the insights identified from the interviews. Useful for sharing what was learned with other members of the team.
 
 _Start here:_{: .home-service-offering-start-here }  
-[Reserve Weeks of June 13 to 24, USD $1,295](#){: .cta-btn }  
-[Reserve Weeks of June 20 to July 1, USD $1,295](#){: .cta-btn }
+[Inquire about next available 2-week block](mailto:pascal@hey.com?subject=Review%20of%208%20Customer%20Interviews&body=Hi%2C%0A%0AI'd%20like%20to%20inquire%20about%20your%20next%20availability%20for%20a%202-week%20%22Review%20of%208%20Customer%20Interviews%22%20engagement.){: .cta-btn }
+
+**USD $1,295**
 
 After pre-payment, I'll create 8 pages on which you can upload your customer interview recordings. That's where I'll share with you videos of me providing my feedback and showing my notes. Interview recordings must each be 1 hour or less.
 {: .home-service-offering-terms }
