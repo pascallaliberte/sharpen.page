@@ -1,6 +1,6 @@
 /* This is a demo file */
-function({
-  document.dispatchEvent(CustomEvent("service-ladder:ready", {
+(function(){
+  document.dispatchEvent(new CustomEvent("service-ladder:ready", { detail: {
     service_ladder: {
   "two_day_discovery_product_rescue": {
     "slug": "two_day_discovery_product_rescue",
@@ -82,5 +82,5 @@ function({
     ]
   }
 }
-  }))
+  }}))
 })();
