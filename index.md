@@ -29,9 +29,9 @@ I offer three levels of engagement: **Product Rescue** (multi-month), **Product 
 
 You got there by doing the right thing. **You listened to your customers** and built what they asked for. But despite building the stuff people asked, buyers aren't buying like they used to.
 
-You're getting churn. More churn than normal. **A sustained wave of cancellations**, and it's not just because of a market slowdown. Something needs to change _fast_.
+You're getting churn. **More churn than normal.** A sustained wave of cancellations, and it's not just because of a market slowdown. Something needs to change _fast_.
 
-You were going to overhaul your product. Change your whole vision, risk it all. But **you decided instead to dig deeper into the minds of your customers**. That's why you're here: to slow down and to do things right.
+You were going to overhaul your product. Change your whole vision, risk it all. But you decided instead to **dig deeper into the minds of your customers**. That's why you're here: to slow down and to do things right.
 
 
 ## _Maybe it's that_ <mark>Your landing page and your product positioning</mark> aren't working…
@@ -55,7 +55,7 @@ You've put in some effort, but you're stuck not knowing which `h1` to use, which
 
 
 <br>  
-I can help you turn these problems around for you.  
+I can help you turn these problems around.  
 [Jump down to Services I Offer](#services){: .cta-btn }
 
 ## _Maybe it's that_ <mark>Your customer interviews</mark> are hit and miss…
