@@ -170,7 +170,7 @@ _Start here:_{: .home-service-offering-start-here }
   </form>
 </template>
 
-After pre-payment, you'll receive an invitation to a page where we'll have hold our coaching discussion.
+After pre-payment, you'll receive an invitation to a page where we'll hold our coaching discussion.
 {: .home-service-offering-terms }
 
 </div>
