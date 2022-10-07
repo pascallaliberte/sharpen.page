@@ -184,7 +184,7 @@ mark {
 
 // Components & pages
 
-a {
+a:not(.cta-btn) {
   .main-content &, &.text-link, body:not(.home) &.navigation__logo {
     
     position: relative;
@@ -233,32 +233,38 @@ a {
       );
     }  
   }
+}
+
+.main-content .cta-btn {
+  display: inline-block;
+  background: $color-primary;
+  color: white;
+  padding: 0 0.5em 0.05em 0.5em;
+  border-radius: rem(2px);
+  text-shadow: none;
+  box-shadow: -2px -2px 0px rgba(255, 255, 255, 1);
+  cursor: pointer;
   
-  .main-content &.cta-btn {
-    display: inline-block;
-    background: $color-primary;
-    color: white;
-    padding: 0 0.5em 0.05em 0.5em;
-    border-radius: rem(2px);
-    text-shadow: none;
-    box-shadow: -2px -2px 0px rgba(255, 255, 255, 1);
+  .i {
+    width: auto;
+    height: 1em;
+    stroke-width: rem(3px);
+    transform: translateY(rem(4px));
+    margin-left: 0.1em;
     
-    .i {
-      width: auto;
-      height: 1em;
-      stroke-width: rem(3px);
-      transform: translateY(rem(4px));
-      margin-left: 0.1em;
-      
-      @media only screen and (max-width: $reference-width-xs-until) {
-        stroke-width: rem(2px);
-      }
-    }
-    
-    &:hover, &:focus {
-      background-color: darken($color-primary, 10%);
+    @media only screen and (max-width: $reference-width-xs-until) {
+      stroke-width: rem(2px);
     }
   }
+  
+  &:hover, &:focus {
+    background-color: darken($color-primary, 10%);
+    color: white;
+  }
+}
+
+.main-content button.cta-btn {
+  border: 0;
 }
 
 .main-content {
