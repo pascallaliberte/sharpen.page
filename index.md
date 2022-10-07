@@ -81,12 +81,12 @@ You've started talking to your buyers. But you don't think you're getting the wh
 
 ---
 
-## What if This Was Your Future
+## What if _This_ Was Your Future:
 
-Let's transport you to a time in your future when your product is on track:
+Let's transport you to <mark>a time in your future when your product is on track</mark>:
 
 * **You've made some new money** and you _know_ why the money happened.
-* Your marketing pages have clearly been communicating **"we understand what you're going through"** and people are signing up, upgrading with confidence, **keeping their subscription going for a longer time**...
+* Visitors to your marketing pages keep telling you **"I felt understood"** and as a result have been signing up, upgrading with confidence, **keeping their subscription going for a longer time**...
 * You _have_ what you need to **prioritize the next steps** in your product's development. You can now say you _understand_ your buyer's motivations, you _know_ what's going on.
 * You've grown to have a deeper understanding of your buyers because **you heard some insightful purchase stories** from some of your buyers...
 * You've upgraded your strategic direction with **a new vocabulary** to describe how your customers need help getting _progress_ on their struggles...
@@ -120,10 +120,10 @@ _Start here:_{: .home-service-offering-start-here }
 [Two-day Discovery Exercise, USD $425](mailto:pascal@hey.com?subject=Two-day%20Discovery%20Exercise&body=Hi%2C%0A%0AI'd%20like%20to%20start%20a%20Two-day%20Discovery%20Exercise%20as%20soon%20as%20you're%20available.){: .cta-btn } 
 </div>
 <template data-target="purchasable-service.buttonTemplate">
-  <form action="{{form_action}}" method="POST">
-    <input type="hidden" name="service_slug" value="{{service_slug}}">
+  <form action="%endpoint%" method="POST">
+    <input type="hidden" name="checkout[service_uuid]" value="%service_uuid%">
     <button type="submit" class="cta-btn">
-      Two-day Discovery Exercise, USD ${{price_in_dollars}}
+      Two-day Discovery Exercise, USD $%price_in_dollars%
     </button>
   </form>
 </template>
@@ -141,7 +141,7 @@ Over the next week, I'll initiate the discovery exercise by creating a page wher
 
 ### _Option #2_<br>Product Coach for 3 weeks
 
-**Over 3 weeks, some part-time availability** to coach you on your product strategy. It'll be helpful if you're already introduced to the Jobs-to-be-done Theory of customer behavior, but we can cover that over the 3 weeks.
+**Over 3 weeks, some part-time availability** to coach you on your product strategy. It'll be helpful if you're already introduced to the Jobs-to-be-done Theory of customer behavior, but we can cover quickly at the start of those 3 weeks.
 
 I'll help:
 
@@ -152,7 +152,7 @@ I'll help:
 * Review some **interview recordings**
 * Determine if your product needs **an overhaul, a tweak, or if it won't end up working** at all
 
-We'll discuss your strategy over async text and screen shares on a page on which you'll be invite and I'll provide a 2-working-day turnaround time on our exchanges over the 3 weeks. No live calls, all async video and text.
+We'll discuss your strategy over async text and screen shares on a page on which you'll be invited and I'll provide a 2-working-day turnaround time on our exchanges over the 3 weeks. No live calls, all async video and text.
 
 _Start here:_{: .home-service-offering-start-here }
 <div markdown="1" data-target="purchasable-service.buttons">
@@ -162,10 +162,12 @@ _Start here:_{: .home-service-offering-start-here }
 </div>
 
 <template data-target="purchasable-service.buttonTemplate">
-  <form action="{{form_action}}" method="POST">
-    <input type="hidden" name="service_slug" value="{{service_slug}}">
+  <form action="%endpoint%" method="POST">
+    <input type="hidden" name="checkout[service_uuid]" value="%service_uuid%">
+    <input type="hidden" name="checkout[start_date]" value="%start_date%">
+    <input type="hidden" name="checkout[end_date]" value="%end_date%">
     <button type="submit" class="cta-btn">
-      Start week of {{start_week}} + 2 following weeks, USD ${{price_in_dollars}}
+      Start week of %start_week% + 2 following weeks, USD $%price_in_dollars%
     </button>
   </form>
 </template>
@@ -195,10 +197,12 @@ _Start here:_{: .home-service-offering-start-here }
 </div>
 
 <template data-target="purchasable-service.buttonTemplate">
-  <form action="{{form_action}}" method="POST">
-    <input type="hidden" name="service_slug" value="{{service_slug}}">
+  <form action="%endpoint%" method="POST">
+    <input type="hidden" name="checkout[service_uuid]" value="%service_uuid%">
+    <input type="hidden" name="checkout[start_date]" value="%start_date%">
+    <input type="hidden" name="checkout[end_date]" value="%end_date%">
     <button type="submit" class="cta-btn">
-      Reserve Weeks of {{date_range_as_string}} + 2 following weeks, USD ${{price_in_dollars}}
+      Reserve Weeks of %date_range_as_string% + 2 following weeks, USD $%price_in_dollars%
     </button>
   </form>
 </template>
@@ -222,7 +226,7 @@ If you're hesitating, consider the alternatives...
 Instead of all this...
 
 * You could **start conducting customer interviews** next week. I hope you do!
-* You could **double down on the Jobs-to-be-done theory**.
+* You could **double down on applying Jobs-to-be-done theory** so you can have a predictive model of your buyer's deliberations.
 * You could try **putting evidence on your landing page that you understand the buyer's struggle**. Make them say "I feel understood!"
 * You could try changing your landing page copy to help **reduce anxieties, instead of adding appeal**.
 * You could try **changing the words you use in customer interviews**, like asking retroactive questions that activate recall instead of asking for hypotheticals that activate creativity.
