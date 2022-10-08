@@ -33,6 +33,9 @@ defaults:
 
 permalink: /:categories/:title/
 
+availability_url: https://availability.pascal.works/
+availability_url_dev: http://localhost:3000
+
 ampdir: amp
 destination: public
 
