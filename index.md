@@ -111,6 +111,8 @@ That's what's in the books for you, once you **learn to get in the mind of your 
 
 ### _Option #1_<br>Product Rescue
 
+**Expensive (revenue share) because I run your product for a while.**
+
 I'll lead improvements to the product positioning over multiple months. I'll run customer interviews, form hypotheses, prepare changes (Shape Up) to the app for your developers to implement, tweak the landing pages and track performance.
 
 USD $10k+ with revenue share, multi-month project.
@@ -141,7 +143,7 @@ Over the next week, I'll initiate the discovery exercise by creating a page wher
 
 ### _Option #2_<br>Product Coach for 3 weeks
 
-**Over 3 weeks, some part-time availability** to coach you on your product strategy. It'll be helpful if you're already introduced to the Jobs-to-be-done Theory of customer behavior, but we can cover quickly at the start of those 3 weeks.
+**Over 3 weeks, I coach you on your product strategy**. It'll be helpful if you're already introduced to the Jobs-to-be-done Theory of customer behavior, but we can cover quickly at the start of those 3 weeks.
 
 I'll help:
 
@@ -185,7 +187,7 @@ After pre-payment, you'll receive an invitation to a page where we'll hold our c
 
 ### _Option #3_<br>Review of 8 Customer Interviews
 
-**Over 2 weeks, I will provide feedback on 8 customer interview recordings you conducted**. Provide interpretation, highlight things I spot, include thoughts on product strategy. I'll also provide feedback on what to improve for you next customer interviews, so it's best to pick two weeks where you'll have some more interviews you'll be performing.
+**I will provide feedback on 8 customer interview recordings you conducted over 2 weeks or less.** I'll provide interpretation, highlight things I spot, include thoughts on product strategy. I'll also provide feedback on what to improve for you next customer interviews, so it's best to pick two weeks where you'll have some more interviews you'll be performing.
 
 Additionally, at the end of the two weeks, I'll provide a one-pager summarizing the insights identified from the interviews. Useful for sharing what was learned with other members of the team.
 
