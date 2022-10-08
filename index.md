@@ -120,7 +120,7 @@ _Start here:_{: .home-service-offering-start-here }
 [Two-day Discovery Exercise, USD $425](mailto:pascal@hey.com?subject=Two-day%20Discovery%20Exercise&body=Hi%2C%0A%0AI'd%20like%20to%20start%20a%20Two-day%20Discovery%20Exercise%20as%20soon%20as%20you're%20available.){: .cta-btn } 
 </div>
 <template data-target="purchasable-service.buttonTemplate">
-  <form action="%endpoint%" method="POST">
+  <form action="%endpoint%" method="POST" class="checkout-button-wrapper">
     <input type="hidden" name="checkout[service_uuid]" value="%service_uuid%">
     <button type="submit" class="cta-btn">
       Two-day Discovery Exercise, USD $%price_in_dollars%
@@ -162,7 +162,7 @@ _Start here:_{: .home-service-offering-start-here }
 </div>
 
 <template data-target="purchasable-service.buttonTemplate">
-  <form action="%endpoint%" method="POST">
+  <form action="%endpoint%" method="POST" class="checkout-button-wrapper">
     <input type="hidden" name="checkout[service_uuid]" value="%service_uuid%">
     <input type="hidden" name="checkout[start_date]" value="%start_date%">
     <input type="hidden" name="checkout[end_date]" value="%end_date%">
@@ -197,12 +197,12 @@ _Start here:_{: .home-service-offering-start-here }
 </div>
 
 <template data-target="purchasable-service.buttonTemplate">
-  <form action="%endpoint%" method="POST">
+  <form action="%endpoint%" method="POST" class="checkout-button-wrapper">
     <input type="hidden" name="checkout[service_uuid]" value="%service_uuid%">
     <input type="hidden" name="checkout[start_date]" value="%start_date%">
     <input type="hidden" name="checkout[end_date]" value="%end_date%">
     <button type="submit" class="cta-btn">
-      Reserve Weeks of %date_range_as_string% + 2 following weeks, USD $%price_in_dollars%
+      Book %date_range_as_string%, USD $%price_in_dollars%
     </button>
   </form>
 </template>

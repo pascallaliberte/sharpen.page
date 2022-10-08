@@ -263,6 +263,15 @@ a:not(.cta-btn) {
   }
 }
 
+.checkout-button-wrapper + .checkout-button-wrapper {
+  display: block;
+  margin-top: 0.3em;
+}
+
+.checkout-button-wrapper .cta-btn {
+  padding: 0.2em 0.5em 0.25em 0.5em;
+}
+
 .main-content button.cta-btn {
   border: 0;
 }
