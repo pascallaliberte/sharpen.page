@@ -191,6 +191,10 @@ After pre-payment, you'll receive an invitation to a page where we'll hold our c
 
 Additionally, at the end of the two weeks, I'll provide a one-pager summarizing the insights identified from the interviews. Useful for sharing what was learned with other members of the team.
 
+I worked with Brian Casel of [ZipMessage.com](https://zipmessage.com), reviewing his customer interviews. Here's what he had to say:
+
+<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">I also found it helpful to bring in someone else to listen to my calls, check my biases, and spot insights I&#39;d miss.<a href="https://twitter.com/pascallaliberte?ref_src=twsrc%5Etfw">@pascallaliberte</a> has a sharp ear for customer research and analysis. He&#39;s been a huge help with analyzing my calls, comparing notes and takeaways 👍</p>&mdash; Brian Casel (@CasJam) <a href="https://twitter.com/CasJam/status/1528858401937162241?ref_src=twsrc%5Etfw">May 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 _Start here:_{: .home-service-offering-start-here }
 <div markdown="1" data-target="purchasable-service.buttons">
 [Inquire about next available 2-week block](mailto:pascal@hey.com?subject=Review%20of%208%20Customer%20Interviews&body=Hi%2C%0A%0AI'd%20like%20to%20inquire%20about%20your%20next%20availability%20for%20a%202-week%20%22Review%20of%208%20Customer%20Interviews%22%20engagement.){: .cta-btn }
