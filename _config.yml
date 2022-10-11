@@ -3,9 +3,9 @@
 # This config file contains the config of your webpages
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
-title: "sharpen.page: A Product Sharpening Blog"
+title: "sharpen.page: A Product Sharpening Service by Pascal Laliberté"
 email: pascal@hey.com
-description: "A blog about product sharpening."
+description: "I help software founders like you get into the minds of your buyers. Sharpen your understanding of the buyer’s motivation, your marketing copy and your feature set."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://sharpen.page # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#605aa4'
