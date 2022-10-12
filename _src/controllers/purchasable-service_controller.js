@@ -10,12 +10,10 @@ export default class extends Controller {
     let newButtonHTML = ""
     service.purchasable_blocks.forEach(purchasable_block => {
       let html = this.buttonTemplateTarget.innerHTML
-      console.log(html)
       html = html
         .replaceAll(`%endpoint%`, service.checkout_session_endpoint)
         .replaceAll(`%service_uuid%`, service.uuid)
         .replaceAll(`%price_in_dollars%`, purchasable_block.price_in_dollars)
-      console.log(html)
         
       if (purchasable_block.weeks.length > 0) {
         html = html
