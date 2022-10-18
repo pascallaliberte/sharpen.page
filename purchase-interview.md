@@ -15,7 +15,7 @@ For one hour of your time, I'd like to call you to hear the story of a recent pu
 
 1. It can't be a gift you made
 2. It was purchased recently (in the last 3 months)
-3. It has to be a sizeable amount you paid (dozens and dozens of dollars)
+3. It has to be a sizeable amount you paid (one-time or a pricey subscription)
 4. And most importantly, the decision created some **back-and-forth in your mind**, making you deliberate the purchase
 
 ## The Fine Print:
