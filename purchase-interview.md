@@ -2,6 +2,7 @@
 permalink: purchase-interview/
 title: Purchase Interview
 layout: page
+image: /assets/images/purchase-interview.jpg
 ---
 
 Can I interview you on a recent purchase you made?
