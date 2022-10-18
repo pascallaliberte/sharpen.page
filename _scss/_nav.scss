@@ -100,6 +100,10 @@
     transition: transform 0.2s $easeOutBack, margin-bottom 0.2s $easeOutBack;
     transform-origin: top left;
     
+    @media (max-width: $reference-width-xs-until) {
+      margin-top: rem(40px);
+    }
+    
     &.on-post, &.on-blog {
       transform: scale(0.84985835694051);
       margin-bottom: rem(-50px);
