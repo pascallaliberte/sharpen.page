@@ -33,8 +33,8 @@ defaults:
 
 permalink: /:categories/:title/
 
-availability_url: https://availability.sharpen.page/
-availability_url_dev: http://localhost:3000
+availability_url: https://availability.sharpen.page/sites/YNeWjM/services.js
+availability_url_dev: http://localhost:3000/sites/YNeWjM/services.js
 
 ampdir: amp
 destination: public
