@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Consultant on Buyer Understanding for Software Founders
+# Consultant on Buyer Understanding<br>for Software Founders
 
 For sharpening your understanding of the buyer's motivation, your marketing copy and your feature set.
 
