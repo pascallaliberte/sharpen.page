@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Jobs-to-be-done Consultant
+# Consultant on Buyer Understanding for Software Founders
 
 For sharpening your understanding of the buyer's motivation, your marketing copy and your feature set.
 
