@@ -224,4 +224,53 @@
     padding-left: rem(50px);
     margin-left: rem(-55px);
   }
+  
+  blockquote {
+    margin: rem(1em 0);
+    padding: rem(15px);
+    padding-left: rem(30px);
+    padding-bottom: rem(5px);
+    background-color: transparentize(white, 0.5);
+    position: relative;
+    padding-top: rem(40px);
+    
+    @media (min-width: $reference-width-xs-until) {
+      margin: rem(1em -40px);
+      padding: rem(20px 40px);
+      padding-left: rem(50px);
+      margin-left: 0;
+      transform: rotateZ(-1deg) perspective(80rem) rotateX(0.5deg);
+    }
+    
+    strong {
+      background-color: $color-highlight;
+      color: mix($color-secondary, black);
+      font-weight: normal;
+    }
+    
+    p {
+      margin-top: 0;
+    }
+    
+    &::before {
+      position: absolute;
+      content: "〝";
+      top: rem(15px);
+      left: rem(-15px);
+      font-size: 3em;
+      font-weight: bold;
+      color: transparentize($color-secondary, 0.5);
+      
+      @media (min-width: $reference-width-xs-until) {
+        top: rem(10px);
+        left: rem(-20px);
+      }
+    }
+    
+    @media (max-width: $reference-width-xs-until) {
+      & > p {
+        text-indent: rem(20px);
+      }
+    }
+  }
 }
