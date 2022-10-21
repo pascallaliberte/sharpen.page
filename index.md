@@ -181,7 +181,7 @@ After pre-payment, you'll receive an invitation to a page where we'll hold our c
   <p>
     Pascal helped me tremendously to pin down the messaging and site structure of <a href="https://railsreviews.com">railsreviews.com</a>. His systematic method for discovering hidden opportunities and buyer hesitations is one of a kind. With a sharp eye for customers' struggles, his analyses are insightful, actionable, and rewarding. I'm looking forward to collaborating with him again in future projects.
   </p>
-  <cite><a href="https://twitter.com/julian_rubisch/">Julian Rubisch</a></cite>
+  <cite>—<a href="https://twitter.com/julian_rubisch/">Julian Rubisch</a></cite>
 </blockquote>
 
 </div>
