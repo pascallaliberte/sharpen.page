@@ -44,7 +44,7 @@ Here we're fans of marketing pages (landing pages) **with very specific attribut
 [long-pages]: {% post_url 2019-05-17-how-long-landing-pages-make-calls-to-action-work %}
 [non-consumption]: {% post_url 2018-12-17-universal-competitor %}
 
-When it comes to selling software, there's one technique that works really well for your marketing page. [Show your visitor there's a better way][better-way]. Instead of/You'll have, Before and After, Here's a better scenario... those are all great ways to communicate you understand the pain and you got your visistors covered.
+When it comes to selling software, there's one technique that works really well for your marketing page. [Show your visitor there's a better way][better-way]. Instead of/You'll have, Before and After, Here's a better scenario... those are all great ways to communicate you understand the pain and you got your visitors covered.
 
 [better-way]: {% post_url 2019-12-13-four-ways-to-say-theres-a-better-way %}
 

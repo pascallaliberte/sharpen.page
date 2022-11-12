@@ -7,7 +7,7 @@ author: Pascal Laliberté
 image: /assets/images/posts/2019-07-26-increase-newsletter-signups-without-being-pushy.jpg
 ---
 
-From this point forward, you don't want to have pop-ups. You don't want to try to juice every visistor to sign up to your newsletter. You don't want pushy tactics. You're not going down that road.
+From this point forward, you don't want to have pop-ups. You don't want to try to juice every visitor to sign up to your newsletter. You don't want pushy tactics. You're not going down that road.
 
 So how to set up your newsletter sign-up box to be different? You know the importance of [building an audience][newsletter]. You just don't want to build your audience by _alienating_ it.
 

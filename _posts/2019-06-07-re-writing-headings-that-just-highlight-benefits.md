@@ -69,7 +69,7 @@ Tip: To quickly try out edits on your own site, here's a [trick I use to make an
 
 So which heading is the best?
 
-If your site has enough visistors (say, 10,000 visits a month), you could run an A/B Test to know which one makes a bigger difference in the number of conversions.
+If your site has enough visitors (say, 10,000 visits a month), you could run an A/B Test to know which one makes a bigger difference in the number of conversions.
 
 Otherwise, there is a way to become confident about your choice. Consider finding the _situations_ that _cause_ people to visit your site in the first place.
 
