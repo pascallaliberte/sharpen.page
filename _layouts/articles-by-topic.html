@@ -1,0 +1,22 @@
+---
+layout: default
+class: blog
+---
+
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
+{% for topic in site.data.topics-featured %}
+  <h2 id="{{ topic.value }}">{{ topic.name }}</h2>
+  
+  <ul class="post-list" {% if topic.value == "showcase" %}data-filter-topic="showcase"{% endif %}>
+  {% for post in site.tags[topic.value] reversed %}
+    <li>
+      {% include blog-link.html post="post" showcase=post.showcased %}
+    </li>
+  {% endfor %}
+  </ul>
+{% endfor %}
+
+{% include email-sign-up-form.html context="articles-list" %}
