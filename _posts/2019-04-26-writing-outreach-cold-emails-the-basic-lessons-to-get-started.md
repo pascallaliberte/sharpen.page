@@ -2,6 +2,7 @@
 layout: post
 title: "Writing Outreach (Cold) Emails, The Basic Lessons To Get Started"
 categories: jtbd copywriting
+not_recommended_for_product_people: true
 author: Pascal Laliberté
 tags: consulting
 image: /assets/images/posts/2019-04-26-writing-outreach-cold-emails-the-basic-lessons-to-get-started.jpg

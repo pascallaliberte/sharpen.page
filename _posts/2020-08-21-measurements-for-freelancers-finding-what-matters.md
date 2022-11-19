@@ -3,6 +3,7 @@ layout: post
 title: "Measurements for Freelancers - Part 1: Finding What Matters"
 categories: consulting
 tags: optimize jtbd
+not_recommended_for_product_people: true
 author: Pascal Laliberté
 image: /assets/images/posts/2020-08-21-measurements-for-freelancers-finding-what-matters.jpg
 published: true

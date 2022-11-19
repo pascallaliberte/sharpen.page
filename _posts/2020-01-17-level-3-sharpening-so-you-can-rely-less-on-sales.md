@@ -2,7 +2,7 @@
 layout: post
 title: "Level 3 Sharpening: So You Can Rely Less on Sales"
 categories: jtbd
-tags: optimize
+tags: optimize jtbd-basics
 author: Pascal Laliberté
 image: /assets/images/posts/2020-01-17-level-3-sharpening-so-you-can-rely-less-on-sales.jpg
 published: true

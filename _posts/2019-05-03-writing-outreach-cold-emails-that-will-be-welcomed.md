@@ -2,6 +2,7 @@
 layout: post
 title: "Writing Outreach (Cold) Emails That Will Be Welcomed"
 categories: jtbd copywriting
+not_recommended_for_product_people: true
 author: Pascal Laliberté
 tags: consulting
 image: /assets/images/posts/2019-05-03-writing-outreach-cold-emails-that-will-be-welcomed.jpg

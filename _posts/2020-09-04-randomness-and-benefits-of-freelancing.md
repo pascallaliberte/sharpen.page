@@ -3,6 +3,7 @@ layout: post
 title: "Randomness and the Benefits of Freelancing"
 categories: consulting
 tags: optimize
+not_recommended_for_product_people: true
 author: Pascal Laliberté
 image: /assets/images/posts/2020-09-04-randomness-and-benefits-of-freelancing.jpg
 published: true

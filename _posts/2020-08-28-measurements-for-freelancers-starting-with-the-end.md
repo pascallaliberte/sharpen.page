@@ -3,6 +3,7 @@ layout: post
 title: "Measurements for Freelancers - Part 2: Starting With the End"
 categories: consulting
 tags: optimize jtbd
+not_recommended_for_product_people: true
 author: Pascal Laliberté
 image: /assets/images/posts/2020-08-28-measurements-for-freelancers-starting-with-the-end.jpg
 published: true

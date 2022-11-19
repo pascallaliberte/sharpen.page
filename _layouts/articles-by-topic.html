@@ -8,13 +8,34 @@ class: blog
 {{ content }}
 
 {% for topic in site.data.topics-featured %}
-  <h2 id="{{ topic.value }}">{{ topic.name }}</h2>
+  <h2 id="{{ topic.value }}">{{ forloop.index }}. {{ topic.name }}</h2>
+  
+  {%- if topic.intro -%}
+  {{ topic.intro | markdownify }}
+  {%- endif -%}
+  
+  {%- if topic.value == "consulting" -%}
+    {%- assign is_consulting = true -%}
+  {%- else -%}
+    {%- assign is_consulting = false -%}
+  {%- endif -%}
   
   <ul class="post-list" {% if topic.value == "showcase" %}data-filter-topic="showcase"{% endif %}>
-  {% for post in site.tags[topic.value] reversed %}
-    <li>
-      {% include blog-link.html post="post" showcase=post.showcased %}
-    </li>
+  {% for post in site.posts reversed %}
+    {%- assign tags = post.tags | join " " -%}
+    {%- assign categories = post.categories | join " " -%}
+    
+    {%- if is_consulting == false and post.not_recommended_for_product_people == true -%}
+      {%- assign skip_article = true %}
+    {%- else -%}
+      {%- assign skip_article = false %}
+    {%- endif -%}
+    
+    {%- if skip_article == false and ((tags contains topic.value) or (categories contains topic.value)) -%}
+      <li>
+        {% include blog-link.html post="post" showcase=post.showcased %}
+      </li>
+    {% endif %}
   {% endfor %}
   </ul>
 {% endfor %}

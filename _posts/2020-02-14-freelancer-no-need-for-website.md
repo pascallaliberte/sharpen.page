@@ -3,6 +3,7 @@ layout: post
 title: When Freelancers Don't Need a Website
 categories: jtbd consulting
 tags: showcase discerning
+not_recommended_for_product_people: true
 showcased:
   - brandbot.ca
 author: Pascal Laliberté
