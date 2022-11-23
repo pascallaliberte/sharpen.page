@@ -1,6 +1,7 @@
 -
   value: jtbd-basics
   name: Jobs-To-Be-Done Basics
+  intro: The theory of buyer behavior popularized by Clayton Christensen is found throughout these articles, and so it pays to get the basics.
 -
   value: research
   name: Churn, Buyer Research and Purchase Interviews
@@ -8,18 +9,23 @@
 -
   value: discerning
   name: Validating and Discerning
+  intro: "Discernment is key. Should you build that feature? Will that product work? It's best to be real with yourself: you'll be making bets. And yet, good theory predicts behavior. If you can create a solid narrative of when and how often buyers will experience a strugle, and if you can be patient, you can hone down ideas worth investing in."
 - 
   value: copywriting
   name: Copywriting
+  intro: It gets easier the more you get into the mind of your buyer.
 -
   value: struggle-first
   name: Struggle-First Landing Pages
+  intro: Perfect for when your audience has no established mindset for the solution to their problem, struggle-first landing pages start by mirroring back the struggle of the visitor so they can say "I feel understood!".
 -
   value: showcase
   name: Example Sites
+  intro: Some of these sites no longer exist, but be sure to check out the 5-part teardown and analysis and recommendations for inscheduler.com further down.
 - 
   value: optimize
   name: Optimizing & A/B Testing
+  intro: "You need a lot of traffic for real A/B Testing, but thankfully you can sharpen your pages with this imperative: help people make progress."
 - 
   value: consulting
   name: Consulting and Freelancing
