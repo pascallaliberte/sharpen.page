@@ -13,23 +13,11 @@ Hi, I'm Pascal Laliberté, and I'm here to help _you, fellow software devs_, **d
 
 ## You've Been Posing Yourself These Questions:
 
-<div class="situation-quotes" markdown="1">
+> What makes someone **decide to buy** a product? To take out their credit card, and say "yes, this, now"
 
-> "What makes someone **decide to buy** a product?"
+> **How come I just bought** a $150 UI kit with my own money?
 
-</div>
-
-<div class="situation-quotes" markdown="1">
-
-> "**How come I just bought** a $150 UI kit with my own money?"
-
-</div>
-
-<div class="situation-quotes" markdown="1">
-
-> "Is there a way to shape my products and services so that they help someone exchange money and attention for my solution? That is, **in a way I'll be okay with?**"
-
-</div>
+> Is there a way to shape my products and services so that I can sell them **in a way I'll be okay with?**
 
 ## Here's My Offer:
 
@@ -40,7 +28,9 @@ Hi, I'm Pascal Laliberté, and I'm here to help _you, fellow software devs_, **d
 
 "Yep, I'm game". To sign up, simply...
 
+<div class="cta checkout-button-wrapper" markdown="1">
 [Apply via email][apply]{: .cta-btn } to receive ten articles over ten weeks.
+</div>
 
 ---
 
@@ -49,26 +39,31 @@ Hi, I'm Pascal Laliberté, and I'm here to help _you, fellow software devs_, **d
 I'll craft a list that touches on some of these topics:
 
 * The **Jobs-to-be-done theory** of buyer behavior...
-* What your product **competes** with...
+* What makes up the **back and forth deliberation** in the mind of the buyer...
 * How **price** is just one of many hesitations...
-* How people just want to make progress, and **your job is just to help them**...
 * How to **predict when it's just not the right time** to be selling...
+* How people just want to make progress, and **your job is just to help them**...
+* What your product mainly **competes** with...
+* How to **understand people's struggles**...
+* How to **_not_ be sales-y**...
 * How to write **landing page copy** that makes people say "I feel understood!"...
 * How to choose **which type of landing page layout** to use (struggle-first vs features and benefits)...
-* How to **_not_ be sales-y**...
-* How to **understand people's struggles**...
+* How to **interview** recent customers...
 
 **And specifically for freelancers, consultants and current employees:**
 
 * How to sell your **ideas**...
 * How to publish a constellation of **struggle-solvers** that point to you...
-* How **discouraging your client leads** from hiring you helps get to the value...
+* How **discouraging your client leads** from hiring you helps get to the deeper value...
+* How to **package up your services** in novel ways
 
-## By the End, You Will...
+## By the End, You Will Have...
 
 Before we're done together, you will be celebrating that you'll have:
 
 * Discovered a couple new lenses about how people buy
+* Uncovered how selling can be done in a posture of service
+* Unlearned parts of what's holding you back from selling
 * Advanced on clarifying one of your upcoming projects, how you'll be able to make it work
 * Jogged some new ideas on what you could sell
 * Gotten feedback from me on your product ideas
@@ -77,16 +72,20 @@ Before we're done together, you will be celebrating that you'll have:
 
 * You will sell **an idea**, because you'll know when and when not to propose it
 * You will sell **a new service** at a new price
-* You will know how to sell **a new product idea**
+* You will know how to predict whether **a new product concept** has a shot or not at selling
 * **You will know how to buy** what others are selling, because you'll know what progress you're trying to make yourself
 
 ---
+
+## The Price: Free
 
 I only accept a few people at a time: if there are too much, I'll have to put a hold on new sign ups.
 
 So if you're interested, the first step is to simply...
 
+<div class="cta checkout-button-wrapper" markdown="1">
 [Apply via email][apply]{: .cta-btn } to receive ten articles over ten weeks.
+</div>
 
 --- 
 
@@ -94,9 +93,7 @@ So if you're interested, the first step is to simply...
 
 ### Q: Why are you offering this level of personalization for free?
 
-A: I'm only going to run it for free for a period of time, then I might stop the offer, charge a fee for it ($79?), or make it automated (not tailored, unlike this version is).
-
-The exciting thing for me is this: I get to have immediate feedback on your progress, week to week. I originally ran it with a friend, and I loved the back and forth.
+A: I'm only going to run it for free for a period of time, then I might stop the offer, charge a fee for it, or standardize the ten articles.
 
 ### Q: Are you just going to send me manual emails each week?
 
@@ -104,7 +101,7 @@ A: Yes, I'll be writing manual emails. No bulk sendouts for now. I'll also be as
 
 ### Q: Do you have books to recommend reading at the same time?
 
-A: I do. I recommend you start with one of these two books, and they'll pair super well with the articles:
+A: I do! I recommend you start with one of these two books, and they'll pair super well with the articles:
 
 * [Competing Against Luck][competing-against-luck] by Clayton Christensen
 * [Demand-Side Sales 101][demand-side-sales] by Bob Moesta
@@ -115,13 +112,13 @@ A: I've sold my services to consultants in the past, to help productize their se
 
 ---
 
-Okay, hope you'll join. Talk to you soon?
+Okay, hope you'll join. Stay sharp.
 
+<div class="cta checkout-button-wrapper" markdown="1">
 [Apply via email][apply]{: .cta-btn } to receive ten articles over ten weeks.
+</div>
 
 ---
-
-Stay sharp!
 
 {% include avatar.html %} Pascal Laliberté  
 [pascal@hey.com](mailto:pascal@hey.com)  

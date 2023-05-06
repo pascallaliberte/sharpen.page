@@ -145,6 +145,13 @@ li {
   }
 }
 
+.page .main-content .cta p {
+  font-size: rem(24px);
+  @media only screen and (max-width: $reference-width-xs-until) {
+    line-height: 1.05;
+  }
+}
+
 hr {
   background-color: lighten($color-grey, 50%);
   border: none;
