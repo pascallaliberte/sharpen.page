@@ -93,7 +93,7 @@ So if you're interested, the first step is to simply...
 
 ### Q: Why are you offering this level of personalization for free?
 
-A: I'm only going to run it for free for a period of time, then I might stop the offer, charge a fee for it, or standardize the ten articles.
+A: I'm only going to run the "I'll tailor the articles week to week" offering for a period of time, then I might standardize the ten articles or maybe I'll make it more official and charge a fee.
 
 ### Q: Are you just going to send me manual emails each week?
 
