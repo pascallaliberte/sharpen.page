@@ -57,6 +57,16 @@ I'll craft a list that touches on some of these topics:
 * How **discouraging your client leads** from hiring you helps get to the deeper value...
 * How to **package up your services** in novel ways
 
+<blockquote>
+  <p>
+    I had been meaning to read Competing Against Luck, by Clayton M. Christensen, for a while now. I wanted to learn about the JTBD framework, but was put off by it because it felt remote to my daily product development work.
+  </p>
+  <p>
+    Pascal's articles were insightful interludes in my reading, providing perspectives on what it means to build a product that is relevant for users.
+  </p>
+  <cite>—<a href="https://www.linkedin.com/in/olivierdupuis/">Olivier Dupuis</a></cite>
+</blockquote>
+
 ## By the End, You Will Have...
 
 Before we're done together, you will be celebrating that you'll have:
