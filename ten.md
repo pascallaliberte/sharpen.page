@@ -136,6 +136,6 @@ Okay, hope you'll join. Stay sharp.
 Ottawa, Ontario, Canada
 
 [twitter]: https://twitter.com/pascallaliberte
-[apply]: mailto:pascal@hey.com?subject=Buyer%20Psychology&body=Hi%20Pascal%2C%0A%0AI%27m%20interested%20in%20getting%20articles%20on%20buyer%20psycholofy%20from%20you%20over%20the%20next%20ten%20weeks.%0A%0ADo%20you%20have%20a%20spot%20to%20start%20this%20week?%0A%0AI%20know%20you%27ll%20be%20tailoring%20the%20articles%20for%20my%20situation%2C%20so%20please%20ask%20me%20follow-up%20questions.%0A%0ALooking%20forward%20to%20it%21
+[apply]: mailto:pascal@hey.com?subject=Buyer%20Psychology&body=Hi%20Pascal%2C%0A%0AI%27m%20interested%20in%20getting%20articles%20on%20buyer%20psychology%20from%20you%20over%20the%20next%20ten%20weeks.%0A%0ADo%20you%20have%20a%20spot%20to%20start%20this%20week?%0A%0AI%20know%20you%27ll%20be%20tailoring%20the%20articles%20for%20my%20situation%2C%20so%20please%20ask%20me%20follow-up%20questions.%0A%0ALooking%20forward%20to%20it%21
 [competing-against-luck]: https://www.goodreads.com/book/show/28820024-competing-against-luck
 [demand-side-sales]: https://www.goodreads.com/book/show/55345571-demand-side-sales-101?ac=1&from_search=true&qid=x0GW7jPW55&rank=1
