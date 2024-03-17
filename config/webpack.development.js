@@ -2,6 +2,7 @@
 const { merge } = require('webpack-merge');
 const CommonConfig = require('./webpack.common.js');
 const path = require('path');
+const BrowserSyncPlugin = require('browser-sync-webpack-plugin');
 const webpack = require('webpack');
 
 module.exports = merge(CommonConfig, {
@@ -11,13 +12,30 @@ module.exports = merge(CommonConfig, {
     publicPath: '/assets/',
   },
   devtool: 'inline-source-map',
-  plugins: [],
+  plugins: [
+    new BrowserSyncPlugin(
+      {
+        host: 'localhost',
+        port: 3000,
+        proxy: 'http://localhost:8080',
+        files: ['public', '_src'],
+      },
+      {
+        reload: false,
+      },
+    ),
+    new webpack.HotModuleReplacementPlugin(),
+  ],
   devServer: {
-    static: [
-      path.resolve('public'),
-    ],
-    watchFiles: ['_src/**/*.scss'],
+    static: {
+      directory: path.resolve('public'),
+    },
     hot: true,
-    port: 9090
+    client: {
+      overlay: {
+        errors: true,
+        warnings: false,
+      },
+    },
   },
 });

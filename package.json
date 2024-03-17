@@ -23,6 +23,7 @@
     "@babel/preset-env": "^7.6.0",
     "babel-loader": "^8.0.6",
     "browser-sync": "^2.18.13",
+    "browser-sync-webpack-plugin": "^2.3.0",
     "clean-webpack-plugin": "^0.1.16",
     "concurrently": "^3.5.0",
     "copy-webpack-plugin": "^12.0.2",
@@ -49,6 +50,7 @@
     "sw-precache": "^5.2.0",
     "webpack": "^5.37.0",
     "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.3",
     "webpack-merge": "^5.10.0",
     "webpack-plugin-critical": "^1.0.0",
     "webpack-pwa-manifest": "^3.1.6"
@@ -58,7 +60,6 @@
     "normalize.css": "^7.0.0",
     "sharp": "^0.33.2",
     "stimulus": "^1.1.1",
-    "turbolinks": "^5.2.0",
-    "webpack-dev-server": "^5.0.3"
+    "turbolinks": "^5.2.0"
   }
 }

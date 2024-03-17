@@ -11,23 +11,18 @@ module.exports = {
   },
   plugins: [
     new FaviconsWebpackPlugin({
-      logo: './icon.png',
+      logo: './icon.png'
     }),
     new HtmlWebpackPlugin({
       template: './_src/template/default.html',
       filename: '../_layouts/default.html',
-      inject: 'head',
-      scriptLoading: 'defer', // This replaces the need for ScriptExtHtmlWebpackPlugin
-    }),    
-    new MiniCssExtractPlugin({
-      filename: '[name].css',
-    }),    
-    new CopyWebpackPlugin({
-      patterns: [
-        { from: path.resolve('_images'), to: 'images/' },
-      ],
     }),
-    ...(process.env.NODE_ENV === 'production' ? [new MiniCssExtractPlugin()] : []),
+    new MiniCssExtractPlugin(),
+    new CopyWebpackPlugin({
+      patterns:[
+        { from: path.resolve('_images'), to: 'images/', }
+      ]
+    }),
   ],
   module: {
     rules: [
@@ -44,17 +39,17 @@ module.exports = {
       {
         test: /\.(css|scss)$/,
         use: [
-          process.env.NODE_ENV !== 'production' ? 'style-loader' : MiniCssExtractPlugin.loader,
-          'css-loader',
+          MiniCssExtractPlugin.loader,
+          { loader: 'css-loader', options: { importLoaders: 1, url: false } },
           {
             loader: 'postcss-loader',
             options: {
               postcssOptions: {
-                config: path.resolve(__dirname, 'config/postcss.config.js'),
-              },
+                config: 'config/postcss.config.js',
+              }
             },
-          },      
-          'sass-loader',
+          },
+          { loader: 'sass-loader' },
         ],
       },      
       {
