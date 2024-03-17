@@ -1,6 +1,7 @@
+@use "~sass-rem" as to;
 .blog .main-content {
   @media (min-width: ($reference-width-xs-until + 1px)) and (max-width: $reference-width-md-until) {  
-    max-width: rem(420px);
+    max-width: to.rem(420px);
   }
 }
 
@@ -12,61 +13,61 @@
     }
     
     .navigation {
-      width: rem(500px);
+      width: to.rem(500px);
     }
     
     .main-content {
-      margin-top: rem(120px);
+      margin-top: to.rem(120px);
       margin-left: 0;
-      margin-right: rem(15px);
+      margin-right: to.rem(15px);
       
       line-height: 1.3;
       
       p {
-        font-size: rem(22px);
+        font-size: to.rem(22px);
         
         &.post__meta {
-          font-size: rem(16px);
+          font-size: to.rem(16px);
         }
       }
       
       h2 {
-        font-size: rem(28px);
+        font-size: to.rem(28px);
       }
     }
   }
 }
 
 .post-list .post__title {
-  font-size: rem(16px);
+  font-size: to.rem(16px);
   
   @media (min-width: $reference-width-md-until) {
-    font-size: rem(20px);
+    font-size: to.rem(20px);
   }
   
   .blog & {
-    font-size: rem(18px);
+    font-size: to.rem(18px);
     @media (min-width: $reference-width-md-until) {
-      font-size: rem(24px);
+      font-size: to.rem(24px);
     }
   }
 }
 
 .main-content h1.post__title {
-  font-size: rem(32px);
+  font-size: to.rem(32px);
   @media (min-width: $reference-width-md-until) {
-    font-size: rem(40px);
+    font-size: to.rem(40px);
   }
 }
 
 .main-content .post__title {
-  line-height: (38/32);
+  line-height: calc(38/32);
   color: $color-primary;
   text-shadow: -2px -2px 0px rgba(255, 255, 255, 1);
   position: relative;
   
   @media (min-width: $reference-width-md-until) {
-    line-height: (48/40);
+    line-height: calc(48/40);
   }
   
   .animation-wrapper {
@@ -80,8 +81,8 @@
   
   .post__title__decoration {
     display: inline;
-    padding: 0 rem(10px);
-    margin: 0 rem(-10px);
+    padding: 0 to.rem(10px);
+    margin: 0 to.rem(-10px);
     position: relative;
     z-index: 10;
     
@@ -93,7 +94,7 @@
       position: absolute;
       content: '';
       left: 0;
-      width: rem(10px);
+      width: to.rem(10px);
       top: 0;
       bottom: 0;
       z-index: -1;
@@ -102,10 +103,10 @@
   
   &::before {
     position: absolute;
-    bottom: rem(9px);
+    bottom: to.rem(9px);
     z-index: 0;
     content: '';
-    border-bottom: rem(3px) dashed lighten($color-grey, 40%);
+    border-bottom: to.rem(3px) dashed lighten($color-grey, 40%);
     width: calc(100% - 8rem);
   }
 }
@@ -128,19 +129,19 @@
       margin: 0;
       font-weight: normal;
       color: $color-primary;
-      font-size: rem(18px);
+      font-size: to.rem(18px);
     }
     
     a {
-      font-size: rem(24px);
+      font-size: to.rem(24px);
       font-weight: bold;
       display: inline-block;
     }
     
     @media (max-width: ($reference-width-xs-until)) {
-      margin-left: rem(-15px);
-      margin-right: rem(-15px);
-      padding: rem(15px);
+      margin-left: to.rem(-15px);
+      margin-right: to.rem(-15px);
+      padding: to.rem(15px);
       z-index: 20;
       background: transparentize(#ccc, 0.1);
       backdrop-filter: saturate(180%) blur(10px);
@@ -155,11 +156,11 @@
     aside.articles-filter-container {
       padding: 0;
       position: absolute;
-      top: rem(500px);
+      top: to.rem(500px);
       bottom: 0;
-      left: calc(100% + #{ rem(10px) });
+      left: calc(100% + #{ to.rem(10px) });
       right: auto;
-      width: rem(200px);
+      width: to.rem(200px);
       
       ul {
         padding: 0;
@@ -170,7 +171,7 @@
       h2 {
         padding: 0 0.5em;
         margin-bottom: 0.5em;
-        font-size: rem(16px);
+        font-size: to.rem(16px);
       }
       
       li {
@@ -178,7 +179,7 @@
       }
       
       a {
-        font-size: rem(16px);
+        font-size: to.rem(16px);
       }
     }
     
@@ -215,27 +216,27 @@
   
   @media (min-width: ($reference-width-md-until + 1px)) {
     aside.articles-filter-container {
-      top: rem(800px);
+      top: to.rem(800px);
       left: auto;
-      right: calc(100% + #{ rem(50px) });
-      width: rem(300px);
+      right: calc(100% + #{ to.rem(50px) });
+      width: to.rem(300px);
       
       ul {
         list-style: none;
       }
       
       a {
-        font-size: rem(20px);
+        font-size: to.rem(20px);
       }
       
       h2 {
-        font-size: rem(22px);
+        font-size: to.rem(22px);
       }
     }
     
     .articles-filter {
       position: sticky;
-      top: rem(100px);
+      top: to.rem(100px);
     }
   }
 }
@@ -245,7 +246,7 @@
   
   .main-content {
     p, ul, ol {
-      font-size: rem(18px)
+      font-size: to.rem(18px)
     }
     
     p, h2, h3 {
@@ -259,11 +260,11 @@
     }
 
     ul, ol {
-      padding-left: rem(35px);
+      padding-left: to.rem(35px);
     }
     
     h2 {
-      font-size: rem(22px);
+      font-size: to.rem(22px);
     }
     
     img {
@@ -273,7 +274,7 @@
     
     .job-statement {
       font-family: $tertiary-font-family;
-      font-size: rem(30px);
+      font-size: to.rem(30px);
     }
     
     .question {
@@ -291,18 +292,18 @@
     }
     
     blockquote {
-      margin: rem(1em -30px);
-      padding: rem(15px);
-      padding-left: rem(30px);
-      padding-bottom: rem(5px);
+      margin: to.rem(1em -30px);
+      padding: to.rem(15px);
+      padding-left: to.rem(30px);
+      padding-bottom: to.rem(5px);
       background-color: transparentize(white, 0.5);
       position: relative;
       
       @media (min-width: $reference-width-xs-until) {
-        margin: rem(1em -40px);
-        padding: rem(20px 40px);
-        padding-left: rem(50px);
-        margin-left: rem(-50px);
+        margin: to.rem(1em -40px);
+        padding: to.rem(20px 40px);
+        padding-left: to.rem(50px);
+        margin-left: to.rem(-50px);
         transform: rotateZ(-1deg) perspective(80rem) rotateX(0.5deg);
       }
       
@@ -319,21 +320,21 @@
       &::before {
         position: absolute;
         content: "〝";
-        top: rem(20px);
-        left: rem(-20px);
+        top: to.rem(20px);
+        left: to.rem(-20px);
         font-size: 3em;
         font-weight: bold;
         color: transparentize($color-secondary, 0.5);
         
         @media (min-width: $reference-width-xs-until) {
-          top: rem(27px);
-          left: rem(-20px);
+          top: to.rem(27px);
+          left: to.rem(-20px);
         }
       }
       
       @media (max-width: $reference-width-xs-until) {
         & > p {
-          text-indent: rem(20px);
+          text-indent: to.rem(20px);
         }
       }
     }
@@ -349,16 +350,16 @@
       li {
         display: inline-block;
         background: white;
-        border-radius: rem(5px);
-        padding: rem(6px 12px);
+        border-radius: to.rem(5px);
+        padding: to.rem(6px 12px);
         
-        &:nth-of-type(7n)   { margin-left: rem(-5px); }
-        &:nth-of-type(7n+1) { margin-left: rem(-8px); }
-        &:nth-of-type(7n+2) { margin-left: rem(4px); }
-        &:nth-of-type(7n+3) { margin-left: rem(-2px); }
-        &:nth-of-type(7n+4) { margin-left: rem(-5px); }
-        &:nth-of-type(7n+5) { margin-left: rem(3px); }
-        &:nth-of-type(7n+6) { margin-left: rem(-2px); }
+        &:nth-of-type(7n)   { margin-left: to.rem(-5px); }
+        &:nth-of-type(7n+1) { margin-left: to.rem(-8px); }
+        &:nth-of-type(7n+2) { margin-left: to.rem(4px); }
+        &:nth-of-type(7n+3) { margin-left: to.rem(-2px); }
+        &:nth-of-type(7n+4) { margin-left: to.rem(-5px); }
+        &:nth-of-type(7n+5) { margin-left: to.rem(3px); }
+        &:nth-of-type(7n+6) { margin-left: to.rem(-2px); }
       }
     }
     
@@ -372,8 +373,8 @@
     font-style: italic;
     position: relative;
     margin-top: 3em;
-    padding-left: rem(20px);
-    border-left: rem(4px) dashed lighten($color-grey, 50%);
+    padding-left: to.rem(20px);
+    border-left: to.rem(4px) dashed lighten($color-grey, 50%);
     
     mark {
       font-weight: bold;
@@ -381,15 +382,15 @@
       position: absolute;
       display: inline-block;
       top: -1.7em;
-      left: rem(-15px);
-      padding: rem(2px 15px);
+      left: to.rem(-15px);
+      padding: to.rem(2px 15px);
     }
   }
   
   .primer {
-    margin: rem(1em -15px);
-    padding: rem(15px);
-    padding-bottom: rem(5px);
+    margin: to.rem(1em -15px);
+    padding: to.rem(15px);
+    padding-bottom: to.rem(5px);
     background-color: transparentize(white, 0.5);
     color: #777;
     h2, h3 {
@@ -398,8 +399,8 @@
     }
     
     @media (min-width: $reference-width-xs-until) {
-      margin: rem(2em -40px);
-      padding: rem(40px);
+      margin: to.rem(2em -40px);
+      padding: to.rem(40px);
       transform: rotateZ(-1deg) perspective(80rem) rotateX(0.5deg);
     }
   }
@@ -417,9 +418,9 @@
     width: 2.2em;
     position: relative;
     
-    top: rem(3px);
-    left: rem(-2px);
-    margin-right: rem(-5px);
+    top: to.rem(3px);
+    left: to.rem(-2px);
+    margin-right: to.rem(-5px);
     
     &::after {
       position: absolute;
@@ -451,7 +452,7 @@
     padding-left: 0.4em;
     padding-right: 0.4em;
     background-color: #DFDEEC;
-    border: rem(2px) solid white;
+    border: to.rem(2px) solid white;
     color: $color-secondary;
     
     @media (min-width: $reference-width-md-until) {
@@ -498,17 +499,17 @@
       opacity: 0.7;
       
       @media (max-width: $reference-width-md-until) {
-        border-left: rem(2px) dashed transparentize($text-color, 0.2);
-        padding-left: rem(15px);
+        border-left: to.rem(2px) dashed transparentize($text-color, 0.2);
+        padding-left: to.rem(15px);
       }
       
       @media (min-width: ($reference-width-md-until + 1px)) {
         position: absolute;
-        width: rem(250px);
+        width: to.rem(250px);
         right: calc(100% + 6rem);
         bottom: 0;
-        border-right: rem(2px) dashed transparentize($text-color, 0.2);
-        padding-right: rem(10px);
+        border-right: to.rem(2px) dashed transparentize($text-color, 0.2);
+        padding-right: to.rem(10px);
       }
       
       .force-icon {
@@ -529,7 +530,7 @@
     
     .note {
       &, p {
-        font-size: rem(16px);
+        font-size: to.rem(16px);
         line-height: 1.2;
       }
       
@@ -545,13 +546,13 @@
   
   .examples {
     background-color: transparentize($color-grey, 0.9);
-    margin: rem(1em -15px);
-    padding: rem(30px);
-    padding-left: rem(60px);
-    padding-bottom: rem(20px);
+    margin: to.rem(1em -15px);
+    padding: to.rem(30px);
+    padding-left: to.rem(60px);
+    padding-bottom: to.rem(20px);
     li {
-      padding: rem(10px 0 20px);
-      border-bottom: rem(1px) solid $color-grey;
+      padding: to.rem(10px 0 20px);
+      border-bottom: to.rem(1px) solid $color-grey;
       &:last-of-type {
         padding-bottom: 0;
         border-bottom: none;
@@ -568,14 +569,14 @@
     @media (min-width: ($reference-width-xs-until + 1px)) {
       li {
         @include clearfix;
-        padding-right: rem(220px);
+        padding-right: to.rem(220px);
       }
       
       img {
         float: right;
-        max-width: rem(200px);
+        max-width: to.rem(200px);
         height: auto;
-        margin-right: rem(-200px);
+        margin-right: to.rem(-200px);
       }
     }
   }
@@ -585,9 +586,9 @@
     background-color: #686868;
     color: white;
     font-family: $tertiary-font-family;
-    font-size: rem(21px);
+    font-size: to.rem(21px);
     line-height: 1;
-    padding: rem(2px 10px);
+    padding: to.rem(2px 10px);
   }
   
   &__container {
@@ -595,20 +596,20 @@
   }
 
   &__meta {
-    margin-top: rem(40px);
-    margin-bottom: rem(40px);
+    margin-top: to.rem(40px);
+    margin-bottom: to.rem(40px);
     color: lighten($color-secondary, 30%);
   }
   
   .blog-nav-link-next-wrapper {
     text-align: right;
-    margin-top: rem(20px);
+    margin-top: to.rem(20px);
   }
   
   @media (min-width: $reference-width-xs-until) and (max-width: $reference-width-md-until) {
     .blog-nav-link-next-wrapper {
       position: relative;
-      right: rem(-100px);
+      right: to.rem(-100px);
     }
   }
   
@@ -619,15 +620,15 @@
     
     .blog-nav {
       position: absolute;
-      max-width: rem(250px);
-      bottom: rem(50px);
-      left: rem(-410px);
+      max-width: to.rem(250px);
+      bottom: to.rem(50px);
+      left: to.rem(-410px);
     }
     
     .blog-nav-link-next-wrapper {
       text-align: right;
       position: relative;
-      right: rem(-100px);
+      right: to.rem(-100px);
     }
   }
 }
@@ -648,7 +649,7 @@
     @media (min-width: $reference-width-md-until) {
       margin-right: 0;
       position: relative;
-      left: rem(-220px);
+      left: to.rem(-220px);
     }
   }
 }
@@ -657,20 +658,20 @@
   pre.highlight {
     background: transparentize(white, 0.5);
     color: #777;
-    font-size: rem(20px);
+    font-size: to.rem(20px);
     padding: 0.5em 0.5em 0.5em 1em;
     border-left: 12px solid transparentize($color-secondary, 0.5);
     overflow-x: scroll;
     -webkit-overflow-scrolling: touch;
     
     @media (max-width: $reference-width-md-until) {
-      font-size: rem(14px);
+      font-size: to.rem(14px);
     }
     
     @media (max-width: $reference-width-xs-until) {
-      margin-left: rem(-30px);
-      margin-right: rem(-30px);
-      padding-left: rem(30px - 12px);
+      margin-left: to.rem(-30px);
+      margin-right: to.rem(-30px);
+      padding-left: to.rem(30px - 12px);
     }
   }
   
@@ -682,24 +683,24 @@
   
   ul.painstorming {
     list-style: none;
-    padding-left: rem(15px);
-    font-size: rem(15px);
+    padding-left: to.rem(15px);
+    font-size: to.rem(15px);
     font-family: $primary-font-family;
     color: $color-grey;
-    line-height: (17 / 15);
+    line-height: calc(17 / 15);
   }
   ul.painstorming-words {
     list-style: none;
-    border-left: rem(2px) dotted transparentize($color-grey, 0.5);
+    border-left: to.rem(2px) dotted transparentize($color-grey, 0.5);
     background: transparentize(white, 0.5);
-    max-width: rem(350px);
-    padding-top: rem(8px);
-    padding-bottom: rem(8px);
+    max-width: to.rem(350px);
+    padding-top: to.rem(8px);
+    padding-bottom: to.rem(8px);
   }
 }
 
 .main-content .post-list {
-  padding-left: rem(55px);
+  padding-left: to.rem(55px);
   
   li {
     margin-bottom: 1em;
@@ -708,7 +709,7 @@
   
   .post__title {
     display: block;
-    margin-left: rem(10px);
+    margin-left: to.rem(10px);
     font-weight: bold;
     
     .blog__link {
@@ -746,15 +747,15 @@
       .post__showcasing {
         display: none;
         position: relative;
-        margin-left: rem(8px);
-        top: rem(-1px);
+        margin-left: to.rem(8px);
+        top: to.rem(-1px);
         clear: left;
         z-index: 10;
-        font-size: rem(18px);
+        font-size: to.rem(18px);
         font-family: $primary-font-family;
         color: black;
         font-weight: normal;
-        padding: rem(4px 8px);
+        padding: to.rem(4px 8px);
         text-transform: lowercase;
         text-shadow: none;
         background: #DBE078;
@@ -781,20 +782,20 @@
   }
   
   position: absolute;
-  top: rem(-80px);
+  top: to.rem(-80px);
   right: 0;
   
   input[type="text"] {
-    width: rem(300px);
-    font-size: rem(14px);
+    width: to.rem(300px);
+    font-size: to.rem(14px);
     color: #999;
-    padding: rem(5px 10px);
+    padding: to.rem(5px 10px);
     border: none;
     font-family: $primary-font-family;
   }
   button {
-    font-size: rem(14px);
-    padding: rem(5px 10px);
+    font-size: to.rem(14px);
+    padding: to.rem(5px 10px);
     border: none;
     color: white;
     background: mix($color-secondary, $color-grey);
@@ -812,19 +813,19 @@ pre.have-done, pre.mental-models {
   padding-right: 0;
   
   @media (max-width: $reference-width-xs-until) {
-    margin-left: rem(-30px);
-    margin-right: rem(-30px);
+    margin-left: to.rem(-30px);
+    margin-right: to.rem(-30px);
   }
   
   @media (min-width: $reference-width-xs-until + 1px) and (max-width: $reference-width-md-until) {
-    margin-left: rem(-30px);
-    margin-right: rem(-120px);
+    margin-left: to.rem(-30px);
+    margin-right: to.rem(-120px);
   }
   
   @media (min-width: $reference-width-md-until + 1px) {
-    margin-left: rem(-90px);
-    transform: translateX(rem(60px));
-    width: rem(730px);
+    margin-left: to.rem(-90px);
+    transform: translateX(to.rem(60px));
+    width: to.rem(730px);
   }
   
   line-height: 1.5;
@@ -832,12 +833,12 @@ pre.have-done, pre.mental-models {
   -webkit-overflow-scrolling: smooth;
   
   &, & > p {
-    font-size: rem(16px) !important;
+    font-size: to.rem(16px) !important;
   }
   
   & > p {
     margin: 0;
-    margin-left: rem(30px);
+    margin-left: to.rem(30px);
   }
   
   strong, em {
@@ -878,7 +879,7 @@ pre.have-done, pre.mental-models {
     text-shadow: none;
     color: #333;
     display: inline-block;
-    padding: rem(2px 8px);
+    padding: to.rem(2px 8px);
   }
   
   & {
@@ -899,7 +900,7 @@ pre.have-done, pre.mental-models {
   background: $color-primary;
   color: white;
   padding: 0.2em 0.5em 0.25em 0.5em;
-  border-radius: rem(2px);
+  border-radius: to.rem(2px);
   border: none;
   text-shadow: none;
   box-shadow: -2px -2px 0px rgba(255, 255, 255, 1);
@@ -908,12 +909,12 @@ pre.have-done, pre.mental-models {
   .i {
     width: auto;
     height: 1em;
-    stroke-width: rem(3px);
-    transform: translateY(rem(4px));
+    stroke-width: to.rem(3px);
+    transform: translateY(to.rem(4px));
     margin-left: 0.1em;
     
     @media only screen and (max-width: $reference-width-xs-until) {
-      stroke-width: rem(2px);
+      stroke-width: to.rem(2px);
     }
   }
   

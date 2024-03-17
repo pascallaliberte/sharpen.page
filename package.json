@@ -44,7 +44,7 @@
     "rimraf": "^2.6.2",
     "sass": "^1.32.8",
     "sass-loader": "^10.0.0",
-    "sass-rem": "^2.0.1",
+    "sass-rem": "^4.0.0",
     "style-loader": "^0.18.2",
     "sw-precache": "^5.2.0",
     "webpack": "^5.37.0",
@@ -58,6 +58,7 @@
     "normalize.css": "^7.0.0",
     "sharp": "^0.33.2",
     "stimulus": "^1.1.1",
-    "turbolinks": "^5.2.0"
+    "turbolinks": "^5.2.0",
+    "webpack-dev-server": "^5.0.3"
   }
 }

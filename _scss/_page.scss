@@ -1,3 +1,4 @@
+@use "~sass-rem" as to;
 .page {
   @media (min-width: $reference-width-md-until) {
     main {
@@ -6,15 +7,15 @@
     }
     
     .navigation {
-      width: rem(500px);
+      width: to.rem(500px);
     }
     
     .main-content {
-      margin-top: rem(120px);
+      margin-top: to.rem(120px);
       margin-left: 0;
-      margin-right: rem(15px);
+      margin-right: to.rem(15px);
       
-      padding-bottom: rem(300px);
+      padding-bottom: to.rem(300px);
       
       line-height: 1.3;
       
@@ -23,19 +24,19 @@
       }
       
       p {
-        font-size: rem(22px);
+        font-size: to.rem(22px);
         
         &.post__meta {
-          font-size: rem(16px);
+          font-size: to.rem(16px);
         }
       }
       
       h2 {
-        font-size: rem(28px);
+        font-size: to.rem(28px);
         
         small {
           text-transform: uppercase;
-          font-size: rem(20px);
+          font-size: to.rem(20px);
           line-height: 1;
           color: $color-primary;
         }
@@ -45,18 +46,18 @@
 
   .main-content {
     blockquote {
-      margin: rem(1em -15px);
-      padding: rem(30px);
-      padding-left: rem(30px);
-      padding-bottom: rem(15px);
+      margin: to.rem(1em -15px);
+      padding: to.rem(30px);
+      padding-left: to.rem(30px);
+      padding-bottom: to.rem(15px);
       background-color: transparentize(white, 0.5);
       position: relative;
       
       @media (min-width: $reference-width-xs-until) {
-        margin: rem(1em -40px);
-        padding: rem(20px 40px);
-        padding-left: rem(50px);
-        margin-left: rem(-50px);
+        margin: to.rem(1em -40px);
+        padding: to.rem(20px 40px);
+        padding-left: to.rem(50px);
+        margin-left: to.rem(-50px);
         transform: rotateZ(-1deg) perspective(80rem) rotateX(0.5deg);
       }
       
@@ -69,21 +70,21 @@
       &::before {
         position: absolute;
         content: "〝";
-        top: rem(20px);
-        left: rem(-20px);
+        top: to.rem(20px);
+        left: to.rem(-20px);
         font-size: 3em;
         font-weight: bold;
         color: transparentize($color-secondary, 0.5);
         
         @media (min-width: $reference-width-xs-until) {
-          top: rem(27px);
-          left: rem(-20px);
+          top: to.rem(27px);
+          left: to.rem(-20px);
         }
       }
       
       @media (max-width: $reference-width-xs-until) {
         & > p {
-          text-indent: rem(20px);
+          text-indent: to.rem(20px);
         }
       }
     }
@@ -93,7 +94,7 @@
     @media (min-width: $reference-width-md-until) {
       margin-right: 0;
       position: relative;
-      left: rem(-220px);
+      left: to.rem(-220px);
     }
   }
   

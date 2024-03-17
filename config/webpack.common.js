@@ -45,7 +45,14 @@ module.exports = {
         use: [
           MiniCssExtractPlugin.loader, // instead of ExtractTextPlugin.extract(...)
           'css-loader',
-          'postcss-loader',
+          {
+            loader: 'postcss-loader',
+            options: {
+              postcssOptions: {
+                config: path.resolve(__dirname, 'config/postcss.config.js'),
+              },
+            },
+          },      
           'sass-loader',
         ],
       },      
