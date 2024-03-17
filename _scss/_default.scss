@@ -1,10 +1,9 @@
-@use "~sass-rem" as to;
 @import "../node_modules/awesome-sass-easing/_sass-easing.scss";
 
 // Variables
 
 $container-width: 100%;
-$container-padding: to.rem(15px);
+$container-padding: to-rem(15px);
 
 $color-primary: #605aa4;
 $color-secondary: #393561;
@@ -21,10 +20,10 @@ $color-error: #611802;
 $color-body-background: #ddd;
 $color-main-background: #e8e8e8;
 
-$font-xl: to.rem(58px);
-$font-md: to.rem(22px);
-$font-sm: to.rem(18px);
-$font-xs: to.rem(16px);
+$font-xl: to-rem(58px);
+$font-md: to-rem(22px);
+$font-sm: to-rem(18px);
+$font-xs: to-rem(16px);
 
 $system-font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 $primary-font-family: jubilat,$system-font-family;
@@ -39,8 +38,8 @@ $reference-width-xl: 1440px;
 $lock-font-size-and-center-beyond: 1440px;
 
 body {
-  padding-left: to.rem(15px);
-  padding-right: to.rem(15px);
+  padding-left: to-rem(15px);
+  padding-right: to-rem(15px);
   * {
     box-sizing: border-box;
   }
@@ -69,7 +68,7 @@ body {
   }
     
   main {
-    max-width: to.rem(700px);
+    max-width: to-rem(700px);
     margin: 0 auto;
   }
 }
@@ -80,7 +79,7 @@ body {
   }
     
   main {
-    max-width: to.rem(1125px);
+    max-width: to-rem(1125px);
     margin: 0 auto;
   }
 }
@@ -140,14 +139,14 @@ li {
 }
 
 .page .main-content .intro {
-  font-size: to.rem(30px);
+  font-size: to-rem(30px);
   @media only screen and (max-width: $reference-width-xs-until) {
     line-height: 1.05;
   }
 }
 
 .page .main-content .cta p {
-  font-size: to.rem(24px);
+  font-size: to-rem(24px);
   @media only screen and (max-width: $reference-width-xs-until) {
     line-height: 1.05;
   }
@@ -158,7 +157,7 @@ hr {
   border: none;
   height: 0.3em;
   max-width: 10em;
-  margin: to.rem(50px 0 30px);
+  margin: to-rem(50px 0 30px);
 }
 
 // Shared
@@ -166,8 +165,8 @@ hr {
 .button {
   display: inline-block;
   border: 1px solid lighten($link-color, 40%);
-  border-radius: to.rem(50px);
-  padding: to.rem(15px 30px);
+  border-radius: to-rem(50px);
+  padding: to-rem(15px 30px);
   font-weight: 300;
   text-shadow: none;
 
@@ -248,7 +247,7 @@ a:not(.cta-btn) {
   background: $color-primary;
   color: white;
   padding: 0 0.5em 0.05em 0.5em;
-  border-radius: to.rem(2px);
+  border-radius: to-rem(2px);
   text-shadow: none;
   box-shadow: -2px -2px 0px rgba(255, 255, 255, 1);
   cursor: pointer;
@@ -256,12 +255,12 @@ a:not(.cta-btn) {
   .i {
     width: auto;
     height: 1em;
-    stroke-width: to.rem(3px);
-    transform: translateY(to.rem(4px));
+    stroke-width: to-rem(3px);
+    transform: translateY(to-rem(4px));
     margin-left: 0.1em;
     
     @media only screen and (max-width: $reference-width-xs-until) {
-      stroke-width: to.rem(2px);
+      stroke-width: to-rem(2px);
     }
   }
   
@@ -285,37 +284,37 @@ a:not(.cta-btn) {
 }
 
 .main-content {
-  font-size: to.rem(22px);
+  font-size: to-rem(22px);
   line-height: calc(27/22);
   letter-spacing: 0.024em;
   
   @media (min-width: $reference-width-xs-until) {
-    margin-left: to.rem(60px);
-    max-width: to.rem(490px);
-    margin-right: to.rem(60px);
+    margin-left: to-rem(60px);
+    max-width: to-rem(490px);
+    margin-right: to-rem(60px);
   }
   
   @media (min-width: $reference-width-md-until) {
-    margin-left: to.rem(280px);
-    max-width: to.rem(780px);
-    margin-right: to.rem(60px);
-    margin-top: to.rem(-70px);
+    margin-left: to-rem(280px);
+    max-width: to-rem(780px);
+    margin-right: to-rem(60px);
+    margin-top: to-rem(-70px);
   }
   
   .service & {
-    margin-top: to.rem(30px);
+    margin-top: to-rem(30px);
     
     @media (min-width: $reference-width-xs-until) {
-      margin-left: to.rem(70px);
+      margin-left: to-rem(70px);
     }
     
     @media (min-width: $reference-width-md-until) {
-      margin-left: to.rem(70px);
+      margin-left: to-rem(70px);
     }
   }
   
   h1 {
-    font-size: to.rem(35px);
+    font-size: to-rem(35px);
     line-height: calc(25/30);
     letter-spacing: -0.033em;
     color: $color-secondary;
@@ -324,14 +323,14 @@ a:not(.cta-btn) {
   
   h2 {
     color: $color-secondary;
-    font-size: to.rem(28px);
-    margin-top: to.rem(45px);
-    margin-bottom: to.rem(15px);
+    font-size: to-rem(28px);
+    margin-top: to-rem(45px);
+    margin-bottom: to-rem(15px);
     font-weight: bold;
   }
   
   h3 {
-    font-size: to.rem(22px);
+    font-size: to-rem(22px);
     color: $color-secondary;
   }
   
@@ -344,7 +343,7 @@ a:not(.cta-btn) {
 .home {
 
   header h1 {
-    font-size: to.rem(18px);
+    font-size: to-rem(18px);
     letter-spacing: -0.02em;
     font-family: $secondary-font-family;
     color: $color-primary;
@@ -377,10 +376,10 @@ a:not(.cta-btn) {
 }
 
 .drag-to-bookmarks-container {
-  border: to.rem(10px) solid transparentize($color-secondary, 0.9);
-  padding: to.rem(16px 20px 20px);
+  border: to-rem(10px) solid transparentize($color-secondary, 0.9);
+  padding: to-rem(16px 20px 20px);
   
-  font-size: to.rem(12px);
+  font-size: to-rem(12px);
   font-style: italic;
   font-family: $system-font-family;
   color: #444;
@@ -399,7 +398,7 @@ a.drag-to-bookmarks-link {
   display: inline-block;
   color: #444;
   border-radius: 1em;
-  font-size: to.rem(12px);
+  font-size: to-rem(12px);
   font-style: normal;
   font-family: $system-font-family;
   padding: 0.3em 1.3em;
@@ -419,32 +418,32 @@ a.drag-to-bookmarks-link {
 
 ol.page-structure {
   list-style: none;
-  max-width: to.rem(200px);
+  max-width: to-rem(200px);
   background: transparentize(white, 0.6);
-  border: to.rem(10px) solid transparentize(#D8D8D8, 0.3);
-  border-radius: to.rem(5px);
+  border: to-rem(10px) solid transparentize(#D8D8D8, 0.3);
+  border-radius: to-rem(5px);
   padding: 0 !important;
-  font-size: to.rem(16px) !important;
+  font-size: to-rem(16px) !important;
   
   li {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: to.rem(10px 15px);
+    padding: to-rem(10px 15px);
     margin: 0 !important;
     font-family: $secondary-font-family;
-    border-top: to.rem(2px) solid transparentize(#D8D8D8, 0.3);
+    border-top: to-rem(2px) solid transparentize(#D8D8D8, 0.3);
     position: relative;
     
     &:first-of-type {
-      padding-top: to.rem(30px);
-      padding-bottom: to.rem(30px);
+      padding-top: to-rem(30px);
+      padding-bottom: to-rem(30px);
       border-top: none;
     }
     
     em {
       display: block;
-      margin-left: to.rem(15px);
+      margin-left: to-rem(15px);
       font-size: 0.8em;
       color: #777;
     }
@@ -479,26 +478,26 @@ ol.page-structure {
   }
   
   @media (min-width: $reference-width-xs-until) {
-    margin-left: to.rem(-100px);
-    margin-right: to.rem(-120px);
+    margin-left: to-rem(-100px);
+    margin-right: to-rem(-120px);
     background: transparentize(white, 0.5);
-    padding: to.rem(6px);
+    padding: to-rem(6px);
     
     figcaption {
-      margin: to.rem(6px);
+      margin: to-rem(6px);
     }
   }
   
   @media (max-width: $reference-width-md-until) {
-    margin-left: to.rem(-60px);
-    margin-right: to.rem(-150px);
+    margin-left: to-rem(-60px);
+    margin-right: to-rem(-150px);
   }
   
   @media (max-width: $reference-width-xs-until) {
-    margin-left: to.rem(-30px);
-    margin-right: to.rem(-30px);
+    margin-left: to-rem(-30px);
+    margin-right: to-rem(-30px);
     background: transparentize(white, 0.5);
-    padding: to.rem(6px 0);
+    padding: to-rem(6px 0);
   }
 }
 
@@ -509,23 +508,23 @@ ol.page-structure {
   
   .video-link-wrapper {
     display: inline-block;
-    margin-left: to.rem(10px);
+    margin-left: to-rem(10px);
     position: relative;
     
     &:before {
       content: '';
       position: absolute;
-      left: to.rem(-10px);
-      top: to.rem(-5px);
-      bottom: to.rem(-5px);
-      width: to.rem(10px);
+      left: to-rem(-10px);
+      top: to-rem(-5px);
+      bottom: to-rem(-5px);
+      width: to-rem(10px);
       background: white;
     }
   }
   .video-link {
     color: $color-secondary;
     display: inline;
-    padding: to.rem(5px 10px 5px 0);
+    padding: to-rem(5px 10px 5px 0);
     background: white;
     line-height: 1.1;
     
@@ -539,12 +538,12 @@ ol.page-structure {
     .i {
       width: auto;
       height: 1em;
-      stroke-width: to.rem(3px);
-      transform: translateY(to.rem(4px));
+      stroke-width: to-rem(3px);
+      transform: translateY(to-rem(4px));
       margin-left: 0.1em;
       
       @media only screen and (max-width: $reference-width-xs-until) {
-        stroke-width: to.rem(2px);
+        stroke-width: to-rem(2px);
       }
     }
   }

@@ -16,6 +16,8 @@ module.exports = merge(CommonConfig, {
     static: [
       path.resolve('public'),
     ],
+    watchFiles: ['_src/**/*.scss'],
+    hot: true,
     port: 9090
   },
 });

@@ -1,4 +1,3 @@
-@use "~sass-rem" as to;
 .navigation {
 
   display: flex;
@@ -9,18 +8,18 @@
 
   // margin-top: 10px;
 
-  padding-bottom: to.rem(10px);
+  padding-bottom: to-rem(10px);
   
   @media (max-width: $reference-width-xs-until) {
-    margin-right: to.rem(-15px);
+    margin-right: to-rem(-15px);
   }
   
   @media (min-width: $reference-width-xs-until) {
-    padding-right: to.rem(20px);
+    padding-right: to-rem(20px);
   }
   
   @media (min-width: $reference-width-md-until) {
-    padding-left: to.rem(40px);
+    padding-left: to-rem(40px);
   }
 
   &__branding {
@@ -38,35 +37,35 @@
   &__logo {
     margin-top: 0;
     display: block;
-    margin-bottom: to.rem(26px);
+    margin-bottom: to-rem(26px);
     
-    width: to.rem(326px);
-    height: to.rem(70px);
+    width: to-rem(326px);
+    height: to-rem(70px);
     
     @media (max-width: $reference-width-xs-until) {
-      width: to.rem(259px);
-      height: to.rem(53px);
+      width: to-rem(259px);
+      height: to-rem(53px);
     }
     
     @media (min-width: $reference-width-md-until) {
-      margin-left: to.rem(-175px);
+      margin-left: to-rem(-175px);
     }
   }
 
   &__logo-img {
-    margin-top: to.rem(-12px);
+    margin-top: to-rem(-12px);
     height: auto;
-    width: to.rem(326px);
+    width: to-rem(326px);
     
     @media (max-width: $reference-width-xs-until) {
-      width: to.rem(259px);
+      width: to-rem(259px);
     }
   }
   
   & &__service-slug {
     position: absolute;
-    top: to.rem(25px);
-    left: to.rem(235px);
+    top: to-rem(25px);
+    left: to-rem(235px);
     
     &::before {
       position: absolute;
@@ -76,16 +75,16 @@
     }
     
     @media (max-width: $reference-width-xs-until) {
-      font-size: to.rem(22px);
-      max-width: to.rem(200px);
-      top: to.rem(60px);
-      left: to.rem(25px);
+      font-size: to-rem(22px);
+      max-width: to-rem(200px);
+      top: to-rem(60px);
+      left: to-rem(25px);
     }
     
     @media only screen and (min-width: ($reference-width-xs-until + 1px)) and (max-width: $reference-width-md-until) {
-      max-width: to.rem(480px);
-      top: to.rem(80px);
-      left: to.rem(69px);
+      max-width: to-rem(480px);
+      top: to-rem(80px);
+      left: to-rem(69px);
     }
   }
 
@@ -102,15 +101,15 @@
     transform-origin: top left;
     
     @media (max-width: $reference-width-xs-until) {
-      margin-top: to.rem(40px);
+      margin-top: to-rem(40px);
     }
     
     &.on-post, &.on-blog {
       transform: scale(0.84985835694051);
-      margin-bottom: to.rem(-50px);
+      margin-bottom: to-rem(-50px);
       @media (max-width: $reference-width-xs-until) {
         transform: scale(0.70);
-        margin-bottom: to.rem(-120px);
+        margin-bottom: to-rem(-120px);
       }
     }
     
@@ -130,19 +129,19 @@
       }
     }
     
-    font-size: to.rem(32px);
+    font-size: to-rem(32px);
     line-height: 1;
     letter-spacing: -0.036em;
     font-family: $tertiary-font-family;
     font-style: italic;
-    max-width: to.rem(269px);
+    max-width: to-rem(269px);
     color: $color-primary;
-    margin-top: to.rem(32px);
+    margin-top: to-rem(32px);
     
     &-byline {
       display: block;
-      margin-top: to.rem(8px);
-      font-size: to.rem(22px);
+      margin-top: to-rem(8px);
+      font-size: to-rem(22px);
       letter-spacing: -0.024em;
       color: #333;
       opacity: 0.6;
@@ -160,7 +159,7 @@
     position: relative;
     margin-top: 1em;
     width: 100%;
-    font-size: to.rem(22px);
+    font-size: to-rem(22px);
     
     @media (max-width: $reference-width-xs-until - 1px) {
       position: absolute;
@@ -177,22 +176,22 @@
   
   &__main {
     
-    font-size: to.rem(22px);
-    margin-top: to.rem(20px);
-    max-width: to.rem(250px);
+    font-size: to-rem(22px);
+    margin-top: to-rem(20px);
+    max-width: to-rem(250px);
     
     .home &, .service & {
       position: absolute;
-      right: to.rem(30px);
+      right: to-rem(30px);
       text-align: right;
       top: 0;
       
       @media (max-width: ($reference-width-md-until - 1px)) {
-        top: to.rem(50px);
+        top: to-rem(50px);
       }
       
       @media (max-width: ($reference-width-xs-until - 1px)) {
-        right: to.rem(15px);
+        right: to-rem(15px);
         .navigation__link-latest-article-title {
           display: none;
         }
@@ -202,7 +201,7 @@
     .service & {
       
       @media (min-width: ($reference-width-md-until + 1px)) {
-        top: to.rem(20px);
+        top: to-rem(20px);
       }
       
       .navigation__link-latest-article {
@@ -212,15 +211,15 @@
     
     @media (max-width: ($reference-width-md-until - 1px)) {
       position: absolute;
-      right: to.rem(30px);
+      right: to-rem(30px);
       text-align: right;
-      top: to.rem(50px);
+      top: to-rem(50px);
       bottom: 0;
     }
     
     
     @media (max-width: ($reference-width-xs-until - 1px)) {
-      right: to.rem(15px);
+      right: to-rem(15px);
       .navigation__link-latest-article-title {
         display: none;
       }
@@ -228,16 +227,16 @@
   }
   
   .btn {
-    font-size: to.rem(20px);
+    font-size: to-rem(20px);
     display: inline-block;
     height: auto;
     white-space: nowrap;
     line-height: 1.2;
-    padding: 0.3em to.rem(15px);
+    padding: 0.3em to-rem(15px);
     background-color: $color-primary;
     color: white;
     -webkit-appearance: none;
-    border-radius: to.rem(4px);
+    border-radius: to-rem(4px);
     &:hover, &:focus {
       background-color: darken($color-primary, 10%);
     }

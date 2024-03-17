@@ -1,22 +1,26 @@
-@use "~sass-rem" as to;
 @use "sass:math";
+@import "~sass-rem";
 
 $rem-baseline: 10px;
 
 // reference widths are used to determine the value of 10px based on viewport
 // width, which will be associated with 1rem.
-// This allows us to use to.rem({value}px) in the css, making clear the original
+// This allows us to use to-rem({value}px) in the css, making clear the original
 // design's px value for the reference width, and in the browser, when
 // inspecting the value, we see the rem value that's divisible by 10 to get the
 // px value
+
+@function to-rem($px-value) {
+  @return rem-convert($px-value);
+}
 
 @function root-vw-font-size($reference-width) {
   @if (type-of($rem-baseline) != "number") {
     $rem-baseline: 10px;
   }
-  @return math.div($rem-baseline, $reference-width) * 100 + 0vw;
+  @return math.div($rem-baseline,  $reference-width) * 100 + 0vw;
 }
 
 @function get-adjusted-font-size-baseline($new-reference-width, $base-reference-width) {
-  @return math.div($new-reference-width * $rem-baseline, $base-reference-width);
+  @return math.div(($new-reference-width * $rem-baseline), $base-reference-width);
 }

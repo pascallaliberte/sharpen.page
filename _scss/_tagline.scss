@@ -1,11 +1,10 @@
-@use "~sass-rem" as to;
 .tagline {
   display: block;
-  margin-left: to.rem(-15px);
+  margin-left: to-rem(-15px);
   @media (min-width: $reference-width-md-until) {
     margin-left: 0;
   }
-  margin-top: to.rem(10px);
+  margin-top: to-rem(10px);
   position: relative;
   
   transform: scale(1);
@@ -13,11 +12,11 @@
   transform-origin: top left;
   
   &-bg > svg {
-    width: to.rem(353px);
+    width: to-rem(353px);
     height: auto;
   }
   &-text {
-    font-size: to.rem(68px);
+    font-size: to-rem(68px);
     font-family: $tertiary-font-family;
     font-weight: 200;
     color: white;
@@ -31,23 +30,23 @@
       width: 5em;
     }
     position: absolute;
-    left: to.rem(15px);
-    top: to.rem(5px);
+    left: to-rem(15px);
+    top: to-rem(5px);
   }
 }
 
 .pitch-solution-tagline {
-  width: to.rem(353px);
+  width: to-rem(353px);
   @media (min-width: $reference-width-md-until) {
     float: right;
-    margin-right: to.rem(-373px);
+    margin-right: to-rem(-373px);
     
     &.push-down {
-      margin-top: to.rem(75px);
+      margin-top: to-rem(75px);
     }
     
     &.pull-up {
-      margin-top: to.rem(-15px);
+      margin-top: to-rem(-15px);
     }
   }
 }

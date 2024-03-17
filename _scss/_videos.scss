@@ -1,16 +1,15 @@
-@use "~sass-rem" as to;
 .video-thumbnail-box {
   display: inline-block;
-  padding: to.rem(10px);
+  padding: to-rem(10px);
   background: rgba(255, 255, 255, 0.7);
-  margin-right: to.rem(5px);
+  margin-right: to-rem(5px);
 }
 
 .video-thumbnail-link {
   display: block;
   position: relative;
-  width: to.rem(360px);
-  height: to.rem(225px);
+  width: to-rem(360px);
+  height: to-rem(225px);
   overflow: hidden;
 }
 
@@ -26,8 +25,8 @@
 }
 
 .video-thumbnail-two-up {
-  margin-right: to.rem(-120px);
-  margin-left: to.rem(-10px);
+  margin-right: to-rem(-120px);
+  margin-left: to-rem(-10px);
 }
 
 .post .main-content .video-thumbnail-img {
@@ -37,8 +36,8 @@
 
 @media (max-width: $reference-width-xs-until) {
   .video-thumbnail-link {
-    width: to.rem(320px);
-    height: to.rem(200px);
+    width: to-rem(320px);
+    height: to-rem(200px);
   }
   
   .video-thumbnail-two-up {
@@ -48,7 +47,7 @@
   
   .video-thumbnail-box {
     margin-right: 0;
-    margin-bottom: to.rem(10px);
+    margin-bottom: to-rem(10px);
   }
   
 }

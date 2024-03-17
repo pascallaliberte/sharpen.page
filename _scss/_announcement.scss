@@ -1,13 +1,12 @@
-@use "~sass-rem" as to;
 .announcement {
   width: 100vw;
   background: $color-quaternary;
   text-align: center;
-  font-size: to.rem(20px);
+  font-size: to-rem(20px);
   color: black;
   position: relative;
   z-index: 10;
-  padding: to.rem(14px 25px 15px);
+  padding: to-rem(14px 25px 15px);
   font-weight: bold;
   
   a.btn {
@@ -21,7 +20,7 @@
     text-decoration: none;
     
     padding: 0 0.5em 0.05em 0.5em;
-    border-radius: to.rem(2px);
+    border-radius: to-rem(2px);
     text-shadow: none;
     box-shadow: -2px -2px 0px rgba(255, 255, 255, 1);
     

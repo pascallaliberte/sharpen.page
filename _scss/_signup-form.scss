@@ -1,4 +1,3 @@
-@use "~sass-rem" as to;
 /* MailChimp Form Embed Code - Classic - 12/17/2015 v10.7 */
 #mc_embed_signup form {
     display: block;
@@ -166,7 +165,7 @@
 }
 
 #mc_embed_signup .mc-field-group.input-group ul li.checkbox-control {
-  padding-left: to.rem(20px);
+  padding-left: to-rem(20px);
   position: relative;
 }
 
@@ -272,7 +271,7 @@ body #mc_embed_signup {
   }
   
   @media (min-width: 768px) and (max-width: 1024px) {
-    margin-right: to.rem(-200px);
+    margin-right: to-rem(-200px);
   }
   
   &, & .button, & input.email, & #mc-embedded-subscribe-form div.mce_inline_error {
@@ -285,7 +284,7 @@ body #mc_embed_signup {
     padding: 0.3em 0.7em;
     background-color: $color-primary;
     -webkit-appearance: none;
-    border-radius: to.rem(4px);
+    border-radius: to-rem(4px);
     &:hover {
       background-color: darken($color-primary, 10%);
     }
@@ -307,7 +306,7 @@ body #mc_embed_signup {
       font-weight: 500;
       color: lighten(black, 40%);
       margin-bottom: -2.4em;
-      margin-left: to.rem(23px);
+      margin-left: to-rem(23px);
       .quiet {
         text-transform: none;
         color: lighten(black, 60%);
@@ -318,9 +317,9 @@ body #mc_embed_signup {
       box-sizing: border-box;
       font-family: inherit;
       font-size: inherit;
-      padding: to.rem(1.4em 20px 0.7em);
+      padding: to-rem(1.4em 20px 0.7em);
       text-indent: 0px;
-      border: to.rem(2px) solid lighten($text-color, 50%);
+      border: to-rem(2px) solid lighten($text-color, 50%);
       margin-bottom: 1em;
       opacity: 0.4;
       
@@ -330,8 +329,8 @@ body #mc_embed_signup {
     }
     
     input.email {
-      padding: to.rem(1.4em 20px 0.7em);
-      border: to.rem(2px) solid lighten($text-color, 50%);
+      padding: to-rem(1.4em 20px 0.7em);
+      border: to-rem(2px) solid lighten($text-color, 50%);
     }
     
     @media (min-width: 480px) {
@@ -357,16 +356,16 @@ body #mc_embed_signup {
     margin-bottom: 2em;
     font-size: 0.8em;
     opacity: 0.8;
-    margin-top: to.rem(-30px);
+    margin-top: to-rem(-30px);
   }
   
   padding: 1em;
   background: transparentize(lighten($color-highlight, 10%), 0.1);
-  margin: to.rem(2em -15px 0);
+  margin: to-rem(2em -15px 0);
   box-sizing: border-box;
   border-top: 10px solid white;
   @media (min-width: $reference-width-xs-until) {
-    border: to.rem(10px) solid white;
+    border: to-rem(10px) solid white;
     border-radius: 0.3em;
     margin-left: 0;
     margin-right: 0;
@@ -374,7 +373,7 @@ body #mc_embed_signup {
   }
   
   .error-message, .success-message {
-    margin-bottom: to.rem(30px);
+    margin-bottom: to-rem(30px);
     font-weight: bold;
   }
   
@@ -396,7 +395,7 @@ body #mc_embed_signup {
 
 #be-notified {
   @media (min-width: $reference-width-xs-until) and (max-width: ($reference-width-md-until - 1px)) {
-    margin-right: to.rem(-100px);
+    margin-right: to-rem(-100px);
   }
 }
 
@@ -418,10 +417,10 @@ body #mc_embed_signup {
     box-sizing: border-box;
     
     @media only screen and (min-width: ($reference-width-xs-until + 1px)) and (max-width: $reference-width-md-until) {
-      max-width: to.rem(600px);
+      max-width: to-rem(600px);
     }
     @media only screen and (min-width: ($reference-width-md-until + 1px)) {
-      max-width: to.rem(600px);
+      max-width: to-rem(600px);
     }
   }
   
@@ -432,10 +431,10 @@ body #mc_embed_signup {
     box-sizing: border-box;
     
     @media only screen and (min-width: ($reference-width-xs-until + 1px)) and (max-width: $reference-width-md-until) {
-      width: to.rem(600px);
+      width: to-rem(600px);
     }
     @media only screen and (min-width: ($reference-width-md-until + 1px)) {
-      width: to.rem(600px);
+      width: to-rem(600px);
     }  
   }
   
@@ -445,9 +444,9 @@ body #mc_embed_signup {
   }
   
   .form-radio {
-    padding-top: to.rem(8px);
-    padding-left: to.rem(45px);
-    padding-bottom: to.rem(8px);
+    padding-top: to-rem(8px);
+    padding-left: to-rem(45px);
+    padding-bottom: to-rem(8px);
     
     color: $color-grey;
     
@@ -458,8 +457,8 @@ body #mc_embed_signup {
     
     input[type="radio"] {
       position: absolute;
-      left: to.rem(-30px);
-      top: to.rem(5px);
+      left: to-rem(-30px);
+      top: to-rem(5px);
       -webkit-appearance: radio !important;
       display: inline;
       overflow: auto;

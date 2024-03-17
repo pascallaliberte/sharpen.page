@@ -26,7 +26,8 @@ module.exports = {
       patterns: [
         { from: path.resolve('_images'), to: 'images/' },
       ],
-    }),    
+    }),
+    ...(process.env.NODE_ENV === 'production' ? [new MiniCssExtractPlugin()] : []),
   ],
   module: {
     rules: [
@@ -43,7 +44,7 @@ module.exports = {
       {
         test: /\.(css|scss)$/,
         use: [
-          MiniCssExtractPlugin.loader, // instead of ExtractTextPlugin.extract(...)
+          process.env.NODE_ENV !== 'production' ? 'style-loader' : MiniCssExtractPlugin.loader,
           'css-loader',
           {
             loader: 'postcss-loader',
