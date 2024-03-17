@@ -19,9 +19,19 @@ module.exports = merge(CommonConfig, {
         port: 3000,
         proxy: 'http://localhost:8080',
         files: ['public', '_src'],
+        snippetOptions: {
+          rule: {
+            match: /<\/head>/i,
+            fn: function (snippet, match) {
+              return snippet + match;
+            }
+          }
+        },
+        open: false
       },
       {
         reload: false,
+        injectCss: true,
       },
     ),
     new webpack.HotModuleReplacementPlugin(),
