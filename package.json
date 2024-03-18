@@ -32,8 +32,8 @@
     "eslint": "^4.4.0",
     "eslint-config-airbnb-base": "^11.3.1",
     "eslint-plugin-import": "^2.7.0",
-    "favicons": "^7.2.0",
-    "favicons-webpack-plugin": "^6.0.1",
+    "favicons": "^6.2.2",
+    "favicons-webpack-plugin": "^5.0.2",
     "file-loader": "^0.11.2",
     "html-webpack-plugin": "^5.6.0",
     "http-server": "^0.10.0",
@@ -46,6 +46,7 @@
     "sass": "^1.32.8",
     "sass-loader": "^10.0.0",
     "sass-rem": "^4.0.0",
+    "sharp": "^0.33.2",
     "style-loader": "^0.18.2",
     "sw-precache": "^5.2.0",
     "webpack": "^5.37.0",
@@ -58,7 +59,6 @@
   "dependencies": {
     "awesome-sass-easing": "^1.1.2",
     "normalize.css": "^7.0.0",
-    "sharp": "^0.33.2",
     "stimulus": "^1.1.1",
     "turbolinks": "^5.2.0"
   }
