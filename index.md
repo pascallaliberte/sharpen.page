@@ -2,23 +2,18 @@
 layout: home
 ---
 
-# Consultant on Buyer Understanding<br>for Software Founders
-
-For sharpening your understanding of the buyer's motivation, your marketing copy and your feature set.
+# Helping software devs like you sharpen your<br><mark>sales pages</mark>.
 
 ---
 
 <div class="home-personal-intro" markdown="block">
 
-I'm {% include avatar.html %} Pascal Laliberté, and **I help software founders like you <mark>get into the minds of your buyers</mark>**.
+I'm {% include avatar.html %} Pascal Laliberté, and **I help software devs like you improve copywriting instincts, <mark>improve your understanding of the buyer</mark>** and craft sales pages for your product idea, or your new service offering idea, or your new publication.
 
-* <span>&hellip;</span> when your customers continue to cancel, **despite your product's new features**;
-* <span>&hellip;</span> when your **landing page and your product positioning** aren't working;
-* <span>&hellip;</span> when your **customer interviews** are hit and miss;
-* <span>&hellip;</span> when your product just isn't sharp enough;
-{: .home-situations-summary }
-
-I offer three levels of engagement: **Product Rescue** (multi-month), **Product Coach for 3 weeks**, or **Review of 8 Customer Interviews**.
+I have three things to offer:
+1. **Ten Articles on Buyer Psychology, Ten Weeks**<br>It's Free
+2. **A Page Feedback Service**<br>A Two-Week Block
+3. **A Do-It-For-You Package**<br>Starts With a Paid Exploratory Exercise
 
 [Jump down to Services I Offer](#services){: .cta-btn }
 
