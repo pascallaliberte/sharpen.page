@@ -12,8 +12,8 @@ I'm {% include avatar.html %} Pascal Laliberté, and **I help software devs like
 
 I have three things to offer:
 1. **Ten Articles on Buyer Psychology, Ten Weeks**<br>It's Free
-2. **A Page Feedback Service**<br>A Two-Week Block
-3. **A Do-It-For-You Package**<br>Starts With a Paid Exploratory Exercise
+2. **A Page Feedback Service**<br>A Two-Week Block, I Review your Product/Service Sales Page
+3. **A Freelancing Services Sales Page Package**<br>Fixed Price with Revenue Share, Starts With a Paid Strategy Exercise
 
 [Jump down to Services I Offer](#services){: .cta-btn }
 
