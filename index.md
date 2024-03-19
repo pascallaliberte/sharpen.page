@@ -37,7 +37,7 @@ I have these three service offerings to help you:
 A free option (currently)&mdash;Over ten weeks, you receive **ten articles, adapted to your situation**, on how to understand buyer motivation, purchase momentum, applying the Jobs-To-Be-Done theory to writing sales copy, and more. Limited availability.
 
 _Start here:_{: .home-service-offering-start-here }<br>
-[Apply via email to "ten"](mailto:pascal@hey.com?subject=Buyer%20Psychology&body=Hi%20Pascal%2C%0A%0AI%27m%20interested%20in%20getting%20articles%20on%20buyer%20psychology%20from%20you%20over%20the%20next%20ten%20weeks.%0A%0ADo%20you%20have%20a%20spot%20to%20start%20this%20week?%0A%0AI%20know%20you%27ll%20be%20tailoring%20the%20articles%20for%20my%20situation%2C%20so%20please%20ask%20me%20follow-up%20questions.%0A%0ALooking%20forward%20to%20it%21){: .cta-btn }
+[Apply via email](mailto:pascal@hey.com?subject=Buyer%20Psychology&body=Hi%20Pascal%2C%0A%0AI%27m%20interested%20in%20getting%20articles%20on%20buyer%20psychology%20from%20you%20over%20the%20next%20ten%20weeks.%0A%0ADo%20you%20have%20a%20spot%20to%20start%20this%20week?%0A%0AI%20know%20you%27ll%20be%20tailoring%20the%20articles%20for%20my%20situation%2C%20so%20please%20ask%20me%20follow-up%20questions.%0A%0ALooking%20forward%20to%20it%21){: .cta-btn } or [learn more at /ten](/ten)
 
 </div>
 
@@ -49,7 +49,7 @@ _Start here:_{: .home-service-offering-start-here }<br>
 
 ### _Option #2_<br>A Page Feedback Service
 
-**Over 2 weeks, over text and async video**, I give you unlimited feedback on your sales page. I help pin down the copy and flow. Before that, I help clarify the struggle the solution helps with and the progress your buyer is looking to make.
+**Over 2 weeks, over text and async video**, I give you unlimited feedback on your sales page. I help pin down the copy and flow. I help clarify the struggle the solution helps with and the progress your buyer is looking to make. You send me a draft, I send you my feedback.
 
 We'll be using a page on Clarityflow.com to have our back and forth exchange. I'll set the page up after pre-payment.
 
