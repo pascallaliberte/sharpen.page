@@ -14,7 +14,7 @@ I'm {% include avatar.html %} Pascal Laliberté, and **I help software devs like
 
 </div>
 
-## Something came up...
+## Something came up for you...
 
 ...and now it's time to <mark>get serious and put something up for sale</mark>.
 
@@ -28,7 +28,7 @@ I'm {% include avatar.html %} Pascal Laliberté, and **I help software devs like
 ## Services I Offer:
 {: #services }
 
-I have these three things to help you:
+I have these three service offerings to help you:
 
 <div markdown="1" class="home-service-offering-summary">
 
