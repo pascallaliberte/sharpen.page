@@ -101,7 +101,9 @@ _Start here:_{: .home-service-offering-start-here }<br>
 
 </div>
 
-That new idea of yours... I hope you'll make it happen.
+What you're after is a new sense of _mastery_ so you can get that new project, that new idea going.
+
+That new idea of yours... I hope you'll make it happen soon.
 
 Stay sharp!
 
