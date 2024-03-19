@@ -47,7 +47,7 @@ _Start here:_{: .home-service-offering-start-here }<br>
   data-purchasable-service-slug="sharpen_page_feedback_two_weeks"
 >
 
-### _Option #2_<br>A Page Feedback Service
+### _Option #2_<br>A Sales Page Feedback Service
 
 **Over 2 weeks, over text and async video**, I give you unlimited feedback on your sales page. I help pin down the copy and flow. I help clarify the struggle the solution helps with and the progress your buyer is looking to make. You send me a draft, I send you my feedback.
 
@@ -58,7 +58,7 @@ I can help review one of many sales pages, for a product, or for some service of
 _Start here:_{: .home-service-offering-start-here }
 
 <div markdown="1" data-target="purchasable-service.buttons">
-[Inquire about next available 2-week block](mailto:pascal@hey.com?subject=Product%20Coach%20for%203%20weeks&body=Hi%2C%0A%0AI'd%20like%20to%20inquire%20about%20your%20next%20availability%20for%20a%203%20week%20Product%20Coach%20engagement.){: .cta-btn }
+[Inquire about next available 2-week block](mailto:pascal@hey.com?subject%3DA%20Sales%20Page%20Feedback%20Service%26body%3DHi%2C%0A%0AI%27d%20like%20to%20inquire%20about%20your%20next%20availability%20for%20a%202%20week%20Sales%20Page%20Feedback%20Block..){: .cta-btn }
 
 **USD $1,800**
 </div>
@@ -88,20 +88,20 @@ After pre-payment, you'll receive an invitation to a page on Clarityflow.com whe
 
 <div markdown="1" class="home-service-offering-summary">
 
-### _Option #3_<br>A Freelancing Services Sales Page Package
+### _Option #3_<br>A Freelancing Services Page Package
 
 To help you put together a freelancing or consulting page like this one, providing some sharp options to the client you'd like to attract, I offer this **done-for-you service**, from strategy to design to implementing the site.
 
 **The price range is in the 4 to 5 digits**, depending on whether we'll be setting up a revenue sharing arrangement.
 
 _Start here:_{: .home-service-offering-start-here }<br>
-[Inquire via email](mailto:pascal@hey.com?subject=Review%20of%208%20Customer%20Interviews&body=Hi%2C%0A%0AI'd%20like%20to%20inquire%20about%20your%20next%20availability%20for%20a%202-week%20%22Review%20of%208%20Customer%20Interviews%22%20engagement.){: .cta-btn }
+[Inquire via email](mailto:pascal@hey.com?subject%3DA%20Freelancing%20Services%20Page%20Package%26body%3DHi%2C%0A%0AI%27d%20like%20to%20inquire%20about%20your%20package%20to%20build%20a%20freelancing%20services%20page%20for%20me.%0A%0AHere%27s%20a%20little%20about%20me%20and%20the%20kind%20of%20services%20I%27d%20like%20to%20offer%3A){: .cta-btn }
 
 </div>
 
 </div>
 
-Hope you'll make that project happen.
+That new idea of yours... I hope you'll make it happen.
 
 Stay sharp!
 
