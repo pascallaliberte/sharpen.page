@@ -51,7 +51,7 @@ _Start here:_{: .home-service-offering-start-here }<br>
 
 **Over 2 weeks, over text and async video**, I give you unlimited feedback on your sales page. I help pin down the copy and flow. I help clarify the struggle the solution helps with and the progress your buyer is looking to make. You send me a draft, I send you my feedback.
 
-We'll be using a page on Clarityflow.com to have our back and forth exchange. I'll set the page up after pre-payment.
+We'll be using a page on Clarityflow.com to have our back and forth exchange and record our videos. I'll set the page up after pre-payment.
 
 I can help review one of many sales pages, for a product, or for some service offerings, or for a new publication.
 
