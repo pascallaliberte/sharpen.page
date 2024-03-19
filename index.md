@@ -10,10 +10,10 @@ layout: home
 
 I'm {% include avatar.html %} Pascal Laliberté, and **I help software devs like you improve copywriting instincts, <mark>improve your understanding of the buyer</mark>** and craft sales pages for your product idea, or your new service offering idea, or your new publication.
 
-I have three things to offer:
+I have three options on offer:
 1. **Ten Articles on Buyer Psychology, Ten Weeks**<br>It's Free
 2. **A Page Feedback Service**<br>A Two-Week Block, I Review your Product/Service Sales Page
-3. **A Freelancing Services Sales Page Package**<br>Fixed Price with Revenue Share, Starts With a Paid Strategy Exercise
+3. **A Freelancing Services Sales Page Package**<br>Fixed Price with Revenue Share, For a Freelancing Page Like This One.
 
 [Jump down to Services I Offer](#services){: .cta-btn }
 
@@ -98,64 +98,36 @@ That's what's in the books for you, once you **learn to get in the mind of your 
 
 3 options...
 
-<div markdown="1" class="home-service-offering-summary"
-  data-controller="purchasable-service"
-  data-action="service-ladder:ready@document->purchasable-service#adjustPurchaseOptions"
-  data-purchasable-service-slug="two_day_discovery_product_rescue"
->
+<div markdown="1" class="home-service-offering-summary">
 
-### _Option #1_<br>Product Rescue
+### _Option #1_<br>Ten Articles on Buyer Psychology, Ten Weeks
 
-**Expensive (revenue share) because I run your product for a while.**
+A free option&mdash;Over ten weeks, you receive **ten articles, adapted to your situation**, on how to understand buyer motivation, purchase momentum, applying the Jobs-To-Be-Done theory to writing sales copy, and more. Limited availability.
 
-I'll lead improvements to the product positioning over multiple months. I'll run customer interviews, form hypotheses, prepare changes (Shape Up) to the app for your developers to implement, tweak the landing pages and track performance.
-
-USD $10k+ with revenue share, multi-month project.
-
-_Start here:_{: .home-service-offering-start-here }
-<div markdown="1" data-target="purchasable-service.buttons">
-[Two-day Discovery Exercise, USD $425](mailto:pascal@hey.com?subject=Two-day%20Discovery%20Exercise&body=Hi%2C%0A%0AI'd%20like%20to%20start%20a%20Two-day%20Discovery%20Exercise%20as%20soon%20as%20you're%20available.){: .cta-btn } 
-</div>
-<template data-target="purchasable-service.buttonTemplate">
-  <form action="%endpoint%" method="POST" class="checkout-button-wrapper">
-    <input type="hidden" name="checkout[service_uuid]" value="%service_uuid%">
-    <button type="submit" class="cta-btn">
-      Two-day Discovery Exercise, USD $%price_in_dollars%
-    </button>
-  </form>
-</template>
-
-Over the next week, I'll initiate the discovery exercise by creating a page where we'll have our discussion (async video + text).
-{: .home-service-offering-terms }
+_Start here:_{: .home-service-offering-start-here }<br>
+[Apply via email to "ten"](mailto:pascal@hey.com?subject=Buyer%20Psychology&body=Hi%20Pascal%2C%0A%0AI%27m%20interested%20in%20getting%20articles%20on%20buyer%20psychology%20from%20you%20over%20the%20next%20ten%20weeks.%0A%0ADo%20you%20have%20a%20spot%20to%20start%20this%20week?%0A%0AI%20know%20you%27ll%20be%20tailoring%20the%20articles%20for%20my%20situation%2C%20so%20please%20ask%20me%20follow-up%20questions.%0A%0ALooking%20forward%20to%20it%21){: .cta-btn }
 
 </div>
 
 <div markdown="1" class="home-service-offering-summary"
   data-controller="purchasable-service"
   data-action="service-ladder:ready@document->purchasable-service#adjustPurchaseOptions"
-  data-purchasable-service-slug="product_coach_3_weeks"
+  data-purchasable-service-slug="sharpen_page_feedback_two_weeks"
 >
 
-### _Option #2_<br>Product Coach for 3 weeks
+### _Option #2_<br>A Page Feedback Service
 
-**Over 3 weeks, I coach you on your product strategy**. It'll be helpful if you're already introduced to the Jobs-to-be-done Theory of customer behavior, but we can cover quickly at the start of those 3 weeks.
+**Over 2 weeks, over text and async video**, I give you unlimited feedback on your sales page. I help pin down the copy and flow.Before that, I help clarify the struggle the solution helps with and the progress your buyer is looking to make.
 
-I'll help:
+We'll be using a page on ClarityFlow.com to have our back and forth exchange. I'll set the page up after pre-payment.
 
-* **Identify the struggling moments** your software is hired to resolve
-* Hypothesize on the broader **aspirations (the progress) your customers wish to attain**
-* Map out the anxieties they experience **while deliberating a purchase**.
-* Review your **landing pages and taglines**
-* Review some **interview recordings**
-* Determine if your product needs **an overhaul, a tweak, or if it won't end up working** at all
-
-We'll discuss your strategy over async text and screen shares on a page on which you'll be invited and I'll provide a 2-working-day turnaround time on our exchanges over the 3 weeks. No live calls, all async video and text.
+I can help review one of many sales pages, for a product, or for some service offerings, or for a new publication.
 
 _Start here:_{: .home-service-offering-start-here }
 <div markdown="1" data-target="purchasable-service.buttons">
-[Inquire about next available 3-week block](mailto:pascal@hey.com?subject=Product%20Coach%20for%203%20weeks&body=Hi%2C%0A%0AI'd%20like%20to%20inquire%20about%20your%20next%20availability%20for%20a%203%20week%20Product%20Coach%20engagement.){: .cta-btn }
+[Inquire about next available 2-week block](mailto:pascal@hey.com?subject=Product%20Coach%20for%203%20weeks&body=Hi%2C%0A%0AI'd%20like%20to%20inquire%20about%20your%20next%20availability%20for%20a%203%20week%20Product%20Coach%20engagement.){: .cta-btn }
 
-**USD $3,100**
+**USD $1,800**
 </div>
 
 <template data-target="purchasable-service.buttonTemplate">
@@ -164,7 +136,7 @@ _Start here:_{: .home-service-offering-start-here }
     <input type="hidden" name="checkout[start_date]" value="%start_date%">
     <input type="hidden" name="checkout[end_date]" value="%end_date%">
     <button type="submit" class="cta-btn">
-      Start week of %start_week% + 2 following weeks, USD $%price_in_dollars%
+      Book weeks of %date_range_as_string%, USD $%price_in_dollars%
     </button>
   </form>
 </template>
@@ -181,42 +153,18 @@ After pre-payment, you'll receive an invitation to a page where we'll hold our c
 
 </div>
 
-<div markdown="1" class="home-service-offering-summary"
-  data-controller="purchasable-service"
-  data-action="service-ladder:ready@document->purchasable-service#adjustPurchaseOptions"
-  data-purchasable-service-slug="review_8_customer_interviews"
->
+<div markdown="1" class="home-service-offering-summary">
 
-### _Option #3_<br>Review of 8 Customer Interviews
+### _Option #3_<br>A Freelancing Services Sales Page Package
 
-**I will provide feedback on 8 customer interview recordings you conducted over 2 weeks or less.** I'll provide interpretation, highlight things I spot, include thoughts on product strategy. I'll also provide feedback on what to improve for you next customer interviews, so it's best to pick two weeks where you'll have some more interviews you'll be performing.
+A fixed-price package with revenue share.
 
-Additionally, at the end of the two weeks, I'll provide a one-pager summarizing the insights identified from the interviews. Useful for sharing what was learned with other members of the team.
+To help you put together a freelancing or consulting page like this one, providing some sharp options to the client you'd like to attract, I offer this **done-for-you service**, from strategy to design to implementing the site.
 
-I worked with Brian Casel of [ZipMessage.com](https://zipmessage.com), reviewing his customer interviews. Here's what he had to say:
+**The price range is in the 4 to 5 digits**, depending on whether we'll be setting up a revenue sharing arrangement.
 
-<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">I also found it helpful to bring in someone else to listen to my calls, check my biases, and spot insights I&#39;d miss.<a href="https://twitter.com/pascallaliberte?ref_src=twsrc%5Etfw">@pascallaliberte</a> has a sharp ear for customer research and analysis. He&#39;s been a huge help with analyzing my calls, comparing notes and takeaways 👍</p>&mdash; Brian Casel (@CasJam) <a href="https://twitter.com/CasJam/status/1528858401937162241?ref_src=twsrc%5Etfw">May 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-_Start here:_{: .home-service-offering-start-here }
-<div markdown="1" data-target="purchasable-service.buttons">
-[Inquire about next available 2-week block](mailto:pascal@hey.com?subject=Review%20of%208%20Customer%20Interviews&body=Hi%2C%0A%0AI'd%20like%20to%20inquire%20about%20your%20next%20availability%20for%20a%202-week%20%22Review%20of%208%20Customer%20Interviews%22%20engagement.){: .cta-btn }
-
-**USD $1,295**
-</div>
-
-<template data-target="purchasable-service.buttonTemplate">
-  <form action="%endpoint%" method="POST" class="checkout-button-wrapper">
-    <input type="hidden" name="checkout[service_uuid]" value="%service_uuid%">
-    <input type="hidden" name="checkout[start_date]" value="%start_date%">
-    <input type="hidden" name="checkout[end_date]" value="%end_date%">
-    <button type="submit" class="cta-btn">
-      Book %date_range_as_string%, USD $%price_in_dollars%
-    </button>
-  </form>
-</template>
-
-After pre-payment, I'll create 8 pages on which you can upload your customer interview recordings. That's where I'll share with you videos of me providing my feedback and showing my notes. Interview recordings must each be 1 hour or less.
-{: .home-service-offering-terms }
+_Start here:_{: .home-service-offering-start-here }<br>
+[Inquire via email](mailto:pascal@hey.com?subject=Review%20of%208%20Customer%20Interviews&body=Hi%2C%0A%0AI'd%20like%20to%20inquire%20about%20your%20next%20availability%20for%20a%202-week%20%22Review%20of%208%20Customer%20Interviews%22%20engagement.){: .cta-btn }
 
 </div>
 
