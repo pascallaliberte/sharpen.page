@@ -1,4 +1,4 @@
-# sharpen.page - A Product Sharpening Sevice
+# sharpen.page - A Page Sharpening Sevice
 
 ## Prerequisites
 The following tools should be installed before starting:

@@ -2,165 +2,65 @@
 layout: home
 ---
 
-# Consultant on Buyer Understanding<br>for Software Founders
-
-For sharpening your understanding of the buyer's motivation, your marketing copy and your feature set.
+# Helping software devs like you sharpen your<br><mark>sales pages</mark>.
 
 ---
 
 <div class="home-personal-intro" markdown="block">
 
-I'm {% include avatar.html %} Pascal Laliberté, and **I help software founders like you <mark>get into the minds of your buyers</mark>**.
+I'm {% include avatar.html %} Pascal Laliberté, and **I help software devs like you improve copywriting instincts, <mark>improve your understanding of the buyer</mark>** and craft sales pages for your product idea, or your new service offering idea, or your new publication.
 
-* <span>&hellip;</span> when your customers continue to cancel, **despite your product's new features**;
-* <span>&hellip;</span> when your **landing page and your product positioning** aren't working;
-* <span>&hellip;</span> when your **customer interviews** are hit and miss;
-* <span>&hellip;</span> when your product just isn't sharp enough;
-{: .home-situations-summary }
-
-I offer three levels of engagement: **Product Rescue** (multi-month), **Product Coach for 3 weeks**, or **Review of 8 Customer Interviews**.
-
-[Jump down to Services I Offer](#services){: .cta-btn }
+[Jump down to Services](#services){: .cta-btn }
 
 </div>
 
-## _Maybe it's that_ <mark>Your customers continue to cancel</mark>, despite the new features you're building…
-{: .maybe-heading }
+## Something came up for you...
 
-You got there by doing the right thing. **You listened to your customers** and built what they asked for. But despite building the stuff people asked, buyers aren't buying like they used to.
+...and now it's time to <mark>get serious and put something up for sale</mark>.
 
-You're getting churn. **More churn than normal.** A sustained wave of cancellations, and it's not just because of a market slowdown. Something needs to change _fast_.
-
-You were going to overhaul your product. Change your whole vision, risk it all. But you decided instead to **dig deeper into the minds of your customers**. That's why you're here: to slow down and to do things right.
-
-
-## _Maybe it's that_ <mark>Your landing page and your product positioning</mark> aren't working…
-{: .maybe-heading }
-
-You've put in some effort, but you're stuck not knowing which `h1` to use, which features to highlight...
-
-<div class="situation-quotes" markdown="1">
-
-> "Should I highlight this feature or this other one? Should I keep it general or should I center on specific use cases?"
-
-</div>
-
-**You did your best to explain what the software does**, why it would be beneficial. Target market, target problem. You've removed everything that wasn't helping, keep things simple and clean. But what's missing?
-
-<div class="situation-quotes" markdown="1">
-
-> "I've followed some of the norms, but it doesn't seem to be _converting_."
-
-</div>
-
-
-<br>  
-I can help you turn these problems around.  
-[Jump down to Services I Offer](#services){: .cta-btn }
-
-## _Maybe it's that_ <mark>Your customer interviews</mark> are hit and miss…
-{: .maybe-heading }
-
-You've conducted some customer interviews, and you got some good points, but you just don't feel like you got to the good insights like you hoped.
-
-Maybe your buyers are different than what you originally thought they'd be. You'd like to dig deeper.
-
-You've started talking to your buyers. But you don't think you're getting the whole story. **You want to _understand_ what's going on.** And you no longer know which questions to ask.
-
-
-
-## _Maybe it's that_ Your product <mark>just isn't sharp enough</mark>…
-{: .maybe-heading }
-
-<div class="situation-quotes" markdown="1">
-
-> "**Our buyers are using the product for purposes that surprise us.** We're getting cancellations, unused features. We thought we knew what problem our product was hired to solve, but we no longer do. We need to stop building and building and **we need to start digging and digging.**"
-
-</div>
-
-
----
-
-## What if _This_ Was Your Future:
-
-Let's transport you to <mark>a time in your future when your product is on track</mark>:
-
-* **You've made some new money** and you _know_ why the money happened.
-* Visitors to your marketing pages keep telling you **"I felt understood"** and as a result have been signing up, upgrading with confidence, **keeping their subscription going for a longer time**...
-* You _have_ what you need to **prioritize the next steps** in your product's development. You can now say you _understand_ your buyer's motivations, you _know_ what's going on.
-* You've grown to have a deeper understanding of your buyers because **you heard some insightful purchase stories** from some of your buyers...
-* You've upgraded your strategic direction with **a new vocabulary** to describe how your customers need help getting _progress_ on their struggles...
-* You've discovered what _causes_ someone to buy your product, **which of the features** is really supporting the _"job"_ your product is being _"hired"_ to do...
-
-That's what's in the books for you, once you **learn to get in the mind of your buyers**. <mark>I can help you with that</mark>.
-
----
+* Maybe you put together **a first draft of a sales page**, and it's not going to land like you hoped it would.
+* Maybe you feel everything is up in the air in our careers, **something's not right, and you need to start innovating**. Something _noteworthy_ that people will talk about.
+* Maybe you've been trying to make a product work for a long time. **The product isn't fitting the market.** You've considered changing direction completely, but maybe you're thinking there's still a different option.
+* Maybe <mark>you thought that the thing would just sell itself</mark>.
 
 <div markdown="1" data-controller="purchasable-services">
 
 ## Services I Offer:
 {: #services }
 
-3 options...
+I have these three service offerings to help you:
 
-<div markdown="1" class="home-service-offering-summary"
-  data-controller="purchasable-service"
-  data-action="service-ladder:ready@document->purchasable-service#adjustPurchaseOptions"
-  data-purchasable-service-slug="two_day_discovery_product_rescue"
->
+<div markdown="1" class="home-service-offering-summary">
 
-### _Option #1_<br>Product Rescue
+### _Option #1_<br>Ten Articles on Buyer Psychology, Ten Weeks
 
-**Expensive (revenue share) because I run your product for a while.**
+A free option (currently)&mdash;Over ten weeks, you receive **ten articles, adapted to your situation**, on how to understand buyer motivation, purchase momentum, applying the Jobs-To-Be-Done theory to writing sales copy, and more. Limited availability.
 
-I'll lead improvements to the product positioning over multiple months. I'll run customer interviews, form hypotheses, prepare changes (Shape Up) to the app for your developers to implement, tweak the landing pages and track performance.
-
-USD $10k+ with revenue share, multi-month project.
-
-_Start here:_{: .home-service-offering-start-here }
-<div markdown="1" data-target="purchasable-service.buttons">
-[Two-day Discovery Exercise, USD $425](mailto:pascal@hey.com?subject=Two-day%20Discovery%20Exercise&body=Hi%2C%0A%0AI'd%20like%20to%20start%20a%20Two-day%20Discovery%20Exercise%20as%20soon%20as%20you're%20available.){: .cta-btn } 
-</div>
-<template data-target="purchasable-service.buttonTemplate">
-  <form action="%endpoint%" method="POST" class="checkout-button-wrapper">
-    <input type="hidden" name="checkout[service_uuid]" value="%service_uuid%">
-    <button type="submit" class="cta-btn">
-      Two-day Discovery Exercise, USD $%price_in_dollars%
-    </button>
-  </form>
-</template>
-
-Over the next week, I'll initiate the discovery exercise by creating a page where we'll have our discussion (async video + text).
-{: .home-service-offering-terms }
+_Start here:_{: .home-service-offering-start-here }<br>
+[Apply via email](mailto:pascal@hey.com?subject=Buyer%20Psychology&body=Hi%20Pascal%2C%0A%0AI%27m%20interested%20in%20getting%20articles%20on%20buyer%20psychology%20from%20you%20over%20the%20next%20ten%20weeks.%0A%0ADo%20you%20have%20a%20spot%20to%20start%20this%20week?%0A%0AI%20know%20you%27ll%20be%20tailoring%20the%20articles%20for%20my%20situation%2C%20so%20please%20ask%20me%20follow-up%20questions.%0A%0ALooking%20forward%20to%20it%21){: .cta-btn } or [learn more at /ten](/ten)
 
 </div>
 
 <div markdown="1" class="home-service-offering-summary"
   data-controller="purchasable-service"
   data-action="service-ladder:ready@document->purchasable-service#adjustPurchaseOptions"
-  data-purchasable-service-slug="product_coach_3_weeks"
+  data-purchasable-service-slug="sharpen_page_feedback_two_weeks"
 >
 
-### _Option #2_<br>Product Coach for 3 weeks
+### _Option #2_<br>A Sales Page Feedback Service
 
-**Over 3 weeks, I coach you on your product strategy**. It'll be helpful if you're already introduced to the Jobs-to-be-done Theory of customer behavior, but we can cover quickly at the start of those 3 weeks.
+**Over 2 weeks, over text and async video**, I give you unlimited feedback on your sales page. I help pin down the copy and flow. I help clarify the struggle the solution helps with and the progress your buyer is looking to make. You send me a draft, I send you my feedback.
 
-I'll help:
+We'll be using a page on Clarityflow.com to have our back and forth exchange and record our videos. I'll set the page up after pre-payment.
 
-* **Identify the struggling moments** your software is hired to resolve
-* Hypothesize on the broader **aspirations (the progress) your customers wish to attain**
-* Map out the anxieties they experience **while deliberating a purchase**.
-* Review your **landing pages and taglines**
-* Review some **interview recordings**
-* Determine if your product needs **an overhaul, a tweak, or if it won't end up working** at all
-
-We'll discuss your strategy over async text and screen shares on a page on which you'll be invited and I'll provide a 2-working-day turnaround time on our exchanges over the 3 weeks. No live calls, all async video and text.
+I can help review one of many sales pages, for a product, or for some service offerings, or for a new publication.
 
 _Start here:_{: .home-service-offering-start-here }
-<div markdown="1" data-target="purchasable-service.buttons">
-[Inquire about next available 3-week block](mailto:pascal@hey.com?subject=Product%20Coach%20for%203%20weeks&body=Hi%2C%0A%0AI'd%20like%20to%20inquire%20about%20your%20next%20availability%20for%20a%203%20week%20Product%20Coach%20engagement.){: .cta-btn }
 
-**USD $3,100**
+<div markdown="1" data-target="purchasable-service.buttons">
+[Inquire about next available 2-week block](mailto:pascal@hey.com?subject%3DA%20Sales%20Page%20Feedback%20Service%26body%3DHi%2C%0A%0AI%27d%20like%20to%20inquire%20about%20your%20next%20availability%20for%20a%202%20week%20Sales%20Page%20Feedback%20Block..){: .cta-btn }
+
+**USD $1,800**
 </div>
 
 <template data-target="purchasable-service.buttonTemplate">
@@ -169,12 +69,12 @@ _Start here:_{: .home-service-offering-start-here }
     <input type="hidden" name="checkout[start_date]" value="%start_date%">
     <input type="hidden" name="checkout[end_date]" value="%end_date%">
     <button type="submit" class="cta-btn">
-      Start week of %start_week% + 2 following weeks, USD $%price_in_dollars%
+      Book weeks of %date_range_as_string%, USD $%price_in_dollars%
     </button>
   </form>
 </template>
 
-After pre-payment, you'll receive an invitation to a page where we'll hold our coaching discussion.
+After pre-payment, you'll receive an invitation to a page on Clarityflow.com where we'll hold our coaching discussion.
 {: .home-service-offering-terms }
 
 <blockquote>
@@ -186,65 +86,24 @@ After pre-payment, you'll receive an invitation to a page where we'll hold our c
 
 </div>
 
-<div markdown="1" class="home-service-offering-summary"
-  data-controller="purchasable-service"
-  data-action="service-ladder:ready@document->purchasable-service#adjustPurchaseOptions"
-  data-purchasable-service-slug="review_8_customer_interviews"
->
+<div markdown="1" class="home-service-offering-summary">
 
-### _Option #3_<br>Review of 8 Customer Interviews
+### _Option #3_<br>A Freelancing Services Page Package
 
-**I will provide feedback on 8 customer interview recordings you conducted over 2 weeks or less.** I'll provide interpretation, highlight things I spot, include thoughts on product strategy. I'll also provide feedback on what to improve for you next customer interviews, so it's best to pick two weeks where you'll have some more interviews you'll be performing.
+To help you put together a freelancing or consulting page like this one, providing some sharp options to the client you'd like to attract, I offer this **done-for-you service**, from strategy to design to implementing the site.
 
-Additionally, at the end of the two weeks, I'll provide a one-pager summarizing the insights identified from the interviews. Useful for sharing what was learned with other members of the team.
+**The price range is in the 4 to 5 digits**, depending on whether we'll be setting up a revenue sharing arrangement.
 
-I worked with Brian Casel of [ZipMessage.com](https://zipmessage.com), reviewing his customer interviews. Here's what he had to say:
-
-<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">I also found it helpful to bring in someone else to listen to my calls, check my biases, and spot insights I&#39;d miss.<a href="https://twitter.com/pascallaliberte?ref_src=twsrc%5Etfw">@pascallaliberte</a> has a sharp ear for customer research and analysis. He&#39;s been a huge help with analyzing my calls, comparing notes and takeaways 👍</p>&mdash; Brian Casel (@CasJam) <a href="https://twitter.com/CasJam/status/1528858401937162241?ref_src=twsrc%5Etfw">May 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-_Start here:_{: .home-service-offering-start-here }
-<div markdown="1" data-target="purchasable-service.buttons">
-[Inquire about next available 2-week block](mailto:pascal@hey.com?subject=Review%20of%208%20Customer%20Interviews&body=Hi%2C%0A%0AI'd%20like%20to%20inquire%20about%20your%20next%20availability%20for%20a%202-week%20%22Review%20of%208%20Customer%20Interviews%22%20engagement.){: .cta-btn }
-
-**USD $1,295**
-</div>
-
-<template data-target="purchasable-service.buttonTemplate">
-  <form action="%endpoint%" method="POST" class="checkout-button-wrapper">
-    <input type="hidden" name="checkout[service_uuid]" value="%service_uuid%">
-    <input type="hidden" name="checkout[start_date]" value="%start_date%">
-    <input type="hidden" name="checkout[end_date]" value="%end_date%">
-    <button type="submit" class="cta-btn">
-      Book %date_range_as_string%, USD $%price_in_dollars%
-    </button>
-  </form>
-</template>
-
-After pre-payment, I'll create 8 pages on which you can upload your customer interview recordings. That's where I'll share with you videos of me providing my feedback and showing my notes. Interview recordings must each be 1 hour or less.
-{: .home-service-offering-terms }
+_Start here:_{: .home-service-offering-start-here }<br>
+[Inquire via email](mailto:pascal@hey.com?subject%3DA%20Freelancing%20Services%20Page%20Package%26body%3DHi%2C%0A%0AI%27d%20like%20to%20inquire%20about%20your%20package%20to%20build%20a%20freelancing%20services%20page%20for%20me.%0A%0AHere%27s%20a%20little%20about%20me%20and%20the%20kind%20of%20services%20I%27d%20like%20to%20offer%3A){: .cta-btn }
 
 </div>
 
 </div>
 
-## Instead of...
+What you're after is a new sense of _mastery_ so you can get that new project, that new idea going.
 
-If you're hesitating, consider the alternatives...
-
-* **What's the impact of another month** with churn, with bounces on your site, with undecided visitors?
-* **What if the overhaul you're considering** doesn't change a thing to your sales?
-* **What if you were to put the same amout of money into ads**? Would you be better off on your goals?
-* **What if you take some investment money**? You know they'll ask you to shorten your runway to be more bold and daring.
-
-Instead of all this...
-
-* You could **start conducting customer interviews** next week. I hope you do!
-* You could **double down on applying Jobs-to-be-done theory** so you can have a predictive model of your buyer's deliberations.
-* You could try **putting evidence on your landing page that you understand the buyer's struggle**. Make them say "I feel understood!"
-* You could try changing your landing page copy to help **reduce anxieties, instead of adding appeal**.
-* You could try **changing the words you use in customer interviews**, like asking retroactive questions that activate recall instead of asking for hypotheticals that activate creativity.
-
-If you do any of this, I hope you'll tell me all about it. Just [drop me an email](mailto:pascal@hey.com) to share.
+That new idea of yours... I hope you'll make it happen soon.
 
 Stay sharp!
 
