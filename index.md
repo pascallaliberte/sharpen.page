@@ -97,6 +97,13 @@ To help you put together a freelancing or consulting page like this one, providi
 _Start here:_{: .home-service-offering-start-here }<br>
 [Inquire via email](mailto:pascal@hey.com?subject%3DA%20Freelancing%20Services%20Page%20Package%26body%3DHi%2C%0A%0AI%27d%20like%20to%20inquire%20about%20your%20package%20to%20build%20a%20freelancing%20services%20page%20for%20me.%0A%0AHere%27s%20a%20little%20about%20me%20and%20the%20kind%20of%20services%20I%27d%20like%20to%20offer%3A){: .cta-btn }
 
+<blockquote>
+  <p>
+    A crucial milestone in a solopreneur’s journey is to put together a website that reflects your mission, your experience and the services you are offering to potential clients. Sure, you can grab a template and slap some text on it, but crafting a unique web presence that reflects who you are, that requires skills. Working with Pascal allowed me to reflect more deeply on my journey, who I want to work with and how I can help my clients. We went on that discovery together, iterated over ideas, and ended up with a final product that effectively introduce visitors to who I am, zoom in on their journey, the progress they want to achieve and how I can help them move forward.
+  </p>
+  <cite>—Olivier Dupuis, <a href="https://republicofdata.io">RepublicOfData.io</a></cite>
+</blockquote>
+
 </div>
 
 </div>
