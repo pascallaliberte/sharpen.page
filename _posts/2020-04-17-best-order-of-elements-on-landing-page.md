@@ -103,7 +103,7 @@ But then there's [this unconventional page structure][ebook-landing-page]:
 1. Pain
 1. Pain
 1. Pain
-1. Product Peak, CTA
+1. Product Peek, CTA
 1. Pain
 1. Pain
 1. Dream
