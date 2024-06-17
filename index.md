@@ -28,7 +28,7 @@ I'm {% include avatar.html %} Pascal Laliberté, and **I help software devs like
 ## Services I Offer:
 {: #services }
 
-I have these three service offerings to help you:
+I have these four service offerings to help you:
 
 <div markdown="1" class="home-service-offering-summary">
 
@@ -41,40 +41,44 @@ _Start here:_{: .home-service-offering-start-here }<br>
 
 </div>
 
-<div markdown="1" class="home-service-offering-summary"
-  data-controller="purchasable-service"
-  data-action="service-ladder:ready@document->purchasable-service#adjustPurchaseOptions"
-  data-purchasable-service-slug="sharpen_page_feedback_two_weeks"
->
+<div markdown="1" class="home-service-offering-summary">
 
-### _Option #2_<br>A Sales Page Feedback Service
+### _Option #2_<br>Group Call For Solo Devs on Sales and Marketing
 
-**Over 2 weeks, over text and async video**, I give you unlimited feedback on your sales page. I help pin down the copy and flow. I help clarify the struggle the solution helps with and the progress your buyer is looking to make. You send me a draft, I send you my feedback.
+**Twice a month, join a small group video call with other solo devs** where we'll review your efforts into understanding your buyers, preparing and executing on your marketing, having sales conversations and writing sales copy.
+
+Maybe **you've had a few sales conversations** that you know you could have handled better. Or maybe your **freelancing practice could use a boost**.
+
+Maybe you'd like to have a mix of small products and freelance offerings. Or maybe you're looking for a bit of accountability and **bouncing ideas with some of your peers**.
+
+_**How it will work**: The frequency will be every two weeks, and may be pushed a week from time to time. The calls, neither recorded nor summarized, will be about an hour long. We're aiming for 10 members or less per call. Every participant will have the chance to share a short update each call and then we'll riff on some ideas, simulate sales conversations maybe, foster feedback and personal investment._
+
+_Interested?_{: .home-service-offering-start-here }<br>
+[Apply via email](mailto%3Apascal%40hey.com?subject%3DGroup%20Call%20for%20Solo%20Devs%26body%3DHi%20Pascal%2C%0A%0AI%27m%20interested%20in%20joining%20one%20of%20your%20small%20group%20video%20calls%2C%20twice%20a%20month.%0A%0ACan%20you%20share%20with%20me%20your%20schedule?%0A%0ALooking%20forward%20to%20it%21%0A%0A){: .cta-btn }
+
+**USD $179 per month**
+
+After receiving your email, I'll share the current groups and their schedule and if you're interested, I'll send you a payment link to start your subscription.
+{: .home-service-offering-terms }
+
+</div>
+
+<div markdown="1" class="home-service-offering-summary">
+
+### _Option #3_<br>Monthly Sales Feedback Retainer
+
+**Using text or async video exchanges** (via ClarityFlow), I'll offer next business day responses on your questions about new service offerings and products, on revising drafts of emails or proposals, or revising copywriting material.
 
 We'll be using a page on Clarityflow.com to have our back and forth exchange and record our videos. I'll set the page up after pre-payment.
 
 I can help review one of many sales pages, for a product, or for some service offerings, or for a new publication.
 
-_Start here:_{: .home-service-offering-start-here }
+_Start here:_{: .home-service-offering-start-here }<br>
+[Start monthly subscription](https://buy.stripe.com/cN2aFDg0TeuZ85afZ4){: .cta-btn }
 
-<div markdown="1" data-target="purchasable-service.buttons">
-[Inquire about next available 2-week block](mailto:pascal@hey.com?subject%3DA%20Sales%20Page%20Feedback%20Service%26body%3DHi%2C%0A%0AI%27d%20like%20to%20inquire%20about%20your%20next%20availability%20for%20a%202%20week%20Sales%20Page%20Feedback%20Block..){: .cta-btn }
+**USD $1,200 per month**
 
-**USD $1,800**
-</div>
-
-<template data-target="purchasable-service.buttonTemplate">
-  <form action="%endpoint%" method="POST" class="checkout-button-wrapper">
-    <input type="hidden" name="checkout[service_uuid]" value="%service_uuid%">
-    <input type="hidden" name="checkout[start_date]" value="%start_date%">
-    <input type="hidden" name="checkout[end_date]" value="%end_date%">
-    <button type="submit" class="cta-btn">
-      Book weeks of %date_range_as_string%, USD $%price_in_dollars%
-    </button>
-  </form>
-</template>
-
-After pre-payment, you'll receive an invitation to a page on Clarityflow.com where we'll hold our coaching discussion.
+After subscribing, you'll receive an invitation to a page on Clarityflow.com where we'll hold our discussion.
 {: .home-service-offering-terms }
 
 <blockquote>
@@ -88,7 +92,7 @@ After pre-payment, you'll receive an invitation to a page on Clarityflow.com whe
 
 <div markdown="1" class="home-service-offering-summary">
 
-### _Option #3_<br>A Freelancing Services Page Package
+### _Option #4_<br>A Freelancing Services Page Package
 
 To help you put together a freelancing or consulting page like this one, providing some sharp options to the client you'd like to attract, I offer this **done-for-you service**, from strategy to design to implementing the site.
 
