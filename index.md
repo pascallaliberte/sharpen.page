@@ -30,9 +30,15 @@ I'm {% include avatar.html %} Pascal Laliberté, and **I help software devs like
 
 I have these four service offerings to help you:
 
-<div markdown="1" class="home-service-offering-summary">
+1. **[Ten Articles on Buyer Psychology, Ten Weeks](#ten)** (Free)
+2. **[Group Call For Solo Devs on Sales and Marketing](#group-call)**
+3. **[Monthly Sales Feedback Retainer](#monthly-retainer)**
+4. **[A Freelancing Services Page Package](#freelancing-package)**
+
+<div markdown="1" class="home-service-offering-summary" style="margin-top: 3em;">
 
 ### _Option #1_<br>Ten Articles on Buyer Psychology, Ten Weeks
+{: #ten }
 
 A free option (currently)&mdash;Over ten weeks, you receive **ten articles, adapted to your situation**, on how to understand buyer motivation, purchase momentum, applying the Jobs-To-Be-Done theory to writing sales copy, and more. Limited availability.
 
@@ -44,14 +50,15 @@ _Start here:_{: .home-service-offering-start-here }<br>
 <div markdown="1" class="home-service-offering-summary">
 
 ### _Option #2_<br>Group Call For Solo Devs on Sales and Marketing
+{: #group-call }
 
 **Twice a month, join a small group video call with other solo devs** where we'll review your efforts into understanding your buyers, preparing and executing on your marketing, having sales conversations and writing sales copy.
 
-Maybe **you've had a few sales conversations** that you know you could have handled better. Or maybe your **freelancing practice could use a boost**.
+Maybe **you've had a few sales conversations** that you know you could have handled better. Or maybe your **freelancing practice needs a boost**.
 
-Maybe you'd like to have a mix of small products and freelance offerings. Or maybe you're looking for a bit of accountability and **bouncing ideas with some of your peers**.
+You might be looking for a bit of accountability and **a place to bounce ideas**.
 
-_**How it will work**: The frequency will be every two weeks, and may be pushed a week from time to time. The calls, neither recorded nor summarized, will be about an hour long. We're aiming for 10 members or less per call. Every participant will have the chance to share a short update each call and then we'll riff on some ideas, simulate sales conversations maybe, foster feedback and personal investment._
+_**How it will work**: The calls, usually every two weeks, will be about an hour long. We're aiming for 10 members per group to give every participant the chance to share a short update. Then we might riff on some ideas, or maybe simulate sales conversations. The aim is to foster a place for feedback and personal investment._
 
 _Interested?_{: .home-service-offering-start-here }<br>
 [Apply via email](mailto%3Apascal%40hey.com?subject%3DGroup%20Call%20for%20Solo%20Devs%26body%3DHi%20Pascal%2C%0A%0AI%27m%20interested%20in%20joining%20one%20of%20your%20small%20group%20video%20calls%2C%20twice%20a%20month.%0A%0ACan%20you%20share%20with%20me%20your%20schedule?%0A%0ALooking%20forward%20to%20it%21%0A%0A){: .cta-btn }
@@ -66,6 +73,7 @@ After receiving your email, I'll share the current groups and their schedule and
 <div markdown="1" class="home-service-offering-summary">
 
 ### _Option #3_<br>Monthly Sales Feedback Retainer
+{: #monthly-retainer }
 
 **Using text or async video exchanges** (via ClarityFlow), I'll offer next business day responses on your questions about new service offerings and products, on revising drafts of emails or proposals, or revising copywriting material.
 
@@ -93,6 +101,7 @@ After subscribing, you'll receive an invitation to a page on Clarityflow.com whe
 <div markdown="1" class="home-service-offering-summary">
 
 ### _Option #4_<br>A Freelancing Services Page Package
+{: #freelancing-package }
 
 To help you put together a freelancing or consulting page like this one, providing some sharp options to the client you'd like to attract, I offer this **done-for-you service**, from strategy to design to implementing the site.
 
