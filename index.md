@@ -23,7 +23,7 @@ I'm {% include avatar.html %} Pascal Laliberté, and **I help software devs like
 * Maybe you've been trying to make a product work for a long time. **The product isn't fitting the market.** You've considered changing direction completely, but maybe you're thinking there's still a different option.
 * Maybe <mark>you thought that the thing would just sell itself</mark>.
 
-<div markdown="1" data-controller="purchasable-services">
+<div markdown="1">
 
 ## Services I Offer:
 {: #services }
