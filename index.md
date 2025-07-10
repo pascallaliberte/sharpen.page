@@ -134,4 +134,4 @@ Ottawa, Ontario, Canada
 
 [twitter]: https://twitter.com/pascallaliberte
 
-{% include email-sign-up-form.html context="home" %}
+{% include call-to-action-box.html context="home" %}
