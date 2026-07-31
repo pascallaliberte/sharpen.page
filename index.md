@@ -23,7 +23,7 @@ Look below for [ten articles over ten weeks](#ten-articles) (free), or [work wit
 
 ## A few years of writing on buyer psychology
 
-I've published **100+ articles** on this site (2018–2021) on getting into the mind of the buyer, on Jobs-to-be-Done, purchase-story interviews, churn, struggle-first landing pages, copywriting, and product discernment.
+I've published **100+ articles** on this site on getting into the mind of the buyer, on Jobs-to-be-Done, purchase-story interviews, churn, struggle-first landing pages, copywriting, and product discernment.
 
 A sample of the archive:
 
@@ -31,6 +31,7 @@ A sample of the archive:
 * [What Questions Should I Ask During a Buyer Interview?](/jtbd/interview-questions-to-ask/)
 * [Purchase Decisions: The Four Forces at Play](/jtbd/forces-of-progress-in-purchase-decision/)
 * [How to Know If You've Built Too Much Product](/jtbd/how-to-know-if-built-too-much-product-overserving/)
+* [The Gap Between the Product and User Needs](/jtbd/gap-between-product-and-user-needs/)
 
 Browse by topic on the [articles](/articles/) page.
 
