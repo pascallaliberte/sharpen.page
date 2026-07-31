@@ -6,7 +6,7 @@ show_breadcrumb: true
 image: /assets/images/ten-articles-on-buyer-psychology-ten-weeks.jpg
 ---
 
-Hi, I'm Pascal Laliberté, and I'm here to help _you, fellow software devs_, **develop an intuition on what goes on inside the mind of a buyer**.
+Hi, I'm Pascal Laliberté, and I'm here to help _you, founders and product managers_, **develop an intuition on what goes on inside the mind of a buyer**.
 {: .intro }
 
 ---
