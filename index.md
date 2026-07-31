@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Helping software devs like you sharpen your<br><mark>sales pages</mark>.
+# Helping founders and product managers like you get into the <mark>minds of your buyers</mark>.
 
 ---
 
