@@ -15,44 +15,44 @@ I'm {% include avatar.html %} Pascal Laliberté, and **I help founders and produ
 * <span>&hellip;</span> when you just **took over a product** you didn't build;
 {: .home-situations-summary }
 
-In those situations, [work with me on customer research](/customer-research/).
-
-Or start free:
-
-[Apply for Ten Articles](mailto:pascal@hey.com?subject=Buyer%20Psychology&body=Hi%20Pascal%2C%0A%0AI%27m%20interested%20in%20getting%20articles%20on%20buyer%20psychology%20from%20you%20over%20the%20next%20ten%20weeks.%0A%0ADo%20you%20have%20a%20spot%20to%20start%20this%20week?%0A%0AI%20know%20you%27ll%20be%20tailoring%20the%20articles%20for%20my%20situation%2C%20so%20please%20ask%20me%20follow-up%20questions.%0A%0ALooking%20forward%20to%20it%21){: .cta-btn } — ten weeks of buyer psychology, tailored to you. [Learn more at /ten](/ten/).
+Look below for [ten articles over ten weeks](#ten-articles) (free), or [work with me on customer research](/customer-research/).
 
 </div>
 
-<div markdown="1" class="home-service-offering-summary" style="margin-top: 3em;">
+<div class="home-credentials" markdown="1">
 
-### Ten Articles on Buyer Psychology, Ten Weeks
-{: #ten }
+## A few years of writing on buyer psychology
 
-A free option&mdash;over ten weeks, you receive **ten articles, adapted to your situation**, on how to understand buyer motivation, purchase momentum, applying the Jobs-To-Be-Done theory to writing sales copy, and more. Limited availability.
+I've published **100+ articles** on this site (2018–2021) on getting into the mind of the buyer, on Jobs-to-be-Done, purchase-story interviews, churn, struggle-first landing pages, copywriting, and product discernment.
 
-_Start here:_{: .home-service-offering-start-here }<br>
-[Apply via email](mailto:pascal@hey.com?subject=Buyer%20Psychology&body=Hi%20Pascal%2C%0A%0AI%27m%20interested%20in%20getting%20articles%20on%20buyer%20psychology%20from%20you%20over%20the%20next%20ten%20weeks.%0A%0ADo%20you%20have%20a%20spot%20to%20start%20this%20week?%0A%0AI%20know%20you%27ll%20be%20tailoring%20the%20articles%20for%20my%20situation%2C%20so%20please%20ask%20me%20follow-up%20questions.%0A%0ALooking%20forward%20to%20it%21){: .cta-btn } or [learn more at /ten](/ten/)
+A sample of the archive:
 
-</div>
+* [Digging the Purchase Story for Gold](/jtbd/digging-purchase-story-for-gold/)
+* [What Questions Should I Ask During a Buyer Interview?](/jtbd/interview-questions-to-ask/)
+* [Purchase Decisions: The Four Forces at Play](/jtbd/forces-of-progress-in-purchase-decision/)
+* [How to Know If You've Built Too Much Product](/jtbd/how-to-know-if-built-too-much-product-overserving/)
+
+Browse by topic on the [articles](/articles/) page.
 
 <blockquote>
   <p>
-    Pascal helped me tremendously to pin down the messaging and site structure of <a href="https://railsreviews.com">railsreviews.com</a>. His systematic method for discovering hidden opportunities and buyer hesitations is one of a kind. With a sharp eye for customers' struggles, his analyses are insightful, actionable, and rewarding. I'm looking forward to collaborating with him again in future projects.
+    I also found it helpful to bring in someone else to listen to my calls, check my biases, and spot insights I'd miss. @pascallaliberte has a sharp ear for customer research and analysis. He's been a huge help with analyzing my calls, comparing notes and takeaways.
   </p>
-  <cite>—<a href="https://twitter.com/julian_rubisch/">Julian Rubisch</a></cite>
+  <cite>—<a href="https://twitter.com/CasJam/status/1528858401937162241">Brian Casel</a></cite>
 </blockquote>
 
-More of how I think about buyers: [read the articles](/articles/).
+<blockquote>
+  <p>
+    I had been meaning to read Competing Against Luck, by Clayton M. Christensen, for a while now. I wanted to learn about the JTBD framework, but was put off by it because it felt remote to my daily product development work.
+  </p>
+  <p>
+    Pascal's articles were insightful interludes in my reading, providing perspectives on what it means to build a product that is relevant for users.
+  </p>
+  <cite>—<a href="https://www.linkedin.com/in/olivierdupuis/">Olivier Dupuis</a></cite>
+</blockquote>
 
----
+If you want a guided path through that material — **ten articles over ten weeks, tailored to your situation, free** — start below.
 
-Stay sharp!
-
-{% include avatar.html %} Pascal Laliberté  
-[pascal@hey.com](mailto:pascal@hey.com)  
-[@pascallaliberte][twitter]  
-Ottawa, Ontario, Canada
-
-[twitter]: https://twitter.com/pascallaliberte
+</div>
 
 {% include call-to-action-box.html context="home" %}
