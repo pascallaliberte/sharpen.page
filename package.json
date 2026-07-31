@@ -9,6 +9,7 @@
   "license": "MIT",
   "scripts": {
     "start": "npm run clean:project && webpack --mode development --progress && concurrently \"webpack serve --mode development\" \"bundle exec jekyll serve --drafts --future\"",
+    "build:css": "webpack --mode production --progress",
     "build:optim": "npm run-script clean:project && cross-env NODE_ENV=production webpack --env=prod --progress --profile --colors && webpack --env=optim  --progress --profile --colors && cross-env JEKYLL_ENV=production bundle exec jekyll build",
     "build:pwa:optim": "npm run-script clean:project && cross-env NODE_ENV=production webpack --env=pwa --progress --profile --colors && webpack --env=optim  --progress --profile --colors && cross-env JEKYLL_ENV=pwa bundle exec jekyll build && sw-precache --config=config/sw.config.js --verbose",
     "build": "npm run clean:project && webpack --mode production --progress && bundle exec jekyll build",
