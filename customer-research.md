@@ -87,7 +87,10 @@ I worked with Brian Casel before his former ZipMessage became [Clarityflow](http
 
 <blockquote>
   <p>
-    I also found it helpful to bring in someone else to listen to my calls, check my biases, and spot insights I'd miss. @pascallaliberte has a sharp ear for customer research and analysis. He's been a huge help with analyzing my calls, comparing notes and takeaways.
+    I also found it helpful to bring in someone else to listen to my calls, check my biases, and spot insights I'd miss.
+  </p>
+  <p>
+    @pascallaliberte has a sharp ear for customer research and analysis. He's been a huge help with analyzing my calls, comparing notes and takeaways.
   </p>
   <cite>—<a href="https://twitter.com/CasJam/status/1528858401937162241">Brian Casel</a></cite>
 </blockquote>
