@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Packaging a Sharp Service, But without a Public Price
+description: "How to package a sharp service without a public price — stay buyable and clear while saving the number for a conversation."
 categories: jtbd consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2019-10-18-packaged-service-no-public-price.jpg

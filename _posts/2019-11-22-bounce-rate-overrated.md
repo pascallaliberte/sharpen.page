@@ -1,6 +1,7 @@
 ---
 layout: post
 title: But How Will This Affect My Bounce Rate?
+description: "Will a longer struggle-first page hurt bounce rate? Why that metric is overrated when you’re helping buyers make progress."
 categories: jtbd copywriting
 tags: optimize struggle-first
 author: Pascal Laliberté

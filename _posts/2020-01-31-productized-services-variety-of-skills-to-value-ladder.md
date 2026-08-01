@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Productized Services: From a Variety of Skills to a Value-Ladder"
+description: "Turn a variety of freelance skills into a value ladder of productized services — clearer offers, prices, and next steps."
 categories: jtbd consulting
 tags: showcase optimize
 showcased:

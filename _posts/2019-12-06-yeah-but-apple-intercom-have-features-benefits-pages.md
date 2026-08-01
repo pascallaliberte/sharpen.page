@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Yeah but Apple and Intercom Design Their Pages Using Features and Benefits"
+description: "Yeah but Apple and Intercom use features-and-benefits pages. Why that style works for them — and often fails for everyone else."
 categories: jtbd copywriting
 tags: showcase struggle-first
 author: Pascal Laliberté

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Do I Need To Focus On Just One Struggle?
+description: "Do you need to focus on just one struggle on your page? When to pick one situation — and how to handle more than one well."
 categories: jtbd copywriting
 tags: consulting struggle-first
 author: Pascal Laliberté

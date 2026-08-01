@@ -1,6 +1,7 @@
 ---
 layout: post
 title: When Freelancers Don't Need a Website
+description: "When freelancers don’t need a website — and when a sharp site (or value ladder) still earns its keep."
 categories: jtbd consulting
 tags: showcase discerning
 not_recommended_for_product_people: true

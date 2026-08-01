@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Re-writing Headings That Just Highlight The Benefits"
+description: "Stop leading with benefit-only headlines. Rewrite landing page headings so they mirror the buyer’s struggle first."
 categories: jtbd copywriting
 tags: showcase struggle-first
 author: Pascal Laliberté

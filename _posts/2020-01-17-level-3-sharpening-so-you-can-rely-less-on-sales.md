@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Level 3 Sharpening: So You Can Rely Less on Sales"
+description: "Level 3 sharpening: understand situations ripe for a switch so you rely less on convincing and more on the right buyers."
 categories: jtbd
 tags: optimize jtbd-basics
 author: Pascal Laliberté

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Productized Services: Feedback for purplesoundstudios.com"
+description: "Productized service feedback for purplesoundstudios.com — clarifying the offer, price anxiety, and what buyers need to see."
 categories: jtbd consulting
 tags: showcase optimize
 showcased:

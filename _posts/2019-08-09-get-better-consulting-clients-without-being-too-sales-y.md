@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Get Better Consulting Clients without Being Too Sales-y"
+description: "How to get better consulting clients without being salesy — use newsletters and guides to help buyers make progress first."
 categories: jtbd optimize
 tags: consulting
 author: Pascal Laliberté

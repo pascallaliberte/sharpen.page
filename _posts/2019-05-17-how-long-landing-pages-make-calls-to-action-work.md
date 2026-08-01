@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Long Landing Pages Make Calls-To-Action Work"
+description: "Why long landing pages make CTAs work — give visitors enough understanding and reduced anxiety before you ask them to book or buy."
 categories: jtbd copywriting
 tags: struggle-first
 author: Pascal Laliberté

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is Your Product a 'Yes', a 'No', or a 'Not Yet'?
+description: "Is your product a yes, a no, or a not yet? How to judge demand and landing-page fit using buyer struggle — Colorways example."
 categories: jtbd
 tags: showcase jtbd-basics discerning
 author: Pascal Laliberté

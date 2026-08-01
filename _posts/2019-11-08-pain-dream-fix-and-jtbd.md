@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Does the Pain-Dream-Fix Page Structure Fit with Jobs-To-Be-Done?
+description: "How Amy Hoy’s Pain-Dream-Fix page structure fits Jobs-to-be-Done — and where struggle, attraction, and anxieties show up."
 categories: jtbd copywriting
 tags: consulting struggle-first
 author: Pascal Laliberté
