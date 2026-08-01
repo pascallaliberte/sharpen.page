@@ -64,7 +64,7 @@ That's what's in the books for you, once you **get into the minds of your buyers
 
 ## How it works
 
-1. **You reach out** with a short note on your situation.
+1. **You [reach out](mailto:pascal@hey.com?subject=Customer%20Research&body=Hi%20Pascal%2C%0A%0AI%27m%20interested%20in%20customer%20research%20help.%0A%0AHere%27s%20my%20situation%20in%20a%20sentence%20or%20two%3A%0A%0A)** with a short note on your situation.
 2. **We talk fit** — free discovery, no commitment until the scope makes sense.
 3. **I run the interviews** (buyers, churned customers, lost deals — depending on what you need).
 4. **You get a synthesis** you can act on: what to build, fix, stop, or say next.
