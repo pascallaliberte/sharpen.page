@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "For My Landing Page Call to Action: Appointment or Email?"
+description: "Landing page CTA: Calendly appointment or email form? How to choose based on the visitor’s struggle and purchase momentum."
 categories: jtbd copywriting
 tags: consulting
 author: Pascal Laliberté

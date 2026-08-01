@@ -2,6 +2,7 @@
 permalink: customer-research/
 title: Customer Research
 layout: page
+description: "Buyer and churn interviews that sharpen what your product is hired to do — so founders and PMs know what to build, fix, or say next."
 ---
 
 I interview your customers to find out why they really buy — or really leave — and turn that into something you can act on as a founder or product manager.

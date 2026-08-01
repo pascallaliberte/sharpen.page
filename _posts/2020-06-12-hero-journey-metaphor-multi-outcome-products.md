@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Hero's Journey Metaphor: Multi-Outcome Products"
+description: "The hero’s journey and multi-outcome products — why one-size offerings stall, and how smaller next steps help buyers progress."
 categories: jtbd
 tags: optimize consulting
 author: Pascal Laliberté

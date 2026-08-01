@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What Does It Mean to Compete Against 'Nothing'?"
+description: "What Competing Against Luck means by competing against “nothing” — non-consumption, not zero competitors, and why it matters."
 categories: jtbd
 tags: showcase jtbd-basics
 author: Pascal Laliberté

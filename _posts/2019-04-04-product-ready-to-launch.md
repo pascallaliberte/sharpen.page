@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Do I Know My Product Is Ready To Launch? I Want It To Be Perfect!"
+description: "How do you know your product is ready to launch? Why waiting for perfect often blocks shipping — and how to decide you’re ready enough."
 categories: jtbd
 tags: discerning
 author: Pascal Laliberté

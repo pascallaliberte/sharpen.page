@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sharpening Your Packaged Service Offerings
+description: "Sharpen packaged freelance offerings — make outcomes clearer, prices fairer, and the next step easier for the right clients."
 categories: jtbd consulting
 not_recommended_for_product_people: true
 tags: copywriting

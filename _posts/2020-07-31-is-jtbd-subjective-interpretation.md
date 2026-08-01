@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Isn't Jobs-to-be-Done Just a Subjective Interpretation?
+description: "Your data-minded colleague poses that question about Jobs-to-be-Done. How do you answer? Here's how Jobs-to-be-Done changes the territory of…"
 categories: jtbd
 tags: research
 author: Pascal Laliberté

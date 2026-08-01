@@ -4,6 +4,7 @@ layout: page
 permalink: ten/
 show_breadcrumb: true
 image: /assets/images/ten-articles-on-buyer-psychology-ten-weeks.jpg
+description: "Ten free articles over ten weeks on buyer motivation, JTBD, and purchase momentum — tailored to your situation as a founder or product manager."
 ---
 
 Hi, I'm Pascal Laliberté, and I'm here to help _you, founders and product managers_, **develop an intuition on what goes on inside the mind of a buyer**.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Digging the Purchase Story for Gold"
+description: "How to dig a purchase story for gold — first thought, two switching events, and the motivations that reveal the job your product is hired to do."
 categories: jtbd
 tags: purchase-interview research jtbd-basics
 author: Pascal Laliberté

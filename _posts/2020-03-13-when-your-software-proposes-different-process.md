@@ -1,6 +1,7 @@
 ---
 layout: post
 title: When Your Software Proposes a Different Process
+description: "If your software's marketing page shows a before and after, that's actually a spot on approach. As we'll see, Moneto's marketing page does that. But if…"
 categories: jtbd optimize
 tags: showcase copywriting
 showcased:

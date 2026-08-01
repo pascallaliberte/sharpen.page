@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Changing Orbit: Selling Your Idea"
+description: "Selling an idea means helping someone change orbit — leave their gravity well of current beliefs. Use struggle and the four forces of progress to know when they’re ready."
 categories: jtbd
 tags: consulting jtbd-basics
 author: Pascal Laliberté

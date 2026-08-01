@@ -3,9 +3,10 @@
 # This config file contains the config of your webpages
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
-title: "sharpen.page: A Product Sharpening Service by Pascal Laliberté"
+title: "sharpen.page: Product Sharpening Service"
+tagline: "Get into the minds of your buyers"
 email: pascal@hey.com
-description: "I help software founders like you get into the minds of your buyers. Sharpen your understanding of the buyer’s motivation, your marketing copy and your feature set."
+description: "I help founders and product managers get into the minds of their buyers. Through buyer interviews and JTBD clarity, I sharpen your product’s positioning, messaging, and what to build next."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://sharpen.page # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#605aa4'
@@ -27,7 +28,7 @@ defaults:
       path: ""
     values:
       image: 
-        path: /assets/images/a-page-sharpening-service.jpg
+        path: /assets/images/a-product-sharpening-service.jpg
         height: 315
         width: 600
 
@@ -75,3 +76,7 @@ exclude:
   - optimization-fix
   - optimization-fix-this-file-is-ignored.js
   - icon.png
+  - docs
+  - scripts
+  - skills-lock.json
+  - .agents

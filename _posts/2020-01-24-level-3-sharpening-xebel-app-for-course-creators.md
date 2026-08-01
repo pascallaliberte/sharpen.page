@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Level 3 Sharpening for Xebel.co"
+description: "Level 3 sharpening applied to Xebel.co — find course-creator situations ripe for a switch, not just roles and benefits."
 categories: jtbd
 tags: optimize showcase
 author: Pascal Laliberté

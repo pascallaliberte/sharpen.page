@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rewrite for InScheduler - Part 3: Testing the Site Against the Best Buyer Situation"
+description: "As we discovered in previous articles, InScheduler best solves a specific struggle more than others. When a hair salon has a lot of business coming…"
 categories: copywriting
 tags: showcase optimizing
 showcased:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What's the Minimum to Make My Landing Page Communicate I Understand the Struggle?
+description: "You've got a benefits and features page. It communicates the product's proposition: what it offers, how much it costs. To cover all angles, it lists…"
 categories: jtbd copywriting
 tags: consulting struggle-first
 author: Pascal Laliberté

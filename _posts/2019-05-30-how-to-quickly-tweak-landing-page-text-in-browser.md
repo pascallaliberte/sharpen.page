@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How To Quickly Tweak Text On Your Landing Page Directly In The Browser"
+description: "You've been sweating over the wording of a headline on your landing page and it's been frustrating to go into your WordPress thingy, make a change…"
 categories: copywriting
 author: Pascal Laliberté
 image: /assets/images/posts/2019-05-30-how-to-quickly-tweak-landing-page-text-in-browser.jpg

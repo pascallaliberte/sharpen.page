@@ -1,6 +1,7 @@
 ---
 layout: post
 title: When Funnels only Explain a Minority of Purchase Scenarios
+description: "Why conversion funnels often explain only a minority of purchases — and what to model instead of a single tidy path."
 categories: jtbd optimize
 tags: research purchase-interview
 author: Pascal Laliberté

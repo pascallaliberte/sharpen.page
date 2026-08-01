@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "No, You Don't Need Social Proof"
+description: "No, you don't need testimonials on your product page. No need for reviews or quotes. You can get by just fine with the good old Forces of Progress (an…"
 categories: jtbd
 tags: copywriting
 author: Pascal Laliberté

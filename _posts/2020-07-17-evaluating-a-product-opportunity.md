@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Evaluating a Product Opportunity
+description: "Is that product idea going to work, or is it going to stay in neat-o land? To know for sure, you gotta find some struggling moments. Here are a few…"
 categories: jtbd
 tags: research discerning
 author: Pascal Laliberté

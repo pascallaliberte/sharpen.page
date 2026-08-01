@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Visitors Will Excuse Your Un-styled Landing Page
+description: "Keep your unstyled marketing page. Launch it. You'll get feedback to pretty it up (mostly ignore it). Visitors will excuse your unstyled landing page…"
 categories: jtbd
 tags: optimize copywriting showcase struggle-first
 author: Pascal Laliberté

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Writing Outreach (Cold) Emails That Will Be Welcomed"
+description: "In last week's article, we [covered the basics of writing outreach (cold) email][the-basics]. It covered how to make your cold email stand out from…"
 categories: jtbd copywriting
 not_recommended_for_product_people: true
 author: Pascal Laliberté

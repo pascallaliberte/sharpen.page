@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Can I Improve The Design Of This Landing Page Without Too Much Effort?"
+description: "How to improve a SaaS landing page without a redesign — small copy and structure changes that help visitors feel understood."
 categories: jtbd copywriting
 tags: struggle-first
 author: Pascal Laliberté

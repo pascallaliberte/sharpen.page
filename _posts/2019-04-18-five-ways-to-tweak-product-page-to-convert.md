@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Five Ways to Rejig a Product Page When It Doesn't Lead To Enough Sales"
+description: "Five ways to tweak a product page when it isn’t converting — experiment with struggle, anxieties, and progress instead of random A/B guesses."
 categories: jtbd
 tags: struggle-first
 author: Pascal Laliberté

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fail Predictions: Sunshine Contacts"
+description: "Despite being from a funded startup, Sunshine Contacts won't work. Don't try to build apps with ideas like this. On the surface, you'd think, there's a…"
 categories: jtbd
 tags: discerning
 author: Pascal Laliberté

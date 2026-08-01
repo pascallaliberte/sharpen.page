@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Your Product Might Fail, Push Through with These Perspectives"
+description: "When you're ready to face the odds of a product not selling (and building it anyway), here are some perspectives to help you push through, get it done…"
 categories: jtbd
 tags: discerning
 author: Pascal Laliberté
@@ -69,18 +70,18 @@ So imagine your landing page, then imagine the slice of features that'll be just
 
 [jtbd-intro]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}
 
-## Tool: Simulate the Buyer's Thoughts Using the Forces Widget
+## Tool: Simulate the Buyer's Thoughts With the Forces of Progress
 
-When judging your landing page, or when judging how you'll put together a sales conversation, simulate the visitor's mental back and forth by using this interactive Forces of Progress diagram:
+When judging your landing page, or when judging how you'll put together a sales conversation, simulate the visitor's mental back and forth with this interactive [Forces of Progress](https://tools.sharpen.page/forces/) tool:
 
-<a href="https://sharpen.page/forces-widget/" class="cta-btn" target="_blank">Launch the Forces Widget</a>
+<a href="https://tools.sharpen.page/forces/" class="cta-btn" target="_blank">Open the Forces of Progress tool</a>
 
 **How to use:**
 
 * Click the **outside corners to expand the forces**, simulating when forces are getting stronger.
 * Click the **center corners to contract the forces**, simulating when forces are getting less strong.
 * Click the **white space in the middle of the four forces** to revert all forces to zero.
-* Scroll down, and you'll find an example ["when statement" you can fill out][try-when], so you can attach the forces to a specific from-struggle-to-aspiration desire for progress.
+* Fill in a ["when" statement][try-when] (When / I want to / So I can), so you can attach the forces to a specific from-struggle-to-aspiration desire for progress.
 
 [try-when]: {% post_url 2019-02-21-try-when %}
 

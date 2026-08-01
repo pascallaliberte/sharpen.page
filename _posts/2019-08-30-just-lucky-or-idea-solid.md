@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Was I Just Lucky or Is My Idea Solid?"
+description: "Was I just lucky, or is my idea solid? How to tell durable demand from a one-off win using buyer struggle and purchase stories."
 categories: jtbd
 tags: consulting discerning
 author: Pascal Laliberté

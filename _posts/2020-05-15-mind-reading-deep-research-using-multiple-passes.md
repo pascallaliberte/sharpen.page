@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Mind-reading: Conducting Deep Research Using Multiple Passes'
+description: "Mind-reading with multiple research passes — how to dig deeper into buyer interviews when one listen isn’t enough."
 categories: jtbd
 tags: research
 author: Pascal Laliberté

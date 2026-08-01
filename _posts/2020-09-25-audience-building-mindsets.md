@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Audience Building Mindsets"
+description: "Should you invest in building an audience? Well, here are a couple mindsets to help you decide. The Dependence, Independence, Interdependence Minset…"
 categories: consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2020-09-25-audience-building-mindsets.jpg

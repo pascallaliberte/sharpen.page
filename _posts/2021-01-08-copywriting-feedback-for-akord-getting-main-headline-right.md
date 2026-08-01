@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Copywriting Feedback for Akord: Getting the Main Headline Right"
+description: "Akord does document sharing for those who don't trust the mainstream providers and their lack of end-to-end encryption. The author asked for feedback…"
 categories: jtbd
 tags: showcase optimize copywriting
 showcased:

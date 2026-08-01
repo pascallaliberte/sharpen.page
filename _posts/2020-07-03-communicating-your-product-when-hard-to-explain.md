@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Communicating Your Product When It's Hard to Explain
+description: "Your product is hard to explain. Skip forced brevity — use struggle-first copy so the right visitors finally get it."
 categories: jtbd
 tags: optimize copywriting showcase
 author: Pascal Laliberté

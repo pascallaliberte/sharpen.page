@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Do I Need to Address a Hard Struggle?
+description: "Do you need a hard struggle for your product to sell? Why soft curiosity rarely clears the forces of progress."
 categories: jtbd
 author: Pascal Laliberté
 tags: consulting jtbd-basics struggle-first discerning

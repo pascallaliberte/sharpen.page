@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Product, The Newsletter and The Professional Services"
+description: "No traction on your product? Why a newsletter and professional services often beat ads — and how they help ideas spread and sell."
 categories: jtbd
 tags: consulting
 author: Pascal Laliberté

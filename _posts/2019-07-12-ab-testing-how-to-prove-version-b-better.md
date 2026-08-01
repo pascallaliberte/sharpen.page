@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Can I Prove That My Version B Will Be Better?"
+description: "How to know if Version B will beat Version A in an A/B test — the three factors behind significance, not gut feel."
 categories: optimize
 author: Pascal Laliberté
 image: /assets/images/posts/2019-07-12-ab-testing-how-to-prove-version-b-better.jpg

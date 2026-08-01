@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Purchase Decisions: The Four Forces at Play"
+description: "The four forces of progress in a purchase decision — struggle, attraction, anxieties, and habits — and how they push buyers toward yes or no."
 categories: jtbd
 tags: jtbd-basics
 author: Pascal Laliberté

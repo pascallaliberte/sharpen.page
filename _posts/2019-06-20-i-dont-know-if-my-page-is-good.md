@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I Don't Know If My Page Is Any Good"
+description: "I don’t know if my page is any good — a practical way to judge a landing page through the buyer’s mental back-and-forth."
 categories: jtbd copywriting
 tags: struggle-first discerning
 author: Pascal Laliberté

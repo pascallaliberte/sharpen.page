@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Freelancing in a Recession: Roundup of Tips"
+description: "Freelancing in a recession: a roundup of tips on clients, pricing, and being an investment — not an expense. (Written March 2020.)"
 categories: consulting
 tags: recession
 author: Pascal Laliberté

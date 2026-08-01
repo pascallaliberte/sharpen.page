@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Freelancing for Two Markets At Once (Changing Your Website Too?)
+description: "Freelancing for two markets at once — when changing your website helps (or hurts) serving more than one kind of client."
 categories: consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2020-02-21-freelancing-two-markets-at-once.jpg

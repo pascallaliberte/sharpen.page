@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Bunch of Example Landing Pages With (Mostly) Just Text
+description: "No need for those unecessary photos or illustrations. See these examples pages I'm listing, they're mostly just text, and they work just fine. Make…"
 categories: jtbd
 tags: showcase struggle-first
 showcased:

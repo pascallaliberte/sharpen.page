@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '"Too Much Text": What to Do About that Feedback'
+description: "Someone said your landing page has “too much text.” Why to take that feedback lightly — and how to tighten without gutting it."
 categories: jtbd copywriting
 tags: showcase optimizing struggle-first
 showcased:

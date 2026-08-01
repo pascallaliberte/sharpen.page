@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Four Ways to Tell Your Visitors 'There's a Better Way'"
+description: "Four ways to tell visitors there’s a better way — after they feel understood, help them see a path out of the struggle."
 categories: jtbd copywriting
 tags: showcase struggle-first
 author: Pascal Laliberté

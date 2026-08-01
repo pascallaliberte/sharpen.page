@@ -3,6 +3,7 @@ title: Live Streams
 layout: page
 permalink: stream/
 image: /assets/images/live-stream-on-landing-pages-offline.jpg
+sitemap: false
 ---
 
 Thanks for dropping by. My live streams are currently off and I might resume them in the future. You can find me on [Twitter][twitter] to be notified if I start them again.

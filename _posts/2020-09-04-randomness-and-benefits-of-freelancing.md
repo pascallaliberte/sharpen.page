@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Randomness and the Benefits of Freelancing"
+description: "You're taking your freelancing a level up. But, as they say, you're doing something risky there. Randomness is your friend however, especially in…"
 categories: consulting
 tags: optimize
 not_recommended_for_product_people: true

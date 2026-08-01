@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Purchase Interview: $450 Pair of Winter Boots"
+description: "Let's say you make expensive winter boots. You're wondering what you'll focus on for the next two years. Should we diversify our product line? Should…"
 categories: jtbd purchase-interview
 tags: research
 author: Pascal Laliberté

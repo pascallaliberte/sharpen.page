@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Industry Standard Pricing (No Such Thing)"
+description: "There’s no such thing as industry-standard pricing — set price from the progress buyers want, not from what competitors charge."
 categories: jtbd
 tags: consulting discerning
 author: Pascal Laliberté

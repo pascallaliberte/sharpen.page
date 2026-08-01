@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ego Makes Good Products Fail (Remove Ego to See Reality)
+description: "Ego. It guides you astray, locks you in certitudes, blinded to reality. Not too useful if you're building a product. So here are few crucial things…"
 categories: discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2020-10-16-ego-makes-good-products-fail-remove-ego.jpg

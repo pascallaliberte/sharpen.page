@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rewrite for InScheduler - Part 2: Finding Situations Ripe for a Switch"
+description: "It's not enough to review a sales page as a typical visitor. That visitor won't buy anyway. Let's go deeper analyzing InScheduler.com, to find out the…"
 categories: copywriting
 tags: showcase optimizing
 showcased:

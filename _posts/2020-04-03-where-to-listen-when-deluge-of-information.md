@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Where to Listen More Deeply When There's a Deluge of Information"
+description: "Despite the calamity we're going through, there are going to be changes in how people get to work. If you want to find ways to help them make progress…"
 categories: jtbd
 tags: research
 author: Pascal Laliberté

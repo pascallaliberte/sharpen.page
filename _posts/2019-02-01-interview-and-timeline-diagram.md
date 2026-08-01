@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Interview and the Timeline Diagram"
+description: "The purchase interview and timeline diagram — map first thought, key events, and purchase so you cover the whole buyer story."
 categories: jtbd
 tags: purchase-interview research jtbd-basics
 author: Pascal Laliberté

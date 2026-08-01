@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When a Feature Is Not a Feature"
+description: "You like to build. Of all the things you like doing, that's your preference. We'll need to re-frame that preference."
 categories: jtbd
 author: Pascal Laliberté
 image: /assets/images/posts/2019-02-15-when-a-feature-is-not-a-feature.jpg

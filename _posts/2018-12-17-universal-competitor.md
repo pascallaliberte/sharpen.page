@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Number One Competitor of Your Product
+description: "Your product’s number one competitor isn’t a rival app — it’s non-consumption and the buyer’s “I’ll just” alternatives."
 categories: jtbd
 tags: jtbd-basics discerning
 author: Pascal Laliberté

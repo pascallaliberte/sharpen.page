@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Should I Use a Ballsy Tone, or Stick with Corporate Wording?"
+description: "Should your landing page use a ballsy tone or stick with corporate wording? Judge tone by the buyer’s struggle, not fashion."
 categories: jtbd optimize
 tags: showcase copywriting
 showcased:

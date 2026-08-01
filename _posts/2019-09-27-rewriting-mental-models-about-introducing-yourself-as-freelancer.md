@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rewriting Common Mental Models About Introducing Yourself as a Freelancer
+description: "It's time for you to upgrade to better clients. You want to help bigger problems, make a bigger dent, and work with good people while earning your…"
 categories: consulting
 tags: mental-models
 author: Pascal Laliberté

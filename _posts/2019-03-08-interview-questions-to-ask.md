@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What Questions Should I Ask During a Buyer Interview?"
+description: "What questions to ask in a buyer interview — retroactive prompts that surface the purchase story instead of vague feature feedback."
 categories: jtbd
 tags: purchase-interview research jtbd-basics
 author: Pascal Laliberté

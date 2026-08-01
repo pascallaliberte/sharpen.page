@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Discouraging Your Clients (for more Antifragility)"
+description: "There's something freeing about actively discouraging clients from hiring you. But more than that, it gives you a competitive edge. You get a deep…"
 categories: consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2020-08-14-discouraging-clients-more-antifragility.jpg

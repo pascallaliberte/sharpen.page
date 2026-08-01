@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When I Suspect My Product Is Purchased for New Use Cases"
+description: "You're seeing surprising purchasing behaviours. New kinds of people are buying what you sell. To pull on that string without too much effort…"
 categories: jtbd optimize
 tags: recession purchase-interview research jtbd-basics
 author: Pascal Laliberté

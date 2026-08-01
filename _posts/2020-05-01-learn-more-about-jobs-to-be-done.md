@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Where Can I Learn More About Jobs-To-Be-Done?
+description: "Where to learn more about Jobs-to-be-Done — books, courses, podcasts, people to follow, and cornerstone articles from this site."
 categories: jtbd
 tags: jtbd-basics
 author: Pascal Laliberté

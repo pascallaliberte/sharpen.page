@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Increase Newsletter Signups without Being Pushy?"
+description: "From this point forward, you don't want to have pop-ups. You don't want to try to juice every visitor to sign up to your newsletter. You don't want…"
 categories: jtbd optimize
 tags: consulting
 author: Pascal Laliberté
