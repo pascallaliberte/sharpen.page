@@ -179,6 +179,18 @@
     font-size: to-rem(22px);
     margin-top: to-rem(20px);
     max-width: to-rem(250px);
+
+    .navigation__link-item {
+      margin-bottom: to-rem(12px);
+
+      @media (max-width: ($reference-width-xs-until - 1px)) {
+        margin-bottom: to-rem(6px);
+      }
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
     
     .home &, .service & {
       position: absolute;
