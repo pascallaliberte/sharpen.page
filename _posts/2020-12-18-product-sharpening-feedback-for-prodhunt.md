@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Product Sharpening: Feedback for ProdHunt"
+description: "Here's a product that's smart, but is a close call. ProdHunt could bundle something else to allieviate visitor anxieties, but might never get word of…"
 categories: jtbd
 tags: showcase optimize
 showcased:

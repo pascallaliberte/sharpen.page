@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Your Product Is Going to Fail
+description: "Is your product going to fail? I'm going to help you make that call on your own, maybe help you save what's salvageable, and help you determine whether…"
 categories: jtbd
 tags: discerning
 author: Pascal Laliberté

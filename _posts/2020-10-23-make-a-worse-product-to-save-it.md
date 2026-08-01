@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Make a Worse Product (to Save It)
+description: "A worse product that does the job better? Yes, that's what I'm suggesting you make. If it passes the Forces of Progress, make it happen."
 categories: jtbd
 tags: discerning
 author: Pascal Laliberté

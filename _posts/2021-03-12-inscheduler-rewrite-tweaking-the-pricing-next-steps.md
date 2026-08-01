@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rewrite for InScheduler - Part 5: Tweaking the Pricing and Next Steps"
+description: "The final problem to fix with InScheduler.com is the pricing and the buyer's next steps. They create anxiety! Let's fix that. Simple pricing, free…"
 categories: copywriting
 tags: showcase optimizing
 showcased:

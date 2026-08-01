@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Select Buyers for Purchase Story Interviews"
+description: "How to select buyers for purchase-story interviews — recent purchasers who deliberated, and how to find and schedule them."
 categories: jtbd
 tags: purchase-interview research jtbd-basics
 author: Pascal Laliberté

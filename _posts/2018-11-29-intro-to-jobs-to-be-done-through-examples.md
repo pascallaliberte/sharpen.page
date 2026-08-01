@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction to the Jobs-To-Be-Done Theory, Through Three Example Purchases
+description: "Introduction to Jobs-to-be-Done through three example purchases — how people hire products for progress, not features."
 categories: jtbd
 tags: jtbd-basics
 author: Pascal Laliberté

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Do You Productize a Consulting Call?
+description: "Maybe you're in this common scenario: you sell custom services as a consultant and the initial calls are part of the sales process for you. You take…"
 categories: jtbd consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2019-10-11-productize-consulting-call.jpg

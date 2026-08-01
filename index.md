@@ -1,5 +1,6 @@
 ---
 layout: home
+description: "Helping founders and product managers get into the minds of their buyers — through customer research, JTBD, and a free ten-week article path."
 ---
 
 # Helping founders and product managers like you get into the <mark>minds of your buyers</mark>.

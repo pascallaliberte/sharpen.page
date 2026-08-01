@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Measurements for Freelancers - Part 1: Finding What Matters"
+description: "Let me discourage you from measuring your freelance business too much. The common metrics just don't matter, and what matters is hard to measure."
 categories: consulting
 tags: optimize jtbd
 not_recommended_for_product_people: true

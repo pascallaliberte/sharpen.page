@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Let Visitors Leave With Something Progress-ful"
+description: "The bottom of a product's landing page is prime real estate. People scrolled all the way down, and yet they're not going to buy. They're about to…"
 categories: jtbd
 tags: copywriting showcase
 showcased:

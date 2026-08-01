@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Purchase Interview: Two Ebooks Purchased Together"
+description: "\"He's just the type of guy who buys ebooks\". That was my thought when I interviewed a guy who had bought two ebooks. Yes, two ebooks that he bought at…"
 categories: jtbd purchase-interview
 tags: research
 author: Pascal Laliberté

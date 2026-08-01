@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Product Sharpening: Feedback for logology.co"
+description: "Logology.co is a self-serve logo design service/product. Gorgeous site, smart idea, cheap price, up-front logo styles. But because of the Forces of…"
 categories: jtbd optimize
 tags: showcase consulting
 showcased:

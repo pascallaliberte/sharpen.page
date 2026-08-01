@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fail Predictions: My Own Product"
+description: "I was building a product (a paid video of sorts). I spotted a few problems with it. I'm killing it."
 categories: jtbd
 tags: discerning showcase copywriting struggle-first
 showcased:

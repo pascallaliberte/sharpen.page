@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Record Buyer Interviews"
+description: "How to record buyer interviews — practical gear and habits so you can revisit purchase stories and spot patterns later."
 categories: jtbd gear
 tags: purchase-interview research
 author: Pascal Laliberté

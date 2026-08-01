@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rewrite for InScheduler - Part 1: Initial Run-Through"
+description: "Let's try rewriting InScheduler.com, a page about an app for salon/spa owners, to allow them to get appointments scheduled directly from their site…"
 categories: copywriting
 tags: showcase optimizing
 showcased:

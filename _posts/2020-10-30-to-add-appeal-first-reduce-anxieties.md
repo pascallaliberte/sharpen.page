@@ -1,6 +1,7 @@
 ---
 layout: post
 title: To Add Appeal, First Reduce Anxieties
+description: "To add appeal, first reduce anxieties — why clearing hesitations on your page beats piling on more benefits."
 categories: jtbd
 tags: optimizing discerning jtbd-basics
 author: Pascal Laliberté

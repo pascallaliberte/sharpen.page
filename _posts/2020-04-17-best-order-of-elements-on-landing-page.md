@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Best Order of Elements For Your Landing Page"
+description: "Is there a definitive order? Let's see a few example structures, and in particular, the importance of telling your visitor you understand them. Then…"
 categories: jtbd optimize
 tags: copywriting struggle-first
 author: Pascal Laliberté

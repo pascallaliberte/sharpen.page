@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Gap Between the Product and User Needs
+description: "The gap between the product and user needs — when shipping more features still misses the job buyers are hiring you for."
 categories: jtbd
 tags: optimize
 author: Pascal Laliberté

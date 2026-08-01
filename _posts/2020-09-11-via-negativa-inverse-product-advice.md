@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Via Negativa: Inverse Product Advice"
+description: "You're reading some conflicting advice. Start by building an audience or no? Listen to your customers or ignore product research? Via Negativa, using a…"
 categories: research
 author: Pascal Laliberté
 image: /assets/images/posts/2020-09-11-via-negativa-inverse-product-advice.jpg

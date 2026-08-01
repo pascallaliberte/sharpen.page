@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Itch to Create - Part 4: Judging Ideas for Demand Fit"
+description: "Let's go through a hunch for a product idea and see if there's something there. Part 4 of a series on The Itch to Create."
 categories: jtbd
 author: Pascal Laliberté
 image: /assets/images/posts/2020-08-07-itch-to-create-judging-ideas-for-demand-fit.jpg

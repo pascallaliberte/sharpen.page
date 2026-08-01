@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rewrite for InScheduler - Part 4: Tweaking the Appeal"
+description: "Now that we know what goes on in the mind of InScheduler's best buyer, let's fill the holes in the site, starting with how the product is described to…"
 categories: copywriting
 tags: showcase optimizing
 showcased:

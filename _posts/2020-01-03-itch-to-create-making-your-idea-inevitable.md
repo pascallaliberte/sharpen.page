@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Itch to Create - Part 2: Making Your Idea Inevitable"
+description: "You've decided that your new idea is worth a shot. You will be doing something about that itch to create."
 categories: discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2020-01-03-itch-to-create-making-your-idea-inevitable.jpg

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Via Negativa: Inverse Freelancing Advice"
+description: "What advice can I safely ignore?' You're upping your freelancing/consulting biz and you've been digging up advice from the webz. Find your ideal…"
 categories: consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2020-09-18-via-negativa-inverse-freelancing-advice.jpg

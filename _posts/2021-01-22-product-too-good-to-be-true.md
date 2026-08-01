@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Your Product Looks Too Good To Be True"
+description: "Two products that look too good to be true: a data pipeline tool and a no-code app builder. Both could benefit from telling the visitors what the app…"
 categories: jtbd
 tags: copywriting showcase
 showcased:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What Are Sellable Ways to Package up (my) Skills as Services?"
+description: "You're pretty good at what you do, you've been taking freelance or consulting contracts (or you're starting that up), and the word-of-mouth keeps…"
 categories: jtbd
 tags: consulting
 author: Pascal Laliberté

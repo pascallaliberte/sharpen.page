@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Page Feedback for minutesai.com
+description: "How do you come up with a good headline for your product idea? Something catchy, memorable, distinctive. Something different than the competition."
 categories: jtbd copywriting
 tags: showcase optimize
 showcased:

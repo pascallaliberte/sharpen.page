@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Selling When Times Are Rough
+description: "Selling in rough times is like selling in good times, only the fundamentals are way more important. In short, people just want to make progress, and…"
 categories: jtbd
 tags: consulting recession
 author: Pascal Laliberté

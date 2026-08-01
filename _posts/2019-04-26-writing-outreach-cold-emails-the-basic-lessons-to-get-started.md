@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Writing Outreach (Cold) Emails, The Basic Lessons To Get Started"
+description: "Outreach emails, or cold emails, are these emails you write to help gain attention to sell your services or your product."
 categories: jtbd copywriting
 not_recommended_for_product_people: true
 author: Pascal Laliberté

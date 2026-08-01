@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sadly Found A Competitor For My Product. How Do I Make Mine Better?"
+description: "You found a competitor for your product idea. How to make yours better by understanding the job buyers hire — not by copying features."
 categories: jtbd
 tags: discerning
 author: Pascal Laliberté

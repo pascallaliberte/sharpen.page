@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Measurements for Freelancers - Part 2: Starting With the End"
+description: "You've tried measuring your freelancing business, but acting on what you track is scattershot at best. Instead of adding on measurements onto a busy…"
 categories: consulting
 tags: optimize jtbd
 not_recommended_for_product_people: true

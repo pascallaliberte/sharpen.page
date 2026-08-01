@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Do I Know I've Built Too Much Product?"
+description: "How to know if you’ve built too much product — overserving buyers and when a sharper, smaller offer would convert better."
 categories: jtbd
 author: Pascal Laliberté
 image: /assets/images/posts/2019-08-23-how-to-know-if-built-too-much-product-overserving.jpg

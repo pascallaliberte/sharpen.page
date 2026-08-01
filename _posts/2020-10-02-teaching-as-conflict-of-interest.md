@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Teaching Your Clients: a Conflict of Interest?"
+description: "Your skills were hard-earned. Should you give them away for free by teaching others? Wouldn't that be a conflict of interest for you? Quite the…"
 categories: consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2020-10-02-teaching-as-conflict-of-interest.jpg

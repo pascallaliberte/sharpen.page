@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Level 3 Sharpening: Generate New Product Ideas"
+description: "I won't tell you the hot trends or get you on the hype train. But I will help you see some underserved situations, recurring aspirations, anxities that…"
 categories: jtbd
 tags: research discerning jtbd-basics
 author: Pascal Laliberté

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sharp Example: applicationemail.com"
+description: "A sharp example: applicationemail.com — a struggle-first pitch page that shows how packaging and copy can feel inevitable."
 categories: jtbd copywriting
 tags: consulting showcase struggle-first
 author: Pascal Laliberté

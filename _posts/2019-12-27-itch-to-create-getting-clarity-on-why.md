@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Itch to Create - Part 1: Getting Clarity on Why"
+description: "You've found yourself in a very familiar spot. It's happened to you many times before, and you suspect it'll happen to you again in the future."
 categories: discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2019-12-27-itch-to-create-getting-clarity-on-why.jpg

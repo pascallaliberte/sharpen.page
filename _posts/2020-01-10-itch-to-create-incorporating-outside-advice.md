@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Itch to Create - Part 3: Incorporating Outside Advice"
+description: "The itch to create, part 3 — how to incorporate outside advice without losing clarity on why your idea should exist."
 categories: discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2020-01-10-itch-to-create-incorporating-outside-advice.jpg

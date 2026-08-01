@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "No-code Site Builders for Making Struggle-First Landing Pages"
+description: "Most no-code site builders will get you landing pages that look pretty typical: here's the product, here's the call to action, here are the features…"
 categories: struggle-first
 tags: showcase tools
 showcased:

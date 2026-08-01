@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Two Products Ideas for Sharpen.page
+description: "I've got two new product ideas, and I'm showing my process for evaluating each idea, deciding which one to work on."
 categories: jtbd
 tags: build-in-public discerning
 author: Pascal Laliberté

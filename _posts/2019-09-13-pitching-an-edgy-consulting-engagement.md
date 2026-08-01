@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Can I Pitch a Bolder, More Edgy Consulting Engagement?
+description: "In the past, your proposals have been about building something, maintaining something. Maybe you've been billing by the project, or most likely, you've…"
 categories: jtbd consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2019-09-13-pitching-an-edgy-consulting-engagement.jpg

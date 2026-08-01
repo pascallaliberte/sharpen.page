@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Remove Friction? No. Help Make Progress
+description: "You'll hear that you should remove friction on your landing page. But that might actually turn off visitors! Catch anxieties instead, and help your…"
 categories: jtbd
 tags: optimize showcase
 showcased:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When You Have to Find Buyers for Your Product"
+description: "If you built the product before finding the buyers, what do you do? Sharpen your understanding of the buyer to a Level 3 (situations-based) and build a…"
 categories: jtbd
 tags: research starting-up discerning
 author: Pascal Laliberté

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Do I Increase Conversion Rates Without Being a Slimy Jerk?"
+description: "You've been on those websites before. Popups, interruptions asking you to subscribe, flashy things grabbing your attention. You know they want to juice…"
 categories: jtbd optimize
 author: Pascal Laliberté
 image: /assets/images/posts/2019-07-19-how-to-improve-conversion-rates-without-being-a-slimy-jerk.jpg

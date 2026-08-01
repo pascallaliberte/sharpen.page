@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "An Example Of An Unconventional Landing Page"
+description: "Startups use it, web agencies use it, products, services, big companies and small companies use it."
 categories: jtbd copywriting
 tags: showcase struggle-first
 author: Pascal Laliberté

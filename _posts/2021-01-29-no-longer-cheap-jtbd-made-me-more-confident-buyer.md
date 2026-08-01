@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "No Longer Cheap: Jobs-to-be-done Made Me a More Confident Buyer"
+description: "How am I to understand buyers if I've got prejudices about commerce?' That's one of the reasons I found Jobs-to-be-done so useful. By learning the…"
 categories: jtbd
 tags: jtbd-basics buyer-research
 author: Pascal Laliberté
