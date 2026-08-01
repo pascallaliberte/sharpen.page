@@ -1,0 +1,46 @@
+---
+layout: default
+class: blog
+---
+
+<article class="page">
+  <header class="page__header">
+    <h1 class="page__title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="page__content">
+    {{ content }}
+
+    <p><em>Browse everything by topic on the <a href="/articles/">articles</a> page. Ready to dig into your customers? <a href="/customer-research/">Work with me</a>.</em></p>
+
+    <ul class="post-list">
+    {% assign match_value = page.hub_match %}
+    {% assign match_on = page.hub_match_on | default: "tag" %}
+    {% for post in site.posts reversed %}
+      {% assign tags = post.tags | join: " " | downcase %}
+      {% assign categories = post.categories | join: " " | downcase %}
+      {% assign include_post = false %}
+      {% if match_on == "category" %}
+        {% if categories contains match_value %}
+          {% assign include_post = true %}
+        {% endif %}
+      {% elsif match_on == "either" %}
+        {% if tags contains match_value or categories contains match_value %}
+          {% assign include_post = true %}
+        {% endif %}
+      {% else %}
+        {% if tags contains match_value %}
+          {% assign include_post = true %}
+        {% endif %}
+      {% endif %}
+      {% if include_post %}
+      <li>
+        {% include blog-link.html post=post showcase=post.showcased %}
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
+</article>
+
+{% include call-to-action-box.html context="topic-hub" %}
