@@ -33,7 +33,7 @@ Here's a page that has a **useful ending**. [Payzip][payzip] is software that he
 [![The top of Payzip's home page describes how it helps club treasurers take control of membership payments](/assets/images/posts/2021-02-05-let-visitors-leave-with-something-progressful-01.jpg)][payzip]
 {: .img-zoom }
 
-[payzip]: https://payzip.co.uk
+[payzip]: https://www.payzip.co.uk/
 
 Running a social club produces struggles around managing _memberships_: sending invoices for renewals, making payments easy, making that whole process smooth. From head-aches to no-brainer. That's the progress treasurers and membership secretaries are sometimes looking to make, and Payzip helps with that.
 

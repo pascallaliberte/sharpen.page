@@ -32,7 +32,7 @@ These two products look too good to be true:
 1. [ForLoop.ai][forloop], a data infrastructure/organization app, with some intelligence baked in;
 2. AppBuildy, a no-code app builder.
 
-[forloop]: http://forloop.ai
+[forloop]: https://www.forloop.ai/
 
 My recommendation for both of them:  
 **Tell the visitor what your app won't do.**

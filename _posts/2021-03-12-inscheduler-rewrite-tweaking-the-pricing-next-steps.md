@@ -30,7 +30,7 @@ excerpt:
 
 Even with the changes we've proposed in [Part 4][inscheduler-rewrite-part-4] of the rewrite of [InScheduler][inscheduler], the best buyers will still hesitate to buy, to sign up, to take the product into their business. So let's tweak the pricing and next steps.
 
-[inscheduler]: https://inscheduler.com/
+[inscheduler]: https://www.inscheduler.com/
 [inscheduler-rewrite-part-1]: {% post_url 2021-02-12-inscheduler-rewrite-initial-run-through %}
 [inscheduler-rewrite-part-2]: {% post_url 2021-02-19-inscheduler-rewrite-situations-ripe-for-a-switch %}
 [inscheduler-rewrite-part-3]: {% post_url 2021-02-26-inscheduler-rewrite-testing-against-best-buyer-situation %}

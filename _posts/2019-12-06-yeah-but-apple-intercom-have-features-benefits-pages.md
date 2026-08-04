@@ -83,7 +83,7 @@ It sold iPods to people who never owned an MP3 player before. That slogan, in it
 
 But what about Intercom? This is a company renowned for using Jobs-To-Be-Done theory. They [wrote a book about it][intercom-book]. How can it get away with a _Features and Benefits_ page?
 
-[intercom-book]: https://www.intercom.com/resources/books/intercom-jobs-to-be-done
+[intercom-book]: https://www.intercom.com/blog/jobs-to-be-done-book/
 
 **We're missing this piece:**
 

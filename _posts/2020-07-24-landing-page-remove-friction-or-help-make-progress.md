@@ -5,7 +5,7 @@ description: "You'll hear that you should remove friction on your landing page. 
 categories: jtbd
 tags: optimize showcase
 showcased:
-  - memberstack.io
+  - memberstack.com
 author: Pascal Laliberté
 image: /assets/images/posts/2020-07-24-landing-page-remove-friction-or-help-make-progress.jpg
 published: true
@@ -28,7 +28,7 @@ related_posts:
   - 2019-05-30-how-to-quickly-tweak-landing-page-text-in-browser
   - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
 excerpt:
-  You'll hear that you should remove friction on your landing page. But that might actually turn off visitors! Catch anxieties instead, and help your visitors make progress. Let's look at memberstack.io as an example.
+  You'll hear that you should remove friction on your landing page. But that might actually turn off visitors! Catch anxieties instead, and help your visitors make progress. Let's look at memberstack.com as an example.
 ---
 
 There's some popular advice you'll hear about making a landing page: have a hero at the top, have testimonials and social proof, show features and benefits.
@@ -43,11 +43,11 @@ Maybe they're earlier in the process. Or maybe they've got hesitations, anxietie
 
 ## Friction-Free Example
 
-I discovered [Memberstack.io][memberstack] from fellow landing page optimizer [Olly][olly] who shared a [video saying it was one of the best landing page he's seen in a while][olly-feedback].
+I discovered [Memberstack][memberstack] from fellow landing page optimizer [Olly][olly] who shared a [video saying it was one of the best landing page he's seen in a while][olly-feedback].
 
-[olly]: https://www.roastmylandingpage.com 
+[olly]: https://www.landingpagesexplained.com/ 
 [olly-feedback]: https://www.youtube.com/watch?v=RI83DBlwBaw
-[memberstack]: https://www.memberstack.io
+[memberstack]: https://www.memberstack.com/
 
 It's a good landing page.
 

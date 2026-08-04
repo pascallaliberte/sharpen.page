@@ -12,7 +12,7 @@ showcased:
 
 Let's say you've got an app like [this one][site] and you'd like to improve the main heading on the app's marketing landing page.
 
-[site]: https://powercents.ca/
+[site]: https://powercents.ca/en/
 
 ![Screenshot of the top of powercents.ca](/assets/images/posts/2019-06-07-re-writing-headings-that-just-highlight-benefits-01.jpg)
 {: .img-zoom }

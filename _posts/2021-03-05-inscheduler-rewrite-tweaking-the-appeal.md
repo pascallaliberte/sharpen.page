@@ -28,7 +28,7 @@ excerpt:
 
 [Last time][inscheduler-rewrite-part-3], we saw how [InScheduler.com][inscheduler] created questions it didn't answer, even for its best buyers.
 
-[inscheduler]: https://inscheduler.com/
+[inscheduler]: https://www.inscheduler.com/
 [inscheduler-rewrite-part-1]: {% post_url 2021-02-12-inscheduler-rewrite-initial-run-through %}
 [inscheduler-rewrite-part-2]: {% post_url 2021-02-19-inscheduler-rewrite-situations-ripe-for-a-switch %}
 [inscheduler-rewrite-part-3]: {% post_url 2021-02-26-inscheduler-rewrite-testing-against-best-buyer-situation %}

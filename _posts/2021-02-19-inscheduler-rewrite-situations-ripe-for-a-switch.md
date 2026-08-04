@@ -37,7 +37,7 @@ That won't do.
 [![InScheduler's website is nice and friendly](/assets/images/posts/2021-02-12-inscheduler-rewrite-initial-run-through-01.jpg)][inscheduler]
 {: .img-zoom }
 
-[inscheduler]: https://inscheduler.com/
+[inscheduler]: https://www.inscheduler.com/
 
 **That typical visitor was never going to buy.** So having a website that talks to typical visitors won't pull through like you think it will.
 

@@ -35,7 +35,7 @@ Let's try rewriting a page.
 [![InScheduler's website is nice and friendly](/assets/images/posts/2021-02-12-inscheduler-rewrite-initial-run-through-01.jpg)][inscheduler]
 {: .img-zoom }
 
-[inscheduler]: https://inscheduler.com/
+[inscheduler]: https://www.inscheduler.com/
 
 **But let's see what happens if we go bottom-up**, starting with the buyer's mental back and forth. This is going to be **the first of a multi-part series**. I expect we'll find ways to improve the current site, make it sharper. Let's see where this takes us.
 

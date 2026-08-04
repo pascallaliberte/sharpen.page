@@ -35,7 +35,7 @@ In the [previous article][inscheduler-rewrite-part-2], we came up with the situa
 
 _This is Part 3 of a series of articles on rewriting [InScheduler.com][inscheduler], the website of an app that offers online scheduling for barbershops, hair salons and spas. In [Part 1][inscheduler-rewrite-part-1], we ran the site through a typical visitor, which won't do. In [Part 2][inscheduler-rewrite-part-1], we identified the situations that are ripe for a visitor to "switch" to InScheduler._
 
-[inscheduler]: https://inscheduler.com/
+[inscheduler]: https://www.inscheduler.com/
 [inscheduler-rewrite-part-1]: {% post_url 2021-02-12-inscheduler-rewrite-initial-run-through %}
 [inscheduler-rewrite-part-2]: {% post_url 2021-02-19-inscheduler-rewrite-situations-ripe-for-a-switch%}
 
