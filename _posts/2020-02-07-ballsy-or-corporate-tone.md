@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Should I Use a Ballsy Tone, or Stick with Corporate Wording?"
+last_modified_at: 2026-08-04
 description: "Should your landing page use a ballsy tone or stick with corporate wording? Judge tone by the buyer’s struggle, not fashion."
 categories: jtbd optimize
 tags: showcase copywriting
 showcased:
-  - ratemymyeeting.co
+  - ratemymeeting.co
 author: Pascal Laliberté
 image: /assets/images/posts/2020-02-07-ballsy-or-corporate-tone.jpg
 published: true
@@ -27,13 +28,14 @@ related_posts:
 
 On [this IndieHackers thread, Xander asks][thread]:
 
-> A friend today advised me to be more ballsy on [ratemymeeting.co][ratemymeeting] copy. Not 'improve your meeting effectiveness', but 'make your meetings s*ck less'.  
+> A friend today advised me to be more ballsy on ratemymeeting.co copy. Not 'improve your meeting effectiveness', but 'make your meetings s*ck less'.  
 > I'd be happy to hear any of your thoughts.
 
 [thread]: https://www.indiehackers.com/post/ballsy-vs-corporate-tone-f562e7ca74
-[ratemymeeting]: https://ratemymeeting.co
 
-[![Screenshot of ratemymeeting.co with the headline 'Make Your Meetings Suck Less'](/assets/images/posts/2020-02-07-ballsy-or-corporate-tone-01.jpg)][ratemymeeting]
+_Edit: ratemymeeting.co no longer resolves — the screenshot is from the page Xander was asking about._
+
+![Screenshot of ratemymeeting.co with the headline 'Make Your Meetings Suck Less'](/assets/images/posts/2020-02-07-ballsy-or-corporate-tone-01.jpg)
 {: .img-zoom }
 
 ## My Answer...

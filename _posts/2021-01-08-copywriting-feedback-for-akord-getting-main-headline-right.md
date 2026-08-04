@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Copywriting Feedback for Akord: Getting the Main Headline Right"
+last_modified_at: 2026-08-04
 description: "Akord does document sharing for those who don't trust the mainstream providers and their lack of end-to-end encryption. The author asked for feedback…"
 categories: jtbd
 tags: showcase optimize copywriting
@@ -26,9 +27,9 @@ excerpt:
   Akord does document sharing for those who don't trust the mainstream providers and their lack of end-to-end encryption. The author asked for feedback on his headlines. Here's my take.
 ---
 
-[Akord][akord] is a startup that does document sharing. Its main angle: **unlike Dropbox, Google Drive and the other mainstream providers, Akord does end-to-end encryption of the documents**. Pascal (no relation), who works on Akord, [asked for feedback on the headlines he was considering][thread].
+Akord was a startup that does document sharing. Its main angle: **unlike Dropbox, Google Drive and the other mainstream providers, Akord does end-to-end encryption of the documents**. Pascal (no relation), who worked on Akord, [asked for feedback on the headlines he was considering][thread].
 
-[akord]: https://akord.com
+_Edit: I can no longer reach the Akord page from this review; the headlines below are from that round of feedback._
 
 ## How Would You Rewrite These Headings?
 

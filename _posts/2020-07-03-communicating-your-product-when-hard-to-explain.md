@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Communicating Your Product When It's Hard to Explain
+last_modified_at: 2026-08-04
 description: "Your product is hard to explain. Skip forced brevity — use struggle-first copy so the right visitors finally get it."
 categories: jtbd
 tags: optimize copywriting showcase
@@ -36,56 +37,54 @@ Let's take an example.
 
 ---
 
-Here's [yourdailyniche.com][yourdailyniche], a site selling a membership where you get an example niche each day.
+Here's yourdailyniche.com, a site that sold a membership where you got an example niche each day.
 
-[yourdailyniche]: https://yourdailyniche.com
+_Edit: yourdailyniche.com has since been taken offline. Screenshots are from the membership page as reviewed._
 
-[![The top of yourdailyniche.com, "Winner Keywords For Affiliate Marketing"](/assets/images/posts/2020-07-03-communicating-your-product-when-hard-to-explain-01.jpg)][yourdailyniche]
+![The top of yourdailyniche.com, "Winner Keywords For Affiliate Marketing"](/assets/images/posts/2020-07-03-communicating-your-product-when-hard-to-explain-01.jpg)
 {: .img-zoom }
 
-Some questions come up:
+Some questions came up:
 
 * What's a niche?
 * What's affiliate marketing?
 * What's a keyword report?
 
-[![Further down](/assets/images/posts/2020-07-03-communicating-your-product-when-hard-to-explain-02.jpg)][yourdailyniche]
+![Further down](/assets/images/posts/2020-07-03-communicating-your-product-when-hard-to-explain-02.jpg)
 {: .img-zoom }
 
 "Keyword Ideas", that's interesting. What's an Affiliate Website?
 
 Let's look at a sample report...
 
-[sample-report]: https://yourdailyniche.com/2020/02/13/niche-203-february-13th/#page-content
-
-[![A sample report](/assets/images/posts/2020-07-03-communicating-your-product-when-hard-to-explain-03.jpg)][sample-report]
+![A sample report](/assets/images/posts/2020-07-03-communicating-your-product-when-hard-to-explain-03.jpg)
 {: .img-zoom }
 
 And scrolling down, we get to more keyword ideas...
 
-[![The sample report shows the keyword ideas](/assets/images/posts/2020-07-03-communicating-your-product-when-hard-to-explain-04.jpg)][sample-report]
+![The sample report shows the keyword ideas](/assets/images/posts/2020-07-03-communicating-your-product-when-hard-to-explain-04.jpg)
 {: .img-zoom }
 
 And back on the home page, here's the pricing...
 
-[![Pricing: $24.95 per month, or $99.95 yearly. Ebooks packaged with both options.](/assets/images/posts/2020-07-03-communicating-your-product-when-hard-to-explain-05.jpg)][yourdailyniche]
+![Pricing: $24.95 per month, or $99.95 yearly. Ebooks packaged with both options.](/assets/images/posts/2020-07-03-communicating-your-product-when-hard-to-explain-05.jpg)
 {: .img-zoom }
 
 The author of this site (Martins) [asked for some feedback on IndieHackers][thread] about his product.
 
-How can we make the site better at explaining the product? Martins shares that it's not selling enough and wonders if it's because visitors don't get it.
+How can we make the site better at explaining the product? Martins shared that it wasn't selling enough and wondered if it was because visitors didn't get it.
 
 [thread]: https://www.indiehackers.com/post/i-have-a-product-that-is-doing-poorly-f577f0f880
 
-## How the Current Page Explains the Product
+## How the Page Explained the Product
 
-The page uses a mix of approaches:
+The page used a mix of approaches:
 
 * explaining the benefits ("Save precious time"),
-* detailing what you'll get ("Keyword Ideas", "Daily Keyword Reports"), and
+* detailing what you'd get ("Keyword Ideas", "Daily Keyword Reports"), and
 * hinting at the visitor's problem ("You need a product that will actually sell")
 
-Some people in the [thread] offer to write some more clever headings. That's still about trying to go for the **concise-yet-widely-understandable**. I don't think that'll do it, not for this product.
+Some people in the [thread] offered to write some more clever headings. That's still about trying to go for the **concise-yet-widely-understandable**. I don't think that'll do it, not for this product.
 
 There is a way to better explain this product, and I'll bet it'll help to downplay the affiliate marketing angle.
 
@@ -108,7 +107,7 @@ In particular, there will **likely be a few key struggles prompting the visitors
 ### **Struggle #1:**<br>I've been doing my own keyword research and can't find anything that's good enough
 {: .numbered-title }
 
-This is essentially the struggle around which the site is currently built. Does it work?
+This is essentially the struggle around which the site was built. Does it work?
 
 **["When" Statement][try-when]:**  
 **When** I've been doing my own keyword research and can't find anything that's good enough, **I want to** look for blogs or other sources that highlight hot markets **So I can** get my first sale.

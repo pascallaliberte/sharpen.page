@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Product Sharpening: Feedback for ProdHunt"
+last_modified_at: 2026-08-04
 description: "Here's a product that's smart, but is a close call. ProdHunt could bundle something else to allieviate visitor anxieties, but might never get word of…"
 categories: jtbd
 tags: showcase optimize
@@ -24,22 +25,23 @@ excerpt:
   Here's a product that's smart, but is a close call. ProdHunt could bundle something else to allieviate visitor anxieties, but might never get word of mouth. Let's put it through our usual paces.
 ---
 
-[ProdHunt][prodhunt], not to be confused with Product Hunt (the product showcase site), is [Anil's product idea][anil]. He produced a data set of the products posted on Product Hunt, with a bunch of metadata made easier to get to. No scraping needed on your part, the data's all there.
+ProdHunt, not to be confused with Product Hunt (the product showcase site), was [Anil's product idea][anil]. He produced a data set of the products posted on Product Hunt, with a bunch of metadata made easier to get to. No scraping needed on your part, the data's all there.
 
-[prodhunt]: https://prodhunt.com/
 [anil]: https://www.indiehackers.com/post/does-this-copy-good-enough-to-push-the-design-forward-c90dd176f2
 
-[![The top of prodhunt.com shows a sample of the data set you can buy](/assets/images/posts/2020-12-18-product-sharpening-feedback-for-prodhunt-01.jpg)][prodhunt]
+_Edit: prodhunt.com is no longer showing the site shown in the screenshots. These screenshots were taken from Anil's original landing page._
+
+![The top of prodhunt.com shows a sample of the data set you can buy](/assets/images/posts/2020-12-18-product-sharpening-feedback-for-prodhunt-01.jpg)
 {: .img-zoom }
 
 ## I Like This Page
 
-The landing page is smartly laid out. After a preview of the data set, you get a visual on the breadth of what the data set contains...
+The landing page was smartly laid out. After a preview of the data set, you got a visual on the breadth of what the data set contained...
 
-[![Just below that, there's a summary of the extent of the dataset, the fields you get and how many non-null records for each field](/assets/images/posts/2020-12-18-product-sharpening-feedback-for-prodhunt-02.jpg)][prodhunt]
+![Just below that, there's a summary of the extent of the dataset, the fields you get and how many non-null records for each field](/assets/images/posts/2020-12-18-product-sharpening-feedback-for-prodhunt-02.jpg)
 {: .img-zoom }
 
-You then get a list of ideas of what you can do with that data set. "Use cases". Smart.
+You then got a list of ideas of what you can do with that data set. "Use cases". Smart.
 
 1. Train an AI model that generates the best copy
 2. Convert to content: Build a newsletter
@@ -47,10 +49,10 @@ You then get a list of ideas of what you can do with that data set. "Use cases".
 4. Get Inspired: Instead of thinking "Twitter for X"
 5. Be creative: Collect dropped domains (an approach he used for another of his own products).
 
-[![And then, some example ideas on how you can use the data set for your own product ideas](/assets/images/posts/2020-12-18-product-sharpening-feedback-for-prodhunt-03.jpg)][prodhunt]
+![And then, some example ideas on how you can use the data set for your own product ideas](/assets/images/posts/2020-12-18-product-sharpening-feedback-for-prodhunt-03.jpg)
 {: .img-zoom }
 
-Then the page ends with pricing ($69 for one-time, $35/month for recurring updates, etc) and an FAQ.
+Then the page ended with pricing ($69 for one-time, $35/month for recurring updates, etc) and an FAQ.
 
 So far so good.
 

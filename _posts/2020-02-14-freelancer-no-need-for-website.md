@@ -1,6 +1,7 @@
 ---
 layout: post
 title: When Freelancers Don't Need a Website
+last_modified_at: 2026-08-04
 description: "When freelancers don’t need a website — and when a sharp site (or value ladder) still earns its keep."
 categories: jtbd consulting
 tags: showcase discerning
@@ -27,10 +28,9 @@ related_posts:
   - 2019-01-17-product-and-newsletter-and-professional-services
 ---
 
-David Hicks is known in Ottawa for his [ALL_CAPS twitter account][all-caps]. He made a couple products and [put them up for sale][fuckyow]. He says the mayor thinks he's angry.
+David Hicks is known in Ottawa for his [ALL_CAPS twitter account][all-caps]. He made a couple products and put them up for sale. He says the mayor thinks he's angry.
 
 [all-caps]: https://twitter.com/ALL_CAPS
-[fuckyow]: https://fuckyow.com
 
 He makes a living as a freelancer, his [Instagram][david-instagram] account says that he's a "Wordpress and Shopify (and other things) developer for hire."
 

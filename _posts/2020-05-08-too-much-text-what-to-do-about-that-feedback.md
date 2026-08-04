@@ -1,6 +1,7 @@
 ---
 layout: post
 title: '"Too Much Text": What to Do About that Feedback'
+last_modified_at: 2026-08-04
 description: "Someone said your landing page has “too much text.” Why to take that feedback lightly — and how to tighten without gutting it."
 categories: jtbd copywriting
 tags: showcase optimizing struggle-first
@@ -42,14 +43,15 @@ _Maybe_ your page needs to be reworked a bit (I'll cover some tips below), but..
 
 **You _probably_ don't have too much text on your page**. Hold on before you make some edits.
 
-I'll explain a bit about where that kind of feedback comes from (it has to do with the reviewer's brain mode), but first, let's look at [a great landing page][simplify-change] which, you guessed it, [got exactly this kind of "too much text" feedback][thread].
+I'll explain a bit about where that kind of feedback comes from (it has to do with the reviewer's brain mode), but first, let's look at a great landing page which, you guessed it, [got exactly this kind of "too much text" feedback][thread].
 
-[simplify-change]: https://www.simplifychange.co.uk/catch-me-if-you-can
 [thread]: https://www.indiehackers.com/post/catch-me-if-you-can-experience-911760a634
 
 ## Apparently, This Page Has Too Much Text
 
-[![This landing page sells a service to help teams struggling with Microsoft Teams, the chat software. It has a lot of text, but works because of a few points we'll cover.](/assets/images/posts/2020-05-08-too-much-text-what-to-do-about-that-feedback-01.jpg)][simplify-change]
+_Edit: That Catch Me If You Can page isn't up anymore; screenshots are from the version that got the "too much text" feedback._
+
+![This landing page sells a service to help teams struggling with Microsoft Teams, the chat software. It has a lot of text, but works because of a few points we'll cover.](/assets/images/posts/2020-05-08-too-much-text-what-to-do-about-that-feedback-01.jpg)
 {: .img-zoom }
 
 Here are bits from the [feedback people gave][thread]:
@@ -150,7 +152,7 @@ That's because that headline has words describing a [struggle][struggle] you're 
 
 Let's revisit that example we looked at above. **Let's zoom in on the first few words** to appear in the body of the page:
 
-[![Notice how the first few words are describing a struggle the visitor might be going through.](/assets/images/posts/2020-05-08-too-much-text-what-to-do-about-that-feedback-02.jpg)][simplify-change]
+![Notice how the first few words are describing a struggle the visitor might be going through.](/assets/images/posts/2020-05-08-too-much-text-what-to-do-about-that-feedback-02.jpg)
 {: .img-zoom }
 
 > “I've just switched on Microsoft Teams and everyone's using it, but I bet they're only touching the surface of what it can do.    
@@ -167,7 +169,7 @@ _Feedback on this part: I'd make those words bigger on the page. Just a little b
 
 And if your visitor doesn't connect? Well they might leave, or they might scroll. And then they'll fall on a new set of words...
 
-[![More words describing the struggle](/assets/images/posts/2020-05-08-too-much-text-what-to-do-about-that-feedback-03.jpg)][simplify-change]
+![More words describing the struggle](/assets/images/posts/2020-05-08-too-much-text-what-to-do-about-that-feedback-03.jpg)
 {: .img-zoom }
 
 _Feedback on this part: Another reviewer said there was too much all caps. I'd say "maybe". But what I would do, is I would repeat those very strong struggle words as a heading just below, something like:_

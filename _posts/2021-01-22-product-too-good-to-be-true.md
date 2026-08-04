@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Your Product Looks Too Good To Be True"
+last_modified_at: 2026-08-04
 description: "Two products that look too good to be true: a data pipeline tool and a no-code app builder. Both could benefit from telling the visitors what the app…"
 categories: jtbd
 tags: copywriting showcase
@@ -29,13 +30,14 @@ excerpt:
 These two products look too good to be true:
 
 1. [ForLoop.ai][forloop], a data infrastructure/organization app, with some intelligence baked in;
-2. [AppBuildy][appbuildy], a no-code app builder.
+2. AppBuildy, a no-code app builder.
 
 [forloop]: http://forloop.ai
-[appbuildy]: https://www.appbuildy.com
 
 My recommendation for both of them:  
 **Tell the visitor what your app won't do.**
+
+_Edit: AppBuildy's domain has been parked since this review. ForLoop.ai is still around; AppBuildy screenshots below are archival._
 
 <div class="img-zoom two-up" markdown="1">
 
@@ -44,7 +46,7 @@ My recommendation for both of them:
 </div>
 
 <div class="right" markdown="1">
-[![Screenshot of AppBuildy](/assets/images/posts/2021-01-22-product-too-good-to-be-true-02.jpg)][appbuildy]
+![Screenshot of AppBuildy](/assets/images/posts/2021-01-22-product-too-good-to-be-true-02.jpg)
 </div>
 
 </div>
@@ -115,11 +117,11 @@ The result: less "too-good-to-be-true", more "yes, this is legitimate and it's f
 
 ## Example #2: AppBuildy
 
-AppBuildy makes it possible to build a mobile app right from the browser, get your data from AirTable, change the theme, adapt the layout. It's, well, promising.
+AppBuildy made it possible to build a mobile app right from the browser, get your data from AirTable, change the theme, adapt the layout. It was, well, promising.
 
-And judging by the intro video, it looks like it delivers.
+And judging by the intro video, it looked like it delivered.
 
-[![AppBuildy has a demo video that's pretty slick](/assets/images/posts/2021-01-22-product-too-good-to-be-true-08.jpg)][forloop]
+![AppBuildy has a demo video that's pretty slick](/assets/images/posts/2021-01-22-product-too-good-to-be-true-08.jpg)
 {: .img-zoom }
 
 But here's the problem. You know it doesn't do _everything_. And you don't know **if it'll help you make the app you envisioned.** Will it handle your edge cases and your special considerations. Surely not.
@@ -128,10 +130,10 @@ But here's the problem. You know it doesn't do _everything_. And you don't know 
 
 ### But It's Free to Try, So Who Cares?
 
-[![But AppBuildy is free. How will they make money?](/assets/images/posts/2021-01-22-product-too-good-to-be-true-09.jpg)][forloop]
+![But AppBuildy is free. How will they make money?](/assets/images/posts/2021-01-22-product-too-good-to-be-true-09.jpg)
 {: .img-zoom }
 
-AppBuildy doesn't have any information on pricing. That's suspect. The anxiety?
+AppBuildy didn't have any information on pricing. That's suspect. The anxiety?
 
 > Will this thing be here when I need it, in a year's time. Probably not. Skip.
 
