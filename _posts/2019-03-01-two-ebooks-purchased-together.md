@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Purchase Interview: Two Ebooks Purchased Together"
+last_modified_at: 2026-08-04
 description: "\"He's just the type of guy who buys ebooks\". That was my thought when I interviewed a guy who had bought two ebooks. Yes, two ebooks that he bought at…"
 categories: jtbd purchase-interview
 tags: research
@@ -80,8 +81,6 @@ What will your book be hired to do? Your book might very well get hired as a gua
 
 Stay Sharp!
 
----
+_Want help running purchase interviews like this on your product? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what the product is actually hired to do._
 
-_If you have a product for which you have a wide audience (like ebooks), purchase interviews like these help understand some typical life situations that drove the purchase. These stories make for concrete material to help you sharpen your story and your marketing. [Reach out to tell me about your product][reach-out] and we can plan out some interviews with your recent buyers._
-
-[reach-out]: mailto:pascal@hey.com?subject=Inquiry%20About%20Purchase%20Interviews
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Mind-reading: Conducting Deep Research Using Multiple Passes'
+last_modified_at: 2026-08-04
 description: "Mind-reading with multiple research passes — how to dig deeper into buyer interviews when one listen isn’t enough."
 categories: jtbd
 tags: research
@@ -315,3 +316,8 @@ Whether you're just starting to get into research, or whether you want to up you
 To get good at these techniques, be sure to check out the [30x500 course][30x500] from Amy Hoy and Alex Hillman.
 
 Stay sharp!
+
+
+_Want help digging deeper into buyer research? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what you learn._
+
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._

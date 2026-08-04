@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Add Modesty to Your Intros as a Freelancer
+last_modified_at: 2026-08-04
 description: "How freelancers can introduce themselves with modesty — welcome, clear intros that don’t feel pushy or oversold."
 categories: jtbd consulting
 author: Pascal Laliberté
@@ -8,7 +9,7 @@ image: /assets/images/posts/2019-10-04-how-to-add-modesty-to-intros-as-freelance
 published: true
 ---
 
-In the previous article, we saw some [beliefs (mental models) that make us hesitate][previous] to introduce ourselves to potential clients as freelancers.
+In this [other article][previous], we saw some beliefs (mental models) that make us hesitate to introduce ourselves to potential clients as freelancers.
 
 [previous]: {% post_url 2019-09-27-rewriting-mental-models-about-introducing-yourself-as-freelancer %}
 

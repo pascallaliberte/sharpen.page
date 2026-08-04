@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Where Can I Learn More About Jobs-To-Be-Done?
+last_modified_at: 2026-08-04
 description: "Where to learn more about Jobs-to-be-Done — books, courses, podcasts, people to follow, and cornerstone articles from this site."
 categories: jtbd
 tags: jtbd-basics
@@ -82,3 +83,8 @@ There's a ton of stuff I haven't covered. If I'm missing something you'd like to
 [twitter-thread]: https://twitter.com/pascallaliberte/status/1256198199460667392
 
 Stay Sharp!
+
+
+_Want help applying JTBD to your product? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what you learn._
+
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._

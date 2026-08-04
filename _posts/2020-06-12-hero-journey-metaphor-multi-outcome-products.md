@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Hero's Journey Metaphor: Multi-Outcome Products"
+last_modified_at: 2026-08-04
 description: "The hero’s journey and multi-outcome products — why one-size offerings stall, and how smaller next steps help buyers progress."
 categories: jtbd
 tags: optimize consulting
@@ -26,7 +27,7 @@ excerpt:
   The Hero's Journey is this story-telling pattern where the hero overcomes a struggle. Your product aims to resolve a struggle, but what you might be missing is how you can catch and serve those for whom your product is not yet a fit, and offer to help on their Journey anyway.
 ---
 
-In the [previous article, we looked at logology.co][logology], an AI-powered, self-serve logo-selection app.
+In this [other article][logology], we looked at logology.co, an AI-powered, self-serve logo-selection app.
 
 My main feedback to the app's creators was to **turn the product into a multi-outcome offering**.
 

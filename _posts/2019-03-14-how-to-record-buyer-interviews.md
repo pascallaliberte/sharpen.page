@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Record Buyer Interviews"
+last_modified_at: 2026-08-04
 description: "How to record buyer interviews — practical gear and habits so you can revisit purchase stories and spot patterns later."
 categories: jtbd gear
 tags: purchase-interview research
@@ -53,3 +54,8 @@ And if one of your interviews ends up strikingly good, like [this story of what 
 [expensive-boots]: {% post_url 2019-01-04-expensive-pair-of-boots %}
 
 Stay Sharp!
+
+
+_Want help running and capturing purchase interviews? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what the product is actually hired to do._
+
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._

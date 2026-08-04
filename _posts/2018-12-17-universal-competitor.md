@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Number One Competitor of Your Product
+last_modified_at: 2026-08-04
 description: "Your product’s number one competitor isn’t a rival app — it’s non-consumption and the buyer’s “I’ll just” alternatives."
 categories: jtbd
 tags: jtbd-basics discerning
@@ -70,7 +71,7 @@ Non-consumption is what you're competing against.
 ### Plan B for beating non-consumption:
 
 1. Take your existing product;
-2. Figure out what job people hire your product to do ([reach out if you need help with this][email]);
+2. Figure out what job people hire your product to do ([I can help with that](/customer-research/));
 3. Remove every feature that's not serving the job;
 4. Remove every anxiety-inducing properties (that probably includes features that are not serving the job, a low price is an anxiety as well sometimes);
 5. Make sure your product is better than whatever the buyer would "just do" instead of buying;
@@ -80,6 +81,9 @@ Hope you beat that universal competitor.
 
 Stay sharp.
 
-[email]: mailto:pascal@hey.com?subject=Help%20finding%20the%20job
+_Want help finding the job your product is hired for (and what "nothing" you're competing against)? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what you learn._
+
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._
+
 [fourforces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
 [jtbd]: {% post_url 2018-11-29-intro-to-jobs-to-be-done-through-examples %}

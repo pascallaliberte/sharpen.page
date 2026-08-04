@@ -26,9 +26,9 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 
 | Class | Meaning |
 |-------|---------|
-| `evergreen-polish` | Soften newsletter openers; light CTA/link updates |
+| `evergreen-polish` | Soften newsletter openers (`In this [other article]`); CTA to /customer-research/ + /ten/ |
 | `update-links` | External resources likely stale |
-| `showcase-status` | Label dead/pivoted showcase sites; keep analysis |
+| `showcase-status` | Dead/pivoted showcase sites: italic `_Edit: …_` line before the first screenshot; keep analysis; unlink live URLs |
 | `time-bound-frame` | Pandemic/recession framing note if refreshing |
 | `tool-update` | Tool/builder mentions may need a reality check |
 | `low-priority-skip` | Skip unless you have a reason |
@@ -52,7 +52,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Priority:** high
 - **Refresh class:** `evergreen-polish`
 - Evergreen method piece — light polish + CTA to /customer-research/ or /ten/ if ending is outdated.
-- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/.
+- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/. *(CTA done; vignette skipped)*
 
 ### Purchase Decisions: The Four Forces at Play
 
@@ -62,7 +62,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Priority:** high
 - **Refresh class:** `evergreen-polish`
 - Evergreen method piece — light polish + CTA to /customer-research/ or /ten/ if ending is outdated.
-- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/.
+- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/. *(CTA done; vignette skipped)*
 
 ### The Number One Competitor of Your Product
 
@@ -72,7 +72,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Priority:** high
 - **Refresh class:** `evergreen-polish`
 - Evergreen method piece — light polish + CTA to /customer-research/ or /ten/ if ending is outdated.
-- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/.
+- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/. *(CTA done; vignette skipped)*
 
 ### The Interview and the Timeline Diagram
 
@@ -82,7 +82,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Priority:** high
 - **Refresh class:** `evergreen-polish`
 - Evergreen method piece — light polish + CTA to /customer-research/ or /ten/ if ending is outdated.
-- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/.
+- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/. *(CTA done; vignette skipped)*
 
 ### Digging the Purchase Story for Gold
 
@@ -91,8 +91,8 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** jtbd / purchase-interview research jtbd-basics
 - **Priority:** high
 - **Refresh class:** `evergreen-polish`
-- Soften or remove series opener (“Last week…”) so the page stands alone.
-- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/.
+- Soften or remove series opener (“Last week…”) so the page stands alone. *(done — “In this [other article]”)*
+- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/. *(CTA done; vignette skipped)*
 
 ### Try "When"
 
@@ -102,7 +102,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Priority:** high
 - **Refresh class:** `evergreen-polish`
 - Evergreen method piece — light polish + CTA to /customer-research/ or /ten/ if ending is outdated.
-- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/.
+- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/. *(CTA done; vignette skipped)*
 
 ### What Questions Should I Ask During a Buyer Interview?
 
@@ -112,7 +112,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Priority:** high
 - **Refresh class:** `evergreen-polish`
 - Evergreen method piece — light polish + CTA to /customer-research/ or /ten/ if ending is outdated.
-- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/.
+- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/. *(CTA done; vignette skipped)*
 
 ### How to Record Buyer Interviews
 
@@ -122,7 +122,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Priority:** high
 - **Refresh class:** `evergreen-polish`
 - Evergreen method piece — light polish + CTA to /customer-research/ or /ten/ if ending is outdated.
-- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/.
+- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/. *(CTA done; vignette skipped)*
 
 ### How to Select Buyers for Purchase Story Interviews
 
@@ -132,7 +132,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Priority:** high
 - **Refresh class:** `evergreen-polish`
 - Evergreen method piece — light polish + CTA to /customer-research/ or /ten/ if ending is outdated.
-- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/.
+- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/. *(CTA done; vignette skipped)*
 
 ### How Do I Know I've Built Too Much Product?
 
@@ -142,7 +142,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Priority:** high
 - **Refresh class:** `evergreen-polish`
 - Light polish when convenient; point CTAs to /customer-research/ or /ten/.
-- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/.
+- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/. *(CTA done; vignette skipped)*
 
 ### Do I Need to Address a Hard Struggle?
 
@@ -152,7 +152,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Priority:** high
 - **Refresh class:** `evergreen-polish`
 - Light polish when convenient; point CTAs to /customer-research/ or /ten/.
-- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/.
+- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/. *(CTA done; vignette skipped)*
 
 ### Where Can I Learn More About Jobs-To-Be-Done?
 
@@ -162,7 +162,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Priority:** high
 - **Refresh class:** `update-links`
 - External resource hub — refresh books/courses/people links; keep internal article list.
-- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/.
+- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/. *(CTA done; vignette skipped)*
 
 ### Mind-reading: Conducting Deep Research Using Multiple Passes
 
@@ -172,7 +172,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Priority:** high
 - **Refresh class:** `time-bound-frame`
 - Still relevant; written in pandemic/recession era — add a short framing note if you refresh.
-- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/.
+- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/. *(CTA done; vignette skipped)*
 
 ### The Gap Between the Product and User Needs
 
@@ -182,7 +182,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Priority:** high
 - **Refresh class:** `evergreen-polish`
 - Light polish when convenient; point CTAs to /customer-research/ or /ten/.
-- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/.
+- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/. *(CTA done; vignette skipped)*
 
 ### To Add Appeal, First Reduce Anxieties
 
@@ -192,7 +192,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Priority:** high
 - **Refresh class:** `evergreen-polish`
 - Light polish when convenient; point CTAs to /customer-research/ or /ten/.
-- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/.
+- Priority refresh: add a fresh vignette if you have one; ensure ending links to /customer-research/ and /ten/. *(CTA done; vignette skipped)*
 
 ### Purchase Interview: $450 Pair of Winter Boots
 
@@ -201,7 +201,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** jtbd purchase-interview / research
 - **Priority:** medium
 - **Refresh class:** `evergreen-polish`
-- Evergreen method piece — light polish + CTA to /customer-research/ or /ten/ if ending is outdated.
+- Evergreen method piece — light polish + CTA to /customer-research/ or /ten/ if ending is outdated. *(CTA done)*
 
 ### Changing Orbit: Selling Your Idea
 
@@ -219,7 +219,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** jtbd purchase-interview / research
 - **Priority:** medium
 - **Refresh class:** `evergreen-polish`
-- Evergreen method piece — light polish + CTA to /customer-research/ or /ten/ if ending is outdated.
+- Evergreen method piece — light polish + CTA to /customer-research/ or /ten/ if ending is outdated. *(CTA done)*
 
 ### Five Ways to Rejig a Product Page When It Doesn't Lead To Enough Sales
 
@@ -399,8 +399,8 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** jtbd showcase / copywriting struggle-first
 - **Priority:** medium
 - **Refresh class:** `evergreen-polish`, `showcase-status`
-- Soften or remove series opener (“Last week…”) so the page stands alone.
-- Showcase/teardown: keep the analysis; add a one-line status if the showcased site is gone or pivoted.
+- Soften or remove series opener (“Last week…”) so the page stands alone. *(done)*
+- Showcase status: `_Edit: The Palabra forms page shown here is no longer live, and the screenshots are from when it was._` before first screenshot; live URLs removed. *(done)*
 
 ### "Too Much Text": What to Do About that Feedback
 
@@ -463,7 +463,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** jtbd / research
 - **Priority:** medium
 - **Refresh class:** `evergreen-polish`
-- Light polish when convenient; point CTAs to /customer-research/ or /ten/.
+- Light polish when convenient; point CTAs to /customer-research/ or /ten/. *(CTA done)*
 
 ### Level 3 Sharpening: Generate New Product Ideas
 
@@ -481,7 +481,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** jtbd / discerning showcase copywriting struggle-first
 - **Priority:** medium
 - **Refresh class:** `evergreen-polish`, `showcase-status`
-- Soften or remove series opener (“Last week…”) so the page stands alone.
+- Soften or remove series opener (“Last week…”) so the page stands alone. *(done)*
 - Showcase/teardown: keep the analysis; add a one-line status if the showcased site is gone or pivoted.
 
 ### No Longer Cheap: Jobs-to-be-done Made Me a More Confident Buyer
@@ -536,7 +536,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** jtbd / —
 - **Priority:** normal
 - **Refresh class:** `evergreen-polish`
-- Evergreen method piece — light polish + CTA to /customer-research/ or /ten/ if ending is outdated.
+- Evergreen method piece — light polish + CTA to /customer-research/ or /ten/ if ending is outdated. *(CTA done)*
 
 ### How Do I Know My Product Is Ready To Launch? I Want It To Be Perfect!
 
@@ -572,7 +572,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** jtbd copywriting / consulting
 - **Priority:** normal
 - **Refresh class:** `evergreen-polish`
-- Soften or remove series opener (“Last week…”) so the page stands alone.
+- Soften or remove series opener (“Last week…”) so the page stands alone. *(done)*
 
 ### For My Landing Page Call to Action: Appointment or Email?
 
@@ -644,7 +644,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** jtbd optimize / —
 - **Priority:** normal
 - **Refresh class:** `evergreen-polish`
-- Soften or remove series opener (“Last week…”) so the page stands alone.
+- Soften or remove series opener (“Last week…”) so the page stands alone. *(done)*
 
 ### How to Get Better Consulting Clients without Being Too Sales-y
 
@@ -698,7 +698,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** jtbd consulting / —
 - **Priority:** normal
 - **Refresh class:** `evergreen-polish`
-- Soften or remove series opener (“Last week…”) so the page stands alone.
+- Soften or remove series opener (“Last week…”) so the page stands alone. *(done)*
 
 ### How Do You Productize a Consulting Call?
 
@@ -761,7 +761,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** jtbd / optimize showcase
 - **Priority:** normal
 - **Refresh class:** `evergreen-polish`, `showcase-status`
-- Soften or remove series opener (“Last week…”) so the page stands alone.
+- Soften or remove series opener (“Last week…”) so the page stands alone. *(done)*
 - Showcase/teardown: keep the analysis; add a one-line status if the showcased site is gone or pivoted.
 
 ### Productized Services: From a Variety of Skills to a Value-Ladder
@@ -861,7 +861,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** jtbd / optimize consulting
 - **Priority:** normal
 - **Refresh class:** `evergreen-polish`
-- Soften or remove series opener (“Last week…”) so the page stands alone.
+- Soften or remove series opener (“Last week…”) so the page stands alone. *(done)*
 
 ### Communicating Your Product When It's Hard to Explain
 
@@ -915,7 +915,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** consulting / optimize jtbd
 - **Priority:** normal
 - **Refresh class:** `evergreen-polish`
-- Soften or remove series opener (“Last week…”) so the page stands alone.
+- Soften or remove series opener (“Last week…”) so the page stands alone. *(done)*
 
 ### Randomness and the Benefits of Freelancing
 
@@ -942,7 +942,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** consulting / —
 - **Priority:** normal
 - **Refresh class:** `evergreen-polish`
-- Soften or remove series opener (“Last week…”) so the page stands alone.
+- Soften or remove series opener (“Last week…”) so the page stands alone. *(done)*
 
 ### Audience Building Mindsets
 
@@ -1088,7 +1088,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** copywriting / showcase optimizing
 - **Priority:** normal
 - **Refresh class:** `evergreen-polish`, `showcase-status`
-- Soften or remove series opener (“Last week…”) so the page stands alone.
+- Soften or remove series opener (“Last week…”) so the page stands alone. *(done)*
 - Showcase/teardown: keep the analysis; add a one-line status if the showcased site is gone or pivoted.
 
 ### Rewrite for InScheduler - Part 3: Testing the Site Against the Best Buyer Situation
@@ -1098,7 +1098,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** copywriting / showcase optimizing
 - **Priority:** normal
 - **Refresh class:** `evergreen-polish`, `time-bound-frame`, `showcase-status`
-- Soften or remove series opener (“Last week…”) so the page stands alone.
+- Soften or remove series opener (“Last week…”) so the page stands alone. *(done)*
 - Still relevant; written in pandemic/recession era — add a short framing note if you refresh.
 - Showcase/teardown: keep the analysis; add a one-line status if the showcased site is gone or pivoted.
 
@@ -1109,7 +1109,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - **Categories / tags:** copywriting / showcase optimizing
 - **Priority:** normal
 - **Refresh class:** `evergreen-polish`, `showcase-status`
-- Soften or remove series opener (“Last week…”) so the page stands alone.
+- Soften or remove series opener (“Last week…”) so the page stands alone. *(done)*
 - Showcase/teardown: keep the analysis; add a one-line status if the showcased site is gone or pivoted.
 
 ### Rewrite for InScheduler - Part 5: Tweaking the Pricing and Next Steps

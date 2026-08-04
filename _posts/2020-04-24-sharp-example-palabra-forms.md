@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sharp Example: Palabra Sign-Up Forms"
+last_modified_at: 2026-08-04
 description: "Here's a good example of a landing page that flows. It starts off by addressing a sharp struggle, and each section builds on the section that precedes…"
 categories: jtbd showcase
 tags: copywriting struggle-first

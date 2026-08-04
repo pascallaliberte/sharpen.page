@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Do I Need to Address a Hard Struggle?
+last_modified_at: 2026-08-04
 description: "Do you need a hard struggle for your product to sell? Why soft curiosity rarely clears the forces of progress."
 categories: jtbd
 author: Pascal Laliberté
@@ -31,7 +32,7 @@ You spotted a need. Nobody is doing the thing you're proposing. You've experienc
 
 But how will you _know_ that your idea is solid?
 
-[In the previous article, I made my case][previous]. You need to have the two forces that propel the buyer towards purchase to be stronger than the two forces that pull back toward [non-consumption][non-consumption]. That's the only way you'll get enough purchase _momentum_.
+In this [other article][previous], I made my case. You need to have the two forces that propel the buyer towards purchase to be stronger than the two forces that pull back toward [non-consumption][non-consumption]. That's the only way you'll get enough purchase _momentum_.
 
 [previous]: {% post_url 2019-08-30-just-lucky-or-idea-solid %}
 [non-consumption]: {% post_url 2018-12-17-universal-competitor %}
@@ -86,3 +87,8 @@ Then you will...
 So be cool. And spot the hard struggles. That's the gold you're looking for.
 
 Stay Sharp!
+
+
+_Want help spotting the hard struggles your buyers actually feel? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what you learn._
+
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._

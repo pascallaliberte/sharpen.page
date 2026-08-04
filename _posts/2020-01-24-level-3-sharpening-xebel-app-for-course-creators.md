@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Level 3 Sharpening for Xebel.co"
+last_modified_at: 2026-08-04
 description: "Level 3 sharpening applied to Xebel.co — find course-creator situations ripe for a switch, not just roles and benefits."
 categories: jtbd
 tags: optimize showcase
@@ -24,7 +25,7 @@ related_posts:
   - 2020-01-17-level-3-sharpening-so-you-can-rely-less-on-sales
 ---
 
-The previous article introduced the idea of these [three levels of sharpening your understanding of the buyer][level-3-sharpening]:
+In this [other article][level-3-sharpening], we introduced the idea of these three levels of sharpening your understanding of the buyer:
 
 1. **Not Sharp Enough:** Understanding the Role, the Market and The Benefits
 2. **Sharp:** Understanding the Problem and the Aspiration

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Do I Know I've Built Too Much Product?"
+last_modified_at: 2026-08-04
 description: "How to know if you’ve built too much product — overserving buyers and when a sharper, smaller offer would convert better."
 categories: jtbd
 author: Pascal Laliberté
@@ -103,3 +104,8 @@ But if your features aren't answering a struggle your customers were having, you
 So keep a close eye on the temptation to add features, guard against straying away from serving [the job for which people hired your product][jtbd-intro], be clear on what sub-jobs your customers are hiring your features for, and you'll stay clear of overserving.
 
 Stay Sharp!
+
+
+_Want help finding which jobs your product and features are actually hired for? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what you learn._
+
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._

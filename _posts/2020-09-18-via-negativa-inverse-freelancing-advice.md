@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Via Negativa: Inverse Freelancing Advice"
+last_modified_at: 2026-08-04
 description: "What advice can I safely ignore?' You're upping your freelancing/consulting biz and you've been digging up advice from the webz. Find your ideal…"
 categories: consulting
 author: Pascal Laliberté
@@ -22,7 +23,7 @@ excerpt:
   "'What advice can I safely ignore?' You're upping your freelancing/consulting biz and you've been digging up advice from the webz. Find your ideal client. Increase your rates. Maybe inverse advice (via negativa) might take you further."
 ---
 
-Following up on last week's article on [Via Negativa: Inverse Product Advice][via-negativa-product], let's see **how negative statements can take us further when talking about freelancing/consulting**.
+In this [other article][via-negativa-product] on Via Negativa: Inverse Product Advice, let's see **how negative statements can take us further when talking about freelancing/consulting**.
 
 [via-negativa-product]: {% post_url 2020-09-11-via-negativa-inverse-product-advice %}
 

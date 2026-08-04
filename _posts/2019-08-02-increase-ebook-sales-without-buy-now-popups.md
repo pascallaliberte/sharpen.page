@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "How to Increase Ebook Sales without ‘Buy Now’ Pop-ups?"
+last_modified_at: 2026-08-04
 description: "Increase ebook sales without Buy Now pop-ups — compete with the reader’s “I’ll just” habits instead of interrupting them."
 categories: jtbd optimize
 author: Pascal Laliberté
 image: /assets/images/posts/2019-08-02-increase-ebook-sales-without-buy-now-popups.jpg
 ---
 
-[In last week's article][previous], we saw how to do newsletter signups without being pushy. In the same vein, you've seen how others are pushing their ebooks with _Buy Now_ pop-ups, and you want none of those slimy tactics for _your_ ebook.
+In this [other article][previous], we saw how to do newsletter signups without being pushy. In the same vein, you've seen how others are pushing their ebooks with _Buy Now_ pop-ups, and you want none of those slimy tactics for _your_ ebook.
 
 [previous]: {% post_url 2019-07-26-increase-newsletter-signups-without-being-pushy %}
 

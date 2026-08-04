@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Purchase Decisions: The Four Forces at Play"
+last_modified_at: 2026-08-04
 description: "The four forces of progress in a purchase decision — struggle, attraction, anxieties, and habits — and how they push buyers toward yes or no."
 categories: jtbd
 tags: jtbd-basics
@@ -24,7 +25,7 @@ related_posts:
 
 Ever wonder what happens in the mind of a person right before they decide to buy something?
 
-Yesterday, when I sold two of my [monthly planners](https://breatherplanner.com) to a friend I was having lunch with, I saw a glimpse of what went through his mind.
+Several years ago, when I sold two of my [monthly planners](https://breatherplanner.com) to a friend I was having lunch with, I saw a glimpse of what went through his mind.
 
 * This is some nice quality paper.
 * There's plenty of space for extra notes.
@@ -129,6 +130,8 @@ These forces are at play not only when selling a product, but when selling just 
 
 Even if your product is free, there are still forces at play, pushing and pulling in the mind of the person making that decision to go ahead with what you're offering.
 
-If you'd like to uncover the forces that were at play in the purchase of your own product or service. [Reach out](mailto:pascal@hey.com?subject=JTBD%20Interviews). I've got a special interview technique to use when talking to your recent buyers.
-
 Stay sharp.
+
+_Want help uncovering the forces at play in your buyers' decisions? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what you learn._
+
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._

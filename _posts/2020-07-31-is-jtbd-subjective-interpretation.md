@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Isn't Jobs-to-be-Done Just a Subjective Interpretation?
+last_modified_at: 2026-08-04
 description: "Your data-minded colleague poses that question about Jobs-to-be-Done. How do you answer? Here's how Jobs-to-be-Done changes the territory of…"
 categories: jtbd
 tags: research
@@ -106,4 +107,6 @@ Jobs-to-be-Done might not be a quantitative tool, but it is about exercising rig
 
 Stay Sharp!
 
-_If you need a hand to conduct purchase interviews, please [give me a shout](mailto:pascal@hey.com?subject=Help+with+Purchase+Interviews)._
+_Want help conducting purchase interviews with rigor? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what the product is actually hired to do._
+
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._

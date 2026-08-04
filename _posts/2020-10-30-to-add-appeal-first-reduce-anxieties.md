@@ -1,6 +1,7 @@
 ---
 layout: post
 title: To Add Appeal, First Reduce Anxieties
+last_modified_at: 2026-08-04
 description: "To add appeal, first reduce anxieties — why clearing hesitations on your page beats piling on more benefits."
 categories: jtbd
 tags: optimizing discerning jtbd-basics
@@ -183,3 +184,8 @@ Don't fall into that trap.
 So address anxieties, _then_ discover the surprising product that will emerge. You'll be surprised of how many features you didn't have to build, of the healthy price you're able to charge, and the raving fans you'll be creating.
 
 Stay sharp!
+
+
+_Want help finding which anxieties are blocking your buyers? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what you learn._
+
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._

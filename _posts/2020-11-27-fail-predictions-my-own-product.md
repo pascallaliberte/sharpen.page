@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fail Predictions: My Own Product"
+last_modified_at: 2026-08-04
 description: "I was building a product (a paid video of sorts). I spotted a few problems with it. I'm killing it."
 categories: jtbd
 tags: discerning showcase copywriting struggle-first
@@ -25,7 +26,7 @@ excerpt:
 
 I didn't plan to write this article.
 
-These past few articles were about product failure. The previous article was about a [fail prediction of a startup-y product][sunshine-contacts].
+These past few articles were about product failure. In this [other article][sunshine-contacts], I made a fail prediction of a startup-y product.
 
 All the while I've been working on a product on the side.
 

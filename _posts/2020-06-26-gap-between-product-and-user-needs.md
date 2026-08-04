@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Gap Between the Product and User Needs
+last_modified_at: 2026-08-04
 description: "The gap between the product and user needs — when shipping more features still misses the job buyers are hiring you for."
 categories: jtbd
 tags: optimize
@@ -99,3 +100,8 @@ As a product person, it's tempting to fill every gap, paving a smooth road for a
 Instead of filling gaps, think about digging deeper until you get in the mind of the user, until you understand their trade-offs. Then build the smallest, most useful thing.
 
 Stay Sharp.
+
+
+_Want help getting into the mind of your users before you fill more gaps? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what you learn._
+
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._

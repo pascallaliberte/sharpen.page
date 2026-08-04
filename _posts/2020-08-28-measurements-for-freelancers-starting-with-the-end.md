@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Measurements for Freelancers - Part 2: Starting With the End"
+last_modified_at: 2026-08-04
 description: "You've tried measuring your freelancing business, but acting on what you track is scattershot at best. Instead of adding on measurements onto a busy…"
 categories: consulting
 tags: optimize jtbd
@@ -26,7 +27,7 @@ excerpt:
   You've tried measuring your freelancing business, but acting on what you track is scattershot at best. Instead of adding on measurements onto a busy schedule, let's bake the important parts into your practice by starting with the end.
 ---
 
-In last week's article, [I made the case that you probably shouldn't measure too much about your freelancing business][previous]. At the very least, you shouldn't fret too much about measuring your results (you don't control them), but **instead, you should pay attention to your inputs** (your efforts, your habits, your mindsets, which you do control).
+In this [other article][previous], I made the case that you probably shouldn't measure too much about your freelancing business. At the very least, you shouldn't fret too much about measuring your results (you don't control them), but **instead, you should pay attention to your inputs** (your efforts, your habits, your mindsets, which you do control).
 
 Reality is, all that stuff you hear people measuring and tracking, most of that stuff doesn't matter.
 

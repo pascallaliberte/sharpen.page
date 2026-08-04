@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Interview and the Timeline Diagram"
+last_modified_at: 2026-08-04
 description: "The purchase interview and timeline diagram — map first thought, key events, and purchase so you cover the whole buyer story."
 categories: jtbd
 tags: purchase-interview research jtbd-basics
@@ -57,6 +58,12 @@ To understand the real job they hired the product to do (a job they couldn't for
 
 Once you know what pushed and pulled on the person to make her decisions at key moments, you can understand how to best be helpful with your marketing (to help progress on her struggle) and know what aspects of your product really matter.
 
-It helps to know more about the elements of the back story, so in an upcoming article, we'll go deeper into the parts of the timeline diagram.
+For more on digging those timeline moments for motivations, see [Digging the Purchase Story for Gold][digging].
 
 Stay sharp!
+
+_Want help running purchase interviews with your buyers? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what the product is actually hired to do._
+
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._
+
+[digging]: {% post_url 2019-02-08-digging-purchase-story-for-gold %}

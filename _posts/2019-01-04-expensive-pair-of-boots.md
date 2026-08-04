@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Purchase Interview: $450 Pair of Winter Boots"
+last_modified_at: 2026-08-04
 description: "Let's say you make expensive winter boots. You're wondering what you'll focus on for the next two years. Should we diversify our product line? Should…"
 categories: jtbd purchase-interview
 tags: research
@@ -114,6 +115,8 @@ But you're in a good spot with the job your product is being hired to do. Don't 
 
 ---
 
-If you've got a product where you're noticing some interesting trends in your purchases and you'd like to dig for this kind of insight, [reach out](mailto:pascal@hey.com?subject=Follow-up%20on%20the%20boots%20article). I can help with interviews to uncover the job your product is hired to do. Want to try an interview? [Let me interview you on a recent purchase you made][purchase-interview] (it's a fun experience).
-
 Stay sharp!
+
+_Want help digging this kind of insight out of your buyers' purchase stories? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what the product is actually hired to do._
+
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Too Few of My Freemium Users Are Converting To Paying Customers"
+last_modified_at: 2026-08-04
 description: "Let's say you have an online product with both a free version (a freemium version) and a paid version. Maybe it's a paid subscription (monthly or…"
 categories: jtbd
 author: Pascal Laliberté
@@ -80,6 +81,6 @@ Even if you don't have a freemium version of your product, this also applies if 
 
 Stay Sharp!
 
----
+_Want help digging purchase stories out of your paid customers? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what the product is actually hired to do._
 
-_If you'd like to experience what a purchase story interview feels like, [send me a note](mailto:pascal@hey.com) and we'll set up a call_
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._

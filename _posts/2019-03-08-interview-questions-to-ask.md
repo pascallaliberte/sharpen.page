@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What Questions Should I Ask During a Buyer Interview?"
+last_modified_at: 2026-08-04
 description: "What questions to ask in a buyer interview — retroactive prompts that surface the purchase story instead of vague feature feedback."
 categories: jtbd
 tags: purchase-interview research jtbd-basics
@@ -101,6 +102,6 @@ Knowing these details will help you firm up your product's messaging. It'll also
 
 Stay Sharp!
 
----
+_Want help running interviews with these questions? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what the product is actually hired to do._
 
-_Want to have a run through an interview formatted with these questions? If you have a recent buyer whose story surprised you a bit who'd be ready for a 1 hour phone interview, (or you, yourself, purchased a product in the last three months), [send me an email](mailto:pascal@hey.com) and we'll setup the interview._
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._

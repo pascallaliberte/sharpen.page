@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Select Buyers for Purchase Story Interviews"
+last_modified_at: 2026-08-04
 description: "How to select buyers for purchase-story interviews — recent purchasers who deliberated, and how to find and schedule them."
 categories: jtbd
 tags: purchase-interview research jtbd-basics
@@ -67,6 +68,6 @@ With five to ten interviews, you'll get a good enough idea of the jobs for which
 
 Stay Sharp!
 
----
+_Want help selecting buyers and running the interviews? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what the product is actually hired to do._
 
-_Once you got a few interviews in, please [reach out to let me know how they went](mailto:pascal@hey.com). I'd love to know! I could also run the whole interview process for you, if that's helpful, or just sit in on a call to give you feedback._
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._
