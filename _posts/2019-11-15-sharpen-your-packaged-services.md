@@ -8,6 +8,15 @@ tags: copywriting
 author: Pascal Laliberté
 image: /assets/images/posts/2019-11-15-sharpen-your-packaged-services.jpg
 published: true
+related_posts:
+  - 2019-08-16-sellable-ways-to-package-skills-as-services
+  - 2019-10-11-productize-consulting-call
+  - 2019-10-18-packaged-service-no-public-price
+  - 2020-01-31-productized-services-variety-of-skills-to-value-ladder
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2019-02-21-try-when
+  - 2019-09-06-hard-struggle-required
+  - 2020-04-10-productized-services-feedback-for-purplesoundstudios
 ---
 
 You've done the effort of putting together some [packaged service offerings][package-skills]. Some specific outcomes for your freelance client, matching your skills, at a fair price.

@@ -6,6 +6,15 @@ categories: jtbd copywriting
 tags: struggle-first discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2019-06-20-i-dont-know-if-my-page-is-good.jpg
+related_posts:
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort
+  - 2019-04-18-five-ways-to-tweak-product-page-to-convert
+  - 2019-09-06-hard-struggle-required
+  - 2020-04-17-best-order-of-elements-on-landing-page
+  - 2019-11-29-product-yes-no-or-not-yet
+  - 2020-05-08-too-much-text-what-to-do-about-that-feedback
+  - 2019-06-28-an-example-unconventional-landing-page
 ---
 
 **Are you in one of these situations?**

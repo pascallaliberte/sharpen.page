@@ -8,6 +8,15 @@ author: Pascal Laliberté
 image: /assets/images/posts/2019-06-07-re-writing-headings-that-just-highlight-benefits.jpg
 showcased:
   - powercents.ca
+related_posts:
+  - 2019-02-21-try-when
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2019-06-28-an-example-unconventional-landing-page
+  - 2019-12-13-four-ways-to-say-theres-a-better-way
+  - 2020-04-17-best-order-of-elements-on-landing-page
+  - 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort
+  - 2021-01-08-copywriting-feedback-for-akord-getting-main-headline-right
+  - 2019-11-08-pain-dream-fix-and-jtbd
 ---
 
 Let's say you've got an app like [this one][site] and you'd like to improve the main heading on the app's marketing landing page.

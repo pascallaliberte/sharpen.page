@@ -7,6 +7,15 @@ categories: jtbd
 tags: jtbd-basics discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2018-12-06-forces-of-progress-in-purchase-decision.jpg
+related_posts:
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2018-11-29-intro-to-jobs-to-be-done-through-examples
+  - 2019-12-20-competing-against-nothing
+  - 2019-09-06-hard-struggle-required
+  - 2019-11-29-product-yes-no-or-not-yet
+  - 2020-05-29-funnels-explain-minority-purchase-scenarios
+  - 2020-10-09-your-product-is-going-to-fail
+  - 2019-04-12-competitor-found-make-mine-better
 ---
 
 There's a universal competitor that every product is competing with. Every service competes against this competitor too.

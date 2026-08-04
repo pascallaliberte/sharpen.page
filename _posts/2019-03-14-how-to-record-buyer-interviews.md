@@ -7,6 +7,15 @@ categories: jtbd gear
 tags: purchase-interview research
 author: Pascal Laliberté
 image: /assets/images/posts/2019-03-14-how-to-record-buyer-interviews.jpg
+related_posts:
+  - 2019-02-01-interview-and-timeline-diagram
+  - 2019-03-08-interview-questions-to-ask
+  - 2019-02-08-digging-purchase-story-for-gold
+  - 2019-03-29-how-to-select-buyers-for-purchase-story-interviews
+  - 2019-01-04-expensive-pair-of-boots
+  - 2020-05-15-mind-reading-deep-research-using-multiple-passes
+  - 2020-07-31-is-jtbd-subjective-interpretation
+  - 2020-05-01-learn-more-about-jobs-to-be-done
 ---
 
 In [this thread on Roadmap.com about organizing customer interviews results][thread], the subject of recording interviews comes up.

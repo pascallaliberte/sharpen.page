@@ -11,6 +11,15 @@ pre-reading:
   - 2019-08-09-get-better-consulting-clients-without-being-too-sales-y
   - 2019-09-06-hard-struggle-required
   - 2019-05-10-landing-page-appointment-or-email
+related_posts:
+  - 2019-08-16-sellable-ways-to-package-skills-as-services
+  - 2019-11-15-sharpen-your-packaged-services
+  - 2019-10-18-packaged-service-no-public-price
+  - 2020-01-31-productized-services-variety-of-skills-to-value-ladder
+  - 2019-08-09-get-better-consulting-clients-without-being-too-sales-y
+  - 2019-02-21-try-when
+  - 2019-09-13-pitching-an-edgy-consulting-engagement
+  - 2020-04-10-productized-services-feedback-for-purplesoundstudios
 ---
 
 Maybe you're in this common scenario: you sell custom services as a consultant and the initial calls are part of the sales process for you. You take them for free, or you take them for a fee, but you'd like to see how you could switch that around: make the consulting call a specific package to buy.

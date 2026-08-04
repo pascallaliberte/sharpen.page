@@ -6,6 +6,15 @@ categories: jtbd
 tags: discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2019-04-04-product-ready-to-launch.jpg
+related_posts:
+  - 2019-11-29-product-yes-no-or-not-yet
+  - 2019-08-23-how-to-know-if-built-too-much-product-overserving
+  - 2019-09-06-hard-struggle-required
+  - 2019-05-24-wasting-time-going-after-idea-with-competitors
+  - 2020-07-17-evaluating-a-product-opportunity
+  - 2018-12-17-universal-competitor
+  - 2020-10-09-your-product-is-going-to-fail
+  - 2019-02-21-try-when
 ---
 
 You've got a product in the works.

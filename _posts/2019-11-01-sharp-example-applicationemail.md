@@ -10,11 +10,16 @@ image: /assets/images/posts/2019-11-01-sharp-example-applicationemail.jpg
 published: true
 showcased:
   - applicationemail.com
+related_posts_heading: "If You'd Like to Read More About Crafting a Page Like This"
 related_posts:
   - 2019-09-06-hard-struggle-required
-  - 2019-05-10-landing-page-appointment-or-email
+  - 2019-11-08-pain-dream-fix-and-jtbd
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
   - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
-related_posts_heading: "If You'd Like to Read More About Crafting a Page Like This"
+  - 2019-06-28-an-example-unconventional-landing-page
+  - 2019-12-13-four-ways-to-say-theres-a-better-way
+  - 2020-05-22-bunch-of-example-landing-pages-with-mostly-just-text
+  - 2019-02-21-try-when
 ---
 
 Here's a sharp pitch page worth studying: applicationemail.com, a site by [Garrett Dimon][garrettdimon].

@@ -7,6 +7,15 @@ tags: consulting struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2019-09-20-focus-on-just-one-struggle.jpg
 published: true
+related_posts:
+  - 2019-09-06-hard-struggle-required
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2019-02-21-try-when
+  - 2020-06-12-hero-journey-metaphor-multi-outcome-products
+  - 2019-11-22-bounce-rate-overrated
+  - 2019-08-23-how-to-know-if-built-too-much-product-overserving
+  - 2020-04-17-best-order-of-elements-on-landing-page
+  - 2019-06-28-an-example-unconventional-landing-page
 ---
 
 You've done the work of finding some struggling moments which _cause_ your customers to seek you out, to [say goodbye to the past][non-consumption], and welcome change.

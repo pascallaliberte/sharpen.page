@@ -5,6 +5,15 @@ description: "I'd like to start measuring improvements quantitatively, but I don
 categories: optimize
 author: Pascal Laliberté
 image: /assets/images/posts/2019-07-05-how-much-traffic-needed-to-start-ab-testing.jpg
+related_posts:
+  - 2019-07-12-ab-testing-how-to-prove-version-b-better
+  - 2019-07-19-how-to-improve-conversion-rates-without-being-a-slimy-jerk
+  - 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort
+  - 2019-04-18-five-ways-to-tweak-product-page-to-convert
+  - 2019-11-22-bounce-rate-overrated
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2020-05-08-too-much-text-what-to-do-about-that-feedback
+  - 2019-02-08-digging-purchase-story-for-gold
 ---
 
 > I'd like to start measuring improvements quantitatively, but I don't think I have enough traffic. What's the point when I can start doing real A/B Testing?

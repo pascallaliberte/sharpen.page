@@ -7,6 +7,15 @@ categories: jtbd copywriting
 tags: struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2019-05-17-how-long-landing-pages-make-calls-to-action-work.jpg
+related_posts:
+  - 2019-11-08-pain-dream-fix-and-jtbd
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2019-05-10-landing-page-appointment-or-email
+  - 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort
+  - 2020-04-17-best-order-of-elements-on-landing-page
+  - 2019-11-22-bounce-rate-overrated
+  - 2020-07-24-landing-page-remove-friction-or-help-make-progress
+  - 2019-06-28-an-example-unconventional-landing-page
 ---
 
 In the last article, we saw [how to pick the right call-to-action for contacting you][pick-cta]. What will make the user make the jump to schedule a call with you? Is that too much to ask, and should you be using an email link instead, a form, or maybe a questionnaire?

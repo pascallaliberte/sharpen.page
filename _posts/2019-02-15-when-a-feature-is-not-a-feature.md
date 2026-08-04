@@ -5,6 +5,15 @@ description: "You like to build. Of all the things you like doing, that's your p
 categories: jtbd
 author: Pascal Laliberté
 image: /assets/images/posts/2019-02-15-when-a-feature-is-not-a-feature.jpg
+related_posts:
+  - 2019-08-23-how-to-know-if-built-too-much-product-overserving
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2020-06-26-gap-between-product-and-user-needs
+  - 2019-02-21-try-when
+  - 2020-03-13-when-your-software-proposes-different-process
+  - 2020-09-11-via-negativa-inverse-product-advice
+  - 2019-11-29-product-yes-no-or-not-yet
+  - 2018-11-29-intro-to-jobs-to-be-done-through-examples
 ---
 
 You like to build. Of all the things you like doing, that's your preference. We'll need to re-frame that preference.

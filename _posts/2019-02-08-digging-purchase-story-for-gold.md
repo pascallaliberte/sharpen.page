@@ -12,18 +12,13 @@ related_posts:
   - 2019-03-01-two-ebooks-purchased-together
   - 2019-01-04-expensive-pair-of-boots
   - 2019-03-08-interview-questions-to-ask
-  - 2019-03-22-freemium-users-wont-convert-to-paying-customers
-  - 2018-12-06-forces-of-progress-in-purchase-decision
   - 2019-03-29-how-to-select-buyers-for-purchase-story-interviews
-  - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
-  - 2019-06-07-re-writing-headings-that-just-highlight-benefits
+  - 2019-02-01-interview-and-timeline-diagram
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2019-03-14-how-to-record-buyer-interviews
+  - 2019-09-06-hard-struggle-required
+  - 2020-05-15-mind-reading-deep-research-using-multiple-passes
   - 2019-11-29-product-yes-no-or-not-yet
-  - 2019-06-20-i-dont-know-if-my-page-is-good
-  - 2019-06-28-an-example-unconventional-landing-page
-  - 2019-08-23-how-to-know-if-built-too-much-product-overserving
-  - 2019-12-13-four-ways-to-say-theres-a-better-way
-  - 2020-01-17-level-3-sharpening-so-you-can-rely-less-on-sales
-  - 2020-03-13-when-your-software-proposes-different-process
 ---
 
 In this [other article][interview-timeline] we introduced the interview technique and the timeline diagram, crucial to understand the real circumstances which caused the person to purchase your product.

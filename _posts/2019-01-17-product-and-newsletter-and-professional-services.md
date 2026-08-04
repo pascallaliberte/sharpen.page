@@ -6,6 +6,15 @@ categories: jtbd
 tags: consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2019-01-17-product-and-newsletter-and-professional-services.jpg
+related_posts:
+  - 2019-01-10-changing-orbit-selling-your-idea
+  - 2019-08-16-sellable-ways-to-package-skills-as-services
+  - 2019-11-15-sharpen-your-packaged-services
+  - 2020-01-31-productized-services-variety-of-skills-to-value-ladder
+  - 2019-01-25-industry-standard-pricing-no-such-thing
+  - 2019-07-26-increase-newsletter-signups-without-being-pushy
+  - 2019-08-09-get-better-consulting-clients-without-being-too-sales-y
+  - 2019-10-11-productize-consulting-call
 ---
 
 "I just built a product and there's no traction. The word doesn't spread, people aren't signing up."

@@ -6,6 +6,15 @@ categories: jtbd
 tags: consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2019-08-16-sellable-ways-to-package-skills-as-services.jpg
+related_posts:
+  - 2019-11-15-sharpen-your-packaged-services
+  - 2019-10-11-productize-consulting-call
+  - 2019-10-18-packaged-service-no-public-price
+  - 2020-01-31-productized-services-variety-of-skills-to-value-ladder
+  - 2019-08-09-get-better-consulting-clients-without-being-too-sales-y
+  - 2019-01-17-product-and-newsletter-and-professional-services
+  - 2019-02-21-try-when
+  - 2019-09-06-hard-struggle-required
 ---
 
 You're pretty good at what you do, you've been taking freelance or consulting contracts (or you're starting that up), and the word-of-mouth keeps getting you the same kind of clients. But you want _better_ clients, and you want referrals that highlight **something new you're specializing in**.

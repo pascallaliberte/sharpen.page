@@ -7,6 +7,16 @@ categories: jtbd
 tags: purchase-interview research jtbd-basics
 author: Pascal Laliberté
 image: /assets/images/posts/2019-02-01-interview-and-timeline-diagram.jpg
+related_posts_heading: "Next steps in the interview method"
+related_posts:
+  - 2019-02-08-digging-purchase-story-for-gold
+  - 2019-03-08-interview-questions-to-ask
+  - 2019-03-29-how-to-select-buyers-for-purchase-story-interviews
+  - 2019-01-04-expensive-pair-of-boots
+  - 2019-03-01-two-ebooks-purchased-together
+  - 2019-03-14-how-to-record-buyer-interviews
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2018-11-29-intro-to-jobs-to-be-done-through-examples
 ---
 
 * What caused someone to purchase my product (or service)?

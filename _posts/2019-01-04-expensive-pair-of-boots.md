@@ -7,6 +7,16 @@ categories: jtbd purchase-interview
 tags: research
 author: Pascal Laliberté
 image: /assets/images/posts/2019-01-04-expensive-pair-of-boots.jpg
+related_posts_heading: "More purchase interviews and how to dig them"
+related_posts:
+  - 2019-03-01-two-ebooks-purchased-together
+  - 2019-02-08-digging-purchase-story-for-gold
+  - 2019-02-01-interview-and-timeline-diagram
+  - 2019-03-08-interview-questions-to-ask
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2018-11-29-intro-to-jobs-to-be-done-through-examples
+  - 2021-01-29-no-longer-cheap-jtbd-made-me-more-confident-buyer
+  - 2020-05-29-funnels-explain-minority-purchase-scenarios
 ---
 
 Let's say you make expensive winter boots. You're wondering what you'll focus on for the next two years. Should we diversify our product line? Should we change our marketing? Should we create a low-price entry-level boot? What we have right now, is it working?

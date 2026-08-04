@@ -6,6 +6,15 @@ description: "Let's say you have an online product with both a free version (a f
 categories: jtbd
 author: Pascal Laliberté
 image: /assets/images/posts/2019-03-22-freemium-users-wont-convert-to-paying-customers.jpg
+related_posts:
+  - 2019-02-08-digging-purchase-story-for-gold
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2019-09-06-hard-struggle-required
+  - 2019-08-23-how-to-know-if-built-too-much-product-overserving
+  - 2020-10-30-to-add-appeal-first-reduce-anxieties
+  - 2019-11-29-product-yes-no-or-not-yet
+  - 2020-05-29-funnels-explain-minority-purchase-scenarios
+  - 2019-03-29-how-to-select-buyers-for-purchase-story-interviews
 ---
 
 Let's say you have an online product with both a free version (a freemium version) and a paid version. Maybe it's a paid subscription (monthly or yearly) or maybe it's a fixed price for access.

@@ -6,6 +6,15 @@ description: "Increase ebook sales without Buy Now pop-ups — compete with the 
 categories: jtbd optimize
 author: Pascal Laliberté
 image: /assets/images/posts/2019-08-02-increase-ebook-sales-without-buy-now-popups.jpg
+related_posts:
+  - 2019-07-26-increase-newsletter-signups-without-being-pushy
+  - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2019-03-01-two-ebooks-purchased-together
+  - 2020-10-30-to-add-appeal-first-reduce-anxieties
+  - 2019-11-22-bounce-rate-overrated
+  - 2019-09-06-hard-struggle-required
+  - 2019-04-18-five-ways-to-tweak-product-page-to-convert
 ---
 
 In this [other article][previous], we saw how to do newsletter signups without being pushy. In the same vein, you've seen how others are pushing their ebooks with _Buy Now_ pop-ups, and you want none of those slimy tactics for _your_ ebook.

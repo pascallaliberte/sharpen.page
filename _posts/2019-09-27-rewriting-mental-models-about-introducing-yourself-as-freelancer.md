@@ -7,6 +7,15 @@ tags: mental-models
 author: Pascal Laliberté
 image: /assets/images/posts/2019-09-27-rewriting-mental-models-about-introducing-yourself-as-freelancer.jpg
 published: true
+related_posts:
+  - 2019-10-04-how-to-add-modesty-to-intros-as-freelancer
+  - 2019-08-09-get-better-consulting-clients-without-being-too-sales-y
+  - 2019-02-21-try-when
+  - 2020-02-14-freelancer-no-need-for-website
+  - 2019-08-16-sellable-ways-to-package-skills-as-services
+  - 2020-02-21-freelancing-two-markets-at-once
+  - 2019-01-10-changing-orbit-selling-your-idea
+  - 2019-09-06-hard-struggle-required
 ---
 
 **It's time for you to upgrade to better clients.** You want to help bigger problems, make a bigger dent, and work with good people while earning your living. Word-of-mouth has brought you work that's more of the same, but now you want _better_ work. So you know you have to find new people to talk to.

@@ -6,6 +6,15 @@ categories: jtbd consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2019-09-13-pitching-an-edgy-consulting-engagement.jpg
 published: true
+related_posts:
+  - 2019-08-09-get-better-consulting-clients-without-being-too-sales-y
+  - 2019-10-11-productize-consulting-call
+  - 2019-02-21-try-when
+  - 2019-09-06-hard-struggle-required
+  - 2019-01-10-changing-orbit-selling-your-idea
+  - 2019-11-15-sharpen-your-packaged-services
+  - 2019-05-03-writing-outreach-cold-emails-that-will-be-welcomed
+  - 2020-01-17-level-3-sharpening-so-you-can-rely-less-on-sales
 ---
 
 In the past, your proposals have been about building something, maintaining something. Maybe you've been billing by the project, or most likely, you've been billing the hour.

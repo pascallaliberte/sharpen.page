@@ -5,6 +5,15 @@ description: "So you're ready to start investing your time in a product idea. Yo
 categories: discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2019-05-24-wasting-time-going-after-idea-with-competitors.jpg
+related_posts:
+  - 2019-04-12-competitor-found-make-mine-better
+  - 2018-12-17-universal-competitor
+  - 2019-08-30-just-lucky-or-idea-solid
+  - 2020-07-17-evaluating-a-product-opportunity
+  - 2019-09-06-hard-struggle-required
+  - 2019-04-04-product-ready-to-launch
+  - 2020-08-07-itch-to-create-judging-ideas-for-demand-fit
+  - 2018-11-29-intro-to-jobs-to-be-done-through-examples
 ---
 
 So you're ready to start investing your time in a product idea. You've worked hard, saved some money, cleared your responsabilities, carved out some spare time for the next few years.

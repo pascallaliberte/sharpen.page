@@ -42,6 +42,17 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 4. Showcase status notes on pieces you still promote
 5. Long tail as energy allows
 
+## Related posts (done 2026-08-04)
+
+**Rule of thumb:** 6–10 related posts, ordered by the reader’s next job (same-job next step → adjacent method → apply → foundations). Soft cap ~12.
+
+**Shipped:**
+- Filled zeros on all high-priority JTBD pillars, struggle-first/copy cluster, and remaining useful long-tail (consulting packaging, cold email, A/B testing, discerning).
+- Trimmed oversized lists on Digging, Interview Questions, Four Forces, Try When (were 13–20 → 8–10).
+- Expanded thin Pain-Dream-Fix, Minimum struggle-page, Bounce Rate, Yes/No/Not Yet, and applicationemail lists to 8.
+- Left without related: `jobs-of-cryptocurrencies` (low priority / odd one out).
+- Many older posts still have 13–19 related; trim to ≤12 when you next touch those files — don’t mass-edit for count alone.
+
 ## Per-article notes
 
 ### Introduction to the Jobs-To-Be-Done Theory, Through Three Example Purchases

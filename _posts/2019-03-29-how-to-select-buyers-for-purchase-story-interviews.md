@@ -7,6 +7,15 @@ categories: jtbd
 tags: purchase-interview research jtbd-basics
 author: Pascal Laliberté
 image: /assets/images/posts/2019-03-29-how-to-select-buyers-for-purchase-story-interviews.jpg
+related_posts:
+  - 2019-02-01-interview-and-timeline-diagram
+  - 2019-03-08-interview-questions-to-ask
+  - 2019-02-08-digging-purchase-story-for-gold
+  - 2019-03-14-how-to-record-buyer-interviews
+  - 2019-01-04-expensive-pair-of-boots
+  - 2019-03-01-two-ebooks-purchased-together
+  - 2020-05-15-mind-reading-deep-research-using-multiple-passes
+  - 2020-06-19-when-having-to-find-buyers-for-your-product
 ---
 
 We've previously covered the benefits of interviewing your buyers for their [purchase stories][timeline-diagram]. They're useful when you're wondering what _caused_ your customers to go out and seek out your product for a [job they have to get done][jtbd-intro]. To get those details out, the interview format [asks questions to recall in vivid detail the circumstances leading up to the purchase][questions-to-ask].

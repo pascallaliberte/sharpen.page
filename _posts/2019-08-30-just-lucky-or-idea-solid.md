@@ -6,6 +6,15 @@ categories: jtbd
 tags: consulting discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2019-08-30-just-lucky-or-idea-solid.jpg
+related_posts:
+  - 2019-05-24-wasting-time-going-after-idea-with-competitors
+  - 2019-04-04-product-ready-to-launch
+  - 2019-09-06-hard-struggle-required
+  - 2020-07-17-evaluating-a-product-opportunity
+  - 2019-02-08-digging-purchase-story-for-gold
+  - 2018-12-17-universal-competitor
+  - 2020-08-07-itch-to-create-judging-ideas-for-demand-fit
+  - 2019-11-29-product-yes-no-or-not-yet
 ---
 
 Some ideas don't work.

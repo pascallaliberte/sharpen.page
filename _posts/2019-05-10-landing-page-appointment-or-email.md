@@ -6,6 +6,15 @@ categories: jtbd copywriting
 tags: consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2019-05-10-landing-page-appointment-or-email.jpg
+related_posts:
+  - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2020-04-17-best-order-of-elements-on-landing-page
+  - 2019-11-22-bounce-rate-overrated
+  - 2021-02-05-let-visitors-leave-with-something-progressful
+  - 2019-07-26-increase-newsletter-signups-without-being-pushy
+  - 2020-07-24-landing-page-remove-friction-or-help-make-progress
+  - 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort
 ---
 
 From [this thread on r/Entrepreneur, a consultant for small businesses asks][thread] if it's better to use a **link to schedule an appointment or an email form**, to allow visitors to contact him:

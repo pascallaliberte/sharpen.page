@@ -7,11 +7,16 @@ tags: consulting struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2019-11-08-pain-dream-fix-and-jtbd.jpg
 published: true
+related_posts_heading: "Further reading"
 related_posts:
   - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
   - 2019-10-25-minimum-to-get-struggle-based-landing-page
-  - 2019-05-30-how-to-quickly-tweak-landing-page-text-in-browser
-related_posts_heading: Further Reading
+  - 2019-09-06-hard-struggle-required
+  - 2019-11-01-sharp-example-applicationemail
+  - 2020-04-17-best-order-of-elements-on-landing-page
+  - 2019-12-13-four-ways-to-say-theres-a-better-way
+  - 2019-02-21-try-when
+  - 2019-06-28-an-example-unconventional-landing-page
 ---
 
 Pain-Dream-Fix is a page structure I learned from [Amy Hoy from Stacking the Bricks][amy-hoy-pdf]. It's pretty brilliant in how approachable it is:

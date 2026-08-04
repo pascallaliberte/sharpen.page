@@ -6,6 +6,15 @@ categories: jtbd
 tags: consulting jtbd-basics
 author: Pascal Laliberté
 image: /assets/images/posts/2019-01-10-changing-orbit-selling-your-idea.jpg
+related_posts:
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2018-12-17-universal-competitor
+  - 2019-02-21-try-when
+  - 2020-07-17-evaluating-a-product-opportunity
+  - 2019-11-29-product-yes-no-or-not-yet
+  - 2020-01-03-itch-to-create-making-your-idea-inevitable
+  - 2019-01-17-product-and-newsletter-and-professional-services
+  - 2020-06-05-product-sharpening-feedback-for-logology
 ---
 
 Clients, Customers, Patrons and Followers.  

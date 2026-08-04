@@ -7,6 +7,15 @@ categories: jtbd consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2019-10-04-how-to-add-modesty-to-intros-as-freelancer.jpg
 published: true
+related_posts:
+  - 2019-09-27-rewriting-mental-models-about-introducing-yourself-as-freelancer
+  - 2019-08-09-get-better-consulting-clients-without-being-too-sales-y
+  - 2019-02-21-try-when
+  - 2020-02-14-freelancer-no-need-for-website
+  - 2019-05-03-writing-outreach-cold-emails-that-will-be-welcomed
+  - 2019-08-16-sellable-ways-to-package-skills-as-services
+  - 2020-09-18-via-negativa-inverse-freelancing-advice
+  - 2019-01-10-changing-orbit-selling-your-idea
 ---
 
 In this [other article][previous], we saw some beliefs (mental models) that make us hesitate to introduce ourselves to potential clients as freelancers.

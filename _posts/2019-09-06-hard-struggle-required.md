@@ -8,6 +8,15 @@ author: Pascal Laliberté
 tags: consulting jtbd-basics struggle-first discerning
 image: /assets/images/posts/2019-09-06-hard-struggle-required.jpg
 published: true
+related_posts:
+  - 2019-09-20-focus-on-just-one-struggle
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2019-02-21-try-when
+  - 2018-12-17-universal-competitor
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2019-11-08-pain-dream-fix-and-jtbd
+  - 2020-04-17-best-order-of-elements-on-landing-page
+  - 2019-06-28-an-example-unconventional-landing-page
 ---
 
 In [this podcast episode of _The Disruptive Voice_, Andrew Glaser shares][clip] this painful story of a product he put together:

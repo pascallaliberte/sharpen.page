@@ -5,6 +5,15 @@ description: "You've been on those websites before. Popups, interruptions asking
 categories: jtbd optimize
 author: Pascal Laliberté
 image: /assets/images/posts/2019-07-19-how-to-improve-conversion-rates-without-being-a-slimy-jerk.jpg
+related_posts:
+  - 2019-07-05-how-much-traffic-needed-to-start-ab-testing
+  - 2019-07-12-ab-testing-how-to-prove-version-b-better
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2019-09-06-hard-struggle-required
+  - 2020-07-24-landing-page-remove-friction-or-help-make-progress
+  - 2019-04-18-five-ways-to-tweak-product-page-to-convert
+  - 2020-10-30-to-add-appeal-first-reduce-anxieties
+  - 2019-11-22-bounce-rate-overrated
 ---
 
 You've been on those websites before. Popups, interruptions asking you to subscribe, flashy things grabbing your attention. You know they want to juice you till the last drop. Slimy!

@@ -6,6 +6,15 @@ categories: jtbd optimize
 tags: consulting
 author: Pascal Laliberté
 image: /assets/images/posts/2019-08-09-get-better-consulting-clients-without-being-too-sales-y.jpg
+related_posts:
+  - 2019-08-16-sellable-ways-to-package-skills-as-services
+  - 2019-10-11-productize-consulting-call
+  - 2019-11-15-sharpen-your-packaged-services
+  - 2019-09-13-pitching-an-edgy-consulting-engagement
+  - 2019-02-21-try-when
+  - 2019-05-03-writing-outreach-cold-emails-that-will-be-welcomed
+  - 2019-01-10-changing-orbit-selling-your-idea
+  - 2020-01-31-productized-services-variety-of-skills-to-value-ladder
 ---
 
 In the past few articles, we've looked at things your consulting business probably has setup already: a [newsletter][newsletter], and even probably an [ebook or guide of some sort][ebook].

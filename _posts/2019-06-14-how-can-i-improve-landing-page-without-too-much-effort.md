@@ -7,6 +7,15 @@ categories: jtbd copywriting
 tags: struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2019-06-14-how-can-i-improve-landing-page-without-too-much-effort.jpg
+related_posts:
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2019-04-18-five-ways-to-tweak-product-page-to-convert
+  - 2019-06-07-re-writing-headings-that-just-highlight-benefits
+  - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
+  - 2019-05-30-how-to-quickly-tweak-landing-page-text-in-browser
+  - 2020-05-08-too-much-text-what-to-do-about-that-feedback
+  - 2019-06-20-i-dont-know-if-my-page-is-good
+  - 2020-07-10-visitors-will-excuse-your-unstyled-landing-page
 ---
 
 On [this post on Reddit][thread], the poster asks for feedback on [their SaaS app's website][site].

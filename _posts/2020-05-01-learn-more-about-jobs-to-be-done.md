@@ -24,6 +24,16 @@ articles_jtbd_basics:
   - 2020-03-27-when-my-product-is-purchased-for-new-use-cases
 excerpt:
   You've heard about the Jobs-To-Be-Done (JTBD) theory, but now you'd like to learn more. Here's a book, an online course, a couple podcast episodes, a few Twitter people to follow, and some more articles from this site. Hope that helps!
+related_posts_heading: "Start with these on this site"
+related_posts:
+  - 2018-11-29-intro-to-jobs-to-be-done-through-examples
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2018-12-17-universal-competitor
+  - 2019-02-01-interview-and-timeline-diagram
+  - 2019-02-08-digging-purchase-story-for-gold
+  - 2019-03-08-interview-questions-to-ask
+  - 2019-09-06-hard-struggle-required
+  - 2019-02-21-try-when
 ---
 
 You've heard about the Jobs-To-Be-Done (JTBD) theory, and you recently saw how it provides a solid foundation for understanding how purchase decisions are made. It gave you ideas about how to improve your product, a way to understand the motivation of your buyers better, and gave you a new lens to spot areas for innovation where you didn't see them before.

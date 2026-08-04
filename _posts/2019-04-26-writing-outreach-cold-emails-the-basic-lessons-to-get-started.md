@@ -7,6 +7,15 @@ not_recommended_for_product_people: true
 author: Pascal Laliberté
 tags: consulting
 image: /assets/images/posts/2019-04-26-writing-outreach-cold-emails-the-basic-lessons-to-get-started.jpg
+related_posts:
+  - 2019-05-03-writing-outreach-cold-emails-that-will-be-welcomed
+  - 2019-02-21-try-when
+  - 2019-08-09-get-better-consulting-clients-without-being-too-sales-y
+  - 2019-09-06-hard-struggle-required
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2019-06-07-re-writing-headings-that-just-highlight-benefits
+  - 2020-06-19-when-having-to-find-buyers-for-your-product
+  - 2019-03-29-how-to-select-buyers-for-purchase-story-interviews
 ---
 
 Outreach emails, or cold emails, are these emails you write to help gain attention to sell your services or your product.

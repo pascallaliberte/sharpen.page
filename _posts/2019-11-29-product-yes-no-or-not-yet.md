@@ -11,10 +11,14 @@ published: true
 showcased:
   - colorways.club
 related_posts:
-  - 2019-08-30-just-lucky-or-idea-solid
-  - 2019-11-22-bounce-rate-overrated
   - 2019-09-06-hard-struggle-required
   - 2019-06-20-i-dont-know-if-my-page-is-good
+  - 2019-08-30-just-lucky-or-idea-solid
+  - 2018-12-17-universal-competitor
+  - 2019-04-04-product-ready-to-launch
+  - 2020-07-17-evaluating-a-product-opportunity
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2019-02-08-digging-purchase-story-for-gold
 ---
 
 [IndieHackers user _lasargnia_ asked for feedback][thread] on his product's landing page: colorways.club. It was a subscription service to receive clothing recommendations for men via text messages. You paid a monthly subscription, and you got two outfit recommendations per week, with links to buy the items.

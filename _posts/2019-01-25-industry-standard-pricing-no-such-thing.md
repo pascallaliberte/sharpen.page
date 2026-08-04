@@ -6,6 +6,15 @@ categories: jtbd
 tags: consulting discerning
 author: Pascal Laliberté
 image: /assets/images/posts/2019-01-25-industry-standard-pricing-no-such-thing.jpg
+related_posts:
+  - 2019-01-17-product-and-newsletter-and-professional-services
+  - 2019-10-18-packaged-service-no-public-price
+  - 2019-11-29-product-yes-no-or-not-yet
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2019-08-16-sellable-ways-to-package-skills-as-services
+  - 2021-01-29-no-longer-cheap-jtbd-made-me-more-confident-buyer
+  - 2019-10-11-productize-consulting-call
+  - 2019-01-04-expensive-pair-of-boots
 ---
 
 There's no such thing as a price that the industry has standardized.

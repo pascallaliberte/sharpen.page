@@ -5,6 +5,15 @@ description: "How to know if Version B will beat Version A in an A/B test — th
 categories: optimize
 author: Pascal Laliberté
 image: /assets/images/posts/2019-07-12-ab-testing-how-to-prove-version-b-better.jpg
+related_posts:
+  - 2019-07-05-how-much-traffic-needed-to-start-ab-testing
+  - 2019-07-19-how-to-improve-conversion-rates-without-being-a-slimy-jerk
+  - 2019-02-08-digging-purchase-story-for-gold
+  - 2019-04-18-five-ways-to-tweak-product-page-to-convert
+  - 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort
+  - 2019-09-06-hard-struggle-required
+  - 2020-10-30-to-add-appeal-first-reduce-anxieties
+  - 2019-11-22-bounce-rate-overrated
 ---
 
 You've got [enough visits to start an A/B testing experiment][previous], but now you're wondering how that calculation works exactly. How do I know if my Version B will end up being better than my Version A, _with numbers_.

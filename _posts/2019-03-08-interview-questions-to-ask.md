@@ -9,26 +9,16 @@ author: Pascal Laliberté
 image: /assets/images/posts/2019-03-08-interview-questions-to-ask.jpg
 related_posts_heading: "Here are more articles I think will come at the right time"
 related_posts:
-  - 2018-11-29-intro-to-jobs-to-be-done-through-examples
-  - 2019-03-29-how-to-select-buyers-for-purchase-story-interviews
-  - 2019-01-04-expensive-pair-of-boots
   - 2019-02-01-interview-and-timeline-diagram
   - 2019-02-08-digging-purchase-story-for-gold
-  - 2019-04-18-five-ways-to-tweak-product-page-to-convert
+  - 2019-03-29-how-to-select-buyers-for-purchase-story-interviews
+  - 2019-03-14-how-to-record-buyer-interviews
+  - 2019-01-04-expensive-pair-of-boots
   - 2019-03-01-two-ebooks-purchased-together
-  - 2019-04-12-competitor-found-make-mine-better
-  - 2019-05-24-wasting-time-going-after-idea-with-competitors
-  - 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort
-  - 2019-06-07-re-writing-headings-that-just-highlight-benefits
-  - 2019-06-28-an-example-unconventional-landing-page
-  - 2019-07-05-how-much-traffic-needed-to-start-ab-testing
-  - 2019-08-23-how-to-know-if-built-too-much-product-overserving
+  - 2018-11-29-intro-to-jobs-to-be-done-through-examples
   - 2019-09-06-hard-struggle-required
-  - 2019-11-22-bounce-rate-overrated
-  - 2019-10-25-minimum-to-get-struggle-based-landing-page
-  - 2019-12-06-yeah-but-apple-intercom-have-features-benefits-pages
-  - 2019-12-13-four-ways-to-say-theres-a-better-way
-  - 2020-03-13-when-your-software-proposes-different-process
+  - 2020-05-15-mind-reading-deep-research-using-multiple-passes
+  - 2020-05-01-learn-more-about-jobs-to-be-done
 ---
 
 Maybe you're in one of these two situations:

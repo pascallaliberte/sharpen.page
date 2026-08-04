@@ -7,14 +7,18 @@ tags: optimize struggle-first
 author: Pascal Laliberté
 image: /assets/images/posts/2019-11-22-bounce-rate-overrated.jpg
 published: true
-related_posts:
-  - 2019-08-30-just-lucky-or-idea-solid
-  - 2019-09-20-focus-on-just-one-struggle
-  - 2019-08-16-sellable-ways-to-package-skills-as-services
-  - 2019-07-12-ab-testing-how-to-prove-version-b-better
 read_first:
   - 2019-06-28-an-example-unconventional-landing-page
   - 2019-11-01-sharp-example-applicationemail
+related_posts:
+  - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
+  - 2019-09-20-focus-on-just-one-struggle
+  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2019-11-08-pain-dream-fix-and-jtbd
+  - 2019-06-28-an-example-unconventional-landing-page
+  - 2019-11-01-sharp-example-applicationemail
+  - 2020-07-24-landing-page-remove-friction-or-help-make-progress
+  - 2019-07-12-ab-testing-how-to-prove-version-b-better
 ---
 
 I've been advocating for a [new kind of sales page][pain-dream-fix], here on sharpen.page:

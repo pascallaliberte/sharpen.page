@@ -8,13 +8,14 @@ author: Pascal Laliberté
 image: /assets/images/posts/2019-10-25-minimum-to-get-struggle-based-landing-page.jpg
 published: true
 related_posts:
+  - 2019-09-06-hard-struggle-required
   - 2019-04-18-five-ways-to-tweak-product-page-to-convert
-  - 2019-06-28-an-example-unconventional-landing-page
-  - 2019-08-02-increase-ebook-sales-without-buy-now-popups
   - 2019-06-14-how-can-i-improve-landing-page-without-too-much-effort
-  - 2019-08-30-just-lucky-or-idea-solid
-  - 2019-08-23-how-to-know-if-built-too-much-product-overserving
-  - 2019-05-24-wasting-time-going-after-idea-with-competitors
+  - 2019-06-28-an-example-unconventional-landing-page
+  - 2019-11-08-pain-dream-fix-and-jtbd
+  - 2020-04-17-best-order-of-elements-on-landing-page
+  - 2019-05-17-how-long-landing-pages-make-calls-to-action-work
+  - 2019-09-20-focus-on-just-one-struggle
 ---
 
 You've got a _benefits and features_ page. It communicates the product's proposition: what it offers, how much it costs. To cover all angles, it lists its features and even some options or variants to pick from.

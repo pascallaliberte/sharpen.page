@@ -7,6 +7,16 @@ categories: jtbd
 tags: jtbd-basics
 author: Pascal Laliberté
 image: /assets/images/posts/2018-11-29-intro-to-jobs-to-be-done-through-examples.jpg
+related_posts_heading: "Continue with these JTBD foundations"
+related_posts:
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2018-12-17-universal-competitor
+  - 2019-02-21-try-when
+  - 2019-02-01-interview-and-timeline-diagram
+  - 2019-02-08-digging-purchase-story-for-gold
+  - 2019-09-06-hard-struggle-required
+  - 2019-11-29-product-yes-no-or-not-yet
+  - 2020-05-01-learn-more-about-jobs-to-be-done
 ---
 
 Let's start off with these questions:
