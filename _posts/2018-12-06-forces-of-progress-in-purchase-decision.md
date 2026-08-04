@@ -14,8 +14,8 @@ related_posts:
   - 2019-02-08-digging-purchase-story-for-gold
   - 2019-09-06-hard-struggle-required
   - 2019-02-21-try-when
+  - 2018-11-23-jobs-of-cryptocurrencies
   - 2020-10-30-to-add-appeal-first-reduce-anxieties
-  - 2019-10-25-minimum-to-get-struggle-based-landing-page
   - 2019-11-29-product-yes-no-or-not-yet
   - 2020-05-01-learn-more-about-jobs-to-be-done
 ---

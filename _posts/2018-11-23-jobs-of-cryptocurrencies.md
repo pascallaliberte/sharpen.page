@@ -5,6 +5,17 @@ description: "Let's glean from the news the jobs which cryptocurrencies are hire
 categories: JTBD
 author: Pascal Laliberté
 image: /assets/images/posts/2018-11-23-jobs-of-cryptocurrencies.jpg
+related_posts_heading: "More on using JTBD to predict buyer behaviour"
+related_posts:
+  - 2018-11-29-intro-to-jobs-to-be-done-through-examples
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2018-12-17-universal-competitor
+  - 2019-01-04-expensive-pair-of-boots
+  - 2019-12-20-competing-against-nothing
+  - 2019-11-29-product-yes-no-or-not-yet
+  - 2020-07-17-evaluating-a-product-opportunity
+  - 2019-08-30-just-lucky-or-idea-solid
+  - 2020-07-31-is-jtbd-subjective-interpretation
 ---
 
 Let's glean from the news the jobs which cryptocurrencies are hired to perform, and what's getting fired in the process. I've never bought cryptocurrencies, but let's give it a shot anyway.

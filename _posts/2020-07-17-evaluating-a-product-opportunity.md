@@ -9,17 +9,14 @@ image: /assets/images/posts/2020-07-17-evaluating-a-product-opportunity.jpg
 published: true
 related_posts:
   - 2020-05-01-learn-more-about-jobs-to-be-done
-  - 2020-03-06-selling-when-times-are-rough
-  - 2019-12-20-competing-against-nothing
   - 2019-11-29-product-yes-no-or-not-yet
   - 2019-08-30-just-lucky-or-idea-solid
+  - 2018-11-23-jobs-of-cryptocurrencies
+  - 2019-12-20-competing-against-nothing
   - 2019-05-24-wasting-time-going-after-idea-with-competitors
   - 2019-04-04-product-ready-to-launch
-  - 2019-03-29-how-to-select-buyers-for-purchase-story-interviews
-  - 2019-01-10-changing-orbit-selling-your-idea
   - 2018-11-29-intro-to-jobs-to-be-done-through-examples
   - 2019-09-06-hard-struggle-required
-  - 2020-01-17-level-3-sharpening-so-you-can-rely-less-on-sales
   - 2020-05-15-mind-reading-deep-research-using-multiple-passes
 excerpt:
   Is that product idea going to work, or is it going to stay in neat-o land? To know for sure, you gotta find some struggling moments. Here are a few struggle-first tactics for evaluating a product opportunity.

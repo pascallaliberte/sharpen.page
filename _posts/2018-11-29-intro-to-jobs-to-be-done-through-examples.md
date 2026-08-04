@@ -15,8 +15,8 @@ related_posts:
   - 2019-02-01-interview-and-timeline-diagram
   - 2019-02-08-digging-purchase-story-for-gold
   - 2019-09-06-hard-struggle-required
+  - 2018-11-23-jobs-of-cryptocurrencies
   - 2019-11-29-product-yes-no-or-not-yet
-  - 2020-05-01-learn-more-about-jobs-to-be-done
 ---
 
 Let's start off with these questions:

@@ -13,7 +13,7 @@ related_posts:
   - 2020-07-17-evaluating-a-product-opportunity
   - 2019-02-08-digging-purchase-story-for-gold
   - 2018-12-17-universal-competitor
-  - 2020-08-07-itch-to-create-judging-ideas-for-demand-fit
+  - 2018-11-23-jobs-of-cryptocurrencies
   - 2019-11-29-product-yes-no-or-not-yet
 ---
 

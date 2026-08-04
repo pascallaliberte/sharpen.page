@@ -12,9 +12,9 @@ related_posts:
   - 2018-11-29-intro-to-jobs-to-be-done-through-examples
   - 2019-12-20-competing-against-nothing
   - 2019-09-06-hard-struggle-required
+  - 2018-11-23-jobs-of-cryptocurrencies
   - 2019-11-29-product-yes-no-or-not-yet
   - 2020-05-29-funnels-explain-minority-purchase-scenarios
-  - 2020-10-09-your-product-is-going-to-fail
   - 2019-04-12-competitor-found-make-mine-better
 ---
 

@@ -11,16 +11,14 @@ published: true
 related_posts:
   - 2020-05-01-learn-more-about-jobs-to-be-done
   - 2020-07-17-evaluating-a-product-opportunity
-  - 2020-06-19-when-having-to-find-buyers-for-your-product
   - 2020-05-29-funnels-explain-minority-purchase-scenarios
   - 2020-05-15-mind-reading-deep-research-using-multiple-passes
-  - 2020-03-27-when-my-product-is-purchased-for-new-use-cases
-  - 2020-04-03-where-to-listen-when-deluge-of-information
-  - 2020-03-13-when-your-software-proposes-different-process
-  - 2020-01-17-level-3-sharpening-so-you-can-rely-less-on-sales
-  - 2019-11-08-pain-dream-fix-and-jtbd
-  - 2019-08-23-how-to-know-if-built-too-much-product-overserving
+  - 2018-11-29-intro-to-jobs-to-be-done-through-examples
+  - 2018-12-06-forces-of-progress-in-purchase-decision
+  - 2018-11-23-jobs-of-cryptocurrencies
+  - 2019-02-08-digging-purchase-story-for-gold
   - 2019-03-29-how-to-select-buyers-for-purchase-story-interviews
+  - 2020-04-03-where-to-listen-when-deluge-of-information
 excerpt:
   Your data-minded colleague poses that question about Jobs-to-be-Done. How do you answer? Here's how Jobs-to-be-Done changes the territory of discoverable data.
 ---

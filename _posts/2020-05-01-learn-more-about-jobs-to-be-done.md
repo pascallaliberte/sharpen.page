@@ -19,6 +19,7 @@ articles_jtbd_basics:
   - 2019-03-08-interview-questions-to-ask
   - 2019-03-29-how-to-select-buyers-for-purchase-story-interviews
   - 2019-09-06-hard-struggle-required
+  - 2018-11-23-jobs-of-cryptocurrencies
   - 2019-11-29-product-yes-no-or-not-yet
   - 2019-12-20-competing-against-nothing
   - 2020-03-27-when-my-product-is-purchased-for-new-use-cases

@@ -17,7 +17,7 @@ related_posts:
   - 2018-12-17-universal-competitor
   - 2019-04-04-product-ready-to-launch
   - 2020-07-17-evaluating-a-product-opportunity
-  - 2019-10-25-minimum-to-get-struggle-based-landing-page
+  - 2018-11-23-jobs-of-cryptocurrencies
   - 2019-02-08-digging-purchase-story-for-gold
 ---
 

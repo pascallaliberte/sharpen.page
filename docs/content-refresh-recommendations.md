@@ -50,7 +50,7 @@ The live `/about/` page is intentionally minimal. When you’re ready, consider 
 - Filled zeros on all high-priority JTBD pillars, struggle-first/copy cluster, and remaining useful long-tail (consulting packaging, cold email, A/B testing, discerning).
 - Trimmed oversized lists on Digging, Interview Questions, Four Forces, Try When (were 13–20 → 8–10).
 - Expanded thin Pain-Dream-Fix, Minimum struggle-page, Bounce Rate, Yes/No/Not Yet, and applicationemail lists to 8.
-- Left without related: `jobs-of-cryptocurrencies` (low priority / odd one out).
+- Crypto post (`jobs-of-cryptocurrencies`): related list added; linked from intro/forces/universal competitor/yes-no/evaluating/just-lucky/subjective?/learn-more/funnels as the “apply JTBD to predict behaviour” exemplar.
 - Many older posts still have 13–19 related; trim to ≤12 when you next touch those files — don’t mass-edit for count alone.
 
 ## Per-article notes

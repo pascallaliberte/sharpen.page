@@ -20,6 +20,7 @@ related_posts:
   - 2019-01-04-expensive-pair-of-boots
   - 2018-12-17-universal-competitor
   - 2018-11-29-intro-to-jobs-to-be-done-through-examples
+  - 2018-11-23-jobs-of-cryptocurrencies
   - 2019-11-29-product-yes-no-or-not-yet
   - 2019-03-29-how-to-select-buyers-for-purchase-story-interviews
 excerpt:
