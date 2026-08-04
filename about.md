@@ -11,4 +11,6 @@ I help founders and product managers **get into the minds of their buyers** — 
 
 More about me on [pascallaliberte.me](https://pascallaliberte.me/). Browse the [articles](/articles/) archive, or [work with me on customer research](/customer-research/).
 
+<div style="height: 15rem;"></div>
+
 {% include call-to-action-box.html context="about" %}
