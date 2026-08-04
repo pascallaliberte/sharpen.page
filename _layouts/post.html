@@ -18,14 +18,13 @@ class: post
     <div class="post__content" itemprop="articleBody">
       {{ content }}
       
-      <p>&mdash;<br /><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span><br />
-      <a href="https://twitter.com/@pascallaliberte">@pascallaliberte</a></p>
+      <p>&mdash;</p>
     </div>
 
     <p class="post__meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        Published on {{ page.date | date: date_format }}
+        Published on {{ page.date | date: date_format }}, by <a href="/about/"><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span></a>
       </time>
       {% if page.last_modified_at %}
       <br />
