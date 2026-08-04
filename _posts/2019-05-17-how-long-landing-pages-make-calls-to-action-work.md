@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Long Landing Pages Make Calls-To-Action Work"
+last_modified_at: 2026-08-04
 description: "Why long landing pages make CTAs work — give visitors enough understanding and reduced anxiety before you ask them to book or buy."
 categories: jtbd copywriting
 tags: struggle-first
@@ -55,3 +56,7 @@ At some point, work in some testimonials if you've got some. Portfolio examples 
 Long landing pages give you plenty of opportunities to show you understand your visitor's struggle, that you're the expert to stay in touch with, and the person to contact. Each call-to-action will be well-supported by its surrounding content, and will come at just the right time to help their internal back-and-forth on how to get progress on their problem.
 
 Stay Sharp!
+
+_Want help learning what struggles and anxieties your buyers bring to the page? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so your CTAs land when they're ready._
+
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._

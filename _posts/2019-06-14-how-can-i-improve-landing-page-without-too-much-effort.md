@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Can I Improve The Design Of This Landing Page Without Too Much Effort?"
+last_modified_at: 2026-08-04
 description: "How to improve a SaaS landing page without a redesign — small copy and structure changes that help visitors feel understood."
 categories: jtbd copywriting
 tags: struggle-first
@@ -103,3 +104,7 @@ So what thoughts will your visitors experience as they scroll down the page? Whe
 With this new structure, with just a little bit more writing, the page could **make the visitor feel like their problem is understood**, that their own pushbacks are understood too, and allow them the space to think things through with multiple chances at absorbing the information as they scroll down the page.
 
 Stay Sharp!
+
+_Want help figuring out which struggles your page should lead with? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so small copy changes land for the right people._
+
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._
