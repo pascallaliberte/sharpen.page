@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Visitors Will Excuse Your Un-styled Landing Page
+last_modified_at: 2026-08-04
 description: "Keep your unstyled marketing page. Launch it. You'll get feedback to pretty it up (mostly ignore it). Visitors will excuse your unstyled landing page…"
 categories: jtbd
 tags: optimize copywriting showcase struggle-first
@@ -48,14 +49,14 @@ And then you launch your site, ask for feedback on IndieHackers or r/design_crit
 
 ---
 
-**This beauty a of site**, on the other hand, **works**.
+**This beauty of a site**, on the other hand, **worked**.
 
-[productlistings]: https://productlistings.app
+_Edit: productlistings.app was since taken offline. What follows is from the version of the page I reviewed._
 
-[![The top of productlistings.app, "Made for serious eBay sellers"](/assets/images/posts/2020-07-10-visitors-will-excuse-your-unstyled-landing-page-01.jpg)][productlistings]
+![The top of productlistings.app, "Made for serious eBay sellers"](/assets/images/posts/2020-07-10-visitors-will-excuse-your-unstyled-landing-page-01.jpg)
 {: .img-zoom }
 
-It's unstyled. It's wordy. Stuff isn't aligned that well. It uses the default browser font. The picture is small.
+It was unstyled. It was wordy. Stuff wasn't aligned that well. It used the default browser font. The picture was small.
 
 **But who cares?**
 
@@ -67,14 +68,14 @@ The visitor's brain mode? Well it's about solving a [struggle][struggle].
 
 ## Will the Visitor Scroll for More?
 
-Here's the situation the visitor is in **before arriving on the site**:
+Here's the situation the visitor was in **before arriving on the site**:
 
 **["When" Statement][try-when]:**  
 **When** I'm comparing my text-based eBay listing to other listings made with custom html, **I want to** find a way to make html listings on eBay like the pros **so I can** make my listing seem more legitimate and trustworthy and ensure I get a good price.
 
 [try-when]: {% post_url 2019-02-21-try-when %}
 
-Then the visitor will type something like "html eBay product listing" into Google, find a page like this, and experience the following [forces][four-forces] in their mind as they experience the page:
+Then the visitor would type something like "html eBay product listing" into Google, find a page like this, and experience the following [forces][four-forces] in their mind as they experience the page:
 
 [four-forces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
 
@@ -85,25 +86,25 @@ Then the visitor will type something like "html eBay product listing" into Googl
 * **{% include components/icon-attraction.html %} Attraction:** I'll be able to choose from templates.
 {: .forces }
 
-"Sure, let's see how it works." The forces check out. **No anxieties (despite the unstyled look!).** _The visitor scrolls._ **This right there, is why this page works.**
+"Sure, let's see how it works." The forces check out. **No anxieties (despite the unstyled look!).** _The visitor scrolls._ **That right there, is why this page worked.**
 
 {% include components/aside-note.html text="A caveat: the struggle must be something that is annoying enough to cause the visitor to part with the past and seek something better. There's a good chance this struggle isn't felt hardly enough for most. The page may work, but **the struggle might not bring people to this page**." %}
 
 ## What About the Look?
 
-**Despite the unstyled look, the site does create trust.** There's something familiar and honest about the words and the choices.
+**Despite the unstyled look, the site did create trust.** There was something familiar and honest about the words and the choices.
 
 For example, look at those adjectives in the yellow boxes ("Clean Effective Trusted Time-saving"), and look at the quotation marks around "Create professional looking product listings in minutes".
 
-[![Photo of those familiar words](/assets/images/posts/2020-07-10-visitors-will-excuse-your-unstyled-landing-page-01b.jpg)][productlistings]
+![Photo of those familiar words](/assets/images/posts/2020-07-10-visitors-will-excuse-your-unstyled-landing-page-01b.jpg)
 
-Most designers would balk at that styling, but those elements have the style of a familiar neighborhood handyman advertisement. **Nothing fancy. Straight-talking. Midwestern-style no-nonsense.**
+Most designers would balk at that styling, but those elements had the style of a familiar neighborhood handyman advertisement. **Nothing fancy. Straight-talking. Midwestern-style no-nonsense.**
 
 ## But Will They Buy (Sign up to Get Notified)?
 
-Let's see how the forces check out as the visitor scrolls.
+Let's see how the forces checked out as the visitor scrolled.
 
-[!["To sell a product, you need to be trusted by the potential buyer". "With a clear presentation you'll provide the needed information and trust."](/assets/images/posts/2020-07-10-visitors-will-excuse-your-unstyled-landing-page-02.jpg)][productlistings]
+!["To sell a product, you need to be trusted by the potential buyer". "With a clear presentation you'll provide the needed information and trust."](/assets/images/posts/2020-07-10-visitors-will-excuse-your-unstyled-landing-page-02.jpg)
 {: .img-zoom }
 
 * **{% include components/icon-attraction.html %} Attraction:** Yep, that's why I'm here. This is me.
@@ -111,12 +112,12 @@ Let's see how the forces check out as the visitor scrolls.
 
 No anxieties so far. Gimme Gimme Gimme. _Scroll_.
 
-[![Three steps. Pick a template, add the product info. Sell and Profit.](/assets/images/posts/2020-07-10-visitors-will-excuse-your-unstyled-landing-page-03.jpg)][productlistings]
+![Three steps. Pick a template, add the product info. Sell and Profit.](/assets/images/posts/2020-07-10-visitors-will-excuse-your-unstyled-landing-page-03.jpg)
 {: .img-zoom }
 
 Sure. Oh good, there's a demo, _Scroll_.
 
-[![Three steps. Pick a template, add the product info. Sell and Profit.](/assets/images/posts/2020-07-10-visitors-will-excuse-your-unstyled-landing-page-04.jpg)][productlistings]
+![Three steps. Pick a template, add the product info. Sell and Profit.](/assets/images/posts/2020-07-10-visitors-will-excuse-your-unstyled-landing-page-04.jpg)
 {: .img-zoom }
 
 * **{% include components/icon-attraction.html %} Attraction:** This looks nice. I'll be able to put some additional fields too.
@@ -124,10 +125,10 @@ Sure. Oh good, there's a demo, _Scroll_.
 
 No anxieties so far. Launching soon huh? _Scroll_.
 
-[![Yearly pricing of 15$ to use the tool](/assets/images/posts/2020-07-10-visitors-will-excuse-your-unstyled-landing-page-05.jpg)][productlistings]
+![Yearly pricing of 15$ to use the tool](/assets/images/posts/2020-07-10-visitors-will-excuse-your-unstyled-landing-page-05.jpg)
 {: .img-zoom }
 
-Normally a price contributes to anxieties. But here, it's neither too high [nor too low][price-anxiety].
+Normally a price contributes to anxieties. But here, it was neither too high [nor too low][price-anxiety].
 
 [price-anxiety]: {% post_url 2019-01-25-industry-standard-pricing-no-such-thing %}
 
@@ -137,13 +138,13 @@ Normally a price contributes to anxieties. But here, it's neither too high [nor 
 * **{% include components/icon-struggle.html %} Struggle:** But losing my time means losing money.
 {: .forces }
 
-See how the fact that this tool isn't yet available is **causing the first anxiety on the whole page**? To fix that, I'd add a note, just below the sign-up box, offering to help the person in the next 24 hours if they sign up. For the first one, you'll actually make their HTML _for them_.
+See how the fact that this tool wasn't yet available was **causing the first anxiety on the whole page**? To fix that, I'd have added a note, just below the sign-up box, offering to help the person in the next 24 hours if they signed up. For the first one, you'd actually make their HTML _for them_.
 
-With a small tweak like that, I think that'll take care of the only real anxiety putting the breaks on signing up to be notified.
+With a small tweak like that, I think that would have taken care of the only real anxiety putting the brakes on signing up to be notified.
 
 ---
 
-So there we have it. A page that works. Not despite its unstyled look, a little bit _because_ of it, but mostly because it serves the visitors struggles quite well.
+So there we have it. A page that worked. Not despite its unstyled look, a little bit _because_ of it, but mostly because it served the visitor's struggles quite well.
 
 Visitors will excuse your unstyled look. But they'll leave if you don't tend to their problem. [Your visitor just wants to make progress][slimy-jerk].
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is Your Product a 'Yes', a 'No', or a 'Not Yet'?
+last_modified_at: 2026-08-04
 description: "Is your product a yes, a no, or a not yet? How to judge demand and landing-page fit using buyer struggle — Colorways example."
 categories: jtbd
 tags: showcase jtbd-basics discerning
@@ -16,21 +17,22 @@ related_posts:
   - 2019-06-20-i-dont-know-if-my-page-is-good
 ---
 
-This week, [IndieHackers user _lasargnia_ asked for feedback][thread] on his product's landing page: [colorways.club](https://colorways.club/). It's a subscription service to receive clothing recommendations for men via text messages. You pay a monthly subscription, and you get two outfit recommendations per week, with links to buy the items.
+[IndieHackers user _lasargnia_ asked for feedback][thread] on his product's landing page: colorways.club. It was a subscription service to receive clothing recommendations for men via text messages. You paid a monthly subscription, and you got two outfit recommendations per week, with links to buy the items.
 
 [thread]: https://www.indiehackers.com/post/landing-page-feedback-a91f62e148
-[site]: (https://colorways.club/)
+
+_Edit: The colorways.club page shown here is no longer live._
 
 ![colorways.club landing page](/assets/images/posts/2019-11-29-product-yes-no-or-not-yet-01.jpg)
 
-I think the idea is brilliant, and told him as much.
+I thought the idea was brilliant, and told him as much.
 
 But **when he asked me if it'd be a service I'd be interested in trying out**, I had two answers in my mind:
 
 1. "yes, I'd be interested"
 2. "not yet"
 
-Implicit in his question is a call to take action, seeking a sale. Totally legit.
+Implicit in his question was a call to take action, seeking a sale. Totally legit.
 
 If you were in his place, receiving a lot of "not yet" answers from your audience, does that mean you have a product that's no good?
 
@@ -111,17 +113,17 @@ If the attraction force is stronger than the anxieties force, you've got a produ
 
 ### 3. Is There Non-Consumption?
 
-This to me is what told me that [colorways.club][site] had a product.
+This to me is what told me that colorways.club had a product.
 
-Some other people [in the discussion thread on IndieHackers][thread] suggested that Instagram was a competitor of colorways.club. I don't believe it is. Instagram comes with a load of anxieties of its own. You've got to find feeds that showcase outfits. You've got to sell away your privacy.
+Some other people [in the discussion thread on IndieHackers][thread] suggested that Instagram was a competitor of colorways.club. I don't believe it was. Instagram comes with a load of anxieties of its own. You've got to find feeds that showcase outfits. You've got to sell away your privacy.
 
 For some, Instagram will be one of the "I'll just" statements.
 
-But for many, and this is the big deal, colorways.club doesn't compete with much else they have in their life. Shopping with the girlfriend. Walking into a store for suggestions. But those have anxieties of their own too.
+But for many, and this was the big deal, colorways.club didn't compete with much else they had in their life. Shopping with the girlfriend. Walking into a store for suggestions. But those have anxieties of their own too.
 
-I bet there's a lot of non-consumption. **A lot of people not doing _anything_ about their struggle, because there are no suitable alternatives.**
+I bet there was a lot of non-consumption. **A lot of people not doing _anything_ about their struggle, because there were no suitable alternatives.**
 
-But how will people find out about it?
+But how would people find out about it?
 
 ### 4. Will People Be Excited to Talk About It?
 
@@ -137,9 +139,9 @@ And that means sales interactions too. Even when you get people responding to yo
 
 ## The Verdict for colorways.club: 'Yes', 'No' or 'Not yet'.
 
-I believe colorways.club is a "not yet" product for many. There are just too many guys for which this service doesn't line up with a current, imminent struggle. But since it has **very little competition**, answers a strong **continually recurring struggle**, the attraction force is stronger than the anxiety force, and it's neat enough that people will talk about it (I just did), then I believe it's a good product.
+I believed colorways.club was a "not yet" product for many. There were just too many guys for which this service didn't line up with a current, imminent struggle. But since it had **very little competition**, answered a strong **continually recurring struggle**, the attraction force was stronger than the anxiety force, and it was neat enough that people would talk about it (I just did), then I believed it was a good product.
 
-It's worth sticking it out, being patient, and being [confident][confidence] about it. People might say "no", but I bet they'll mean "not yet".
+It was worth sticking it out, being patient, and being [confident][confidence] about it. People might say "no", but I bet they'd mean "not yet".
 
 [confidence]: {% post_url 2019-04-04-product-ready-to-launch %}
 

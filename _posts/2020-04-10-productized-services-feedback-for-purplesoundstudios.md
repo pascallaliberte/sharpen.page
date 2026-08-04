@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Productized Services: Feedback for purplesoundstudios.com"
+last_modified_at: 2026-08-04
 description: "Productized service feedback for purplesoundstudios.com — clarifying the offer, price anxiety, and what buyers need to see."
 categories: jtbd consulting
 tags: showcase optimize
@@ -29,50 +30,51 @@ excerpt:
   The makers of purplesoundstudios wanted feedback on their "productized service". Is it clear what they're offering? Is the price too low? My answer? Unlimited audio improvements for $49/month seems suspect, and there's probably a way to move away from offering raw capacity for a low price by having a value-ladder of options.
 ---
 
-Over on Indie Hackers, [Zencentric asks for feedback][thread] about his team's new productized service offering, [purplesoundstudios.com][purplesoundstudios].
+Over on Indie Hackers, [Zencentric asked for feedback][thread] about his team's new productized service offering, purplesoundstudios.com.
 
 > is it clear what we are offering?  
 > is the price too low? (we know it's low but don't know if it's too low)
 
 [thread]: https://www.indiehackers.com/post/launched-a-new-productized-service-audio-and-music-looking-for-feedback-c704175a30?commentId=-M4UI-Z29bNVXAStwAux
-[purplesoundstudios]: https://www.purplesoundstudios.com
 
-[![Top of the page for purplesoundstudios.com](/assets/images/posts/2020-04-10-productized-services-feedback-for-purplesoundstudios-01.jpg)][purplesoundstudios]
+_Edit: That site has shut down since this review; the images are from the original launch page._
+
+![Top of the page for purplesoundstudios.com](/assets/images/posts/2020-04-10-productized-services-feedback-for-purplesoundstudios-01.jpg)
 {: .img-zoom }
 
-[![Pricing options for purplesoundstudios.com](/assets/images/posts/2020-04-10-productized-services-feedback-for-purplesoundstudios-02.jpg)][purplesoundstudios]
+![Pricing options for purplesoundstudios.com](/assets/images/posts/2020-04-10-productized-services-feedback-for-purplesoundstudios-02.jpg)
 {: .img-zoom }
 
 ## About The Price...
 
-**It looks too good to be true.** [The pricing creates anxiety][price-anxiety]. Unlimited requests for _that_ price? Good results for such a low _monthly_ price? (Further down the page there are some before/after examples of their work -- noteworthy quality.)
+**It looked too good to be true.** [The pricing created anxiety][price-anxiety]. Unlimited requests for _that_ price? Good results for such a low _monthly_ price? (Further down the page there were some before/after examples of their work -- noteworthy quality.)
 
-Maybe there's something to it. **Maybe purplesoundstudios is shipping this work to other countries and using geo-arbitrage and cost-of-living differences to make it a win-win.** If that's the case, then sure, it's a good offering, and I'd add an FAQ explaining how they can hit that low price and offer that level of quality, and maybe that's going to be enough.
+Maybe there was something to it. **Maybe purplesoundstudios was shipping this work to other countries and using geo-arbitrage and cost-of-living differences to make it a win-win.** If that was the case, then sure, it was a good offering, and I'd have added an FAQ explaining how they could hit that low price and offer that level of quality, and maybe that would have been enough.
 
-Or maybe it's an introductory price. But then since **the price is _the_ main feature** of what makes _this_ service offering unique and spreadable, **increasing the price would kill the offering**.
+Or maybe it was an introductory price. But then since **the price was _the_ main feature** of what made _this_ service offering unique and spreadable, **increasing the price would kill the offering**.
 
-But if the founders are thinking this is the only price that's suited for [this kind of economy][recession-freelancing-tips], I'd consider this other idea: **think of the other value that could be offered**.
+But if the founders were thinking this was the only price suited for [this kind of economy][recession-freelancing-tips], I'd have considered this other idea: **think of the other value that could be offered**.
 
 [price-anxiety]: {% post_url 2019-01-25-industry-standard-pricing-no-such-thing %}
 [recession-freelancing-tips]: {% post_url 2020-03-20-freelancing-in-a-recession-roundup-of-tips %}
 
-## The Two Options Actually Offer The Same Value...
+## The Two Options Actually Offered The Same Value...
 
-Right now, two options are available: one that's basic, and another with _more of the same_.
+At the time, two options were available: one that was basic, and another with _more of the same_.
 
-More of the same? Yes, the Basic package promises a better sound. The Premium package promises a better, _better_ sound.
+More of the same? Yes, the Basic package promised a better sound. The Premium package promised a better, _better_ sound.
 
-**A better sound** is the overall value of the whole service offering. That's a given. But both of those options offer only one value: raw capacity.
+**A better sound** was the overall value of the whole service offering. That's a given. But both of those options offered only one value: raw capacity.
 
-**And raw capacity becomes a commodity.** And a commodity gets them stuck at a low price. And when they won't be able to scale the raw capacity value, their overhead costs might balloon, and that'll be the end.
+**And raw capacity becomes a commodity.** And a commodity gets them stuck at a low price. And when they wouldn't be able to scale the raw capacity value, their overhead costs might balloon, and that'd be the end.
 
 ## The Biggest Opportunity: Options That Compete Against Each Other
 
-Assuming this is a small team and the strategy is not to ship this raw capacity to other countries, then we're left with the question: what other value can they provide?
+Assuming this was a small team and the strategy was not to ship this raw capacity to other countries, then we were left with the question: what other value could they provide?
 
-While _a better sound_ is the overall promise, the single offering creates a yes/no choice in the mind of the visitor. "We offer raw capacity, take it or leave it."
+While _a better sound_ was the overall promise, the single offering created a yes/no choice in the mind of the visitor. "We offer raw capacity, take it or leave it."
 
-Other [situations][try-when] the visitor might be going through:
+Other [situations][try-when] the visitor might have been going through:
 
 [try-when]: {% post_url 2019-02-21-try-when %}
 
@@ -82,13 +84,13 @@ Other [situations][try-when] the visitor might be going through:
 
 What if their visitor:
 
-* Wants their undivided attention for a short amount of time?
-* Wants to jam with them over some ideas, innovate with their sound, get trained...
-* Wants to learn how to do it themselves?
+* Wanted their undivided attention for a short amount of time?
+* Wanted to jam with them over some ideas, innovate with their sound, get trained...
+* Wanted to learn how to do it themselves?
 
-It's tempting to think this will dilute their service offerings (having too many choices), but in fact, **it might strengthen their authority on the subject**. 
+It was tempting to think this would dilute their service offerings (having too many choices), but in fact, **it might have strengthened their authority on the subject**. 
 
-And, more importantly, it might offer options that will force the visitor to choose amongst their other services, instead of going elsewhere.
+And, more importantly, it might have offered options that would force the visitor to choose amongst their other services, instead of going elsewhere.
 
 This approach creates what's called a [value-ladder][value-ladder]. Every rung of the value-ladder adds more value, [takes more risks for the client][recession-selling], is more custom than the previous one.
 

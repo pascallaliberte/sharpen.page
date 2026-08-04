@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Bunch of Example Landing Pages With (Mostly) Just Text
+last_modified_at: 2026-08-04
 description: "No need for those unecessary photos or illustrations. See these examples pages I'm listing, they're mostly just text, and they work just fine. Make…"
 categories: jtbd
 tags: showcase struggle-first
@@ -56,17 +57,19 @@ And so, to show what I mean, here are more examples of wordy pages.
 
 [![Meg Cumby helps consultant get social proof and testimonials without the awkwardness](/assets/images/posts/2020-05-22-bunch-of-example-landing-pages-with-mostly-just-text-01.jpg)][megcumby]
 
-[https://fixmyfuckingproject.com/][fixmyfuckingproject]
+fixmyfuckingproject.com
 
-[![Fix My Fucking Project is Aaron Saray's page. He's a developer with experience.](/assets/images/posts/2020-05-22-bunch-of-example-landing-pages-with-mostly-just-text-02.jpg)][fixmyfuckingproject]
+_Edit: This page is no longer live._
 
-[https://applicationemail.com/][applicationemail] (I wrote a [more in-depth review of this site right here][applicationemail-article])
+![Fix My Fucking Project is Aaron Saray's page. He's a developer with experience.](/assets/images/posts/2020-05-22-bunch-of-example-landing-pages-with-mostly-just-text-02.jpg)
 
-[![Garrett Dimon's helps Rails app developers with dealing with all the nitty gritty stuff associated with sending email.](/assets/images/posts/2020-05-22-bunch-of-example-landing-pages-with-mostly-just-text-03.jpg)][applicationemail]
+applicationemail.com (I wrote a [more in-depth review of this site right here][applicationemail-article])
+
+_Edit: This page is no longer live._
+
+![Garrett Dimon's helps Rails app developers with dealing with all the nitty gritty stuff associated with sending email.](/assets/images/posts/2020-05-22-bunch-of-example-landing-pages-with-mostly-just-text-03.jpg)
 
 [megcumby]: https://megcumby.com/
-[fixmyfuckingproject]: https://fixmyfuckingproject.com/
-[applicationemail]: https://applicationemail.com/
 [applicationemail-article]: {% post_url 2019-11-01-sharp-example-applicationemail %}
 
 ## Communities/Courses
@@ -84,15 +87,16 @@ And so, to show what I mean, here are more examples of wordy pages.
 
 ## Books
 
-[https://www.codewithjason.com/rails-testing-for-beginners/][codewithjason]
+codewithjason.com/rails-testing-for-beginners
 
-[![Jason Swett has a course about Rails Testing for Beginners](/assets/images/posts/2020-05-22-bunch-of-example-landing-pages-with-mostly-just-text-06.jpg)][codewithjason]
+_Edit: This page is no longer live._
+
+![Jason Swett has a course about Rails Testing for Beginners](/assets/images/posts/2020-05-22-bunch-of-example-landing-pages-with-mostly-just-text-06.jpg)
 
 [http://www.clean-ruby.com/][clean-ruby] ([I wrote about this one too right here][clean-ruby-article])
 
 [![Clean Ruby is an ebook about organizing clean code](/assets/images/posts/2020-05-22-bunch-of-example-landing-pages-with-mostly-just-text-07.jpg)][clean-ruby]
 
-[codewithjason]: https://www.codewithjason.com/rails-testing-for-beginners/
 [clean-ruby]: http://www.clean-ruby.com/
 [clean-ruby-article]: {% post_url 2019-06-28-an-example-unconventional-landing-page %}
 

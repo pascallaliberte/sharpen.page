@@ -1,6 +1,7 @@
 ---
 layout: post
 title: When Your Software Proposes a Different Process
+last_modified_at: 2026-08-04
 description: "If your software's marketing page shows a before and after, that's actually a spot on approach. As we'll see, Moneto's marketing page does that. But if…"
 categories: jtbd optimize
 tags: showcase copywriting
@@ -49,29 +50,29 @@ When it comes to selling software, there's one technique that works really well 
 
 [better-way]: {% post_url 2019-12-13-four-ways-to-say-theres-a-better-way %}
 
-## Example: Moneto Starts Off Right, But...
+## Example: Moneto Started Off Right, But...
 
-[Moneto][moneto]'s marketing page uses that "there's a better way" approach to great effect. **But as we'll see, because it proposes a different process, there's a hugely important part missing from their marketing page.**
+Moneto's marketing page used that "there's a better way" approach to great effect. **But as we'll see, because it proposed a different process, there was a hugely important part missing from their marketing page.**
 
-[moneto]: https://monetohq.com
+It started off with an enticing before and after.
 
-It starts off with an enticing before and after.
+_Edit: monetohq.com isn't online anymore — screenshots below are archival._
 
-[![Moneto's marketing page starts off with an enticing before and after, showing the visitor they understand their struggle and got them covered](/assets/images/posts/2020-03-13-when-your-software-proposes-different-process-01.jpg)][moneto]
+![Moneto's marketing page starts off with an enticing before and after, showing the visitor they understand their struggle and got them covered](/assets/images/posts/2020-03-13-when-your-software-proposes-different-process-01.jpg)
 {: .img-zoom }
 
 _The visitor reacts with "I do have my financial data all over the place. Tell me more (who cares about the other tools on the market, you got my attention)" and scrolls._
 
-The page then shows off how Moneto delivers on the promise: everything in one place.
+The page then showed off how Moneto delivered on the promise: everything in one place.
 
-[![The marketing page continues with an annotated screenshot of the product delivering on that promise of everything in one place.](/assets/images/posts/2020-03-13-when-your-software-proposes-different-process-02.jpg)][moneto]
+![The marketing page continues with an annotated screenshot of the product delivering on that promise of everything in one place.](/assets/images/posts/2020-03-13-when-your-software-proposes-different-process-02.jpg)
 {: .img-zoom }
 
 _The visitor reacts: "Hrmm, yeah, I get it, everything in one place. I was never able to see a birds-eye view on my finances with my current mish-mash of spreadsheets and crazyness..." Scroll for more._
 
 And then, a pitch to sign up.
 
-[![And, as if that was enough to convince the visitor, the page ends on an invitation to sign up.](/assets/images/posts/2020-03-13-when-your-software-proposes-different-process-03.jpg)][moneto]
+![And, as if that was enough to convince the visitor, the page ends on an invitation to sign up.](/assets/images/posts/2020-03-13-when-your-software-proposes-different-process-03.jpg)
 {: .img-zoom }
 
 _The visitor reacts: "Ugh... that's it?"_
@@ -89,7 +90,7 @@ Want a sale? **Make sure the top two forces are stronger than the bottom two for
 [four-forces]: {% post_url 2018-12-06-forces-of-progress-in-purchase-decision %}
 [changing-orbits]: {% post_url 2019-01-10-changing-orbit-selling-your-idea %}
 
-So on Moneto's page, when the visitor gets to the bottom of the page, the bottom forces swell up because of the following anxieties (and [none of them are about price!][price-anxiety]):
+So on Moneto's page, when the visitor got to the bottom of the page, the bottom forces swelled up because of the following anxieties (and [none of them are about price!][price-anxiety]):
 
 [price-anxiety]: {% post_url 2019-01-25-industry-standard-pricing-no-such-thing %}
 
@@ -103,15 +104,15 @@ So on Moneto's page, when the visitor gets to the bottom of the page, the bottom
 
 ## "Show Me How I'll Have to Change My Process"
 
-The best thing Moneto could do to improve their marketing page is to **address the anxiety around process change**. 
+The best thing Moneto could have done to improve their marketing page was to **address the anxiety around process change**. 
 
-**Those who bothered to scroll** all the way down the page are experiencing the struggle, they're attracted by the proposition and they're considering switching to the product. **They're interested!** They're just anxious about what they'll need to do to change process.
+**Those who bothered to scroll** all the way down the page were experiencing the struggle, they were attracted by the proposition and they were considering switching to the product. **They were interested!** They were just anxious about what they'd need to do to change process.
 
 Price isn't the main cost of switching, **process change is the biggest cost**.
 
 So sure, have an invitation to try it out at that particular spot in the page, but just below that invitation, continue with more for people who still have questions (and add another sign up button after you've done that).
 
-Some of the ways Moneto could use this part of the page to address that anxiety:
+Some of the ways Moneto could have used this part of the page to address that anxiety:
 
 1. **Have an FAQ about what people who switch to Moneto will have to consider.** Easy to write, effective in communicating you got those anxieties covered.
 2. **Better, have illustrations of the before and after.** Spreadsheets on the left, how you do each operation in Moneto on the right. Hold their hand through the process! Cover every angle starting from the most frequent type of action or highest likelihood of concern.

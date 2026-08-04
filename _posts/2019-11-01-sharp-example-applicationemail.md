@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Sharp Example: applicationemail.com"
-description: "A sharp example: applicationemail.com — a struggle-first pitch page that shows how packaging and copy can feel inevitable."
+last_modified_at: 2026-08-04
+description: "A sharp example: applicationemail.com — a struggle-first pitch page that showed how packaging and copy can feel inevitable."
 categories: jtbd copywriting
 tags: consulting showcase struggle-first
 author: Pascal Laliberté
@@ -16,21 +17,23 @@ related_posts:
 related_posts_heading: "If You'd Like to Read More About Crafting a Page Like This"
 ---
 
-So here's a great example of a sharp pitch page: [applicationemail.com](https://applicationemail.com)
+Here's a sharp pitch page worth studying: applicationemail.com, a site by [Garrett Dimon][garrettdimon].
+
+_Edit: The site shown here is no longer live but the example is still solid._
 
 <figure markdown="1">
 ![Top of the page for applicationemail.com](/assets/images/posts/2019-11-01-sharp-example-applicationemail-01.jpg)
 <figcaption markdown="1">
-[Garrett Dimon][garrettdimon] recently announced this new consultancy. He helps those who are having specific difficulties developers run into with handling email.
+[Garrett Dimon][garrettdimon] used to run this consultancy. He helped people stuck on the specific difficulties developers run into with handling email.
 </figcaption>
 </figure>
 {: .img-zoom }
 
-[garrettdimon]: https://twitter.com/garrettdimon
+[garrettdimon]: https://garrettdimon.com
 
 ## What We're Looking For In a Sharp Page
 
-Before we take it apart and show why it's a great example, a reminder of what we're looking for in a sharp page:
+Before we take it apart and show why it was a great example, a reminder of what we're looking for in a sharp page:
 
 1. Evidence that the author understands the [hard struggle][struggle] the service or product is there to solve;
 1. In other words, that the author understands the [job-to-be-done][jtbd-intro] of the visitor;
@@ -49,26 +52,26 @@ So let's pick apart the page.
 
 ## The Struggle And The Job
 
-At the top (see image above), we get a clear pitch. Garrett helps you fix problems with the email of your application.
+At the top (see image above), we get a clear pitch. Garrett helped you fix problems with the email of your application.
 
-For the struggle, there's this line:
+For the struggle, there was this line:
 
 > Is the email portion of your application really the **best use of your development time**?
 
-And the job-to-be-done of the service? It's right in the title:
+And the job-to-be-done of the service? It was right in the title:
 
 > So you can **focus elsewhere**
 
-The visitor comes to the site, and what they're promised: focus on your job, and I'll focus on this one thing that I know very well, **so you won't have to focus on it**.
+The visitor came to the site, and what they were promised: focus on your job, and I'll focus on this one thing that I know very well, **so you won't have to focus on it**.
 
 ## Situations When...
 
-Garrett then lists these situations that the visitors might find themselves in...
+Garrett then listed these situations that visitors might find themselves in...
 
 ![Situations from which the visitor would like some forward movement](/assets/images/posts/2019-11-01-sharp-example-applicationemail-02.jpg)
 {: .img-zoom }
 
-There are some really juicy situations listed here:
+There were some really juicy situations listed here:
 
 > The rest of your application has automated tests and systems in place, but everybody dreads touching the emails for fear of breaking something.
 
@@ -76,13 +79,13 @@ There are some really juicy situations listed here:
 
 > Your customers regularly encounter phishing scams created using your domain, but you’re not sure how to mitigate.
 
-This has the effect of not only connecting with the current problem, but it hints at many other problems to come, that Garrett can help _avoid_.
+That had the effect of not only connecting with the current problem, but hinting at many other problems to come, that Garrett could help _avoid_.
 
-So here, the job changes a little bit, away from "Garrett can help me focus on my actual strengths in my job" to "Garrett can help us avoid future headaches."
+So here, the job changed a little bit, away from "Garrett can help me focus on my actual strengths in my job" to "Garrett can help us avoid future headaches."
 
-If you, as a visitor, scrolled all the way down here **and you're still reading**, surely Garrett has your attention.
+If you, as a visitor, scrolled all the way down here **and you were still reading**, surely Garrett had your attention.
 
-So how can Garrett help you trust him even more?
+So how could Garrett help you trust him even more?
 
 ## Describing What Progress Looks Like
 
@@ -91,9 +94,9 @@ Scrolling down a bit more, we see Garrett describing what the future might look 
 ![Describing a future where the problem is solved](/assets/images/posts/2019-11-01-sharp-example-applicationemail-03.jpg)
 {: .img-zoom }
 
-Garrett here operates on the [<mark>Attraction to the Solution</mark> force][four-forces], pulling the visitor toward going forward with his services.
+Garrett here operated on the [<mark>Attraction to the Solution</mark> force][four-forces], pulling the visitor toward going forward with his services.
 
-By now, you as the visitor are thinking:
+By now, you as the visitor were thinking:
 
 * {% include components/icon-attraction.html %} I'll be able to get moving with my problem;
 * {% include components/icon-attraction.html %} Garrett seems to have the required expertise and knowledge;
@@ -105,26 +108,26 @@ By now, you as the visitor are thinking:
 
 ## The Pitch
 
-Only after having built all of this interest and trust does Garrett present himself:
+Only after having built all of this interest and trust did Garrett present himself:
 
 ![Garrett presents himself, building more trust](/assets/images/posts/2019-11-01-sharp-example-applicationemail-04.jpg)
 {: .img-zoom }
 
 And then, the pitch:
 
-![At the top bottom of the page, Garrett pitches the next steps](/assets/images/posts/2019-11-01-sharp-example-applicationemail-05.jpg)
+![At the bottom of the page, Garrett pitches the next steps](/assets/images/posts/2019-11-01-sharp-example-applicationemail-05.jpg)
 {: .img-zoom }
 
-For those who have scrolled all the way down (which is also a super quick part of the page to get to), Garrett presents a way forward: email or fill this questionnaire. Boom.
+For those who had scrolled all the way down (which was also a super quick part of the page to get to), Garrett presented a way forward: email or fill this questionnaire. Boom.
 
-And if you're hesitating (which most visitors probably will be), how about helping out by filling a survey? Brilliant little move to catch [non-consumption][non-consumption].
+And if you were hesitating (which most visitors probably would be), how about helping out by filling a survey? Brilliant little move to catch [non-consumption][non-consumption].
 
 ---
 
-This is a really great page. It's without fluff, it's [confidently in a long format][long-pages], it shows he understands the struggle really well.
+It was a really great page. Without fluff, [confidently in a long format][long-pages], and it showed he understood the struggle really well.
 
-[long-pages]: {% post_url 2019-05-17-how-long-landing-pages-make-calls-to-action-work %} 
+[long-pages]: {% post_url 2019-05-17-how-long-landing-pages-make-calls-to-action-work %}
 
-Well done Garrett!
+Well done, Garrett.
 
 Stay Sharp!

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What Does It Mean to Compete Against 'Nothing'?"
+last_modified_at: 2026-08-04
 description: "What Competing Against Luck means by competing against “nothing” — non-consumption, not zero competitors, and why it matters."
 categories: jtbd
 tags: showcase jtbd-basics
@@ -27,19 +28,20 @@ In the book [_Competing Against Luck_][book], Clayton Christensen makes the case
 
 [book]: https://www.competingagainstluck.com
 
-To serve as an example, here's [SendHoney (Update: now _ScheduleFlowers_)][sendhoney]. It competes against "nothing".
+To serve as an example, here's SendHoney (later _ScheduleFlowers_). It competed against "nothing".
 
-[sendhoney]: https://www.scheduleflowers.com
-[thread]: https://www.indiehackers.com/post/sendhoney-com-part-duex-5ee3e8be58
+_Edit: ScheduleFlowers (formerly SendHoney) is gone now; these screenshots are from when the product was live._
 
-[![SendHoney is a product which competes against 'nothing'](/assets/images/posts/2019-12-20-competing-against-nothing-01.jpg)][sendhoney]
+![SendHoney is a product which competes against 'nothing'](/assets/images/posts/2019-12-20-competing-against-nothing-01.jpg)
 {: .img-zoom }
 
-SendHoney gets flowers delivered to people you love. Set it and forget it. That's what it does.
+[thread]: https://www.indiehackers.com/post/sendhoney-com-part-duex-5ee3e8be58
 
-**Does it mean that SendHoney has no competitor?** You _could_ say there are other similar services. There might be flower shops who allow booking a flower delivery far in advance.
+SendHoney got flowers delivered to people you love. Set it and forget it. That was the pitch.
 
-But this product isn't just offering a service. It's offering a promise: "you be the hero". To be the hero in specific _contexts_.
+**Did that mean SendHoney had no competitor?** You _could_ say there were other similar services. There might have been flower shops who allowed booking a flower delivery far in advance.
+
+But this product wasn't just offering a service. It was offering a promise: "you be the hero". To be the hero in specific _contexts_.
 
 ## The Struggles: _When_ You'd _Even Care_ To Be that Kind of Hero
 
@@ -53,7 +55,7 @@ So [let's use the word "when"][try-when] to find those struggling moments, using
 
 * "**When I'm** [struggle being experienced], **I want to** [next step I'm considering] **so I can** [outcome desired]."
 
-Let's find **situations that pinch just enough** to make someone seek out a service like SendHoney:
+Let's find **situations that pinch just enough** to have made someone seek out a service like SendHoney:
 
 1. When I've been away from home for months, and **my connection with my spouse is at the point that it's a little shaky**, I want to find a way to send flowers regularly so I can demonstrate that I'm invested in the relationship.
 2. **When I hear that my mother is going through a rough time with her health**, I want to find a way to send her something special on a regular basis so I can make sure she feels I'm with her.
