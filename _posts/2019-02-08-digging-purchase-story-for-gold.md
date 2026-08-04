@@ -25,7 +25,9 @@ related_posts:
   - 2020-03-13-when-your-software-proposes-different-process
 ---
 
-Last week's article introduced the [interview technique and the timeline diagram][interview-timeline], crucial to understand the real circumstances which caused the person to purchase your product. With the interview technique, you're digging for the job they hired your product to do.
+In this [other article][interview-timeline] we introduced the interview technique and the timeline diagram, crucial to understand the real circumstances which caused the person to purchase your product.
+
+With the interview technique, you're digging for the job they hired your product to do.
 
 [interview-timeline]: {% post_url 2019-02-01-interview-and-timeline-diagram %}
 
@@ -83,4 +85,6 @@ All that will help solidify, add confidence to, and clarify, your understanding 
 
 Stay Sharp!
 
-_Pssst. Curious how an interview plays out? It's roughly a 50-minute conversation, and if you've got a recent buyer of your product who's up for it, or if you yourself have purchased something recently and want to be interviewed, [send me an email](mailto:pascal@hey.com) and we'll setup the call._
+_Want help digging those motivations out of real purchase stories? I do [customer research interviews](/customer-research/) with your buyers (and churned customers) so you can act on what the product is actually hired to do._
+
+_Prefer to sharpen the craft yourself first? Start with [Ten](/ten/) — ten articles on buyer psychology, adapted to your situation._
