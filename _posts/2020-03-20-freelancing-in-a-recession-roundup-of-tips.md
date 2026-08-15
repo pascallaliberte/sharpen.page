@@ -108,4 +108,4 @@ Jonathan Stark and Rochelle Moulton have this podcast called "The Business of Au
 
 That's it. Stay safe (and sharp).
 
-_(Found other good ones for the list? [Send me a quick email](mailto:pascal@hey.com) with those links and I'll pass them on.)_
+_(Found other good ones for the list? [Send me a quick email](mailto:pascal@sharpen.page) with those links and I'll pass them on.)_
