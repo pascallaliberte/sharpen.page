@@ -10,7 +10,6 @@
 /subscribed      /              301
 /value-ladders   /              301
 /visualize       /              301
-/your-purchase-story  /purchase-interview         301
 /hangout         /              301
 /stream          /              301
 
@@ -27,6 +26,9 @@
 /dyi             /              301
 /review/standard/ /             301
 /hello-indiehackers/ /          301
+
+/your-purchase-story  /purchase-interview         301
+/purchase-interview https://tally.so/r/xX8Vyo  302
 
 /forces-widget   https://tools.sharpen.page/forces/  301
 /forces-widget/  https://tools.sharpen.page/forces/  301
