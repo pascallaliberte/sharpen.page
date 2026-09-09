@@ -17,7 +17,10 @@
     "build:drafts": "npm run-script clean:project && cross-env NODE_ENV=production webpack --env=prod --progress --profile --colors && cross-env JEKYLL_ENV=production bundle exec jekyll build --drafts --future",
     "build:pwa": "npm run-script clean:project && cross-env NODE_ENV=production webpack --env=pwa --progress --profile --colors && cross-env JEKYLL_ENV=pwa bundle exec jekyll build && sw-precache --config=config/sw.config.js --verbose",
     "serve:dist": "http-server public",
-    "clean:project": "rimraf ./public ./assets"
+    "clean:project": "rimraf ./public ./assets",
+    "deploy": "bunny sites deploy --build",
+    "deploy:status": "bunny sites deployments list",
+    "deploy:rollback": "bunny sites deployments publish --previous"
   },
   "devDependencies": {
     "@babel/core": "^7.14.6",
