@@ -13,8 +13,9 @@ the `b-cdn.net` host is proven.
 1. Sign up at [bunny.net](https://bunny.net). Trial includes $20 credit,
    no card required. Confirm the email before creating resources.
 2. Optional: claim the extra $30 trial credits by adding billing info.
-3. Do **not** create a Storage Zone, Pull Zone, DNS zone, or Edge Rules
-   by hand. `bunny sites create` provisions those.
+3. Do **not** create a Storage Zone, Pull Zone, DNS zone, or redirect
+   Edge Rules by hand. `bunny sites create` provisions the zones;
+   `bunny-redirects apply` owns `redirects:` rules.
 4. Do **not** touch sharpen.page DNS. MX, SPF, and DKIM stay on Netlify.
 
 The account API key is unscoped. `bunny login` stores it locally. Do not
@@ -30,8 +31,10 @@ bunny login
 bunny whoami
 ```
 
-`bunny` must be on `PATH`. It is a machine tool, like `git`, not a project
-dependency. Env override if you skip browser login: `BUNNYNET_API_KEY`.
+`bunny` and `bunny-redirects` must be on `PATH`. They are machine tools, like
+`git`, not project dependencies. Install `bunny-redirects` from its own repo
+with `rake install` (not RubyGems.org, not this Gemfile). Env override if you
+skip browser login: `BUNNYNET_API_KEY`.
 
 ## Create the site
 
@@ -59,14 +62,23 @@ The Stage 1 URL is `https://sites-sharpen-page-<suffix>.b-cdn.net`.
 ## Usage
 
 ```bash
-yarn deploy              # npm run build, upload, publish
+yarn deploy              # plan redirects, build, upload, apply redirects
+yarn redirects:plan      # pack _redirects and diff the pull zone (no writes)
+yarn redirects:apply     # upsert/delete managed edge rules only
 yarn deploy:status       # live / previous deploys
 yarn deploy:rollback     # flip back, purge
 ```
 
+`yarn deploy` runs `bunny-redirects plan`, then `bunny sites deploy --build`,
+then `bunny-redirects apply` if the upload succeeded. A parse error in
+`_redirects` stops the job before upload. A missing file warns and still
+deploys.
+
 `--build` uses `sites.build` and `sites.dir` from `bunny.jsonc`
-(`npm run build` → `public/`). Ruby 2.7.5, Node 18.18.0. `JEKYLL_ENV` is
-set by the npm script, not by Netlify.
+(`npm run build:cdn` → `public/`, with `public/_redirects` removed so Bunny
+does not serve the file). Ruby 2.7.5, Node 18.18.0. `JEKYLL_ENV` is set by
+the npm script, not by Netlify. Origin for relative redirect dests is
+`https://sharpen.page` (`BUNNY_REDIRECTS_ORIGIN` overrides).
 
 ## After the first deploy (still no DNS)
 
@@ -151,71 +163,24 @@ flattening. Procedure:
 
 Do stage 3 on a weekday morning, not a Friday afternoon.
 
-## Edge Rules (do not create until Stage 1 is proven)
+## Edge Rules (`_redirects` via bunny-redirects)
 
-Default cap is 50 rules per pull zone. This list fits, with room for
-cache rules. Action is **Redirect to URL** unless noted.
+Do not click redirect rules in the pull zone dashboard. `yarn deploy` syncs
+repo-root [`_redirects`](_redirects) to rules whose description starts with
+`redirects:`. Adding, changing, or removing a line updates or retires those
+rules on the next successful apply. Rules named `bunny sites:` (deploy
+router, cache) are never touched.
 
-Enter these in the pull zone Edge Rules tab. Prefer one generic
-trailing-slash rule (extensionless path → add `/`) if the console can
-express it; otherwise enter the slash-only rows individually.
+`bunny-redirects` packs same-destination paths (5 patterns per rule),
+collapses `/your-purchase-story` through to the Tally 302, and treats an
+empty file as “delete every managed rule.” A missing file skips sync.
 
-### 301 to `/`
+Jekyll still `include`s `_redirects` for Netlify. `build:cdn` deletes
+`public/_redirects` before upload so Bunny does not serve it as a URL.
+After Stage 3, drop the Jekyll include.
 
-| From | To |
-| --- | --- |
-| `/understand` | `/` |
-| `/diy` | `/` |
-| `/review` | `/` |
-| `/subscribed` | `/` |
-| `/value-ladders` | `/` |
-| `/visualize` | `/` |
-| `/hangout` | `/` |
-| `/stream` | `/` |
-| `/prioritize` | `/` |
-| `/stepitup` | `/` |
-| `/stepitup/guide` | `/` |
-| `/dyi` | `/` |
-| `/review/standard/` | `/` |
-| `/hello-indiehackers/` | `/` |
-
-### 301 to another path
-
-| From | To |
-| --- | --- |
-| `/offerings` | `/customer-research/` |
-| `/services` | `/customer-research/` |
-| `/interviews` | `/research/` |
-| `/struggle-first/vs-features-benefits` | `/struggle-first/` |
-
-### Trailing-slash canonicalization (301)
-
-| From | To |
-| --- | --- |
-| `/articles` | `/articles/` |
-| `/struggle-first` | `/struggle-first/` |
-| `/jtbd` | `/jtbd/` |
-| `/copywriting` | `/copywriting/` |
-| `/consulting` | `/consulting/` |
-| `/optimize` | `/optimize/` |
-| `/research` | `/research/` |
-| `/about` | `/about/` |
-
-### External
-
-| From | To | Status | Notes |
-| --- | --- | --- | --- |
-| `/your-purchase-story` | `https://tally.so/r/xX8Vyo` | 302 | Skip chaining through `/purchase-interview` |
-| `/purchase-interview` | `https://tally.so/r/xX8Vyo` | **302** | Netlify `!` force. A real page exists; the rule must always win |
-| `/purchase-interview/` | `https://tally.so/r/xX8Vyo` | **302** | same |
-| `/forces-widget` | `https://tools.sharpen.page/forces/` | 301 | |
-| `/forces-widget/` | `https://tools.sharpen.page/forces/` | 301 | |
-
-Edge Rules cannot express Netlify 200 rewrites, splats, or proxy-to-origin.
-This site's `_redirects` has none of those.
-
-`_redirects` is copied into `public/` by Jekyll (`include`). Netlify
-consumes it; Bunny would serve it as a file at `/_redirects`. Harmless.
+Honeybadger: set `HONEYBADGER_API_KEY` on Hatchbox if you want parse/API
+failures posted. Warnings stay on stderr.
 
 ## Caching
 
