@@ -13,11 +13,17 @@
     "build:optim": "npm run-script clean:project && cross-env NODE_ENV=production webpack --env=prod --progress --profile --colors && webpack --env=optim  --progress --profile --colors && cross-env JEKYLL_ENV=production bundle exec jekyll build",
     "build:pwa:optim": "npm run-script clean:project && cross-env NODE_ENV=production webpack --env=pwa --progress --profile --colors && webpack --env=optim  --progress --profile --colors && cross-env JEKYLL_ENV=pwa bundle exec jekyll build && sw-precache --config=config/sw.config.js --verbose",
     "build": "npm run clean:project && webpack --mode production --progress && cross-env JEKYLL_ENV=production bundle exec jekyll build && node scripts/verify-seo-build.js",
+    "build:cdn": "npm run build && rm -f public/_redirects",
     "verify:seo": "node scripts/verify-seo-build.js",
+    "redirects:plan": "bash scripts/with-bunny-redirects.sh plan --origin https://sharpen.page",
+    "redirects:apply": "bash scripts/with-bunny-redirects.sh apply --origin https://sharpen.page",
     "build:drafts": "npm run-script clean:project && cross-env NODE_ENV=production webpack --env=prod --progress --profile --colors && cross-env JEKYLL_ENV=production bundle exec jekyll build --drafts --future",
     "build:pwa": "npm run-script clean:project && cross-env NODE_ENV=production webpack --env=pwa --progress --profile --colors && cross-env JEKYLL_ENV=pwa bundle exec jekyll build && sw-precache --config=config/sw.config.js --verbose",
     "serve:dist": "http-server public",
-    "clean:project": "rimraf ./public ./assets"
+    "clean:project": "rimraf ./public ./assets",
+    "deploy": "bash scripts/bunny-deploy.sh",
+    "deploy:status": "bunny sites deployments list",
+    "deploy:rollback": "bunny sites deployments publish --previous"
   },
   "devDependencies": {
     "@babel/core": "^7.14.6",

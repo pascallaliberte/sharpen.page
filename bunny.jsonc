@@ -1,0 +1,7 @@
+{
+  "sites": {
+    "name": "sharpen-page",
+    "build": "npm run build:cdn",
+    "dir": "public"
+  }
+}

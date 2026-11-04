@@ -9,3 +9,6 @@ yarn-error.log
 
 # editors
 .idea
+
+# bunny.net CLI local site pointer (no secrets, but machine-specific)
+.bunny/
