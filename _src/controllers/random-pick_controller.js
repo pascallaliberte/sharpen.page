@@ -13,18 +13,62 @@ export default class extends Controller {
   
   pickRandom() {
     const elements = this.element.querySelectorAll(this.data.get('selector'))
+    const highlightClass = this.data.get('class')
+    
+    if (elements.length === 0) {
+      return
+    }
     
     elements.forEach(el => {
-      el.classList.remove(this.data.get('class'))
+      el.classList.remove(highlightClass)
     })
     
-    const randomIndex = this.getRandomInt(elements.length)
-    elements[randomIndex].classList.add(this.data.get('class'))
+    const index = this.nextUnpickedIndex(elements.length)
+    elements[index].classList.add(highlightClass)
     
     this.element.dispatchEvent(new CustomEvent('update', { detail: { 
       name: this.data.get('name'),
-      pick: elements[randomIndex].textContent
+      pick: elements[index].textContent
     } }))
+  }
+  
+  nextUnpickedIndex(length) {
+    let picked = this.pickedIndexes().filter(index => index >= 0 && index < length)
+    let remaining = this.unpickedIndexes(length, picked)
+    
+    if (remaining.length === 0) {
+      const lastPicked = picked[picked.length - 1]
+      picked = []
+      remaining = this.unpickedIndexes(length, picked)
+      
+      if (length > 1 && lastPicked !== undefined) {
+        remaining = remaining.filter(index => index !== lastPicked)
+      }
+    }
+    
+    const index = remaining[this.getRandomInt(remaining.length)]
+    picked.push(index)
+    this.element.dataset.randomPickPickedIndexes = picked.join(',')
+    return index
+  }
+  
+  pickedIndexes() {
+    const raw = this.element.dataset.randomPickPickedIndexes
+    if (!raw) return []
+    
+    return raw.split(',').map(value => Number(value)).filter(value => Number.isInteger(value))
+  }
+  
+  unpickedIndexes(length, picked) {
+    const remaining = []
+    
+    for (let index = 0; index < length; index += 1) {
+      if (picked.indexOf(index) === -1) {
+        remaining.push(index)
+      }
+    }
+    
+    return remaining
   }
   
   addButton() {
