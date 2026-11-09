@@ -5,8 +5,9 @@ Local build, immutable deploys via `bunny sites`. Each deploy lands in
 `CURRENT_DEPLOY` variable and purges the CDN. Rollback is the same flip,
 no re-upload.
 
-Netlify stays production until Stage 3. This trial is Stage 1 only until
-the `b-cdn.net` host is proven.
+Netlify stays production until the nameserver cutover in
+[`docs/bunny-cutover.md`](docs/bunny-cutover.md). Preview hosts are the
+`b-cdn.net` URLs.
 
 ## Account (dashboard)
 
@@ -103,65 +104,10 @@ CDN cache will still hit US (and Canadian) PoPs for visitors there. That
 is ephemeral edge cache, not the stored origin. Do not disable North
 American delivery unless you intentionally want to drop US readers.
 
-## Staged DNS migration — do not skip stages
+## DNS cutover
 
-Your MX, SPF and DKIM records are on Netlify DNS. Those records are portable,
-but the migration is where mistakes take down business email. So the site gets
-proven on Bunny *before* nameservers move.
-
-### Stage 1 — no DNS at all
-
-Deploy and verify on the system hostname:
-`sites-sharpen-page-<suffix>.b-cdn.net`. Test deploy, rollback, deploy
-again. Check response headers for cache hits. Netlify still serves
-production. Nothing to undo.
-
-### Stage 2 — a subdomain, DNS unchanged
-
-In **Netlify DNS**, add one record:
-
-```
-next.sharpen.page.   CNAME   sites-sharpen-page-<suffix>.b-cdn.net.
-```
-
-Use the real system hostname from `bunny sites show`. Then:
-
-```bash
-bunny sites domains add next.sharpen.page --wait
-```
-
-MX, SPF, DKIM are untouched — you added a record, you changed nothing.
-
-Run both sites in parallel for a week. Compare load times from Ottawa.
-
-### Stage 3 — the apex, and only now
-
-Two paths:
-
-**3a. Check whether Netlify DNS can ALIAS the apex to an external host.**
-If yes, you point the apex at Bunny and never move nameservers. Email records
-never move. This is the low-risk path — check it before assuming 3b.
-
-**3b. Move DNS to Bunny DNS.** Apex works because Bunny DNS does ALIAS
-flattening. Procedure:
-
-1. **72h before**: drop TTLs on every record in Netlify DNS to 300s.
-2. Export the full zone. Screenshot it. You want a record of what existed.
-3. Recreate **every** record in Bunny DNS — MX, all SPF/DKIM/DMARC TXT,
-   any verification TXT records, every subdomain.
-4. Verify against Bunny's nameservers directly *before* switching:
-   ```bash
-   dig @<bunny-ns> sharpen.page MX
-   dig @<bunny-ns> sharpen.page TXT
-   dig @<bunny-ns> <selector>._domainkey.sharpen.page TXT
-   ```
-   Diff that output against the Netlify zone. Every record accounted for.
-5. Switch nameservers at the registrar.
-6. Send yourself mail from an external account. Send one out. Check the
-   headers for SPF/DKIM pass.
-7. Leave the Netlify zone in place for two weeks as a reference.
-
-Do stage 3 on a weekday morning, not a Friday afternoon.
+Nameservers moved 9 Nov. Remaining work (Phase D check, then retire Netlify
+in Phase E) is in [`docs/bunny-cutover.md`](docs/bunny-cutover.md).
 
 ## Edge Rules (`_redirects` via bunny-redirects)
 
@@ -177,7 +123,7 @@ empty file as “delete every managed rule.” A missing file skips sync.
 
 Jekyll still `include`s `_redirects` for Netlify. `build:cdn` deletes
 `public/_redirects` before upload so Bunny does not serve it as a URL.
-After Stage 3, drop the Jekyll include.
+After Phase E of the cutover doc, drop the Jekyll include.
 
 Honeybadger: set `HONEYBADGER_API_KEY` on Hatchbox if you want parse/API
 failures posted. Warnings stay on stderr.
@@ -196,9 +142,9 @@ ratio.
 
 ## What Netlify still does
 
-- Production for sharpen.page until Stage 3.
-- Daily CircleCI job that pings a Netlify build hook. Leave it until
-  cutover.
+- Sites and the DNS zone remain as a rollback until Phase E (23 Nov) of
+  [`docs/bunny-cutover.md`](docs/bunny-cutover.md). GitHub auto-deploys are
+  disconnected. `.circleci/` is removed.
 - No Netlify Forms, Functions, or `_headers` to replace.
 
 ## Worth raising with the Bunny rep
